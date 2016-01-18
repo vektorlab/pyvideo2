@@ -1,0 +1,16 @@
+---
+Category: 'PyCon CA 2012'
+Copyright: ''
+Language: 'English'
+SourceUrl: '"https://www.youtube.com/watch?v=SUf-ALvk3cU"'
+ThumbnailUrl: 'http://i4.ytimg.com/vi/SUf-ALvk3cU/hqdefault.jpg'
+date: '2012-11-10'
+speakers: [Mike Fletcher]
+tags: []
+---
+We will discuss how to profile Python code, how to interpret profiles, and how
+(and how not) to use profiling to improve your code's run-time performance. We
+will look at both built-in and external tools (including RunSnakeRun and
+SnakeViz). We will also discuss the wider issues of how to approach
+optimization in your code base.
+
