@@ -3,10 +3,12 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=3gsKdEgA03w"'
+Speakers: ["J\xF6rg Kantel"]
+Tags: [keynote]
 ThumbnailUrl: 'http://i4.ytimg.com/vi/3gsKdEgA03w/hqdefault.jpg'
+Title: Programmieren als Kulturtechnik? \xDCber Hobbyprogrammierer, Gelegenkeitsskripter\
+  \ und Python.\
 date: '2012-10-30'
-speakers: ["J\xF6rg Kantel"]
-tags: [keynote]
 ---
 Nicht nur bei Berufsprogrammierern ist der sogenannte Quereinsteiger weit
 verbreitet. Auch in Wissenschaft und Technik gibt es Menschen, die »nebenher«

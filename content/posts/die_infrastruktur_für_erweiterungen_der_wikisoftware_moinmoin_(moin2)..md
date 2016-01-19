@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=rHrxNcYqBTw"'
+Speakers: [Reimar Bauer]
+Tags: [' moinmoin', ' plugins', ' python', wiki]
 ThumbnailUrl: 'http://i3.ytimg.com/vi/rHrxNcYqBTw/hqdefault.jpg'
+Title: Die Infrastruktur f\xFCr Erweiterungen der Wiki-Software MoinMoin (moin2).\
 date: '2012-10-31'
-speakers: [Reimar Bauer]
-tags: [' moinmoin', ' plugins', ' python', wiki]
 ---
 Die Wiki Software moin2 kann mehr als nur ein Wiki betreiben.
 

@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=OTHggyZAot0"'
+Speakers: [Nicolas Tollervey]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/OTHggyZAot0/hqdefault.jpg'
+Title: '"Music Theory, Genetic Algorithms and Python"'
 date: '2012-07-05'
-speakers: [Nicolas Tollervey]
-tags: []
 ---
 I’ll explain how a genetic algorithm written in Python solves musical
 exercises used to train composers. I’ll also embarrass myself by comparing the

@@ -3,10 +3,11 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/236_django-deployment-workshop.m4v
+Speakers: [Jacob Kaplan-Moss]
+Tags: [pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-DjangoDeploymentWorkshop734-407.jpg'
+Title: '"Django Deployment Workshop"'
 date: '2010-02-19'
-speakers: [Jacob Kaplan-Moss]
-tags: [pycon, pycon2010]
 ---
 Django Deployment Workshop
 

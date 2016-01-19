@@ -3,9 +3,10 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/205_pycon-2009-using-twisted-deferreds-part-3-of-3.mp4
+Speakers: []
+Tags: [asynchronous, deferreds, pycon, pycon2009, tutorial, twisted]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-UsingTwistedDeferredsPart003600-823.jpg'
-speakers: []
-tags: [asynchronous, deferreds, pycon, pycon2009, tutorial, twisted]
+Title: '"PyCon 2009: Using Twisted Deferreds (Part 3 of 3)"'
 ---
   
 While the documentation about deferreds is good, it is still not enough for

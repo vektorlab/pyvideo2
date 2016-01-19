@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/405_swarming-the-web-evolving-the-perfect-config-file.mp4
+Speakers: [Kurt Grandis]
+Tags: [lamp, pycon, pycon2011, scipy, tuning, webapps]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011SwarmingTheWebEvolvingThePerfectConfigFile838.png'
+Title: '"Swarming the Web: Evolving the Perfect Config File"'
 date: '2011-03-11'
-speakers: [Kurt Grandis]
-tags: [lamp, pycon, pycon2011, scipy, tuning, webapps]
 ---
 Swarming the Web: Evolving the Perfect Config File
 

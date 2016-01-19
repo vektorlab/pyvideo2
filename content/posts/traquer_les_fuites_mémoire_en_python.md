@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=oQ17KDBr24I"'
+Speakers: [Victor Stinner]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/oQ17KDBr24I/maxresdefault.jpg'
+Title: Traquer les fuites m\xE9moire en Python\
 date: '2013-11-30'
-speakers: [Victor Stinner]
-tags: []
 ---
 Les fuites mémoire en Python ne peuvent pas être analysées avec les outils traditionnels car Python repose sur les compteurs de référence. Je vais présenter des outils spécifiques à Python pour vous aider à localiser vos fuites mémoires.
 

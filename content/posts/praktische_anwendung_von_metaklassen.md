@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=-dU-O8ksYDM"'
+Speakers: [Mirko Dziadzka]
+Tags: [debugging, ' metaclasses']
 ThumbnailUrl: 'http://i2.ytimg.com/vi/-dU-O8ksYDM/hqdefault.jpg'
+Title: '"Praktische Anwendung von Metaklassen"'
 date: '2012-10-30'
-speakers: [Mirko Dziadzka]
-tags: [debugging, ' metaclasses']
 ---
 Metaklassen (metaclasses) in Python werden oft als exotische Spracheigenschaft
 betrachtet. Der Vortrag zeigt anhand konkreter Beispiele, wie sich Metaklassen

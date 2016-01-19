@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=U_IZVEZImq4"'
+Speakers: [Magnus Hagander]
+Tags: [cache, database, deploy, design, django, framework, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/U_IZVEZImq4/hqdefault.jpg'
+Title: '"Data Driven Cache Invalidation"'
 date: '2011-07-24'
-speakers: [Magnus Hagander]
-tags: [cache, database, deploy, design, django, framework, web]
 ---
 In todays world, nobody (should) deploy a web application facing the internet
 without having a proper caching system in place. There are many different

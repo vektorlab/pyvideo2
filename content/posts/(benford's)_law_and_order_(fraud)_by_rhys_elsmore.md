@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=_VO8QxIkjqY"'
+Speakers: [Rhys Elsmore]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/_VO8QxIkjqY/hqdefault.jpg'
+Title: '"(Benford''s) Law and Order (Fraud) by Rhys Elsmore"'
 date: '2014-08-11'
-speakers: [Rhys Elsmore]
-tags: []
 ---
 "On the internet, fraudulent and abusive behavior is considered especially heinous. At Heroku, the dedicated detectives who investigate these vicious felonies are members of an elite squad armed with large amounts of data and spare CPU cycles. These are their stories."
 

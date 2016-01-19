@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: '"http://youtu.be/H2ybMrFNku0"'
+Speakers: [Nick Coghlan]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/H2ybMrFNku0/hqdefault.jpg'
+Title: '"Nick Coghlan: Python Beyond (C)Python (Keynote) "'
 date: '2014-09-13'
-speakers: [Nick Coghlan]
-tags: []
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Nick Coghlan:

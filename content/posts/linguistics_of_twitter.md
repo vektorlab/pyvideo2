@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/363_linguistics-of-twitter.mp4
+Speakers: [Michael D. Healy]
+Tags: [nltk, pycon, pycon2011, twitter]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011LinguisticsOfTwitter909.png'
+Title: '"Linguistics of Twitter"'
 date: '2011-03-11'
-speakers: [Michael D. Healy]
-tags: [nltk, pycon, pycon2011, twitter]
 ---
 Contrary to expectations, the prevalence of television did not cause every
 American to speak in a common standard dialect. Rather, smaller sub-regional

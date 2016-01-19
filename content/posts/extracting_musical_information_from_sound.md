@@ -3,10 +3,11 @@ Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=bGWytn-Ff9E"'
+Speakers: [Adrian Holovaty]
+Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/bGWytn-Ff9E/hqdefault.jpg'
+Title: '"Extracting musical information from sound"'
 date: '2012-03-09'
-speakers: [Adrian Holovaty]
-tags: []
 ---
 [audio missing from first 3 min] Music Information Retrieval technology has
 gotten good enough that you extract musical metadata from your sound files

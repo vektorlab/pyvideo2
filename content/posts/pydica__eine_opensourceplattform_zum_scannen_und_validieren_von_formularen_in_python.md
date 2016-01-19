@@ -3,10 +3,12 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=2CsGqSNa4ag"'
+Speakers: [Daniel Szoska]
+Tags: [distributed document capture, ' formularerfassung']
 ThumbnailUrl: 'http://i3.ytimg.com/vi/2CsGqSNa4ag/hqdefault.jpg'
+Title: '"Pydica - eine Open-Source-Plattform zum Scannen und Validieren von Formularen
+  in Python"'
 date: '2012-11-01'
-speakers: [Daniel Szoska]
-tags: [distributed document capture, ' formularerfassung']
 ---
 Pydica steht für *Distributed Document Capture* und ist eine Plattform, mit
 der die verteilte Verarbeitung ausgefüllter Formulare vom Scannen über die OCR

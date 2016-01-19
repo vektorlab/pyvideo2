@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=9_LnOTFDNUk"'
+Speakers: [Javier Candeira]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/9_LnOTFDNUk/hqdefault.jpg'
+Title: \xA1Mangle You A Python Interpreter for New Behaviour!\
 date: '2015-08-16'
-speakers: [Javier Candeira]
-tags: []
 ---
 What happens when you feel some syntax or behaviour is missing from Python? You could fork the interpreter, but then nobody else could run your programs. Instead, you could implement the new behaviour as a Python module to be imported, and distribute it with your programs.
 

@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=cB7yPf8Iw9w"'
+Speakers: [Marek Kubica]
+Tags: []
 ThumbnailUrl: 'http://i4.ytimg.com/vi/cB7yPf8Iw9w/hqdefault.jpg'
+Title: '"10 Jahre Python-Forum"'
 date: '2012-10-30'
-speakers: [Marek Kubica]
-tags: []
 ---
 2012 wurde das deutsche Python-Forum nun 10 Jahre alt. Zeit das Forum den
 Leuten vorzustellen, die das Forum noch nicht kennen oder eine Abneigung zu

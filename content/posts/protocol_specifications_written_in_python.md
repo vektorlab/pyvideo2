@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=Cgf73JmuINU"'
+Speakers: [F Haard]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/Cgf73JmuINU/hqdefault.jpg'
+Title: '"Protocol specifications written in python"'
 date: '2012-07-04'
-speakers: [F Haard]
-tags: []
 ---
 Rapidly updating the requirements and implementation of a machine-to-machine
 communication protocol is hard in itself, and keeping a protocol specification

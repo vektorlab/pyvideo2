@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=TeZZ9q8pqjQ"'
+Speakers: [Nick Coghlan]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/TeZZ9q8pqjQ/hqdefault.jpg'
+Title: '"Python''s Transition to Multilingual Programming"'
 date: '2015-08-04'
-speakers: [Nick Coghlan]
-tags: []
 ---
 "Ugh, why does Unicode have to be so complicated? It's just text, why can't it be as simple as writing a note for myself?"
 

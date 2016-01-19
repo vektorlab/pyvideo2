@@ -3,10 +3,11 @@ Category: 'PyCon DE 2011'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'German'
 SourceUrl: '"http://www.youtube.com/watch?v=vfRysNuPSq4"'
+Speakers: [Filip Noetzel]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/vfRysNuPSq4/hqdefault.jpg'
+Title: '"ATDD und Robot Framework in ambitionierten, heterogenen Umgebungen"'
 date: '2011-10-05'
-speakers: [Filip Noetzel]
-tags: []
 ---
 Beim Acceptance Test Driven Development erarbeiten die Entwickler zusammen mit den anderen am Softwareentwicklungsprozess beteiligten Interessensvertretern gemeinsam (zum Beispiel während der Sprint-Planung) ausführbare Tests auf Akzeptanz-Level, also solche die in fast natürlichsprachlicher und für alle Beteiligten verständlichen Weise dokumentieren wann der zu entwickelnde Teil Software fertig ist. So erhält man ein stetig wachsendes und ausführbares Anforderungsdokument.
 

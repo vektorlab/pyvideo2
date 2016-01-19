@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
 SourceUrl: '"http://www.youtube.com/watch?v=JETzbuanMds"'
+Speakers: [Simone Federici]
+Tags: [xml]
 ThumbnailUrl: 'http://i.ytimg.com/vi/JETzbuanMds/hqdefault.jpg'
+Title: 'Python Enterprise: vento di libert\xE0\'
 date: '2011-07-13'
-speakers: [Simone Federici]
-tags: [xml]
 ---
 Nell’enterprise la scalabilità verticale è ferma, l'HTTP Session è un dramma,
 XML è considerato un bug, i DB vengono messi in discussione, JMS è saturo, SOA

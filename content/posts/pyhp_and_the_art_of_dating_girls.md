@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=2pMUt1cIiEk"'
+Speakers: [Fabio Rotondo]
+Tags: [art, framework, javascript, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/2pMUt1cIiEk/hqdefault.jpg'
+Title: '"PyHP and the art of dating girls"'
 date: '2011-07-18'
-speakers: [Fabio Rotondo]
-tags: [art, framework, javascript, web]
 ---
 This will be both technical and light talk, introducing these important
 subjects:

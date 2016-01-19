@@ -3,11 +3,12 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=mAXz2kbh_3U"'
-ThumbnailUrl: 'http://i.ytimg.com/vi/mAXz2kbh_3U/hqdefault.jpg'
-date: '2011-07-13'
-speakers: [Mauro Rocco]
-tags: [celery, distributed, django, infrastructure, queueing, rabbitmq, real-time,
+Speakers: [Mauro Rocco]
+Tags: [celery, distributed, django, infrastructure, queueing, rabbitmq, real-time,
   web]
+ThumbnailUrl: 'http://i.ytimg.com/vi/mAXz2kbh_3U/hqdefault.jpg'
+Title: '"Playing tasks with Django-Celery"'
+date: '2011-07-13'
 ---
 Celery is an open source task queueing system based on distributed message
 passing.

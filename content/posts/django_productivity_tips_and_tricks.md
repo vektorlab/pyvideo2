@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=bvdhd5kl-nw"'
+Speakers: [Simone Federici]
+Tags: [design, django, patterns, 'python,']
 ThumbnailUrl: 'http://i.ytimg.com/vi/bvdhd5kl-nw/hqdefault.jpg'
+Title: '"Django productivity tips and tricks"'
 date: '2011-07-13'
-speakers: [Simone Federici]
-tags: [design, django, patterns, 'python,']
 ---
 I will show in this talk some tips, tricks and best practices for some
 recurring patterns in the django application development.

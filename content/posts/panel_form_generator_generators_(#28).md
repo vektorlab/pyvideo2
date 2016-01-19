@@ -3,10 +3,11 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/298_panel-form-generator-generators-28.m4v
+Speakers: []
+Tags: [forms, panel, pycon, pycon2010, restish, turbogears, web, web2py, zope]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010PanelFormGeneratorGenerators20300.png'
+Title: '"Panel: Form Generator Generators (#28)"'
 date: '2010-02-19'
-speakers: []
-tags: [forms, panel, pycon, pycon2010, restish, turbogears, web, web2py, zope]
 ---
 Panel: Form Generator Generators
 

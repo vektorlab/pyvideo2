@@ -3,11 +3,12 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/377_using-coroutines-to-create-efficient-high-concurrency-web-applications.mp4
-ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011UsingCoroutinesToCreateEfficientHighConcurrency731.png'
-date: '2011-03-11'
-speakers: [Matt Spitz]
-tags: [coroutines, gevent, gunicorn, highconcurrency, libevent, pycon, pycon2011,
+Speakers: [Matt Spitz]
+Tags: [coroutines, gevent, gunicorn, highconcurrency, libevent, pycon, pycon2011,
   wsgi]
+ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011UsingCoroutinesToCreateEfficientHighConcurrency731.png'
+Title: '"Using Coroutines to Create Efficient, High-Concurrency Web Applications"'
+date: '2011-03-11'
 ---
 Using Coroutines to Create Efficient, High-Concurrency Web Applications
 

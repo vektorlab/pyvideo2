@@ -3,10 +3,11 @@ Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://youtu.be/M1XL65qj2dU"'
+Speakers: [Iwan Vosloo]
+Tags: [Room 211]
 ThumbnailUrl: 'https://i.ytimg.com/vi/M1XL65qj2dU/hqdefault.jpg'
+Title: '"What''s the point of Object Orientation?"'
 date: '2015-10-02'
-speakers: [Iwan Vosloo]
-tags: [Room 211]
 ---
 Object Orientation (OO) is often introduced in terms of how it is implemented by a specific language. However, understanding the theory underlying OO is not quite the same as understanding how OO concepts are supported by a particular language. It is insightful to understand the simple OO fundamentals and how these map to the particular implementation provided by Python.
 

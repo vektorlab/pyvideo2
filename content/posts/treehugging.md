@@ -3,9 +3,10 @@ Category: 'DjangoCon 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/50_treehugging.flv
+Speakers: [Brian Luft]
+Tags: [djangocon, djangocon2010, django-mptt, django-treebeard, graphs, structureddata]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-Treehugging694.png'
-speakers: [Brian Luft]
-tags: [djangocon, djangocon2010, django-mptt, django-treebeard, graphs, structureddata]
+Title: '"Treehugging"'
 ---
 Treehugging
 

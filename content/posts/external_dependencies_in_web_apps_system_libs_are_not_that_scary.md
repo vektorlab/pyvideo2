@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"http://youtu.be/wfDhGAMPS1g"'
+Speakers: [Francois Marier]
+Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/wfDhGAMPS1g/hqdefault.jpg'
+Title: '"External dependencies in web apps: system libs are not that scary"'
 date: '2014-09-13'
-speakers: [Francois Marier]
-tags: [talk]
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Francois Marier:

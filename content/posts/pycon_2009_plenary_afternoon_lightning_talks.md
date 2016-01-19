@@ -3,10 +3,11 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/223_pycon-2009-plenary-afternoon-lightning-talks.mp4
-ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PlenaryAfternoonLightningTalks527-348.jpg'
-speakers: []
-tags: [argparse, blist, cluemapper, ctypes, launchpad, moments, plone, pycon, pycon2009,
+Speakers: []
+Tags: [argparse, blist, cluemapper, ctypes, launchpad, moments, plone, pycon, pycon2009,
   pyjamas, python31, sitechecker, testing, twill, zope]
+ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PlenaryAfternoonLightningTalks527-348.jpg'
+Title: '"PyCon 2009: Plenary: Afternoon Lightning Talks"'
 ---
 Plenary: Afternoon Lightning Talks
 

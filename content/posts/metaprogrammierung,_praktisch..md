@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=poBj2-2J5o8"'
+Speakers: [Andreas Albrecht]
+Tags: [metaprogrammierung]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/poBj2-2J5o8/hqdefault.jpg'
+Title: '"Metaprogrammierung, praktisch."'
 date: '2012-10-30'
-speakers: [Andreas Albrecht]
-tags: [metaprogrammierung]
 ---
 Metaprogrammierung ist eine fortgeschrittene Methode der
 

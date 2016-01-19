@@ -3,10 +3,12 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=5j7rPNU4VQE"'
+Speakers: [Reimar Bauer]
+Tags: [moinmoin, ' plugin', ' python', ' wiki', ' wissenschaft']
 ThumbnailUrl: 'http://i2.ytimg.com/vi/5j7rPNU4VQE/hqdefault.jpg'
+Title: Flugplanung, Datenverwaltung, Visualisierung mit einem Wiki zur Unterst\xFC\
+  tzung von Me\xDFkampagnen\
 date: '2012-11-01'
-speakers: [Reimar Bauer]
-tags: [moinmoin, ' plugin', ' python', ' wiki', ' wissenschaft']
 ---
 Dieser Vortrag zeigt auf, wie man ein MoinMoin Wiki verwenden kann, um
 meteorologische Daten für Flugplanungen mit einem Forschungsflugzeug

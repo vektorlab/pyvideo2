@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=BBAfIYpDMX4"'
+Speakers: [Nick Barkas]
+Tags: [requests, scalability]
 ThumbnailUrl: 'http://i.ytimg.com/vi/BBAfIYpDMX4/hqdefault.jpg'
+Title: '"Spotify: Horizontal scalability for great success"'
 date: '2011-07-13'
-speakers: [Nick Barkas]
-tags: [requests, scalability]
 ---
 If you run on CPython, it's not possible to get a single-process,
 multithreaded Python program to use more than one CPU core at a time because

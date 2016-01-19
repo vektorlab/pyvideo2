@@ -3,10 +3,11 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/344_revisioned-databases-for-multiuser-editing-86.m4v
+Speakers: [John Rittenhouse]
+Tags: [databases, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010RevisionedDatabasesForMultiUserEditing86189.png'
+Title: '"Revisioned Databases for MultiUser Editing (#86)"'
 date: '2010-02-19'
-speakers: [John Rittenhouse]
-tags: [databases, pycon, pycon2010]
 ---
 Revisioned Databases for MultiUser Editing
 

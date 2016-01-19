@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=ovVCnhwu9qQ"'
+Speakers: [wesley chun]
+Tags: [learning, migration, 'python,']
 ThumbnailUrl: 'http://i.ytimg.com/vi/ovVCnhwu9qQ/hqdefault.jpg'
+Title: '"Python 3: the Next Generation (is here already)"'
 date: '2011-07-13'
-speakers: [wesley chun]
-tags: [learning, migration, 'python,']
 ---
 Python is currently at a crossroads: Python 2 has taken it from a quiet word-
 of-mouth language to primetime, with many companies around the world using it

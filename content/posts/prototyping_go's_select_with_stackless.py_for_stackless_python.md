@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/438_prototyping-go-s-select-with-stackless-py-for-stackless-python.mp4
+Speakers: [Andrew Francis]
+Tags: [csp, go, greenlets, pycon, pycon2011, pypy, stackless]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011PrototypingGosSelectWithStacklesspyForStackless735.png'
+Title: '"Prototyping Go''s Select with stackless.py for Stackless Python"'
 date: '2011-03-11'
-speakers: [Andrew Francis]
-tags: [csp, go, greenlets, pycon, pycon2011, pypy, stackless]
 ---
 Prototyping Go's Select with stackless.py for Stackless Python
 

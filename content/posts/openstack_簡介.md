@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'Chinese'
 SourceUrl: '"https://www.youtube.com/watch?v=Fh2K7kkF7NM"'
+Speakers: [Kao Kuo-Tung]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Fh2K7kkF7NM/hqdefault.jpg'
+Title: Openstack \u7C21\u4ECB\
 date: '2014-08-13'
-speakers: [Kao Kuo-Tung]
-tags: []
 ---
 OpenStack是一個 NASA 和Rackspace合作研發的雲端運算‎軟件，以Apache許可證授權，並且是一個自由軟件和開放原始碼項目。他是建立在大量現成技術（如 python, iscsi, kvm)上，並提供 REST api 界面方便使用者與開發者使用。
 

@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=s6NaOKD40rY"'
+Speakers: [Matt Makai]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/s6NaOKD40rY/hqdefault.jpg'
+Title: '"Full Stack Python"'
 date: '2014-07-22'
-speakers: [Matt Makai]
-tags: []
 ---
 This talk distills information from the open source guide [Full Stack Python](http://www.fullstackpython.com/) I wrote into a 30 minute talk on web stack layers. An approximate timeline for this talk would be:
 

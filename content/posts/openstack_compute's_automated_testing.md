@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=MVo0qEKK0wo"'
+Speakers: [Soren Hansen]
+Tags: [openstack, packages, testing]
 ThumbnailUrl: 'http://i.ytimg.com/vi/MVo0qEKK0wo/hqdefault.jpg'
+Title: '"OpenStack Compute''s automated testing"'
 date: '2011-07-13'
-speakers: [Soren Hansen]
-tags: [openstack, packages, testing]
 ---
 When a patch is propoed against OpenStack compute (a.k.a. Nova) and it makes
 it through our peer review process, our automated test system takes over:

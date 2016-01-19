@@ -3,10 +3,11 @@ Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=26wgEsg9Mcc"'
+Speakers: [Brian E. Granger, "Fernando P\xE9rez", Min Ragan-Kelley, Thomas Kluyver]
+Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/26wgEsg9Mcc/hqdefault.jpg'
+Title: '"IPython: Python at your fingertips"'
 date: '2012-03-09'
-speakers: [Brian E. Granger, "Fernando P\xE9rez", Min Ragan-Kelley, Thomas Kluyver]
-tags: []
 ---
 IPython is widely used in the scientific community, but its various tools can
 be used in any context. IPython gets you as close as possible to the Python

@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/441_documentation-driven-development.mp4
+Speakers: [Corey Oordt]
+Tags: [documentation, documentationdrivendesign, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011DocumentationDrivenDevelopment665.png'
+Title: '"Documentation Driven Development"'
 date: '2011-03-11'
-speakers: [Corey Oordt]
-tags: [documentation, documentationdrivendesign, pycon, pycon2011]
 ---
 Documentation Driven Development
 

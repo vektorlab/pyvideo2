@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=IvKO63BSc9c"'
+Speakers: [T Mawushe]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/IvKO63BSc9c/hqdefault.jpg'
+Title: '"Big a little i (practical artificial intelligence in python)"'
 date: '2012-07-05'
-speakers: [T Mawushe]
-tags: []
 ---
 These days it is difficult for software to meet users’ expectations to behave
 intelligently. When a program displays a lack of even the most basic awareness

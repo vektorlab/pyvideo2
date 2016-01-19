@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=m8mS28xBh_A"'
+Speakers: [M Sandford]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/m8mS28xBh_A/hqdefault.jpg'
+Title: '"Getting the logging module to do your bidding"'
 date: '2012-07-04'
-speakers: [M Sandford]
-tags: []
 ---
 The Python logging module is a useful tool for getting all kinds of
 information out of your program; everything from error notifications through

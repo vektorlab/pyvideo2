@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=CR0RwMHIzQ8"'
+Speakers: [Naomi Ceder]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/CR0RwMHIzQ8/hqdefault.jpg'
+Title: '"Farewell and Welcome Home: Python in Two Genders"'
 date: '2014-07-24'
-speakers: [Naomi Ceder]
-tags: []
 ---
 After half a lifetime "undercover as a man" I transitioned from male to female while staying involved in the Python community. This talk discusses that transition and explores how I found life in Python as a woman different from my former life as a man and the lessons about diversity I have learned.
 

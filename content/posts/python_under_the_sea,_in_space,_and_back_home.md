@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=eGwSC6UnYTg"'
+Speakers: [Jessica McKellar]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/eGwSC6UnYTg/hqdefault.jpg'
+Title: '"Python: under the sea, in space, and back home"'
 date: '2014-08-07'
-speakers: [Jessica McKellar]
-tags: []
 ---
 About the speaker
 

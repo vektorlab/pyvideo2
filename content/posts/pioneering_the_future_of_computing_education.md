@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=24eDPoJvmnI"'
+Speakers: [Ben Nuttall]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/24eDPoJvmnI/hqdefault.jpg'
+Title: '"Pioneering the Future of Computing Education"'
 date: '2014-07-24'
-speakers: [Ben Nuttall]
-tags: []
 ---
 I'm Ben, from Raspberry Pi. I do development and outreach for the Foundation and I work with the rest of the education team to help make learning through computer science, coding and hardware hacking more accessible to all.
 

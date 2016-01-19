@@ -3,10 +3,11 @@ Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=Adr_QuDZxuM"'
+Speakers: [Walker Hale]
+Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/Adr_QuDZxuM/hqdefault.jpg'
+Title: '"Python Metaprogramming for Mad Scientists and Evil Geniuses"'
 date: '2012-03-09'
-speakers: [Walker Hale]
-tags: []
 ---
 This talk covers the power and metaprogramming features of Python that cater
 to mad scientists and evil geniuses. This will also be of interest to others

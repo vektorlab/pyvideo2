@@ -3,10 +3,12 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=KcMaO2f7ww4"'
+Speakers: [Arthur Street]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/KcMaO2f7ww4/hqdefault.jpg'
+Title: '"Science MiniConf: Monte Carlo Business Case Analysis with pandas by Arthur
+  Street"'
 date: '2014-08-11'
-speakers: [Arthur Street]
-tags: []
 ---
 Pandas is increasingly becoming a standard tool in scientific computing.  Could it also have a role in the CFO's office?
  

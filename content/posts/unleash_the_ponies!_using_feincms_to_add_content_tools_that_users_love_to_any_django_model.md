@@ -3,10 +3,12 @@ Category: 'DjangoCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=RnMsobX3soE"'
+Speakers: [Greg Turner]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/RnMsobX3soE/hqdefault.jpg'
+Title: '"Unleash the ponies! Using FeinCMS to add content tools that users love to
+  any Django model"'
 date: '2013-07-05'
-speakers: [Greg Turner]
-tags: []
 ---
 Site editors often struggle with editing rich content and managing variations in layout in Django admin. By rich content we mean text, images, video, tables, and so on. Trying to squeeze all this content into a single rich-text editor is like trying to jam a magical pony into a dog kennel. A better approach is to use a rich content framework like FeinCMS. FeinCMS is a sensible, flexible framework which allows rich content of any shape to be manipulated within any Django model in your project.
 

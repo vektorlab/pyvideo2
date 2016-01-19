@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/411_using-blender-s-new-bpy-python-api.mp4
+Speakers: [Christopher Allan Webber]
+Tags: [blender, bpy, chriswebber, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011UsingBlendersNewBPYPythonAPI450.png'
+Title: '"Using Blender''s new BPY Python API"'
 date: '2011-03-11'
-speakers: [Christopher Allan Webber]
-tags: [blender, bpy, chriswebber, pycon, pycon2011]
 ---
 Since 2.5, the API has become more pythonic and self-descriptive. Blender's UI
 can show you the Python equivalent for nearly every user action and includes a

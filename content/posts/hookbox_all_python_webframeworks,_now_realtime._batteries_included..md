@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/371_hookbox-all-python-web-frameworks-now-real-time-batteries-included.mp4
+Speakers: [Michael Carter]
+Tags: [hookbox, pycon, pycon2011, realtime, webapps]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011HookboxAllPythonWebframeworksNowRealtimeBatteri858.png'
+Title: '"Hookbox: All Python web-frameworks, now real-time. Batteries Included."'
 date: '2011-03-11'
-speakers: [Michael Carter]
-tags: [hookbox, pycon, pycon2011, realtime, webapps]
 ---
 Hookbox: All Python web-frameworks, now real-time. Batteries Included.
 

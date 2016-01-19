@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=lNh-tS8i-J4"'
+Speakers: [Alex Hill]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/lNh-tS8i-J4/hqdefault.jpg'
+Title: '"Many-to-many, minus the middleman"'
 date: '2015-08-04'
-speakers: [Alex Hill]
-tags: []
 ---
 This talk is about an alternative Django ManyToManyField implementation that uses (abuses?) PostgreSQL's full-text search engine instead of an intermediary table to store its relationships. As well as showing off some handy things you can do with this field, we'll talk along the way about full-text search in Postgres, inverted indexes, and how Django's ManyToManyField is implemented.
 

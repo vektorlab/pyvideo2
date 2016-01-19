@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"http://youtu.be/Kf8Dy8Dt6YM"'
+Speakers: [Alan McCulloch]
+Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/Kf8Dy8Dt6YM/hqdefault.jpg'
+Title: '"tardis - an interpreter for command-line parallel execution "'
 date: '2014-09-13'
-speakers: [Alan McCulloch]
-tags: [talk]
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Alan McCulloch:

@@ -3,10 +3,12 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/295_pay-only-for-what-you-eat-a-tour-of-the-repoze-bfg-repository-and-philosophy-174.m4v
+Speakers: [Carlos de la Guardia]
+Tags: [pycon, pycon2010, repoze.bfg, wsgi]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010PayOnlyForWhatYouEatATourOfTheRepozeBFGRepo556.png'
+Title: '"Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy
+  (#174)"'
 date: '2010-02-19'
-speakers: [Carlos de la Guardia]
-tags: [pycon, pycon2010, repoze.bfg, wsgi]
 ---
 Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy
 

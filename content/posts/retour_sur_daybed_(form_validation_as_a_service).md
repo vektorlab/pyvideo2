@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=n55dyB_L8xw"'
+Speakers: ["Alexis M\xE9taireau"]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/n55dyB_L8xw/maxresdefault.jpg'
+Title: '"Retour sur Daybed (Form validation as a service)"'
 date: '2013-11-30'
-speakers: ["Alexis M\xE9taireau"]
-tags: []
 ---
 L'an dernier, à PyconFR, nous avions présenté rapidement une preuve de concept de Daybed, un système de validation de formulaires proposé "as a service".
 

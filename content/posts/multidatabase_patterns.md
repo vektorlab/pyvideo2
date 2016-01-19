@@ -3,9 +3,10 @@ Category: 'DjangoCon 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/38_multi-database-patterns.flv
+Speakers: [Malcolm Tredinnick]
+Tags: [database, djangocon, djangocon2010, multipledatabases]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-MultidatabasePatterns241.png'
-speakers: [Malcolm Tredinnick]
-tags: [database, djangocon, djangocon2010, multipledatabases]
+Title: '"Multi-database patterns"'
 ---
 Multi-database patterns
 

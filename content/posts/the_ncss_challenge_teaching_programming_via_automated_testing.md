@@ -3,10 +3,11 @@ Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=y-WPPdhTKBU"'
+Speakers: [Tim Dawborn]
+Tags: [embedded, teaching, testing]
 ThumbnailUrl: 'http://i.ytimg.com/vi/y-WPPdhTKBU/hqdefault.jpg'
+Title: '"The NCSS Challenge: teaching programming via automated testing"'
 date: '2011-08-22'
-speakers: [Tim Dawborn]
-tags: [embedded, teaching, testing]
 ---
 The NCSS Challenge (http://challenge.ncss.edu.au/) is an online programming
 competition for Australian high school students. There are four different

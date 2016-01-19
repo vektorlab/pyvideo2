@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
 SourceUrl: '"https://www.youtube.com/watch?v=9MhyftgSY2w"'
+Speakers: [Giulio Calacoci]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/9MhyftgSY2w/maxresdefault.jpg'
+Title: '"Odoo disaster recovery con Barman"'
 date: '2015-05-29'
-speakers: [Giulio Calacoci]
-tags: []
 ---
 Sei stufo di gestire i processi di backup e recovery dei tuoi server PostgreSQL  facendo uso 
 di script ‘ad hoc’ ?

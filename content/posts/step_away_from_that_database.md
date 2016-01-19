@@ -3,10 +3,11 @@ Category: 'DjangoCon 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/67_step-away-from-that-database.flv
-ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-StepAwayFromThatDatabase838-974.jpg'
-speakers: [Andrew Godwin]
-tags: [databasemigration, databasemigrations, djangocon, djangocon2010, migration,
+Speakers: [Andrew Godwin]
+Tags: [databasemigration, databasemigrations, djangocon, djangocon2010, migration,
   migrations, south]
+ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-StepAwayFromThatDatabase838-974.jpg'
+Title: '"Step Away From That Database"'
 ---
 Step away from that database
 

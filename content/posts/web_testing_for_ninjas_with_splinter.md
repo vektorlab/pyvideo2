@@ -3,10 +3,11 @@ Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=ihjpKPRDlVw"'
+Speakers: [Dylan Lacey]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/ihjpKPRDlVw/hqdefault.jpg'
+Title: '"Web testing for Ninjas with Splinter"'
 date: '2013-07-07'
-speakers: [Dylan Lacey]
-tags: []
 ---
 Everyone knows that Testing is Good.  But what about testing your web applications, javascript and all?  Selenium is good but can be verbose and clunky.  Kill off test bloat and make your tests elegant and deadly, with Splinter.
 

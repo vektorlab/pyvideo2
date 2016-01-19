@@ -3,11 +3,13 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/247_the-meaty-parts-of-python-closures-decorators-list-comprehension-and-functional-constructs.m4v
-ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010TheMeatyPartsOfPythonClosuresDecoratorsListCom541-52.jpg'
-date: '2010-02-19'
-speakers: [Matt Harrison]
-tags: [callables, closures, decorators, functionalprogramming, functions, generators,
+Speakers: [Matt Harrison]
+Tags: [callables, closures, decorators, functionalprogramming, functions, generators,
   iterators, listcomprehensions, pycon, pycon2010, python-advanced]
+ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010TheMeatyPartsOfPythonClosuresDecoratorsListCom541-52.jpg'
+Title: '"The Meaty Parts of Python: Closures, Decorators, List Comprehension, and
+  Functional Constructs"'
+date: '2010-02-19'
 ---
 The Meaty Parts of Python: Closures, Decorators, List Comprehension, and
 Functional Constructs

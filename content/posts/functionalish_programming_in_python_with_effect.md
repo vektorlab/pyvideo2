@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: '"http://youtu.be/fM5d_2BS6FY"'
+Speakers: [Robert Collins]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/fM5d_2BS6FY/hqdefault.jpg'
+Title: '"Functionalish programming in Python with effect"'
 date: '2015-09-05'
-speakers: [Robert Collins]
-tags: []
 ---
 'everyone' knows that separating out IO and other side effects makes code easier to unit test. What if there were a Python library that helps do that systematically which you could use to make all your things better? There is. Come and find out more.
 

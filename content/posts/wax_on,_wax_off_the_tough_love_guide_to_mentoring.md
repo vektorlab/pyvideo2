@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=x1rIPW6IYVI"'
+Speakers: [Anita Kuno]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/x1rIPW6IYVI/hqdefault.jpg'
+Title: '"Wax On, Wax Off: The Tough Love Guide to Mentoring"'
 date: '2015-08-16'
-speakers: [Anita Kuno]
-tags: []
 ---
 Everyone has more bugs than they can fix, more features they would like than time to write them. Wouldn't it be great to have some help? The problem is who knows enough about what you know to actually provide help the way you need?
 

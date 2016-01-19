@@ -3,9 +3,10 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/163_introduction-to-object-oriented-programming-3-of-3.mp4
+Speakers: []
+Tags: [oop, pycon, pycon2009, python-basics]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-AnIntroductionToObjectOrientedProgrammingPart003468-379.jpg'
-speakers: []
-tags: [oop, pycon, pycon2009, python-basics]
+Title: '"Introduction to Object-Oriented Programming (3 of 3)"'
 ---
   
 [VIDEO HAS ISSUES: 2 speakers, 1 mic.] Although often used as a "scripting"

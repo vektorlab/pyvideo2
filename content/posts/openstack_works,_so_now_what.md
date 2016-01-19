@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=G971S1UT0Kw"'
+Speakers: [Monty Taylor]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/G971S1UT0Kw/hqdefault.jpg'
+Title: '"OpenStack Works, so now what?"'
 date: '2015-08-04'
-speakers: [Monty Taylor]
-tags: []
 ---
 While we've made a great big hoopla over the last few years about deploying OpenStack and what our development process is and other fascinating topics, it turns out that a cloud is not particularly interesting in and of itself. A cloud is a thing that you use to, well, DO something.
 

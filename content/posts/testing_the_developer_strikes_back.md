@@ -3,9 +3,10 @@ Category: 'DjangoCon 2011'
 Copyright: ''
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/73_testing-the-developer-strikes-back.m4v
+Speakers: []
+Tags: [coverage.py, djangocon, djangocon2011, jenkins, testing, web]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-TestingTheDeveloperStrikesBack360-494.jpg'
-speakers: []
-tags: [coverage.py, djangocon, djangocon2011, jenkins, testing, web]
+Title: '"Testing: The Developer Strikes Back"'
 ---
 Testing: The Developer Strikes Back
 

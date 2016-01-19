@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=wWzc-gn8IOU"'
+Speakers: ["Bruno Reni\xE9"]
+Tags: [django, forms, geodjango, learning, mapping, spatial, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/wWzc-gn8IOU/hqdefault.jpg'
+Title: '"Spatial data and GeoDjango"'
 date: '2011-07-13'
-speakers: ["Bruno Reni\xE9"]
-tags: [django, forms, geodjango, learning, mapping, spatial, web]
 ---
 GeoDjango is the "world-class geographic web framework" everyone has probably
 heard of. The purpose of this talk, targeted at people familiar with Django

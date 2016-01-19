@@ -3,9 +3,10 @@ Category: 'DjangoCon 2011'
 Copyright: ''
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/99_state-of-the-dsf-keynote.m4v
+Speakers: [Dr. Russell Keith-Magee]
+Tags: [djangocon, djangocon2011, dsf]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-StateOfTheDSFKeynote607-161.jpg'
-speakers: [Dr. Russell Keith-Magee]
-tags: [djangocon, djangocon2011, dsf]
+Title: '"State of the DSF Keynote"'
 ---
 State of the DSF Keynote
 

@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"http://youtu.be/tOTLqUQC-k0"'
+Speakers: [Glenn Ramsey]
+Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/tOTLqUQC-k0/hqdefault.jpg'
+Title: '"Packaging a Python desktop application using PyInstaller"'
 date: '2014-09-13'
-speakers: [Glenn Ramsey]
-tags: [talk]
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Glenn Ramsey:

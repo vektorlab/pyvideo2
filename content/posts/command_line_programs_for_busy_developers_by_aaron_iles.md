@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=D5l4JNt2ozI"'
+Speakers: [Aaron Iles]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/D5l4JNt2ozI/hqdefault.jpg'
+Title: '"Command line programs for busy developers by Aaron Iles"'
 date: '2014-08-07'
-speakers: [Aaron Iles]
-tags: []
 ---
 Command line interface tools are the new web framework. In addition to the
 Python standard library's getopt, optparse and argparse there is a bewildering

@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=X4wjcy5sqwY"'
+Speakers: [Nie Shuyue, Song Kai, Wu Chenmu]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/X4wjcy5sqwY/hqdefault.jpg'
+Title: '"HiPy - Python for High School Students"'
 date: '2014-08-13'
-speakers: [Nie Shuyue, Song Kai, Wu Chenmu]
-tags: []
 ---
 The ever progressing technology is no doubt beneficial to mankind. However, the current inventions derived from new technology is not thorough enough to cover the needs of more focused groups. More importantly, students often find themselves hard to go beyond passively receiving information and stretch their own ability to become active drivers of positive change by channeling curriculum to real life. This is where innovation and creation of tailored applications set in. This talk, by a group of three students from Dunman High School, Singapore, serves to allow people to better understand the needs of high school students and how Python can be used to benefit them. Examples based on the authors' personal observations and experiences together with illustration of procedures and real-time demonstration will be presented to show how Python can be thoughtfully utilized as an inventive computational thinking and practical problem solving tool to enrich the lives of students. Through our sharing, we would like to inspire more ideas on developing Python applications of close relevance to students and hopefully, encourage more students to use Python to actively improve their school experience.
 

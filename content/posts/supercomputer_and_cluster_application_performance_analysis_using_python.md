@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/450_supercomputer-and-cluster-application-performance-analysis-using-python.mp4
+Speakers: [Daniel W. Barnette]
+Tags: [pycon, pycon2011, pylot, sandianationallaboratories, supercomputer]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011SupercomputerAndClusterApplicationPerformanceAna648.png'
+Title: '"Supercomputer and Cluster Application Performance Analysis using Python"'
 date: '2011-03-11'
-speakers: [Daniel W. Barnette]
-tags: [pycon, pycon2011, pylot, sandianationallaboratories, supercomputer]
 ---
 PyCon 2011: Supercomputer and Cluster Application Performance Analysis using
 Python

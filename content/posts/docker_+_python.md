@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=Fxsq3BciYdo"'
+Speakers: [Tim Butler]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Fxsq3BciYdo/hqdefault.jpg'
+Title: '"Docker + Python"'
 date: '2015-08-04'
-speakers: [Tim Butler]
-tags: []
 ---
 Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. This allows for rapidly deployable apps, which will run on any docker environment with the ability to rapidly scale.
 

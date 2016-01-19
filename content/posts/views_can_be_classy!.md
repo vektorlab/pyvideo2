@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=yr9HOLipPXc"'
+Speakers: [Kenneth Love]
+Tags: [class-based-views, django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/yr9HOLipPXc/hqdefault.jpg'
+Title: '"Views can be Classy!"'
 date: '2012-09-04'
-speakers: [Kenneth Love]
-tags: [class-based-views, django]
 ---
 It seems like most people in the Django community either don't have any idea
 how class-based views work or are scared to try them out. I want to help with

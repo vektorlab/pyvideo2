@@ -3,9 +3,10 @@ Category: 'PyCon AU 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/459_pyconau-2010-building-the-wave-robots-api-behind-the-scenes.flv
+Speakers: [Pamela S Fox]
+Tags: [apis, json, jsonrpc, pyconau, pyconau2010, web]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-BuildingTheWaveRobotsAPIBehindTheScenes216.png'
-speakers: [Pamela S Fox]
-tags: [apis, json, jsonrpc, pyconau, pyconau2010, web]
+Title: '"PyConAU 2010: Building the Wave Robots API: Behind the Scenes"'
 ---
 Building the Wave Robots API: Behind the Scenes
 

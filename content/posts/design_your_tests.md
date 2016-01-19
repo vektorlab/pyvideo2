@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=xkwBjsjSERU"'
+Speakers: [Julian Berman]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/xkwBjsjSERU/hqdefault.jpg'
+Title: '"Design Your Tests"'
 date: '2014-07-23'
-speakers: [Julian Berman]
-tags: []
 ---
 * Life span of a test
     * 5 minute - why does this fail?

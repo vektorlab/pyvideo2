@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"http://youtu.be/YI9VNrXYIQM"'
+Speakers: [Katie Miller]
+Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/YI9VNrXYIQM/hqdefault.jpg'
+Title: '"Cloud Craft for Spatial Cadets"'
 date: '2014-09-14'
-speakers: [Katie Miller]
-tags: [talk]
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Katie Miller:

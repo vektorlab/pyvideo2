@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=l2PnVKQJg0I"'
+Speakers: [L Root]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/l2PnVKQJg0I/hqdefault.jpg'
+Title: '"Increasing women engagement in the Python community"'
 date: '2012-07-06'
-speakers: [L Root]
-tags: []
 ---
 Are you a woman wanting to break into the engineering field? Or do you know
 any women wanting to learn how to code, but don’t know how to help them?

@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=HlGDP92dlfY"'
+Speakers: [J Page]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/HlGDP92dlfY/hqdefault.jpg'
+Title: '"Juju - Service orchestration and deployment"'
 date: '2012-07-04'
-speakers: [J Page]
-tags: []
 ---
 Juju is a new opensource configuration management and tool for deploying
 services into a cloud and data center environments. Juju provides a higher

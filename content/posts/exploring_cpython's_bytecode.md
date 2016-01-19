@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=c08Ee2gQ3pY"'
+Speakers: [Floris Bruynooghe]
+Tags: [bytecode, cpython, vm]
 ThumbnailUrl: 'http://i.ytimg.com/vi/c08Ee2gQ3pY/hqdefault.jpg'
+Title: '"Exploring CPython''s bytecode"'
 date: '2011-07-21'
-speakers: [Floris Bruynooghe]
-tags: [bytecode, cpython, vm]
 ---
 The CPython interpreter always compiles your source code to bytecode, usually
 stored in .pyc files. This bytecode is then loaded and executed in the CPython

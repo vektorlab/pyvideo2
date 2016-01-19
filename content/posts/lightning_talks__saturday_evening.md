@@ -3,10 +3,11 @@ Category: 'PyCon US 2013'
 Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=Ft6-r_vksDI"'
+Speakers: [Various]
+Tags: [lightningtalks]
 ThumbnailUrl: 'http://i.ytimg.com/vi/Ft6-r_vksDI/hqdefault.jpg'
+Title: '"Lightning Talks - Saturday evening"'
 date: '2013-03-16'
-speakers: [Various]
-tags: [lightningtalks]
 ---
 * [00:00](#t=0m) - Young Coders at PyCon 2013 - Katie Cunningham and Barbara Shaurette 
 * [05:53](#t=5m53s) - Raspberry Pi connected to sensors - Jack Minardi

@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=7glw_5YFU-Q"'
+Speakers: [Chetan Giridhar, Vishal Kanaujia]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/7glw_5YFU-Q/hqdefault.jpg'
+Title: '"Dissecting memory mysteries of Python"'
 date: '2013-09-12'
-speakers: [Chetan Giridhar, Vishal Kanaujia]
-tags: []
 ---
 @ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 2
 

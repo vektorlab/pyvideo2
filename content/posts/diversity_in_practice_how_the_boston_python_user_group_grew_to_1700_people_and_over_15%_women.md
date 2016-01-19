@@ -3,10 +3,12 @@ Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=QrITN6GZDu4"'
+Speakers: [Asheesh Laroia, Jessica McKellar]
+Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/QrITN6GZDu4/hqdefault.jpg'
+Title: '"Diversity in practice: How the Boston Python User Group grew to 1700 people
+  and over 15% women"'
 date: '2012-03-11'
-speakers: [Asheesh Laroia, Jessica McKellar]
-tags: []
 ---
 How do you bring more women into programming communities with long-term,
 measurable results? In this talk we'll analyze our successful effort, the

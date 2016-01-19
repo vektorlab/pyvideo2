@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=W7Rv-km3ZuA"'
+Speakers: [Graham Dumpleton]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/W7Rv-km3ZuA/hqdefault.jpg'
+Title: '"Advanced methods for creating decorators"'
 date: '2013-09-15'
-speakers: [Graham Dumpleton]
-tags: []
 ---
 @ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1
 

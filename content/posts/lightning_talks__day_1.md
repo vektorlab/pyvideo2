@@ -3,10 +3,11 @@ Category: 'DjangoCon 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/35_lightning-talks-day-1.flv
-ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-LightningTalksDay1811.png'
-speakers: []
-tags: [django-configstore, django.contrib.messages, django-hashsignal, djangozoom,
+Speakers: []
+Tags: [django-configstore, django.contrib.messages, django-hashsignal, djangozoom,
   dsf, hash-signaling, lettuce, openid, orm, psf, routing]
+ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-LightningTalksDay1811.png'
+Title: '"Lightning Talks - Day 1"'
 ---
 Lightning Talks
 

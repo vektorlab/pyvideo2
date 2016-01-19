@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=xWY0UQn3dcA"'
+Speakers: [Arnaud Fontaine]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/xWY0UQn3dcA/hqdefault.jpg'
+Title: '"Python without filesystem"'
 date: '2012-07-04'
-speakers: [Arnaud Fontaine]
-tags: []
 ---
 Recent cloud architecture are heavily based on key-value storage databases
 rather than distributed filesystems. While the data itself is usually stored

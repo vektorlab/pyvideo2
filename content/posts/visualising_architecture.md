@@ -3,10 +3,11 @@ Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=vOyF_LDeXTc"'
+Speakers: [Tennessee Leeuwenburg]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/vOyF_LDeXTc/hqdefault.jpg'
+Title: '"Visualising architecture"'
 date: '2012-08-21'
-speakers: [Tennessee Leeuwenburg]
-tags: []
 ---
 Architecture. It's an oxymoron all by itself, and using Python is no silver
 bullet to the perennial problem of code rot and design complexity. How does

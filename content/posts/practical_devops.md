@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=yOB8711AhiU"'
+Speakers: [Schlomo Schapiro]
+Tags: [' agile', ' devops', ' kanban', open source, ' python', ' scrum', ' web']
 ThumbnailUrl: 'http://i2.ytimg.com/vi/yOB8711AhiU/hqdefault.jpg'
+Title: '"Practical DevOps"'
 date: '2012-10-31'
-speakers: [Schlomo Schapiro]
-tags: [' agile', ' devops', ' kanban', open source, ' python', ' scrum', ' web']
 ---
 DevOps ist eine aktuelle Bewegung in der IT, die sich zur Aufgabe macht, ein
 Umdenken in den klassischen Lagern Entwicklung und Betrieb einzuleiten. Der

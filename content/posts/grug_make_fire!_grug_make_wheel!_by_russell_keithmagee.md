@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=UtFHIpNPMPA"'
+Speakers: [Russell Keith-Magee]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/UtFHIpNPMPA/hqdefault.jpg'
+Title: '"Grug make fire! Grug make wheel! by Russell Keith-Magee"'
 date: '2014-08-11'
-speakers: [Russell Keith-Magee]
-tags: []
 ---
 In prehistoric times, Python developers were faced with a confusing landscape of tools and conflicting advice when they wanted to package their Python modules for public release. As a result of all the distutils/distribute/setuptools changes over the last 5 years, there's lots of confusion about what you should do when preparing a package for distribution - and even some confusion about what the purpose of packaging is in the first place.
 

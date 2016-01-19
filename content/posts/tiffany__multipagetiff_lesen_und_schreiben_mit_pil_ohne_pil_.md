@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=qiZS1b_XFGs"'
+Speakers: [Christian Tismer]
+Tags: [' distributed document capture', ' monkey-patching', multipage-tiff, ' pil']
 ThumbnailUrl: 'http://i2.ytimg.com/vi/qiZS1b_XFGs/hqdefault.jpg'
+Title: '"Tiffany - Multipage-Tiff Lesen und Schreiben mit PIL ohne PIL "'
 date: '2012-11-01'
-speakers: [Christian Tismer]
-tags: [' distributed document capture', ' monkey-patching', multipage-tiff, ' pil']
 ---
 Tiffany steht für beliebiges Tiff. Das kleine Modul löst eine grosse Menge
 

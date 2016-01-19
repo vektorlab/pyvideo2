@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=G1fIPwkCsgg"'
+Speakers: []
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/G1fIPwkCsgg/hqdefault.jpg'
+Title: '"Lightning Talks @ Kiwi PyCon 2013"'
 date: '2013-09-12'
-speakers: []
-tags: []
 ---
 @ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1
 

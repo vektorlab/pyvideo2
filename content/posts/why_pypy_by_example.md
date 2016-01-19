@@ -3,10 +3,11 @@ Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=P5ad6NpjR3M"'
+Speakers: [Alex Gaynor, Armin Rigo, Maciej Fijalkowski]
+Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/P5ad6NpjR3M/hqdefault.jpg'
+Title: '"Why PyPy by example"'
 date: '2012-03-10'
-speakers: [Alex Gaynor, Armin Rigo, Maciej Fijalkowski]
-tags: []
 ---
 One of the goals of PyPy is to make existing Python code faster, however an
 even broader goal was to make it possible to write things in Python that

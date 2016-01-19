@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=259sgRMHso0"'
+Speakers: [David Chiu]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/259sgRMHso0/hqdefault.jpg'
+Title: '"Social Network Analysis with Python"'
 date: '2014-06-27'
-speakers: [David Chiu]
-tags: []
 ---
 As the rise of social network, the relationship between people can now be described as network graph. Through the analysis of social network, the complex people interaction can be characterized by mathematical model.
 

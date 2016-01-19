@@ -3,9 +3,10 @@ Category: 'DjangoCon 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/39_massaging-the-pony-message-queues-and-you.flv
+Speakers: [Shawn Rider]
+Tags: [celery, djangocon, djangocon2010, messagequeues, queues, rabbitmq]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-MassagingThePonyMessageQueuesAndYou879.png'
-speakers: [Shawn Rider]
-tags: [celery, djangocon, djangocon2010, messagequeues, queues, rabbitmq]
+Title: '"Massaging the Pony: Message Queues and You"'
 ---
 Massaging the Pony: Message Queues and You
 

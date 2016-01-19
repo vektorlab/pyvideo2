@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
 SourceUrl: '"https://www.youtube.com/watch?v=YGwciTWE60A"'
+Speakers: [Adriano Di Luzio]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/YGwciTWE60A/maxresdefault.jpg'
+Title: '"Davvy - Django, WebDAV e (pessimo) stato dell''arte."'
 date: '2015-05-29'
-speakers: [Adriano Di Luzio]
-tags: []
 ---
 Davvy è un’applicazione Django che permette la gestione di servizi WebDAV.
 Gli obiettivi del talk comprendono: fornire un’overview del protocollo WebDAV e mostrarne la nostra implementazione; mostrare la costruzione di un’applicazione Django che gestisca servizi basati su protocolli di questo tipo, in modo che sia estendibile a piacimento e pienamente configurabile (e quindi anche qualche buona regola da seguire nello sviluppo Django). 

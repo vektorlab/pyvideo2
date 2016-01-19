@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=H0KReHUawHI"'
+Speakers: [Scott Triglia]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/H0KReHUawHI/hqdefault.jpg'
+Title: '"Arrested Development"'
 date: '2015-08-04'
-speakers: [Scott Triglia]
-tags: []
 ---
 The potential upside of microservices is significant and exciting. So much so that Yelp's Transaction Platform committed from the start to an architecture of small, cooperative microservices. This talk explores the inevitable complications that arise in successful projects based on microservices as they grow larger and stretch both their own architecture and the developers responsible for them. Come hear tales of terror (tight coupling! low test coverage!), stories which will warm your heart (agility! strong interfaces!), and everything in between as we follow the adventures of our plucky team.
 

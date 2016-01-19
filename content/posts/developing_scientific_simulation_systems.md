@@ -3,10 +3,11 @@ Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=Fo2aZGDgFCM"'
+Speakers: ["Mike M\xFCller"]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Fo2aZGDgFCM/hqdefault.jpg'
+Title: '"Developing Scientific Simulation Systems"'
 date: '2014-10-22'
-speakers: ["Mike M\xFCller"]
-tags: []
 ---
 Scientific simulation models often need to incorporate many aspects into a
 working software system. This talk gives an overview of

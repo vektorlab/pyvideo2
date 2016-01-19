@@ -3,11 +3,12 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=71i5FlW30s0"'
-ThumbnailUrl: 'http://i.ytimg.com/vi/71i5FlW30s0/hqdefault.jpg'
-date: '2011-07-13'
-speakers: [Gabriele Bartolini, Harald Armin Massa, Marco Nenciarini]
-tags: [asynchronous, business, community, database, distributed, extensions, partitioning,
+Speakers: [Gabriele Bartolini, Harald Armin Massa, Marco Nenciarini]
+Tags: [asynchronous, business, community, database, distributed, extensions, partitioning,
   postgresql, replication]
+ThumbnailUrl: 'http://i.ytimg.com/vi/71i5FlW30s0/hqdefault.jpg'
+Title: '"Getting ready for PostgreSQL 9.1"'
+date: '2011-07-13'
 ---
 PostgreSQL is an advanced, versatile open-source database management system
 that integrates perfectly with Python. It is developed by a very active

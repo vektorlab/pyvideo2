@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/384_everything-you-wanted-to-know-about-pickling-but-were-afraid-to-ask.mp4
+Speakers: [Richard T. Saunders]
+Tags: [pickling, pycon, pycon2011, serialization]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011EverythingYouWantedToKnowAboutPicklingButWere385.png'
+Title: '"Everything You Wanted To Know About Pickling, But Were Afraid To Ask!"'
 date: '2011-03-11'
-speakers: [Richard T. Saunders]
-tags: [pickling, pycon, pycon2011, serialization]
 ---
 Everything You Wanted To Know About Pickling, But Were Afraid To Ask!
 

@@ -3,10 +3,11 @@ Category: 'PyCon CA 2013'
 Copyright: 'CC BY-SA 2.5 CA'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=rKLo_mD152Y"'
+Speakers: [Juan Lavista Ferres]
+Tags: [talk]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/rKLo_mD152Y/hqdefault.jpg'
+Title: '"The Importance of Experimentation"'
 date: '2013-08-10'
-speakers: [Juan Lavista Ferres]
-tags: [talk]
 ---
 Controlled experiments, also called randomized experiments and A/B tests, have had a profound influence on multiple fields, including medicine, agriculture, manufacturing, and advertising. In software development, multiple techniques are used to define product requirements; controlled experiments provide a valuable way to assess the impact of new features on customer behavior.
 

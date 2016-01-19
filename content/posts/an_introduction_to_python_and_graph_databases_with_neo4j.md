@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"http://youtu.be/ps5RtmWKwLY"'
+Speakers: [Holger Spill]
+Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/ps5RtmWKwLY/hqdefault.jpg'
+Title: '"An introduction to Python and graph databases with Neo4j"'
 date: '2014-09-14'
-speakers: [Holger Spill]
-tags: [talk]
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Holger Spill:

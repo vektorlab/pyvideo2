@@ -3,10 +3,11 @@ Category: 'PyCon ZA 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://archive.org/details/pyconza2014-journey-through-eyes-of-newbie-female-developer"'
+Speakers: [Ridhwana Khan]
+Tags: [pyconza, pyconza2014]
 ThumbnailUrl: 'http://archive.org/download/pyconza2014-journey-through-eyes-of-newbie-female-developer/pyconza2014-journey-through-eyes-of-newbie-female-developer.thumbs/10%20A%20journey%20through%20the%20eyes%20of%20a%20newbie%20female%20developer-_002310.jpg'
+Title: '"A journey through the eyes of a newbie female developer"'
 date: '2014-10-03'
-speakers: [Ridhwana Khan]
-tags: [pyconza, pyconza2014]
 ---
 Graduating from a 90% male computer science class, to an initially 100% male software development team, finally allowed me to realise that there is a dire lack of women in the computer science field.
 Entering this industry in a minority invokes initial feelings of the need to constantly prove oneself and one's capabilities – normally this puts one at an immediate disadvantage. However, given the correct circumstances, surrounding environments and attitudes, these adverse feelings can quickly be replaced with self-confidence. I was fortunate enough in my daily working environment to have my opinion given the weight that it deserved.

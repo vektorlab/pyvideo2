@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=Vqs5opW8CAY"'
+Speakers: [Justin Mayer]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Vqs5opW8CAY/maxresdefault.jpg'
+Title: DevOps Security \u2014 Protect Your Application From Being Owned\
 date: '2015-06-09'
-speakers: [Justin Mayer]
-tags: []
 ---
 Heartbleed, Shellshock, POODLE, GHOST… With severe security vulnerabilities on the rise, how can developers protect the systems used to deploy their applications? Unattended package upgrades can help, but only if they are properly set up and monitored. Some of the challenges include:
 

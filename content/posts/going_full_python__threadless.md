@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/385_going-full-python-threadless.mp4
+Speakers: [Chris McAvoy]
+Tags: [casestudy, pycon, pycon2011, threadless]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011GoingFullPythonThreadless741.png'
+Title: '"Going Full Python - Threadless"'
 date: '2011-03-11'
-speakers: [Chris McAvoy]
-tags: [casestudy, pycon, pycon2011, threadless]
 ---
   
 

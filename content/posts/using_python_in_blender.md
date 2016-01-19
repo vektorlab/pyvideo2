@@ -3,10 +3,11 @@ Category: 'PyCon ZA 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://archive.org/details/pyconza2014-python-in-blender"'
+Speakers: [Albert Nel]
+Tags: [pyconza, pyconza2014]
 ThumbnailUrl: 'http://archive.org/download/pyconza2014-python-in-blender/pyconza2014-python-in-blender.thumbs/5%20a%20Using%20Python%20in%20Blender-_000450.jpg'
+Title: '"Using Python in Blender"'
 date: '2014-10-02'
-speakers: [Albert Nel]
-tags: [pyconza, pyconza2014]
 ---
 Python is such a beautiful language, and is used as a scripting language in many open source graphical applications. By using the power of Python within Blender, we can easily automate so many things, and make long tedious tasks seem like child's play.
 In this talk I wanted to share a few real world examples where I used Python to do something that would otherwise be impossible (Or just take too long!)

@@ -3,9 +3,11 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/179_pycon-2009-py-test-ii-cross-platform-and-distributed-testing-part-3-of-3.mp4
+Speakers: []
+Tags: [pycon, pycon2009, pytest, py.test, testing, tutorial]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-pytestIICrossplatformAndDistributedTestingPart003549-578.jpg'
-speakers: []
-tags: [pycon, pycon2009, pytest, py.test, testing, tutorial]
+Title: '"PyCon 2009: py.test II - cross-platform and distributed testing (Part 3 of
+  3)"'
 ---
 py.test II - cross-platform and distributed testing (part 3 of 3)
 

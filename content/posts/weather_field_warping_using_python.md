@@ -3,10 +3,11 @@ Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=LRQJvXtpU90"'
+Speakers: [Nathan Faggian]
+Tags: [numpy, prototyping]
 ThumbnailUrl: 'http://i.ytimg.com/vi/LRQJvXtpU90/hqdefault.jpg'
+Title: '"Weather field warping using Python"'
 date: '2011-08-22'
-speakers: [Nathan Faggian]
-tags: [numpy, prototyping]
 ---
 Python is a great language for prototyping computer vision algorithms, the
 availability of libraries such as Numpy and Scipy make for rapid development

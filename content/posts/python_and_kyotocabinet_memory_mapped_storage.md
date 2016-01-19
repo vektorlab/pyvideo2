@@ -3,10 +3,11 @@ Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=uJxCmczXgNU"'
+Speakers: [Evan Hicks]
+Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/uJxCmczXgNU/hqdefault.jpg'
+Title: '"Python and Kyotocabinet: Memory Mapped Storage"'
 date: '2012-11-10'
-speakers: [Evan Hicks]
-tags: []
 ---
 The problem of how to store and access data in real time is one with many
 different variations and flavours that applications today are trying to solve.

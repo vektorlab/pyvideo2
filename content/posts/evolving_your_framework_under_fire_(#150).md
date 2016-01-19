@@ -3,10 +3,11 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/303_evolving-your-framework-under-fire-150.m4v
+Speakers: [Tres Seaver]
+Tags: [framework, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010EvolvingYourFrameworkUnderFire150602.png'
+Title: '"Evolving Your Framework Under Fire (#150)"'
 date: '2010-02-19'
-speakers: [Tres Seaver]
-tags: [framework, pycon, pycon2010]
 ---
 Evolving your framework under fire
 

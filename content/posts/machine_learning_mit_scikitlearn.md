@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=CJFirE-rblA"'
+Speakers: ["Andreas M\xFCller"]
+Tags: []
 ThumbnailUrl: 'http://i4.ytimg.com/vi/CJFirE-rblA/hqdefault.jpg'
+Title: '"Machine Learning mit Scikit-Learn"'
 date: '2012-10-30'
-speakers: ["Andreas M\xFCller"]
-tags: []
 ---
 Machine Learning und Data Mining beschaeftigen sich mit dem Lernen aus
 beobachteten Daten, dem erstellen von Vorhersagen und dem finden von

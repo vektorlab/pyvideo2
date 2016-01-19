@@ -3,10 +3,11 @@ Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=kdWtaVfRxko"'
+Speakers: [Daniel Lindsley]
+Tags: []
 ThumbnailUrl: 'http://i4.ytimg.com/vi/kdWtaVfRxko/hqdefault.jpg'
+Title: '"Avoiding The Search Hall Of Shame"'
 date: '2012-11-10'
-speakers: [Daniel Lindsley]
-tags: []
 ---
 Most pieces of modern software (web, desktop or otherwise) include that
 innocuous little text box with inviting word "Search" nearby. But behind it

@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=loWnONmVtpM"'
+Speakers: [Emily Bache]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/loWnONmVtpM/hqdefault.jpg'
+Title: '"Will I still be able to get a job in 2024 if I don''t do TDD"'
 date: '2014-07-22'
-speakers: [Emily Bache]
-tags: []
 ---
 TDD hasn't yet been embraced by everyone,
 but is it just a matter of time? Ten years from now, will a non-TDD

@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=yAHQvrFC94o"'
+Speakers: ["Markus Zapke-Gr\xFCndemann"]
+Tags: [' dvcs', ' mercurial', python, ' softwareentwicklung']
 ThumbnailUrl: 'http://i2.ytimg.com/vi/yAHQvrFC94o/hqdefault.jpg'
+Title: '"Mercurial - ein verteiltes Versionskontrollsystem"'
 date: '2012-11-01'
-speakers: ["Markus Zapke-Gr\xFCndemann"]
-tags: [' dvcs', ' mercurial', python, ' softwareentwicklung']
 ---
 Dieser Vortrag stellt Mercurial vor, zeigt aber auch optimale Vorgehensweisen
 für den Entwicklungsalltag sowie die Grundlagen der Entwicklung von Mercurial

@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=R9jo6HMlgLo"'
+Speakers: ["Toma\u017E Muraus"]
+Tags: [monitoring, twisted, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/R9jo6HMlgLo/hqdefault.jpg'
+Title: '"Python at Cloudkick"'
 date: '2011-07-21'
-speakers: ["Toma\u017E Muraus"]
-tags: [monitoring, twisted, web]
 ---
 Cloudkick is a server management and monitoring software as a service used by
 thousands of different companies all across the globe.

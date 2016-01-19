@@ -3,10 +3,11 @@ Category: 'ChiPy'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/572_tox.flv
+Speakers: [Kumar McMillan]
+Tags: [chipy, testing, tox]
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-Tox172.png'
+Title: '"Tox"'
 date: '2010-11-11'
-speakers: [Kumar McMillan]
-tags: [chipy, testing, tox]
 ---
 Here's our Hudson matrix setup w/ tox: [http://hudson.testrun.org/job/nose-
 unstable/](http://hudson.testrun.org/job/nose-unstable/) (we just set this up

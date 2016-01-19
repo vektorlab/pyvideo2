@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=aNl7GrnKTcs"'
+Speakers: ["P\xE9ter Szab\xF3"]
+Tags: [concurrence, cpython, design, greenlet, stackless, testing]
 ThumbnailUrl: 'http://i.ytimg.com/vi/aNl7GrnKTcs/hqdefault.jpg'
+Title: '"Emulating Stackless and greenlet with each other"'
 date: '2011-07-21'
-speakers: ["P\xE9ter Szab\xF3"]
-tags: [concurrence, cpython, design, greenlet, stackless, testing]
 ---
 Stackless Python and the greenlet package for CPython are two different
 implementations of coroutine support for Python. (Coroutines are fundamental

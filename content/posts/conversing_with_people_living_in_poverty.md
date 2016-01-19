@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=Vjslvo8atfw"'
+Speakers: [Simon Cross]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/Vjslvo8atfw/hqdefault.jpg'
+Title: '"Conversing with people living in poverty"'
 date: '2014-07-24'
-speakers: [Simon Cross]
-tags: []
 ---
 43% of the world's population live on less than €1.5 per day.
 

@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"http://youtu.be/Mydv_EOuezs"'
+Speakers: [Thomi Richards]
+Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/Mydv_EOuezs/hqdefault.jpg'
+Title: '"A Testing Talk"'
 date: '2014-09-13'
-speakers: [Thomi Richards]
-tags: [talk]
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Thomi Richards:

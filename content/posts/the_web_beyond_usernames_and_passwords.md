@@ -3,10 +3,11 @@ Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=T6Iu7KgiC0A"'
+Speakers: [Francois Marier]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/T6Iu7KgiC0A/hqdefault.jpg'
+Title: '"The web beyond usernames and passwords"'
 date: '2012-08-21'
-speakers: [Francois Marier]
-tags: []
 ---
 Persona is a new cross-browser login and identity system for the web that is
 pragmatic, federated, and serves the user.

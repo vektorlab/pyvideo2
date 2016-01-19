@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=J3RMB4HgcRw"'
+Speakers: [Chesnay Schepler]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/J3RMB4HgcRw/hqdefault.jpg'
+Title: '"Big Data Analytics with Python using Stratosphere"'
 date: '2014-07-25'
-speakers: [Chesnay Schepler]
-tags: []
 ---
 [Stratosphere](http://stratosphere.eu/) is implemented in Java. In 2013 we introduced support for writing Stratosphere programs in Scala. Since Scala also runs in the Java JVM the language integration was easy for Scala.
 

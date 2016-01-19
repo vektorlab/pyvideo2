@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=TkBkGGPY2P0"'
+Speakers: [Yann Le Du]
+Tags: [image, mapping, nvidia, performance, processing, science, scientific]
 ThumbnailUrl: 'http://i.ytimg.com/vi/TkBkGGPY2P0/hqdefault.jpg'
+Title: '"High-performance computing on gamer PCs"'
 date: '2011-07-13'
-speakers: [Yann Le Du]
-tags: [image, mapping, nvidia, performance, processing, science, scientific]
 ---
 In Electron Paramagnetic Resonance Imaging, we are faced with a deconvolution
 problem that has a strong impact on the image actually reconstructed. Faced

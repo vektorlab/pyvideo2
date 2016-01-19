@@ -3,10 +3,12 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=fdM2PQSXlTc"'
+Speakers: [Daniel Havlik]
+Tags: [' css', fanstatic, ' javascript']
 ThumbnailUrl: 'http://i3.ytimg.com/vi/fdM2PQSXlTc/hqdefault.jpg'
+Title: Fanstatic zum Einbinden statischer Ressourcen - Was es kann und was es k\xF6\
+  nnen sollte.\
 date: '2012-11-01'
-speakers: [Daniel Havlik]
-tags: [' css', fanstatic, ' javascript']
 ---
 Fanstatic ist ein einfaches und doch mächtiges Werkzeug zum Einbinden
 statischer Ressourcen in Webanwendungen. In diesem Vortrag werden die Grenzen

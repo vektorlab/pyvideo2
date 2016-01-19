@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=qjxihcTJZ34"'
+Speakers: [Simon Sapin]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/qjxihcTJZ34/maxresdefault.jpg'
+Title: Introduction \xE0 Rust\
 date: '2013-11-30'
-speakers: [Simon Sapin]
-tags: []
 ---
 Rust est un langage de programmation « systèmes » qui se veux sûr, concurrent, et pragmatique. Un de ses objectifs est de remplacer C/C++ dans les domaines où un langage plus « haut niveau » tel que Python n'est pas adapté : noyau de système d'exploitation, système temps-réel, moteur de navigateur web, etc.
 

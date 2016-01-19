@@ -3,10 +3,11 @@ Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://youtu.be/3u6ZH4ntp-0"'
+Speakers: [Stefano Rivera]
+Tags: [Room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/3u6ZH4ntp-0/hqdefault.jpg'
+Title: '"The Road to Continuous Deployment"'
 date: '2015-10-02'
-speakers: [Stefano Rivera]
-tags: [Room 215]
 ---
 How do we get work from a developer's laptop to a production server?
 How do we do this repeatedly? How do we avoid releasing bad patches? How do we get changes out as fast as possible? And what happens to requests during a deploy? If you want continuous deployment, you have to solve these problems.

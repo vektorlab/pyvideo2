@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
 SourceUrl: '"https://www.youtube.com/watch?v=xi2y-4Uxwek"'
+Speakers: [Alessandro Molina]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/xi2y-4Uxwek/maxresdefault.jpg'
+Title: Baking Beaker perche\u0300 sessioni e caching possono ancora convivere\
 date: '2015-05-30'
-speakers: [Alessandro Molina]
-tags: []
 ---
 Beaker è probabilmente la più diffusa soluzione cross-framework per la gestione delle sessioni e della cache nell’ambito web.
 Nato nel 2005 dagli autori di SQLAlchemy e Pylons è stato sempre mantenuto al fianco del framework Pylons. Dopo la fine di Pylons a favore di Pyramid il suo futuro è diventato incerto e, per quanto sia ancora oggi molto usato al fianco di Bottle, Flask, TurboGears e spesso anche Pyramid, alcuni dei limiti dovuti all’incompatibilità con Python3 ed alcune scelte architetturali hanno portato gli utenti ad avvicinarsi a soluzioni alternative.

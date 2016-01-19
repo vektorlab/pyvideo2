@@ -3,11 +3,12 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=X_RHPisbVgs"'
-ThumbnailUrl: 'http://i1.ytimg.com/vi/X_RHPisbVgs/hqdefault.jpg'
-date: '2012-10-30'
-speakers: [Michael P. Jung]
-tags: [' django', ' echtzeit', ' game', ' gevent', ' javascript', ' python', ' rabbitmq',
+Speakers: [Michael P. Jung]
+Tags: [' django', ' echtzeit', ' game', ' gevent', ' javascript', ' python', ' rabbitmq',
   realtime, ' socketio', ' spiel']
+ThumbnailUrl: 'http://i1.ytimg.com/vi/X_RHPisbVgs/hqdefault.jpg'
+Title: '"Echtzeit Browsergames"'
+date: '2012-10-30'
 ---
 Mit gevent und browserseitigem JavaScript können Mehrspieler Browsergames
 entwickelt werden, die Spielerinteraktionen in Echtzeit zulassen. Dieser

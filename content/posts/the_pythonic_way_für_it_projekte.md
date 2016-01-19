@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=ny10aTjTB_M"'
+Speakers: [Lutz Mende]
+Tags: [' agil', ' python', ' scrum', ' testcase', trac, ' usecase']
 ThumbnailUrl: 'http://i3.ytimg.com/vi/ny10aTjTB_M/hqdefault.jpg'
+Title: \"The pythonic way\" f\xFCr IT Projekte\
 date: '2012-11-01'
-speakers: [Lutz Mende]
-tags: [' agil', ' python', ' scrum', ' testcase', trac, ' usecase']
 ---
 "Potentially shippable increment of product in 30 days" -- dies ist die Vision
 von Scrum bzw. das grundsätzliche Ziel von agiler Softwareentwicklung bzw.

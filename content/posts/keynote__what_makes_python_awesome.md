@@ -3,10 +3,11 @@ Category: 'PyCon US 2013'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=NfngrdLv9ZQ"'
+Speakers: [Raymond Hettinger]
+Tags: [Plenary]
 ThumbnailUrl: 'http://i3.ytimg.com/vi/NfngrdLv9ZQ/hqdefault.jpg'
+Title: '"Keynote - What Makes Python Awesome"'
 date: '2013-03-16'
-speakers: [Raymond Hettinger]
-tags: [Plenary]
 ---
 
 Raymond Hettinger, a Python core developer for over decade,

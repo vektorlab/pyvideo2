@@ -3,10 +3,11 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=NMotyZCztEI"'
+Speakers: [Dr. Yves Hilpisch]
+Tags: [data analytics, financial analytics, python, visualization]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/NMotyZCztEI/hqdefault.jpg'
+Title: '"Continuum Data Analytics Stack"'
 date: '2013-10-17'
-speakers: [Dr. Yves Hilpisch]
-tags: [data analytics, financial analytics, python, visualization]
 ---
 Continuum Analytics bietet mit Anaconda Accelerate eine kommerzielle, skalierbare und unternehmenstaugliche Python-Distribution. Diese basiert auf der beliebten Open Source Distribution Anaconda.
 

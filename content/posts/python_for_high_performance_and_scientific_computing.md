@@ -3,11 +3,12 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=q3hAFI8iaqg"'
-ThumbnailUrl: 'http://i.ytimg.com/vi/q3hAFI8iaqg/hqdefault.jpg'
-date: '2011-07-13'
-speakers: [Andreas Schreiber]
-tags: [community, engineering, gpu, hpc, interpreters, parallel, performance, 'python,',
+Speakers: [Andreas Schreiber]
+Tags: [community, engineering, gpu, hpc, interpreters, parallel, performance, 'python,',
   scientific]
+ThumbnailUrl: 'http://i.ytimg.com/vi/q3hAFI8iaqg/hqdefault.jpg'
+Title: '"Python for High Performance and Scientific Computing"'
+date: '2011-07-13'
 ---
 Python is an accepted high-level scripting language with a growing community
 in academia and industry. It is used in a lot of scientific applications in

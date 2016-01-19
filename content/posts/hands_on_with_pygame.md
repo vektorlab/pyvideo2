@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=fm78gjYkYKc"'
+Speakers: [R Dopieralski]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/fm78gjYkYKc/hqdefault.jpg'
+Title: '"Hands on with Pygame"'
 date: '2012-07-04'
-speakers: [R Dopieralski]
-tags: []
 ---
 PyGame continues to be Python’s most popular 2D game library, even though
 there is growing competition from more modern OpenGL-based libraries. It is

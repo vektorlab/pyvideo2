@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/448_django-packages-a-case-study.mp4
+Speakers: []
+Tags: [packages, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011DjangoPackagesACaseStudy119.png'
+Title: '"Django Packages: A Case Study"'
 date: '2011-03-11'
-speakers: []
-tags: [packages, pycon, pycon2011]
 ---
 Django Packages: A Case Study
 

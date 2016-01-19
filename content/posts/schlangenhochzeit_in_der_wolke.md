@@ -3,11 +3,12 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=0zqpoC0f3-c"'
-ThumbnailUrl: 'http://i1.ytimg.com/vi/0zqpoC0f3-c/hqdefault.jpg'
-date: '2013-10-16'
-speakers: [Jens Klein]
-tags: [appengine, buildout, cloud, gruntjs, mobile, plone.testing, pyramid, testlayers,
+Speakers: [Jens Klein]
+Tags: [appengine, buildout, cloud, gruntjs, mobile, plone.testing, pyramid, testlayers,
   velruse, WebTest]
+ThumbnailUrl: 'http://i1.ytimg.com/vi/0zqpoC0f3-c/hqdefault.jpg'
+Title: '"Schlangenhochzeit in der Wolke"'
+date: '2013-10-16'
 ---
 Googles Appengine steht für hochskalierbare Anwendungen in der Cloud. Locandy ist unser Startup für mobile Location based Games.
 

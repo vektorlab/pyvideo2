@@ -3,10 +3,12 @@ Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=QvJmryCRfeY"'
+Speakers: [Michael McKerns]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/QvJmryCRfeY/hqdefault.jpg'
+Title: '"The failure of python object serialization: why HPC in python is broken,
+  and how to fix it"'
 date: '2014-10-22'
-speakers: [Michael McKerns]
-tags: []
 ---
 Parallel and asynchronous computing in python is crippled by pickle's poor
 object serialization. However, a more robust serialization package would

@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=JG8-yurFBXM"'
+Speakers: [Oliver Nagy]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/JG8-yurFBXM/hqdefault.jpg'
+Title: '"A Scientific Game Engine in the Cloud"'
 date: '2015-08-07'
-speakers: [Oliver Nagy]
-tags: []
 ---
 Azrael is a game engine for engineers. Unlike traditional engines it emphasises
 accurate physics, runs in the Cloud, offers a language agnostic API, and is written in (mostly) Python.

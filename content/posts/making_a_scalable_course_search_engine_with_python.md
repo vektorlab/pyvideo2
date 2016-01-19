@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"http://youtu.be/568mFzqsjqk"'
+Speakers: [Robert King]
+Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/568mFzqsjqk/hqdefault.jpg'
+Title: '"Making a scalable course search engine with python"'
 date: '2014-09-14'
-speakers: [Robert King]
-tags: [talk]
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Robert King:

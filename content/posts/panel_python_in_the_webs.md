@@ -3,10 +3,11 @@ Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=0aBCpu53z9Q"'
+Speakers: [Dylan Jay, Malcolm Tredinnick, Richard Jones, Russell Keith-Magee]
+Tags: [panel, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/0aBCpu53z9Q/hqdefault.jpg'
+Title: '"Panel: Python in the webs"'
 date: '2011-08-22'
-speakers: [Dylan Jay, Malcolm Tredinnick, Richard Jones, Russell Keith-Magee]
-tags: [panel, web]
 ---
 This will be a panel discussion wherein we wax philosophical about the state
 of web frameworks in Python - talking about invention, reinvention, multitudes

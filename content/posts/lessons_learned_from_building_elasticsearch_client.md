@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=rPpiOQNNm8U"'
+Speakers: ["Honza Kr\xE1l"]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/rPpiOQNNm8U/hqdefault.jpg'
+Title: '"Lessons learned from building Elasticsearch client"'
 date: '2014-07-24'
-speakers: ["Honza Kr\xE1l"]
-tags: []
 ---
 Last year we decided to create official clients for the most popular languages, Python included.
 

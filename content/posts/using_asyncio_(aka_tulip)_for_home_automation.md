@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=0flbR0HNWBA"'
+Speakers: [Dougal Matthews]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/0flbR0HNWBA/hqdefault.jpg'
+Title: '"Using asyncio (aka Tulip) for home automation"'
 date: '2014-07-25'
-speakers: [Dougal Matthews]
-tags: []
 ---
 This talk will cover the new asyncio library in Python 3.4 (also known as Tulip) and will use the area of home automation as a case study to explore its features. This talk will be based on code using Python 3.3+.
 

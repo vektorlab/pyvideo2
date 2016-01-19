@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=Iw0MwPL2FCU"'
+Speakers: [Jim Baker]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/Iw0MwPL2FCU/hqdefault.jpg'
+Title: '"Scalable Realtime Architectures in Python"'
 date: '2014-07-25'
-speakers: [Jim Baker]
-tags: []
 ---
 Increasingly we are interested in implementing highly scalable and
 fault tolerant realtime architectures such as the following:

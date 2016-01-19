@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=LbKvCvfWcJc"'
+Speakers: [Frank Becker]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/LbKvCvfWcJc/hqdefault.jpg'
+Title: '"Managing the Cloud with a Few Lines of Python"'
 date: '2014-07-23'
-speakers: [Frank Becker]
-tags: []
 ---
 One of the advantages of cloud computing is that resources can be enabled or disabled dynamically. 
 E. g. is an distributed application short on compute power one can easily add more. But who wants to do that by hand? Python is a perfect fit to control the cloud. 

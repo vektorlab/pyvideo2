@@ -3,10 +3,11 @@ Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=RLlEi6-8YBI"'
+Speakers: [Todd Owen]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/RLlEi6-8YBI/hqdefault.jpg'
+Title: '"Testing: Choose Your Weapons"'
 date: '2013-07-06'
-speakers: [Todd Owen]
-tags: []
 ---
 A good suite of tests is a programmer's best friend. But a poorly designed testing strategy can result in tests that are unwieldy, fragile, and above all no fun to write or maintain.
 

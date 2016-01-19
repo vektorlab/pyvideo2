@@ -3,10 +3,11 @@ Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=twQKAoq2OPE"'
+Speakers: [Brandon Rhodes]
+Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/twQKAoq2OPE/hqdefault.jpg'
+Title: '"Python, Linkers, and Virtual Memory"'
 date: '2012-03-11'
-speakers: [Brandon Rhodes]
-tags: []
 ---
 Why does “top” show that your Python process uses 110 MB of virtual memory but
 has a resident set size of 9 MB? Does it consume more memory to spawn several

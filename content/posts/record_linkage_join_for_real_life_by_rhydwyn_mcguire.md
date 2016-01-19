@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=cEcVIjyHfiQ"'
+Speakers: [Rhydwyn Mcguire]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/cEcVIjyHfiQ/hqdefault.jpg'
+Title: '"Record linkage: Join for real life by Rhydwyn Mcguire"'
 date: '2014-08-09'
-speakers: [Rhydwyn Mcguire]
-tags: []
 ---
 In an ideal world, you can join on candidate keys, names are never misspelt, people never move house, and I have a pony. I don’t have a pony. But we do have record linkage. 
 

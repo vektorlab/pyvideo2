@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=2ll2ER3wpus"'
+Speakers: [Erik van Zijst]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/2ll2ER3wpus/hqdefault.jpg'
+Title: '"The inner guts of Bitbucket"'
 date: '2014-07-24'
-speakers: [Erik van Zijst]
-tags: []
 ---
 This talk is about Bitbucket's architecture. Leaving no stone unturned, I'll be covering the entire infrastructure. Every component, from web servers to message brokers and load balancing to managing hundreds of terabytes of data.
 

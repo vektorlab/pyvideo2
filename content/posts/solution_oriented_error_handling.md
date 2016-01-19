@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=kT34QMil-FQ"'
+Speakers: [Thomas Aglassinger]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/kT34QMil-FQ/hqdefault.jpg'
+Title: '"Solution oriented error handling"'
 date: '2014-07-22'
-speakers: [Thomas Aglassinger]
-tags: []
 ---
 Traditionally error handling is regarded an annoyance by developers because it removes the focus from the already difficult enough productive parts of the code to parts that ideally will never be called. And even if, end users seem to be ignore the error messages and just click "Ok" or call the help desk.
 

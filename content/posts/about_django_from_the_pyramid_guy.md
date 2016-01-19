@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=eN7h6ZbzMy0"'
+Speakers: [Chris McDonough]
+Tags: [django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/eN7h6ZbzMy0/hqdefault.jpg'
+Title: '"About Django from the Pyramid Guy"'
 date: '2012-09-06'
-speakers: [Chris McDonough]
-tags: [django]
 ---
 # About Django from the Pyramid Guy
 

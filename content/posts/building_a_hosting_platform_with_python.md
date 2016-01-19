@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=hAqtC_c2x1s"'
+Speakers: [Andrew Godwin]
+Tags: [ep.io, hosting, infrastructure, postgresql, redis, scalable, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/hAqtC_c2x1s/hqdefault.jpg'
+Title: '"Building a hosting platform with Python"'
 date: '2011-07-07'
-speakers: [Andrew Godwin]
-tags: [ep.io, hosting, infrastructure, postgresql, redis, scalable, web]
 ---
 At ep.io we built a Python hosting platform from the ground up, designed to
 run large numbers of web applications on a small number of physical machines

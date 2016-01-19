@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=Mj31wAtkepI"'
+Speakers: [Jean-Michel Armand]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Mj31wAtkepI/maxresdefault.jpg'
+Title: '"Retour sur les djangocongs 2013"'
 date: '2013-11-30'
-speakers: [Jean-Michel Armand]
-tags: []
 ---
 Un retour sur les Djangocongs Belfort.
 

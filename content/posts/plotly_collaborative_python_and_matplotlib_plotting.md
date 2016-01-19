@@ -3,10 +3,11 @@ Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=DObmPAtuNw0"'
+Speakers: [Matthew Sundquist]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/DObmPAtuNw0/hqdefault.jpg'
+Title: '"Plotly Collaborative Python and Matplotlib Plotting"'
 date: '2014-10-22'
-speakers: [Matthew Sundquist]
-tags: []
 ---
 ## Plotly: GitHub for Data and Graphs
 

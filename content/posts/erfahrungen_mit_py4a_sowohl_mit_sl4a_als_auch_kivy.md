@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=3R2aNzYFH-Q"'
+Speakers: [Nik Klever]
+Tags: [' android', kivy, ' py4a', ' sl4a']
 ThumbnailUrl: 'http://i4.ytimg.com/vi/3R2aNzYFH-Q/hqdefault.jpg'
+Title: '"Erfahrungen mit Py4A sowohl mit SL4A als auch Kivy"'
 date: '2012-10-30'
-speakers: [Nik Klever]
-tags: [' android', kivy, ' py4a', ' sl4a']
 ---
 Es werden die Erfahrungen mit der Scripting Layer for Android API (SL4A) aus
 einer Lehrveranstaltung vorgestellt, die Grundlage für das Python-for-Android

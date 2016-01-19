@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=AkELl59QjoE"'
+Speakers: [Andreas Albrecht]
+Tags: [django]
 ThumbnailUrl: 'http://i2.ytimg.com/vi/AkELl59QjoE/hqdefault.jpg'
+Title: Der Django-Admin-Bereich im \xDCberblick\
 date: '2012-10-31'
-speakers: [Andreas Albrecht]
-tags: [django]
 ---
 Das Django-Webframework bringt mit einem automatisch generierten Admin-Bereich
 ein mächtiges Werkzeug zur Administration von Webapplikation mit.

@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=VZp7iWOKJ_A"'
+Speakers: [Flavio Percoco]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/VZp7iWOKJ_A/hqdefault.jpg'
+Title: '"Breaking backwards compatibility: The easy way!"'
 date: '2015-08-04'
-speakers: [Flavio Percoco]
-tags: []
 ---
 Say you have this piece of software that many people use. One day, you wake up and you have the urge to make them suffer. Well, there’s no better way to do so than breaking the software they’re using.
 

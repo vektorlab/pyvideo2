@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/375_python-3-the-next-generation-is-here-already.mp4
+Speakers: [Wesley J. Chun]
+Tags: [2to3, pycon, pycon2011, python2, python3]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011Python3TheNextGenerationIsHereAlready624.png'
+Title: '"Python 3: the next generation is here already"'
 date: '2011-03-11'
-speakers: [Wesley J. Chun]
-tags: [2to3, pycon, pycon2011, python2, python3]
 ---
 Python 3: the next generation is here already
 

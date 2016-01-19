@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=-3fTd53VNHw"'
+Speakers: [Claudio Desideri]
+Tags: [panda3d, realtime]
 ThumbnailUrl: 'http://i.ytimg.com/vi/-3fTd53VNHw/hqdefault.jpg'
+Title: '"Creating videogames with Panda3D"'
 date: '2011-07-07'
-speakers: [Claudio Desideri]
-tags: [panda3d, realtime]
 ---
 In this talk I'm going to explain the main features and possibility that
 Panda3D gives us when we want to create a game from scratch. Then, I'll

@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=UhYXIWmq-3Y"'
+Speakers: [Fabio Pliger]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/UhYXIWmq-3Y/hqdefault.jpg'
+Title: '"Practical guide to kill optimization, testing and other sw. project beasts"'
 date: '2012-07-05'
-speakers: [Fabio Pliger]
-tags: []
 ---
 Optimization, testing, tunning and design in sw. project can be both heaven or
 hell for a sw. development project. Python provides many tools to deal with

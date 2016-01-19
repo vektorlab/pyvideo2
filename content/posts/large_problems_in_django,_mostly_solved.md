@@ -3,10 +3,11 @@ Category: 'DjangoCon 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/52_large-problems-in-django-mostly-solved.flv
-ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-LargeProblemsInDjangoMostlySolved109-212.jpg'
-speakers: [Eric Holscher]
-tags: [api, ci, continuousintegration, databasemigrations, debugging, delayedexecutions,
+Speakers: [Eric Holscher]
+Tags: [api, ci, continuousintegration, databasemigrations, debugging, delayedexecutions,
   deployment, djangocon, djangocon2010, documentation, migrations, safety, search]
+ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-LargeProblemsInDjangoMostlySolved109-212.jpg'
+Title: '"Large Problems in Django, Mostly Solved"'
 ---
 Large Problems in Django, Mostly Solved
 

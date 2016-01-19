@@ -3,9 +3,11 @@ Category: 'Kiwi PyCon 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/120_grant-paton-simpson-sofa-statistics-developing-packaging-and-promoting-a-python-open-source-project.flv
+Speakers: [Grant Paton-Simpson]
+Tags: [kiwipycon, kiwipycon2009, launchpad, opensource, sofa, sourceforge]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-GrantPatonSimpsonSOFAStatisticsDevelopingPackagingPromo591-977.jpg'
-speakers: [Grant Paton-Simpson]
-tags: [kiwipycon, kiwipycon2009, launchpad, opensource, sofa, sourceforge]
+Title: '"Grant Paton-Simpson - SOFA Statistics - Developing, packaging, and promoting
+  a Python open source project"'
 ---
 SOFA Statistics - Developing, packaging and promoting a Python open source
 project

@@ -3,10 +3,12 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=sQ12NmsLfsg"'
+Speakers: [Damien Irving]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/sQ12NmsLfsg/hqdefault.jpg'
+Title: '"Software Carpentry in Australia: current activity and future directions by
+  Damien Irving"'
 date: '2014-08-11'
-speakers: [Damien Irving]
-tags: []
 ---
 Software Carpentry is a volunteer organisation that teaches basic software skills to researchers in science, engineering and medicine. Supported by the Mozilla Science Lab, it runs two-day bootcamps all over the world, provides open access material for self-paced instruction, and runs a training program for aspiring instructors. The core two-day curriculum includes the Unix shell (and how to automate repetitive tasks); Python or R (and how to grow a program in a modular, testable way); Git and GitHub (and how to track and share work efficiently); and SQL (and the difference between structured and unstructured data).     
 

@@ -3,10 +3,11 @@ Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=D3VFq97NhEk"'
+Speakers: [Tim Spurway &  Mazdak Rezvani]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/D3VFq97NhEk/hqdefault.jpg'
+Title: '"Dancing with Big Data: Disco + Inferno"'
 date: '2012-11-11'
-speakers: [Tim Spurway &  Mazdak Rezvani]
-tags: []
 ---
 In our search for a better Map/Reduce framework we found Disco, an
 Erlang/Python based Map/Reduce framework that's small, fast, elegant,

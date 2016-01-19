@@ -3,10 +3,11 @@ Category: 'ChiPy'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/584_python-for-scientific-and-high-performance-computing-3-of-4.flv
+Speakers: []
+Tags: [chipy, numpy, scipy]
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-PythonForScientificAndHighPerformanceComputing3Of4188.png'
+Title: '"Python for Scientific and High Performance Computing (3 of 4)"'
 date: '2009-11-12'
-speakers: []
-tags: [chipy, numpy, scipy]
 ---
 Python for Scientific and High Performance Computing (part 3 of 4)
 

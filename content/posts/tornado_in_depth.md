@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=4Ztq-Yz1ero"'
+Speakers: [O Vilaplana]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/4Ztq-Yz1ero/hqdefault.jpg'
+Title: '"Tornado in Depth"'
 date: '2012-07-04'
-speakers: [O Vilaplana]
-tags: []
 ---
 Tornado is a non-blocking light-weight web server and framework. There’s been
 many introductory talks about it, and it’s time to look deeper into it: not

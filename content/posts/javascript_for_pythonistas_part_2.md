@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=4-4hTwlzTMk"'
+Speakers: [P Dopieralski]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/4-4hTwlzTMk/hqdefault.jpg'
+Title: '"Javascript for Pythonistas part 2"'
 date: '2012-07-05'
-speakers: [P Dopieralski]
-tags: []
 ---
 With the growth of AJAX and other client-side technologies many Python
 programmers, web-applications increasingly involve large amounts of

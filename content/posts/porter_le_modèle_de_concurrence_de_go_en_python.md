@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=BGRnVNs7A28"'
+Speakers: [Benoit Chesneau]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/BGRnVNs7A28/maxresdefault.jpg'
+Title: Porter le mod\xE8le de concurrence de GO en Python\
 date: '2013-11-30'
-speakers: [Benoit Chesneau]
-tags: []
 ---
 Beaucoup de gens tentent de porter le modèle d'acteur en Python, mais ce modèle n'est pas vraiment adapté à un tel langage. Au contraire le modèle de concurrence de Go a quelques points attractifs qui permettent de le porter facilement sous Python.
 

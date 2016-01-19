@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=DfVHSw0iOsk"'
+Speakers: [Dave Halter]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/DfVHSw0iOsk/hqdefault.jpg'
+Title: '"Identifying Bugs Before Runtime With Jedi"'
 date: '2014-07-23'
-speakers: [Dave Halter]
-tags: []
 ---
 Jedi is an autocompletion library for Python that has gained quite a following over the last year. There are a couple of plugins for the most popular editors (VIM, Sublime, Emacs, etc.) and mainstream IDEs like Spyder are switching to Jedi.
 

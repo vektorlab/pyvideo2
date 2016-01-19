@@ -3,10 +3,11 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/350_decorators-from-basics-to-class-decorators-to-decorator-libraries-138.m4v
+Speakers: [Charles Merriam]
+Tags: [decorators, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010DecoratorsFromBasicsToClassDecoratorsToDecorato979.png'
+Title: '"Decorators From Basics to Class Decorators to Decorator Libraries (#138)"'
 date: '2010-02-19'
-speakers: [Charles Merriam]
-tags: [decorators, pycon, pycon2010]
 ---
 Decorators from Basics to Class Decorators to Decorator Libraries
 

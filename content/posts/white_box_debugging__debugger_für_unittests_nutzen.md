@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=26tmYQk2vI8"'
+Speakers: [Reinhard Wobst]
+Tags: []
 ThumbnailUrl: 'http://i3.ytimg.com/vi/26tmYQk2vI8/hqdefault.jpg'
+Title: \"White Box Debugging\" - Debugger f\xFCr Unittests nutzen\
 date: '2012-10-31'
-speakers: [Reinhard Wobst]
-tags: []
 ---
 "White Box Testing" ist das Testen von internen Zuständen zur Laufzeit,
 während ubliche Unittests in der Regel nur Funktionen rufen. Man kann aber

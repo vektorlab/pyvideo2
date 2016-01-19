@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=lzs7fc8Xe8U"'
+Speakers: [Andreas Schreiber]
+Tags: [' open-source', recht]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/lzs7fc8Xe8U/hqdefault.jpg'
+Title: '"Grundlagen des Open-Source-Lizenzrechts"'
 date: '2012-10-30'
-speakers: [Andreas Schreiber]
-tags: [' open-source', recht]
 ---
 Ein kompakter Überblick über die rechtlichen Aspekte von Open-Source-Software.
 Neben den rechtlichen Grundlagen werden die wesentlichen Eigenschaften von

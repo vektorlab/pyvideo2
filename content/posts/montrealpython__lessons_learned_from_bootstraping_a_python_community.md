@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/361_montreal-python-lessons-learned-from-bootstraping-a-python-community.mp4
+Speakers: [Yannick Gingras]
+Tags: [community, growth, pycon, pycon2011, usergroups]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011MontrealPythonLessonsLearnedFromBootstrapingAP942.png'
+Title: '"Montreal-Python -- Lessons Learned from Bootstraping a Python Community"'
 date: '2011-03-11'
-speakers: [Yannick Gingras]
-tags: [community, growth, pycon, pycon2011, usergroups]
 ---
 The talk will first walk the audience through the factors inherent to Montréal
 itself and how it affected other user groups before Montréal-Python. These

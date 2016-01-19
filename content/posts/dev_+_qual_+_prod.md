@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=hOqwe3wY7Yw"'
+Speakers: ["Thomas G\xFCttler"]
+Tags: [' deployment', ' linux', virtualenv]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/hOqwe3wY7Yw/hqdefault.jpg'
+Title: '"dev --+ qual --+ prod"'
 date: '2012-11-01'
-speakers: ["Thomas G\xFCttler"]
-tags: [' deployment', ' linux', virtualenv]
 ---
 Es wird das Konzept vorgestellt, wie man Projekte strukturieren kann um von
 der ersten Minute an eine mind. dreistufige Landschaft (Entwicklung,

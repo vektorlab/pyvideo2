@@ -3,9 +3,11 @@ Category: 'PyCon AU 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/473_pyconau-2010-keynote-nick-hodge-quot-ironpython-amp-the-quest-for-the-holy-grail-quot.flv
+Speakers: [Nick Hodge]
+Tags: [keynote, pyconau, pyconau2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-KeynoteNickHodgeIronPythonTheQuestForTheHolyGrail836.png'
-speakers: [Nick Hodge]
-tags: [keynote, pyconau, pyconau2010]
+Title: '"PyConAU 2010: Keynote: Nick Hodge; &quot;IronPython &amp; The Quest for the
+  Holy Grail&quot;"'
 ---
 Keynote: Nick Hodge, "IronPython & The Quest for the Holy Grail"
 

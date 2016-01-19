@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=S1Nx3zSkd40"'
+Speakers: ["R\xF3man Joost"]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/S1Nx3zSkd40/hqdefault.jpg'
+Title: '"How your Python program behaves: a story on how to build a program slicer"'
 date: '2015-08-04'
-speakers: ["R\xF3man Joost"]
-tags: []
 ---
 Understanding the control flows in programs can be simple but increasingly difficult once the program becomes more complex. Debugging these programs can become problematic even worse with a meager amount of test coverage. So what to do? Increasing test coverage can cost you quite a lot of time and may not necessarily yield better results.
 

@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=FzCk747yjCU"'
+Speakers: [Brenda Moon]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/FzCk747yjCU/hqdefault.jpg'
+Title: '"Exploring Science on Twitter with IPython Notebook and Python Pandas"'
 date: '2013-09-16'
-speakers: [Brenda Moon]
-tags: []
 ---
 @ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1
 

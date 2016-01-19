@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=tl0wkY78jk4"'
+Speakers: [Richard Shea]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/tl0wkY78jk4/hqdefault.jpg'
+Title: '"Stop and smell the Djangos"'
 date: '2015-08-04'
-speakers: [Richard Shea]
-tags: []
 ---
 A great strength of Django is how much functionality there is baked in without the developer doing anything to obtain it.
 

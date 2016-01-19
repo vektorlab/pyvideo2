@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=TeWfOgjFeT0"'
+Speakers: [Valerio Maggio]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/TeWfOgjFeT0/hqdefault.jpg'
+Title: '"Traversing Mazes the pythonic way and other Algorithmic..."'
 date: '2014-07-22'
-speakers: [Valerio Maggio]
-tags: []
 ---
 **Graphs** define a powerful mental (and mathematical) model of structure, 
 representing the building blocks of formulations and/or solutions 

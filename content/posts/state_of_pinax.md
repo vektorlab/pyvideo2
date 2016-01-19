@@ -3,9 +3,10 @@ Category: 'DjangoCon 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/55_state-of-pinax.flv
+Speakers: []
+Tags: [djangocon, djangocon2010, pinax]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-StateOfPinax119-438.jpg'
-speakers: []
-tags: [djangocon, djangocon2010, pinax]
+Title: '"State of Pinax"'
 ---
 State of Pinax
 

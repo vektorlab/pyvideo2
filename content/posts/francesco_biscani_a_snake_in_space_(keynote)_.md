@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=9-PxGDp6R1Q"'
+Speakers: [Francesco Biscani]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/9-PxGDp6R1Q/hqdefault.jpg'
+Title: '"Francesco Biscani: A Snake in Space (Keynote) "'
 date: '2014-09-14'
-speakers: [Francesco Biscani]
-tags: []
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 Francesco Biscani:

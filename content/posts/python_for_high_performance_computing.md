@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/394_python-for-high-performance-computing.mp4
+Speakers: [William Scullin]
+Tags: [gpu, highperformancecomputing, hpc, mpi, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011PythonForHighPerformanceComputing720.png'
+Title: '"Python for High Performance Computing"'
 date: '2011-03-11'
-speakers: [William Scullin]
-tags: [gpu, highperformancecomputing, hpc, mpi, pycon, pycon2011]
 ---
 Python for High Performance Computing
 

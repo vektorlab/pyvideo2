@@ -3,11 +3,12 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/357_sunday-afternoon-lightning-talks.mp4
-ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011SundayAfternoonLightningTalks799-486.jpg'
-date: '2011-03-11'
-speakers: []
-tags: [adventure, askbot, flufl.enum, foss@rit, fudge, minuteman, moe, pmc, protobuf,
+Speakers: []
+Tags: [adventure, askbot, flufl.enum, foss@rit, fudge, minuteman, moe, pmc, protobuf,
   pycon, pycon2011, python2to3, pyweek, twiggy, universalsubtitles]
+ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011SundayAfternoonLightningTalks799-486.jpg'
+Title: '"Sunday Afternoon Lightning Talks"'
+date: '2011-03-11'
 ---
 Sunday Afternoon Lightning Talks
 

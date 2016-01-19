@@ -3,10 +3,11 @@ Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=S56dbRk_jSQ"'
+Speakers: [Georgina Wilcox, Katie M Bell]
+Tags: [network, outreach, science, teaching]
 ThumbnailUrl: 'http://i.ytimg.com/vi/S56dbRk_jSQ/hqdefault.jpg'
+Title: '"Teaching Python to the young and impressionable"'
 date: '2011-08-22'
-speakers: [Georgina Wilcox, Katie M Bell]
-tags: [network, outreach, science, teaching]
 ---
 We present two outreach programmes run by Sydney University for high school
 students: the National Computer Science School (http://www.ncss.edu.au) and

@@ -3,9 +3,10 @@ Category: 'DjangoCon 2011'
 Copyright: ''
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/84_benevolent-designer-for-life-s-keynote-designers-make-it-go-to-eleven.m4v
+Speakers: [Idan Gazit]
+Tags: [design, djangocon, djangocon2011, ui, ux]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-BenevolentDesignerForLifesKeynoteDesignersMakeItGoToE975-385.jpg'
-speakers: [Idan Gazit]
-tags: [design, djangocon, djangocon2011, ui, ux]
+Title: '"Benevolent Designer For Life''s Keynote - Designers Make It Go to Eleven"'
 ---
 Benevolent Designer for Life's Keynote: Designers make it go to eleven
 

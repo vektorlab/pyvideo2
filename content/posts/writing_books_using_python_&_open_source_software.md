@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=1QTMeb9m_lE"'
+Speakers: [wesley chun]
+Tags: [cd, html, testing, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/1QTMeb9m_lE/hqdefault.jpg'
+Title: '"Writing Books using Python & Open Source Software"'
 date: '2011-07-13'
-speakers: [wesley chun]
-tags: [cd, html, testing, web]
 ---
 All of us are familiar with using open source tools to develop software
 applications with, but instead of writing code, it is also possible to create

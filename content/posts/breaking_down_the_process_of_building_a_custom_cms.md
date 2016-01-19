@@ -3,9 +3,10 @@ Category: 'DjangoCon 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/61_breaking-down-the-process-of-building-a-custom-cms.flv
+Speakers: [Brian Luft, Yann Malet]
+Tags: [development, djangocon, djangocon2010, projectmanagement]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-BreakingDownTheProcessOfBuildingACustomCMS112-442.jpg'
-speakers: [Brian Luft, Yann Malet]
-tags: [development, djangocon, djangocon2010, projectmanagement]
+Title: '"Breaking down the process of building a custom CMS"'
 ---
 Breaking down the process of building a custom CMS
 

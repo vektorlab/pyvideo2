@@ -3,10 +3,11 @@ Category: 'ChiPy'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=a7Oon2Bo8tE"'
+Speakers: []
+Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/a7Oon2Bo8tE/hqdefault.jpg'
+Title: '"Intro to Marmir: Spreadsheets on steroids"'
 date: '2013-01-10'
-speakers: []
-tags: []
 ---
 Marmir ([https://github.com/brianray/mm](https://github.com/brianray/mm))
 takes Python data structures and turns them into spreadsheets (think xlwt on

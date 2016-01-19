@@ -3,10 +3,11 @@ Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=CD_Eh8GLCPA"'
+Speakers: [Peter Lovett]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/CD_Eh8GLCPA/hqdefault.jpg'
+Title: '"Python Dark Corners Revisited"'
 date: '2012-08-21'
-speakers: [Peter Lovett]
-tags: []
 ---
 Python can be deceptive - it looks so simple. Surely it will take only 5 to 10
 minutes to learn.

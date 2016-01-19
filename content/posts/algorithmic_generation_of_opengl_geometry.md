@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/381_algorithmic-generation-of-opengl-geometry.mp4
+Speakers: [Jonathan Hartley]
+Tags: [3d, opengl, pycon, pycon2011, pyglet, pyopengl]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011AlgorithmicGenerationOfOpenGLGeometry275-566.jpg'
+Title: '"Algorithmic Generation of OpenGL Geometry"'
 date: '2011-03-11'
-speakers: [Jonathan Hartley]
-tags: [3d, opengl, pycon, pycon2011, pyglet, pyopengl]
 ---
 Algorithmic Generation of OpenGL Geometry
 

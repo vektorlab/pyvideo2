@@ -3,10 +3,11 @@ Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=tzXWTrpCyCM"'
+Speakers: [Mark Ramm]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/tzXWTrpCyCM/hqdefault.jpg'
+Title: '"Keynote: What to build. How to build it.  Python can help!"'
 date: '2012-08-21'
-speakers: [Mark Ramm]
-tags: []
 ---
 There’s been a lot of buzz about “Lean Startups,” “Customer Development,”
 “Business Model Generation” and related topics lately. And there is a real

@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
 SourceUrl: '"http://www.youtube.com/watch?v=XA80glyC9kE"'
+Speakers: [Lorenzo Mancini]
+Tags: [pygame]
 ThumbnailUrl: 'http://i.ytimg.com/vi/XA80glyC9kE/hqdefault.jpg'
+Title: '"Realizzare un emulatore di videogiochi"'
 date: '2011-07-13'
-speakers: [Lorenzo Mancini]
-tags: [pygame]
 ---
 Lo sviluppo di un emulatore di videogiochi è tra le cose più divertenti che un
 programmatore può fare davanti ad un monitor.

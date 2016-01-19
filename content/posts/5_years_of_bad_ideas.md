@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=bpjHa0G9X5w"'
+Speakers: [Armin Ronacher]
+Tags: [api, cpython]
 ThumbnailUrl: 'http://i.ytimg.com/vi/bpjHa0G9X5w/hqdefault.jpg'
+Title: '"5 Years of Bad Ideas"'
 date: '2011-07-07'
-speakers: [Armin Ronacher]
-tags: [api, cpython]
 ---
 What was my motivation for working with Python after two years of PHP? There
 is so much you can do. Functions are objects you can pass around, you can

@@ -3,9 +3,10 @@ Category: 'DjangoCon 2011'
 Copyright: ''
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/94_restful-apis-promises-and-lies.m4v
+Speakers: [Tareque Hossain]
+Tags: [api, djangocon, djangocon2011, rest]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-RESTfulAPIsPromisesLies340-439.jpg'
-speakers: [Tareque Hossain]
-tags: [api, djangocon, djangocon2011, rest]
+Title: '"RESTful APIs: Promises and Lies"'
 ---
 RESTful APIs: Promises & Lies
 

@@ -3,10 +3,11 @@ Category: 'PyCon US 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=XFw1JVXKJss"'
+Speakers: ["Fernando P\xE9rez"]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/XFw1JVXKJss/hqdefault.jpg'
+Title: '"IPython in depth: high productivity interactive and parallel python"'
 date: '2014-04-12'
-speakers: ["Fernando P\xE9rez"]
-tags: []
 ---
 IPython provides tools for interactive and parallel computing that are widely used in scientific computing, but can benefit any Python developer.
 

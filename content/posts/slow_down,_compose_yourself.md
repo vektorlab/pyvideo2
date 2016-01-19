@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=kUIjaHPvaTo"'
+Speakers: [Amber "Hawkie" Brown]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/kUIjaHPvaTo/hqdefault.jpg'
+Title: '"Slow Down, Compose Yourself"'
 date: '2015-08-04'
-speakers: [Amber "Hawkie" Brown]
-tags: []
 ---
 As your codebase grows, you will have instances where you have code that needs to be reused. Then you think, I can do this with subclassing! Now you have a diamond-tree of problems.
 

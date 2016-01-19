@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=WezVJSzqv1Y"'
+Speakers: ["S\xE9bastien Keim"]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/WezVJSzqv1Y/maxresdefault.jpg'
+Title: \xE9l\xE9gants objets\
 date: '2013-11-30'
-speakers: ["S\xE9bastien Keim"]
-tags: []
 ---
 Qu'est ce qui rend Python et sa bibliothèque standard si attrayants ? Et comment créer des objets qui ont les mêmes qualités ?
 

@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/399_mongodb-pylons-at-catch-com-scalable-web-apps-with-python-and-nosql.mp4
+Speakers: [Niall O'Higgins]
+Tags: [casestudy, mongodb, nosql, pycon, pycon2011, pylons, scalable]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011MongoDBPylonsAtCatchcomScalableWebAppsWithPy842-535.jpg'
+Title: '"MongoDB + Pylons at Catch.com: Scalable Web Apps with Python and NoSQL"'
 date: '2011-03-11'
-speakers: [Niall O'Higgins]
-tags: [casestudy, mongodb, nosql, pycon, pycon2011, pylons, scalable]
 ---
 MongoDB + Pylons at Catch.com: Scalable Web Apps with Python and NoSQL
 

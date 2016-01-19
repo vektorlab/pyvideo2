@@ -3,10 +3,11 @@ Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=onYs20ykbBY"'
+Speakers: [Robert Layton]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/onYs20ykbBY/hqdefault.jpg'
+Title: '"scikit-learn, machine learning and cybercrime attribution"'
 date: '2013-07-06'
-speakers: [Robert Layton]
-tags: []
 ---
 The scikit-learn library is a rapidly growing open source toolkit for machine learning in python. It allows for practitioners and researchers to apply machine learning in a variety of applications and is used by companies worldwide. Developed by programmers from around the world, the project has a large (and increasing) number of machine learning algorithms, a very useful set of utility functions and has also spawned a set of detailed tutorials. Written in python with the aid of numpy, scipy and cython, this library is featured, fast and extensible.
 

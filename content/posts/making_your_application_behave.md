@@ -3,10 +3,11 @@ Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=u8BOKuNkmhg"'
+Speakers: [Benno Rice]
+Tags: [bdd, behave]
 ThumbnailUrl: 'http://i.ytimg.com/vi/u8BOKuNkmhg/hqdefault.jpg'
+Title: '"Making Your Application Behave"'
 date: '2012-08-22'
-speakers: [Benno Rice]
-tags: [bdd, behave]
 ---
 Behave is a tool for behaviour-driven development inspired by the Cucumber
 tool for Ruby. It allows developers and stakeholders to agree on how a

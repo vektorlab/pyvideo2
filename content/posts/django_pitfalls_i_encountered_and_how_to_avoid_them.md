@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/390_django-pitfalls-i-encountered-and-how-to-avoid-them.mp4
+Speakers: [Luke Sneeringer]
+Tags: [pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011DjangoPitfallsIEncounteredAndHowToAvoidThem207-415.jpg'
+Title: '"Django: Pitfalls I Encountered and How to Avoid Them"'
 date: '2011-03-11'
-speakers: [Luke Sneeringer]
-tags: [pycon, pycon2011]
 ---
 Django: Pitfalls I Encountered and How to Avoid Them
 

@@ -3,9 +3,10 @@ Category: 'PyCon AU 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/478_pyconau-2010-what-s-eating-my-memory.flv
+Speakers: [Andrew Bennetts]
+Tags: [memory, optimisation, performance, pyconau, pyconau2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-WhatsEatingMyMemory591.png'
-speakers: [Andrew Bennetts]
-tags: [memory, optimisation, performance, pyconau, pyconau2010]
+Title: '"PyConAU 2010: What''s eating my memory?"'
 ---
 What's eating my memory?
 

@@ -3,10 +3,11 @@ Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=qrN3fJIGx7Y"'
+Speakers: [Jessica McKellar]
+Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/qrN3fJIGx7Y/hqdefault.jpg'
+Title: '"PyCon Canada 2012 - Saturday Morning Keynote"'
 date: '2012-11-10'
-speakers: [Jessica McKellar]
-tags: []
 ---
 Jessica is a veteran open source contributor and a maintainer for several open
 source projects, including OpenHatch and the Twisted event-driven networking

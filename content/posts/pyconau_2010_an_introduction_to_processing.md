@@ -3,9 +3,10 @@ Category: 'PyCon AU 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/457_pyconau-2010-an-introduction-to-processing.flv
+Speakers: [Clinton J Roy]
+Tags: [gui, multimedia, processing, pyconau, pyconau2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-AnIntroductionToProcessing388.png'
-speakers: [Clinton J Roy]
-tags: [gui, multimedia, processing, pyconau, pyconau2010]
+Title: '"PyConAU 2010: An Introduction to Processing"'
 ---
 An Introduction to Processing
 

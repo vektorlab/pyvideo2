@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=BTpjJkTXFSQ"'
+Speakers: [Nate Aune]
+Tags: [boto, cloud, deploy, ec2, fabric, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/BTpjJkTXFSQ/hqdefault.jpg'
+Title: '"Deploying web applications to the cloud with Python"'
 date: '2011-07-13'
-speakers: [Nate Aune]
-tags: [boto, cloud, deploy, ec2, fabric, web]
 ---
 How can Python help you deploy web applications to the cloud? Amazon EC2
 provides virtual machines on demand but as a developer you still have to

@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=Bk91DoAEcjY"'
+Speakers: [Stefan]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/Bk91DoAEcjY/hqdefault.jpg'
+Title: '"Event discrete simulation with SimPy"'
 date: '2014-07-25'
-speakers: [Stefan]
-tags: []
 ---
 Simulation is important for the analysis of complex systems or the analysis of
 the impact of certain actions on that systems. They are especially useful if

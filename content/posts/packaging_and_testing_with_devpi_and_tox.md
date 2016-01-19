@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=s_YjaODzM1E"'
+Speakers: [holger krekel]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/s_YjaODzM1E/hqdefault.jpg'
+Title: '"packaging and testing with devpi and tox"'
 date: '2014-07-24'
-speakers: [holger krekel]
-tags: []
 ---
 The talk discusses the following tools:
 

@@ -3,10 +3,12 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/325_turtles-all-the-way-down-demystifying-deferreds-decorators-and-declarations-169.m4v
+Speakers: [Glyph Lefkowitz]
+Tags: [decorators, deferreds, delcarations, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010TurtlesAllTheWayDownDemystifyingDeferredsDecora171.png'
+Title: '"Turtles All The Way Down: Demystifying Deferreds, Decorators, and Declarations
+  (#169)"'
 date: '2010-02-19'
-speakers: [Glyph Lefkowitz]
-tags: [decorators, deferreds, delcarations, pycon, pycon2010]
 ---
 Turtles all the way down: Demystifying deferreds, decorators and declarations
 

@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=L6TtXrLmdKA"'
+Speakers: [Schlomo Schapiro]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/L6TtXrLmdKA/hqdefault.jpg'
+Title: '"DevOps Risk Mitigation: Test Driven Infrastructure"'
 date: '2014-07-23'
-speakers: [Schlomo Schapiro]
-tags: []
 ---
 Common wisdom has it that the test effort should be related to the risk of a change. However, the reality is different: Developers build elaborate automated test chains to test every single commit of their application. Admins regularly “test” changes on the live platform in production. But which change carries a higher risk of taking the live platform down?
 

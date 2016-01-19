@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=IZVPsuWODpg"'
+Speakers: ["Francisco Fern\xE1ndez Casta\xF1o"]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/IZVPsuWODpg/hqdefault.jpg'
+Title: '"Graph Databases, a little connected tour"'
 date: '2014-07-23'
-speakers: ["Francisco Fern\xE1ndez Casta\xF1o"]
-tags: []
 ---
 There are many kinds of NoSQL databases like, document databases, key-value, column databases and graph databases.
 In some scenarios is more convenient to store our data as a graph, because we want to extract and study information relative to these connections. In this scenario, graph databases are the ideal, they are designed and implemented to deal with connected information in a efficient way.

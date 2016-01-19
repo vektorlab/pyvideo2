@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=Q6EKaBd7jmY"'
+Speakers: [Nicola Tarocci]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/Q6EKaBd7jmY/hqdefault.jpg'
+Title: '"Sviluppare una Restful web API con Python, Flask e MongoDB"'
 date: '2012-07-04'
-speakers: [Nicola Tarocci]
-tags: []
 ---
 Nel corso dell’ultimo anno abbiamo lavorato all’implementazione Python di una
 RESTful Web API completa. Abbiamo imparato un bel po’ di cose sui best pattern

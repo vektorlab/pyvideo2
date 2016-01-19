@@ -3,10 +3,12 @@ Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'Chinese'
 SourceUrl: '"https://www.youtube.com/watch?v=MSOlZeDN3qc"'
+Speakers: [Toomore Chiang]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/MSOlZeDN3qc/hqdefault.jpg'
+Title: \u5982\u4F55\u7528 grs \u64F7\u53D6\u53F0\u7063\u4E0A\u5E02\u80A1\u7968\u80A1\
+  \u50F9\u8CC7\u8A0A\
 date: '2014-08-07'
-speakers: [Toomore Chiang]
-tags: []
 ---
 展示如何利用 grs 套件來擷取台灣股市上市個股股價資訊，與開盤交易期間如何擷取上市即時盤資訊。 grs 套件包含其他常用的工具： - 顯示台灣時間：TWTime - 判斷台灣股市是否開市：TWSEOpen - 各股即時盤資訊：RealtimeStock - 大盤即時盤資訊：RealtimeWeight - 上市股票代碼列表：TWSENo - 單日倒數時間：Countdown grs 套件包含簡易的數值分析： - 移動平均數值 - 判斷乖離轉折點 - 四大買賣點判斷 目前 grs 只能擷取上市股票資訊，上櫃資料預定在 v0.5 版本加入。 相關的資訊： pypi / <https://pypi.python.org/pypi/grs> github / <https://github.com/toomore/grs> grs docs / <http://grs-docs.toomore.net>
 

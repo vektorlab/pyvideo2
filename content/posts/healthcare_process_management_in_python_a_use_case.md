@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=btyuUwcfLW0"'
+Speakers: [Federico Caboni]
+Tags: [asynchronous, prototyping, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/btyuUwcfLW0/hqdefault.jpg'
+Title: '"Healthcare process management in Python: a use case"'
 date: '2011-07-24'
-speakers: [Federico Caboni]
-tags: [asynchronous, prototyping, web]
 ---
 In this talk I'll describe our successful experience in introducing Python
 into a system for blood collection tube labeling in laboratory and hospital

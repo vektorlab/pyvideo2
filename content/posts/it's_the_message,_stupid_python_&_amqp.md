@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=dIwsKYNbtnI"'
+Speakers: [Muharem Hrnjadovic]
+Tags: [amqp, asynchronous, patterns, performance, queues, scalability, technology]
 ThumbnailUrl: 'http://i.ytimg.com/vi/dIwsKYNbtnI/hqdefault.jpg'
+Title: '"It''s the message, stupid: python & amqp"'
 date: '2011-07-13'
-speakers: [Muharem Hrnjadovic]
-tags: [amqp, asynchronous, patterns, performance, queues, scalability, technology]
 ---
 Messaging is a well established domain in information technology and can
 greatly improve the scalability and throughput of a system when employed

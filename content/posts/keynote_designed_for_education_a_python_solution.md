@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=gaFk0Sya_HI"'
+Speakers: [Carrie Anne Philbin]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/gaFk0Sya_HI/hqdefault.jpg'
+Title: '"Keynote: Designed for education: a Python solution"'
 date: '2015-08-03'
-speakers: [Carrie Anne Philbin]
-tags: []
 ---
 The problem of introducing children to programming and computer science has seen growing attention in the past few years. Initiatives like Raspberry Pi, Code Club, code.org, (and many more) have been created to help solve this problem. With the introduction of a national computing curriculum in the UK, teachers have been searching for a text based programming language to help teach computational thinking as a follow on from visual languages like Scratch.
 

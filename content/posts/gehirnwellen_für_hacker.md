@@ -3,11 +3,12 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=CMKV4hlcU8Y"'
-ThumbnailUrl: 'http://i1.ytimg.com/vi/CMKV4hlcU8Y/hqdefault.jpg'
-date: '2013-10-17'
-speakers: [Andreas Klostermann]
-tags: [biology, brain computer interfaces, eeg, medicine, neurofeedback, raspberry
+Speakers: [Andreas Klostermann]
+Tags: [biology, brain computer interfaces, eeg, medicine, neurofeedback, raspberry
     pi]
+ThumbnailUrl: 'http://i1.ytimg.com/vi/CMKV4hlcU8Y/hqdefault.jpg'
+Title: Gehirnwellen f\xFCr Hacker\
+date: '2013-10-17'
 ---
 Dieser Vortrag beschreibt das Neurosky Mindwave Headset, wie man es mit Python von einem Linuxsystem aus ansteuert.
 

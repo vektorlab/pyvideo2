@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=u44L-l3RPy0"'
+Speakers: [Reinhard Wobst]
+Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/u44L-l3RPy0/hqdefault.jpg'
+Title: '"OpenOffice-Dokumente selbst modifizieren"'
 date: '2012-10-31'
-speakers: [Reinhard Wobst]
-tags: []
 ---
 Der Vortrag stellt eine Python-Klasse vor, die das fast beliebige Modifizieren
 von Open/LibreOffice-Dokumenten bequem ermöglicht. Es geht mehr um die

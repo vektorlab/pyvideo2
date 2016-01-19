@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=lmuhyc4aPYs"'
+Speakers: [Runa Sandvik]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/lmuhyc4aPYs/hqdefault.jpg'
+Title: '"Snakes and onions: Python developers and Tor"'
 date: '2012-07-04'
-speakers: [Runa Sandvik]
-tags: []
 ---
 The Tor Project develops and maintains Tor, a free and open-source software
 that allows users to browse the web anonymously and securely. In addition, the

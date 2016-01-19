@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=xmsK1geCDq4"'
+Speakers: [V Maggio]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/xmsK1geCDq4/hqdefault.jpg'
+Title: '"Clone detection in python"'
 date: '2012-07-05'
-speakers: [V Maggio]
-tags: []
 ---
 The clone detection is a longstanding and very active research area in the
 field of Software Maintenance aimed at identifying duplications in source

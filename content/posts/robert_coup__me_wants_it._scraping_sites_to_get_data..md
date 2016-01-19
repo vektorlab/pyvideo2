@@ -3,9 +3,10 @@ Category: 'Kiwi PyCon 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/130_robert-coup-me-wants-it-scraping-sites-to-get-data.flv
+Speakers: [Robert Coup]
+Tags: [api, html, kiwipycon, kiwipycon2009, rest, scraping, web]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-RobertCoupMeWantsItScrapingSitesToGetData498-799.jpg'
-speakers: [Robert Coup]
-tags: [api, html, kiwipycon, kiwipycon2009, rest, scraping, web]
+Title: '"Robert Coup - /me wants it. Scraping sites to get data."'
 ---
 /me wants it. Scraping sites to get data.
 

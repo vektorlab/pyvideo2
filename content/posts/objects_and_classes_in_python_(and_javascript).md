@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=e0tK-Kawx3E"'
+Speakers: [Jonathan Fine]
+Tags: [dictionaries, javascript, tutorial]
 ThumbnailUrl: 'http://i.ytimg.com/vi/e0tK-Kawx3E/hqdefault.jpg'
+Title: '"Objects and classes in Python (and JavaScript)"'
 date: '2011-07-21'
-speakers: [Jonathan Fine]
-tags: [dictionaries, javascript, tutorial]
 ---
 Python has a well-thought out system for classes. Beginners can use it without
 understanding it all. Experts can use it to produce code that is both elegant

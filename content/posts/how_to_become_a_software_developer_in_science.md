@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=z0xglZQ-CZk"'
+Speakers: [Magdalena Rother]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/z0xglZQ-CZk/hqdefault.jpg'
+Title: '"How to become a software developer in science?"'
 date: '2014-07-24'
-speakers: [Magdalena Rother]
-tags: []
 ---
 **Goal**: give practical tools for improving skills and software quality to people with a background other than IT.
 

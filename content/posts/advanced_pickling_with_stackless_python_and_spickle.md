@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=rwhZ4joMLsI"'
+Speakers: [Anselm Kruis]
+Tags: [packages, pickling, science, stackless]
 ThumbnailUrl: 'http://i.ytimg.com/vi/rwhZ4joMLsI/hqdefault.jpg'
+Title: '"Advanced Pickling with Stackless Python and sPickle"'
 date: '2011-07-07'
-speakers: [Anselm Kruis]
-tags: [packages, pickling, science, stackless]
 ---
 Stackless Python supports pickling of a wider range of types than conventional
 C-Python, including stack frames and code objects. On this basis it is

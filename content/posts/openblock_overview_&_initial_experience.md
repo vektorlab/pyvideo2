@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=nwr_G6Nln3s"'
+Speakers: [Colin Copeland, Karen Tracey]
+Tags: [django, openblock]
 ThumbnailUrl: 'http://i.ytimg.com/vi/nwr_G6Nln3s/hqdefault.jpg'
+Title: '"OpenBlock: Overview & Initial Experience"'
 date: '2012-09-04'
-speakers: [Colin Copeland, Karen Tracey]
-tags: [django, openblock]
 ---
 # Abstract
 

@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=9PQsCmOeYwU"'
+Speakers: [Clinton Roy]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/9PQsCmOeYwU/hqdefault.jpg'
+Title: '"Lrparsing, when regular expressions aren''t enough"'
 date: '2015-08-04'
-speakers: [Clinton Roy]
-tags: []
 ---
 Lrparsing is a fast, well documented and tested parsing infrastructure for Python. Parsing infrastructures are used when the input to be parsed is too complex to be done by regular expressions alone. Parsing infrastructures are ideally suited to parsing programming languages and configuration files. Lrparsing is roughly equivalent to the combination of Flex and Bison, except completely implemented in Python, and is thus very Pythonic.
 

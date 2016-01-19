@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=2oPevmFcZxI"'
+Speakers: [Roberto Polli]
+Tags: [Tech]
 ThumbnailUrl: 'http://i.ytimg.com/vi/2oPevmFcZxI/hqdefault.jpg'
+Title: '"Statistics 101 for System Administrators"'
 date: '2014-07-22'
-speakers: [Roberto Polli]
-tags: [Tech]
 ---
 #Statistics 101 for System Administrators
 

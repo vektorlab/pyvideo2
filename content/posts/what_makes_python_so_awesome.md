@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=U1r2nsd5wsQ"'
+Speakers: [Raymond Hettinger]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/U1r2nsd5wsQ/hqdefault.jpg'
+Title: '"What makes Python so AWESOME"'
 date: '2011-07-13'
-speakers: [Raymond Hettinger]
-tags: []
 ---
 In a world of many programming languages, the popularity of Python continues
 to grow without bound. We examine what makes it special and how it influences

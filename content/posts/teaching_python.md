@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=5AmF0yqOz8g"'
+Speakers: [Robert Lehmann]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/5AmF0yqOz8g/hqdefault.jpg'
+Title: '"Teaching Python"'
 date: '2014-07-22'
-speakers: [Robert Lehmann]
-tags: []
 ---
 Python has been used in educational programmes ever since.  With a bandwidth that large, navigating the landscape of Python tutorials is hard indeed.
 

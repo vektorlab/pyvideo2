@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=yrboy25WKGo"'
+Speakers: [Raymond Hettinger]
+Tags: [art]
 ThumbnailUrl: 'http://i.ytimg.com/vi/yrboy25WKGo/hqdefault.jpg'
+Title: '"The Art of Subclassing"'
 date: '2011-07-13'
-speakers: [Raymond Hettinger]
-tags: [art]
 ---
 All problems have simple, easy-to-understand, logical wrong answers.
 Subclassing in Python is no exception. Avoid the common pitfalls and learn

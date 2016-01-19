@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/434_an-biased-survey-of-the-python-web.mp4
+Speakers: [Mark Ramm]
+Tags: [pycon, pycon2011, web, webframeworks]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011AnBiasedSurveyOfThePythonWeb847.png'
+Title: '"An (biased) survey of the python web"'
 date: '2011-03-11'
-speakers: [Mark Ramm]
-tags: [pycon, pycon2011, web, webframeworks]
 ---
 An (biased) survey of the python web
 

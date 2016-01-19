@@ -3,10 +3,12 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/324_small-acts-make-great-revolutions-crafting-python-and-open-source-communities-in-rio-de-janeiro-78.m4v
+Speakers: [Guilherme Chapiewski, Henrique Bastos]
+Tags: [community, pycon, pycon2010, pythonrio]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010SmallActsMakeGreatRevolutionsCraftingPythonAnd957.png'
+Title: '"Small acts make great revolutions: crafting Python and Open Source communities
+  in Rio de Janeiro (#78)"'
 date: '2010-02-19'
-speakers: [Guilherme Chapiewski, Henrique Bastos]
-tags: [community, pycon, pycon2010, pythonrio]
 ---
 Small acts make great revolutions: crafting Python and Open Source communities
 in Rio de Janeiro

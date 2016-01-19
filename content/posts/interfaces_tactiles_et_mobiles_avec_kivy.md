@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=NgKXTnyiT7s"'
+Speakers: [Gabriel Pettier]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/NgKXTnyiT7s/maxresdefault.jpg'
+Title: '"Interfaces tactiles et mobiles avec Kivy"'
 date: '2013-11-30'
-speakers: [Gabriel Pettier]
-tags: []
 ---
 Kivy est un framework multitouch fonctionnant sur la plupart des plateformes desktop et mobiles. Entièrement écrit en python, et basé sur opengl ES, il est facilement extensible et offre de très bonnes performances, et permet donc de développer rapidement des applications mobiles (android et iOS).
 

@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=_PPQLeimyOM"'
+Speakers: [Christopher Neugebauer]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/_PPQLeimyOM/hqdefault.jpg'
+Title: Python's New Type Hints in Action\u2026 In JavaScript\
 date: '2015-08-04'
-speakers: [Christopher Neugebauer]
-tags: []
 ---
 Depending on who you ask, PEP 484's Type Hints are either the next big thing in Python, or the harbinger of doom upon our entire community. Which is it?
 

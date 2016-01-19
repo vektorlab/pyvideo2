@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=VQXG_I0wgeo"'
+Speakers: [Elena Williams]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/VQXG_I0wgeo/hqdefault.jpg'
+Title: '"The Curse of the Django Podcast by Elena Williams"'
 date: '2014-08-11'
-speakers: [Elena Williams]
-tags: []
 ---
 The Django community is full of amazing, enthusiastic and multi-talented individuals who love to take on exciting new extra-curricular projects in their massive amounts of spare time. 
 

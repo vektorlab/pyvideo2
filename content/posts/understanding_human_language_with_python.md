@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"http://youtu.be/vZsW-xCXfRI"'
+Speakers: [Alyona Medelyan]
+Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/vZsW-xCXfRI/hqdefault.jpg'
+Title: '"Understanding human language with Python"'
 date: '2014-09-14'
-speakers: [Alyona Medelyan]
-tags: [talk]
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Alyona Medelyan:

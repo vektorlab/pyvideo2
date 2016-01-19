@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=WwHcDi8Tkwk"'
+Speakers: [Amalia Hawkins]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/WwHcDi8Tkwk/hqdefault.jpg'
+Title: '"Narrowing the Gender Gap at Hackathons"'
 date: '2014-06-27'
-speakers: [Amalia Hawkins]
-tags: []
 ---
 As hackathons become more prevalent, one thing has (mostly) stayed the same: the ratio of male to female hackathon participants is often lower than the ratio in the broader computer science community. 
 

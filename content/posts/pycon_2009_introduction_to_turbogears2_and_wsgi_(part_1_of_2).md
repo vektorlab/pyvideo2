@@ -3,9 +3,10 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/172_pycon-2009-introduction-to-turbogears2-and-wsgi-part-1-of-2.mp4
+Speakers: []
+Tags: [pycon, pycon2009, turbogears, tutorial, wsgi]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-IntroductionToTurboGears2WSGIPart001522-886.jpg'
-speakers: []
-tags: [pycon, pycon2009, turbogears, tutorial, wsgi]
+Title: '"PyCon 2009: Introduction to TurboGears2 and WSGI (Part 1 of 2)"'
 ---
   
 [VIDEO HAS ISSUES: annoying noise starting at 1:17 (2nd half)] Are you

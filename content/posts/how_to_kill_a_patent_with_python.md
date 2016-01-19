@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/425_how-to-kill-a-patent-with-python.mp4
+Speakers: [Van Lindberg]
+Tags: [casestudy, patents, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011HowToKillAPatentWithPython889.png'
+Title: '"How to kill a patent with Python"'
 date: '2011-03-11'
-speakers: [Van Lindberg]
-tags: [casestudy, patents, pycon, pycon2011]
 ---
 How to kill a patent with Python
 

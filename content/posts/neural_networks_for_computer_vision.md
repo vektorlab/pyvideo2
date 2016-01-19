@@ -3,10 +3,11 @@ Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=2O3vCltvicM"'
+Speakers: [Kyle Kastner]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/2O3vCltvicM/hqdefault.jpg'
+Title: '"Neural Networks for Computer Vision"'
 date: '2014-10-22'
-speakers: [Kyle Kastner]
-tags: []
 ---
 Neural networks with many layers are known as "deep" neural networks. While the phrase "deep learning" to describe deep neural networks is new, the ideas behind these networks have been around for many years. Deep neural networks attempt to learn concise, hierarchical representations of complex data, and recent advances in research have made it much easier to use these networks on many tasks, including computer vision. Due to massive increases in compute power, available data, and algorithmic techniques, neural networks have greatly improved the state of the art for many aspects of computer vision including object recognition and localization.
 

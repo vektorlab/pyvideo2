@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=thMh_mpp6s8"'
+Speakers: [Peadar Coyle]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/thMh_mpp6s8/hqdefault.jpg'
+Title: '"How to get Data Science Models into production on a budget"'
 date: '2015-05-29'
-speakers: [Peadar Coyle]
-tags: []
 ---
 One of the biggest challenges we have as data scientists is getting our models into production. I’ve worked with Java developers to get models into production and there aren’t always the same libraries in Java as there are in Python. Example try porting Scikitlearn code to Java.
 Possible solution: PMML (from last time) or you write spec.

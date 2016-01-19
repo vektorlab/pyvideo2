@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=_OX-3UhwUeg"'
+Speakers: [Geoffrey French]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/_OX-3UhwUeg/hqdefault.jpg'
+Title: '"A Visual Interactive Programming Environment"'
 date: '2011-07-07'
-speakers: [Geoffrey French]
-tags: []
 ---
 The Larch Environment is a visual interactive programming environment for
 Jython/Python. Its purpose is to make programming more visual. To this end,

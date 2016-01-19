@@ -3,10 +3,11 @@ Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=7rpcWZJaGFo"'
+Speakers: [Patrick Peglar]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/7rpcWZJaGFo/hqdefault.jpg'
+Title: '"Efficient large data operations with Biggus"'
 date: '2014-10-22'
-speakers: [Patrick Peglar]
-tags: []
 ---
 As scientific datasets continue to grow exponentially in size, the resource requirements of even simple analyses can quickly grow to become a problem -- e.g. the job takes an unreasonably long time, or simply runs out of space.
 

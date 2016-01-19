@@ -3,10 +3,12 @@ Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=ZD5n9s8PGtI"'
+Speakers: ["Fernando P\xE9rez"]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/ZD5n9s8PGtI/hqdefault.jpg'
+Title: '"Open Source and Open Science: how Python and its community made me a better
+  scientist "'
 date: '2014-08-08'
-speakers: ["Fernando P\xE9rez"]
-tags: []
 ---
 I will discuss the intersection of Open Source and scientific research, focusing on the positive impact that Open Source tools and ideas, and the Python community in particular, have had on the world of science. Scientific research is at a crossroads, under increasing pressure to justify itself to society at large and with very real questions being asked about the reproducibility of scientific results and access to the products of science. The Open Source community have created both technical and cultural solutions to similar problems that we as scientists can learn from. The Python language has also made major inroads into research and education, helping foster a culture of better computational research and opening up a space for a lot of creativity at the intersection of science and computing.
 

@@ -3,10 +3,11 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=py3SrsZKxo4"'
+Speakers: ["Berthold H\xF6llmann"]
+Tags: [extension, fem, numpy]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/py3SrsZKxo4/hqdefault.jpg'
+Title: \xDCber die Verwendung von Python zur Strukturanalyse von Schiffen\
 date: '2013-10-15'
-speakers: ["Berthold H\xF6llmann"]
-tags: [extension, fem, numpy]
 ---
 Der Germanische Lloyd ist ein international tätiges technisches Dienstleistungsunternehmen, das sich mit u.a. mit der sicherheitsrelevanten Bewertung von Schiffsstrukturen befasst.
 

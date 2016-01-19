@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=FgF22pqnJFI"'
+Speakers: ["Ga\xEBl Lambert"]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/FgF22pqnJFI/maxresdefault.jpg'
+Title: '"Numeter open source graphs system"'
 date: '2013-11-30'
-speakers: ["Ga\xEBl Lambert"]
-tags: []
 ---
 Numeter est un projet open source visant à collecter et grapher des données (cpu, ram, ...). Entièrement en python, pensé en brique de façon à laisser le choix d'utiliser l'une ou l'ensemble. Le but est de proposer une solution de graph avec une autre vision : celle d'un hébergeur et acteur du cloud.
 

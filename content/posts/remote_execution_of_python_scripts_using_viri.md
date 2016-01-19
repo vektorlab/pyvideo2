@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=SGz5RZEOMFE"'
+Speakers: [Marc Garcia]
+Tags: [backup, logging, scripts]
 ThumbnailUrl: 'http://i.ytimg.com/vi/SGz5RZEOMFE/hqdefault.jpg'
+Title: '"Remote execution of Python scripts using Viri"'
 date: '2011-07-18'
-speakers: [Marc Garcia]
-tags: [backup, logging, scripts]
 ---
 Viri is a system for automatic distribution and execution of Python code on
 remote machines. This is especially useful when dealing with a large group of

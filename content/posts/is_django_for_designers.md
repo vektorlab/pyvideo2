@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=nGqQC4_UV-A"'
+Speakers: [Julia Elman]
+Tags: [django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/nGqQC4_UV-A/hqdefault.jpg'
+Title: '"Is Django for Designers?"'
 date: '2012-09-06'
-speakers: [Julia Elman]
-tags: [django]
 ---
 From the beginning, Django has been built to be designer friendly. This talk
 is meant for those who are looking to learn more about how Django empowers

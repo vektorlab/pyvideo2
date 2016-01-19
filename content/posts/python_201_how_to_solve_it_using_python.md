@@ -3,10 +3,11 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/253_python-201-how-to-solve-it-using-python.m4v
+Speakers: [Senthil Kumaran]
+Tags: [pycon, pycon2010, python-basics, testing, tutorial, xml]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010Python201HowToSolveItUsingPython440-675.jpg'
+Title: '"Python 201: How to Solve It Using Python"'
 date: '2010-02-19'
-speakers: [Senthil Kumaran]
-tags: [pycon, pycon2010, python-basics, testing, tutorial, xml]
 ---
 Python 201: How to Solve it using Python
 

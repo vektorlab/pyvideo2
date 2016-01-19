@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=NrkopXN9sQg"'
+Speakers: [Justin Myles Holmes]
+Tags: [django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/NrkopXN9sQg/hqdefault.jpg'
+Title: '"Why the Django Community Sucks"'
 date: '2012-09-05'
-speakers: [Justin Myles Holmes]
-tags: [django]
 ---
 In 2010, Eric Florenzano ignited a fever following his lightfooted and
 lighthearted placement of a mirror in front of the hardest of the hardcore in

@@ -3,10 +3,11 @@ Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=s3EeIolzQTU"'
+Speakers: [Adam Terrey]
+Tags: [migration, plone, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/s3EeIolzQTU/hqdefault.jpg'
+Title: '"Easy site migration using Diazo and Funnelweb"'
 date: '2011-08-23'
-speakers: [Adam Terrey]
-tags: [migration, plone, web]
 ---
 Moving old sites into a new web platform is a pain. Often you need to pull
 apart perfectly good HTML just to spend time painstakingly putting back

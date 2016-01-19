@@ -3,11 +3,12 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/358_saturday-afternoon-lightning-talks.mp4
-ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011SaturdayAfternoonLightningTalks857.png'
-date: '2011-03-11'
-speakers: []
-tags: [djangozoom, engineering, flufl.i18n, interviewing, javascript, pycon, pycon2011,
+Speakers: []
+Tags: [djangozoom, engineering, flufl.i18n, interviewing, javascript, pycon, pycon2011,
   pywo, readthedocs, sphinx]
+ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011SaturdayAfternoonLightningTalks857.png'
+Title: '"Saturday Afternoon Lightning Talks"'
+date: '2011-03-11'
 ---
 Saturday Afternoon Lightning Talks
 

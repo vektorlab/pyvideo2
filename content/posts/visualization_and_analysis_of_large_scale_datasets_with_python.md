@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=4fHnMecFIyw"'
+Speakers: [Christine Moran]
+Tags: [analysis, datasets, opensource, parallel, simulations, visualization]
 ThumbnailUrl: 'http://i.ytimg.com/vi/4fHnMecFIyw/hqdefault.jpg'
+Title: '"Visualization and Analysis of Large Scale Datasets with Python"'
 date: '2011-07-13'
-speakers: [Christine Moran]
-tags: [analysis, datasets, opensource, parallel, simulations, visualization]
 ---
 In this talk I will introduce ParaView, an open source application developed
 by researchers around the world for parallel visualization and analysis of

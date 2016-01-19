@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
 SourceUrl: '"https://www.youtube.com/watch?v=D341KedzE-Y"'
+Speakers: [Davide Corio]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/D341KedzE-Y/maxresdefault.jpg'
+Title: '"Odoo CMS by Davide Corio"'
 date: '2015-05-29'
-speakers: [Davide Corio]
-tags: []
 ---
 Odoo website builder, ecommerce ed altre nuove funzionalità.
 Approfondiamo questo nuovo set di moduli introdotto con la versione 8.0 di Odoo con i quali possiamo aggiungere funzionalità specifiche di CMS ed altri strumenti per lo sviluppo di siti web.

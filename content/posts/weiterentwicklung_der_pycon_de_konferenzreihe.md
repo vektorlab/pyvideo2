@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=IaW9hM3bgGs"'
+Speakers: ["Marc-Andr\xE9 Lemburg"]
+Tags: [' community', ' interaktion', ' konferenz', ' konzept', pycon de]
 ThumbnailUrl: 'http://i2.ytimg.com/vi/IaW9hM3bgGs/hqdefault.jpg'
+Title: '"Weiterentwicklung der PyCon DE Konferenzreihe"'
 date: '2012-11-01'
-speakers: ["Marc-Andr\xE9 Lemburg"]
-tags: [' community', ' interaktion', ' konferenz', ' konzept', pycon de]
 ---
 Die PyCon DE Konferenzreihe wurde 2010 von einer Gruppe interessierter Python
 Nutzer angestoßen und dann über eine Community Abstimmung in den Jahren 2011

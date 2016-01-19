@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=vUwSWtWJrnY"'
+Speakers: [Maurizio Delmonte]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/vUwSWtWJrnY/hqdefault.jpg'
+Title: '"Content Management professionale con Python nel 2012"'
 date: '2012-07-06'
-speakers: [Maurizio Delmonte]
-tags: []
 ---
 Django o Pyramid, rapidi da apprendere e mettere a frutto, sono potenti
 strumenti di lavoro, utili a costruire siti gestiti da un solo autore o

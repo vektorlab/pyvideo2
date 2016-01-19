@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=qf8DXDEWnaw"'
+Speakers: [Jackson Gatenby]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/qf8DXDEWnaw/hqdefault.jpg'
+Title: '"Learning to program is hard, and how to fix that by Jackson Gatenby"'
 date: '2014-08-09'
-speakers: [Jackson Gatenby]
-tags: []
 ---
 There are a lot of hurdles to overcome when learning your first programming language - What does this error mean? What's the difference between a for loop and a while loop? How does pass-by-reference evaluation work? What are classes? How do I even begin to turn this task into a working program?
 

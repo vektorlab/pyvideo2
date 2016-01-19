@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=mY8B2lXIu6g"'
+Speakers: [Russell Keith-Magee]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/mY8B2lXIu6g/hqdefault.jpg'
+Title: '"Money, Money, Money - Writing software, in a rich (wo)man''s world"'
 date: '2015-08-04'
-speakers: [Russell Keith-Magee]
-tags: []
 ---
 Free software advocates talk about two types of "Free": Free as in freedom, and Free as in beer. While Free (as in freedom) software is unquestionably better for users and developers alike, Free (as in beer) software doesn't pay the bills. 
 

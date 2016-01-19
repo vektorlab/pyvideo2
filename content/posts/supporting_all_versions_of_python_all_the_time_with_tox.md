@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/435_supporting-all-versions-of-python-all-the-time-with-tox.mp4
+Speakers: [Kumar McMillan]
+Tags: [ci, hudson, pycon, pycon2011, testing, tox]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011SupportingAllVersionsOfPythonAllTheTimeWithT333.png'
+Title: '"Supporting All Versions of Python All The Time With Tox"'
 date: '2011-03-11'
-speakers: [Kumar McMillan]
-tags: [ci, hudson, pycon, pycon2011, testing, tox]
 ---
 Supporting All Versions of Python All The Time With Tox
 

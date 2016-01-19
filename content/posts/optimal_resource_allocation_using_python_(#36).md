@@ -3,10 +3,11 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/299_optimal-resource-allocation-using-python-36.m4v
+Speakers: [Ryan J O'Neil]
+Tags: [pycon, pycon2010, zib]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010OptimalResourceAllocationUsingPython36659-324.jpg'
+Title: '"Optimal Resource Allocation using Python (#36)"'
 date: '2010-02-19'
-speakers: [Ryan J O'Neil]
-tags: [pycon, pycon2010, zib]
 ---
 Optimal Resource Allocation using Python
 

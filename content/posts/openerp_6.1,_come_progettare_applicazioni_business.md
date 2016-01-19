@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=Pqm1mc26eoE"'
+Speakers: [Davide Corio]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/Pqm1mc26eoE/hqdefault.jpg'
+Title: '"OpenERP 6.1, come progettare applicazioni business"'
 date: '2012-07-04'
-speakers: [Davide Corio]
-tags: []
 ---
 OpenERP 6.1 è uno dei più importanti free e opensource software scritti in
 Python. Immergiamoci nel framework a scopriamo come progettare la nostra

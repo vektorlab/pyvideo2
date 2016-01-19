@@ -3,9 +3,10 @@ Category: 'PyCon AU 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/481_pyconau-2010-hard-real-time-python-or-giant-robots-of-doom.flv
+Speakers: [Simon Wittber]
+Tags: [casestudy, pyconau, pyconau2010, robots]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-HardRealtimePythonOrGiantRobotsOfDoom180.png'
-speakers: [Simon Wittber]
-tags: [casestudy, pyconau, pyconau2010, robots]
+Title: '"PyConAU 2010: Hard Real-time Python, or, Giant Robots of Doom"'
 ---
 Hard Real-time Python, or, Giant Robots of Doom
 

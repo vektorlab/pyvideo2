@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=R1neKbS7UZM"'
+Speakers: [Christopher Neugebauer]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/R1neKbS7UZM/hqdefault.jpg'
+Title: '"The Quest for the Pocket-Sized Python by Christopher Neugebauer"'
 date: '2014-08-07'
-speakers: [Christopher Neugebauer]
-tags: []
 ---
 Python's already a language of choice for developers on the web, in science, and on the desktop. In the meantime, the world of Mobile computing has exploded in the last couple of years, and developers targetting Android, iOS, and other Mobile platforms are writing their apps in Java, Objective-C, JavaScript... but definitely not Python.
 

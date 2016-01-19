@@ -3,10 +3,11 @@ Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=brgMEWT1pYc"'
+Speakers: [Matthias Bussionnier, Thomas Kluyver]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/brgMEWT1pYc/hqdefault.jpg'
+Title: '"IPython Protocol, Kernals and new features"'
 date: '2014-10-22'
-speakers: [Matthias Bussionnier, Thomas Kluyver]
-tags: []
 ---
 A key idea behind IPython is decoupling code execution from user interfaces. IPython relies on a documented protocol, which can be implemented by different frontends and different kernels. By implementing it, frontends and kernels gain the ability to communicate regardless of which language they're written in. The IPython project maintains three different frontends, while there are multiple third party frontends and kernels already in use.
 

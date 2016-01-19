@@ -3,9 +3,10 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/187_pycon-2009-hands-on-with-trac-plugins-part-2-of-2.mp4
+Speakers: []
+Tags: [plugins, pycon, pycon2009, trac]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-HandsOnWithTracPluginsPart002424-933.jpg'
-speakers: []
-tags: [plugins, pycon, pycon2009, trac]
+Title: '"PyCon 2009: Hands on with Trac plugins (Part 2 of 2)"'
 ---
   
 Trac, an open-source project management tool, has been gaining in popularity,

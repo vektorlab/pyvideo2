@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=1ABPQyANid0"'
+Speakers: [Tom Eastman]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/1ABPQyANid0/hqdefault.jpg'
+Title: '"The one true way of doing Django deployments..."'
 date: '2015-08-04'
-speakers: [Tom Eastman]
-tags: []
 ---
 ...doesn't exist. (Sorry)
 

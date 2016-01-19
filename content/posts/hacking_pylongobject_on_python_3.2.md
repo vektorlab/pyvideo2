@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=9tzd45ho8gE"'
+Speakers: [Cesare Di Mauro]
+Tags: [hacking]
 ThumbnailUrl: 'http://i.ytimg.com/vi/9tzd45ho8gE/hqdefault.jpg'
+Title: '"Hacking PyLongObject on Python 3.2"'
 date: '2011-07-13'
-speakers: [Cesare Di Mauro]
-tags: [hacking]
 ---
 Beginning with Python 3 the old integer ("int") type has gone leaving the
 place to "long", which replaced it giving a unique, uniform type to deal with

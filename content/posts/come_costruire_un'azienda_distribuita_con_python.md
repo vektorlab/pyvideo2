@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
 SourceUrl: '"http://www.youtube.com/watch?v=3A7z75PSIuY"'
+Speakers: [Maurizio Delmonte]
+Tags: [agile, ci]
 ThumbnailUrl: 'http://i.ytimg.com/vi/3A7z75PSIuY/hqdefault.jpg'
+Title: '"Come costruire un''azienda distribuita con Python"'
 date: '2011-07-07'
-speakers: [Maurizio Delmonte]
-tags: [agile, ci]
 ---
 Il nostro gruppo di lavoro, composto da varie figure professionali, da anni
 lavora su più progetti in parallelo, e con team di persone che si incontrano

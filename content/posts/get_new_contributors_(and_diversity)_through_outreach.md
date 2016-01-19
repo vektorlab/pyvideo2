@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/415_get-new-contributors-and-diversity-through-outreach.mp4
+Speakers: [Asheesh Laroia]
+Tags: [diversity, openhatch, outreach, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011GetNewContributorsAndDiversityThroughOutreach225.png'
+Title: '"Get new contributors (and diversity) through outreach"'
 date: '2011-03-11'
-speakers: [Asheesh Laroia]
-tags: [diversity, openhatch, outreach, pycon, pycon2011]
 ---
 Get new contributors (and diversity) through outreach
 

@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=d_jqe1O31X8"'
+Speakers: [Jyrki Pulliainen]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/d_jqe1O31X8/hqdefault.jpg'
+Title: '"Packaging in packaging: dh-virtualenv"'
 date: '2014-07-24'
-speakers: [Jyrki Pulliainen]
-tags: []
 ---
 [Dh-virtualenv][1] is an open source tool developed at Spotify. We use it
 to ease deploying our Python software to production. We built dh-virtualenv as a tool that fits our existing continuous integration flow with a dedicated sbuild server.

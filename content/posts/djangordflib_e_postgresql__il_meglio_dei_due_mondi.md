@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
 SourceUrl: '"http://www.youtube.com/watch?v=ujP5LiQdgyI"'
+Speakers: [Stefan Talpalaru]
+Tags: [architecture, django, orm, postgresql, university]
 ThumbnailUrl: 'http://i.ytimg.com/vi/ujP5LiQdgyI/hqdefault.jpg'
+Title: '"django-rdflib e postgresql - il meglio dei due mondi"'
 date: '2011-07-13'
-speakers: [Stefan Talpalaru]
-tags: [architecture, django, orm, postgresql, university]
 ---
 rdflib è una libreria python che fornisce una base di dati con vari back-end
 per le triple, dei parser, serializzatori, SPARQL è un'interfaccia in python

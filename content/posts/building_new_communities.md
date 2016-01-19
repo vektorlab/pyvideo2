@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=Ecw9UIv1Czg"'
+Speakers: [Steve Holden]
+Tags: [keynote]
 ThumbnailUrl: 'http://i2.ytimg.com/vi/Ecw9UIv1Czg/hqdefault.jpg'
+Title: '"Building New Communities"'
 date: '2012-11-01'
-speakers: [Steve Holden]
-tags: [keynote]
 ---
 As commercial and governmental entities become more aware of the advantages of
 

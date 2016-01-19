@@ -3,10 +3,11 @@ Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=ickNQcNXiS4"'
+Speakers: [Carl Meyer]
+Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/ickNQcNXiS4/hqdefault.jpg'
+Title: '"Testing and Django"'
 date: '2012-03-10'
-speakers: [Carl Meyer]
-tags: []
 ---
 A deep dive into writing tests with Django, covering Django's custom test-
 suite-runner and the testing utilities in Django, what all they actually do,

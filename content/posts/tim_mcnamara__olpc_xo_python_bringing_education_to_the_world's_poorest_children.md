@@ -3,9 +3,11 @@ Category: 'Kiwi PyCon 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/116_tim-mcnamara-olpc-xo-python-bringing-education-to-the-world-s-poorest-children.flv
+Speakers: [Tim McNamara]
+Tags: [kiwipycon, kiwipycon2009, olpc]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-TimMcNamaraOLPCXOPythonBringingEducationToTheWorldsPo728-638.jpg'
-speakers: [Tim McNamara]
-tags: [kiwipycon, kiwipycon2009, olpc]
+Title: '"Tim McNamara - OLPC XO: Python bringing education to the world''s poorest
+  children"'
 ---
 OLPC XO: Python bringing education to the world's poorest children
 

@@ -3,10 +3,11 @@ Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=XGF3Qu4dUqk"'
+Speakers: [Larry Hastings]
+Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/XGF3Qu4dUqk/hqdefault.jpg'
+Title: '"Stepping Through CPython"'
 date: '2012-03-09'
-speakers: [Larry Hastings]
-tags: []
 ---
 Ever wondered how CPython actually works internally? This talk will show you.
 We start with a simple Python program, then slowly step through CPython,

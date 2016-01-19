@@ -3,10 +3,11 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=-MKBAw6-8T0"'
+Speakers: [Christian Theune]
+Tags: [administration, deployment, konvergenz]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/-MKBAw6-8T0/hqdefault.jpg'
+Title: '"batou - multi(component|host|environment|.*) deployment"'
 date: '2013-10-17'
-speakers: [Christian Theune]
-tags: [administration, deployment, konvergenz]
 ---
 batou ist ein Werkzeug um das Deployment für server-basierte Anwendungen zu automatisieren.
 

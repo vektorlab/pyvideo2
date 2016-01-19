@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=kuSXK4gNYqw"'
+Speakers: [Richard Wall]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/kuSXK4gNYqw/hqdefault.jpg'
+Title: '"Twisted Names: DNS Building Blocks for Python Programmers"'
 date: '2014-07-25'
-speakers: [Richard Wall]
-tags: []
 ---
 # Description
 

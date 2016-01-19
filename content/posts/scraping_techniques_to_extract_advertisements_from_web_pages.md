@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=cCKGqKTwfqI"'
+Speakers: [Mirko Urru, Stefano Cotta Ramusino]
+Tags: [google, scraping, search, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/cCKGqKTwfqI/hqdefault.jpg'
+Title: '"Scraping Techniques to Extract Advertisements from Web Pages"'
 date: '2011-07-13'
-speakers: [Mirko Urru, Stefano Cotta Ramusino]
-tags: [google, scraping, search, web]
 ---
 Online Advertising is an emerging research field, at the intersection of
 Information Retrieval, Machine Learning, Optimization, and Microeconomics. Its

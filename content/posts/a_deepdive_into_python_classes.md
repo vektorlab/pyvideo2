@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=7IIxc4yNo6M"'
+Speakers: [Mark Smith]
+Tags: [decorators]
 ThumbnailUrl: 'http://i.ytimg.com/vi/7IIxc4yNo6M/hqdefault.jpg'
+Title: '"A Deep-Dive Into Python Classes"'
 date: '2011-07-15'
-speakers: [Mark Smith]
-tags: [decorators]
 ---
 This talk aims to lift the lid on the system that governs how types behave in
 Python - everything except Metaclasses.

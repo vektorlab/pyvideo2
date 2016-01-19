@@ -3,9 +3,10 @@ Category: 'PyCon US 2009'
 Copyright: 'No license (All rights reserved)'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/136_pycon-2009-pymite-python-on-a-chip.flv
+Speakers: []
+Tags: []
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-PyMite410-91.jpg'
-speakers: []
-tags: []
+Title: '"PyCon 2009: PyMite: Python-on-a-chip"'
 ---
 PyMite: Python on a chip
 

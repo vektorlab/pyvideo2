@@ -3,10 +3,11 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/256_scrape-the-web-strategies-for-programming-websites-that-don-t-expect-it.m4v
+Speakers: [Asheesh Laroia]
+Tags: [pycon, pycon2010, scraping, web]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010ScrapeTheWebStrategiesForProgrammingWebsitesTha613-141.jpg'
+Title: '"Scrape the Web: Strategies for programming websites that don''t expect it"'
 date: '2010-02-19'
-speakers: [Asheesh Laroia]
-tags: [pycon, pycon2010, scraping, web]
 ---
 Scrape the Web: Strategies for programming websites that don't expect it
 

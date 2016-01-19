@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=6jD34p8PokU"'
+Speakers: [Giovanni Bajo]
+Tags: [cpython, debugging, design, memory, performance, profiling, 'python,']
 ThumbnailUrl: 'http://i.ytimg.com/vi/6jD34p8PokU/hqdefault.jpg'
+Title: '"Debugging and profiling techniques"'
 date: '2011-07-20'
-speakers: [Giovanni Bajo]
-tags: [cpython, debugging, design, memory, performance, profiling, 'python,']
 ---
 This talk will give on overview over some common problems related to profiling
 and debugging CPython applications (especially desktop-based ones).

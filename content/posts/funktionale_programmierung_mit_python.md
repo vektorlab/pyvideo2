@@ -3,11 +3,12 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=2c0TTt48ir4"'
-ThumbnailUrl: 'http://i3.ytimg.com/vi/2c0TTt48ir4/hqdefault.jpg'
-date: '2012-10-30'
-speakers: ["Mike M\xFCller"]
-tags: [closure, ' funktional', ' generator', ' iterator', ' itertools', ' paradigma',
+Speakers: ["Mike M\xFCller"]
+Tags: [closure, ' funktional', ' generator', ' iterator', ' itertools', ' paradigma',
   " verz\xF6gerte auswertung"]
+ThumbnailUrl: 'http://i3.ytimg.com/vi/2c0TTt48ir4/hqdefault.jpg'
+Title: '"Funktionale Programmierung mit Python"'
+date: '2012-10-30'
 ---
 In den letzten Jahren hat die funktionale Programmierung wieder mehr
 Aufmerksamkeit erhalten. Das Vorurteil nur für akademische Nutzer interessant

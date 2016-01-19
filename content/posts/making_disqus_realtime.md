@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=PeVB5DNptD4"'
+Speakers: [Adam Hitchcock]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/PeVB5DNptD4/hqdefault.jpg'
+Title: '"Making DISQUS realtime"'
 date: '2012-07-06'
-speakers: [Adam Hitchcock]
-tags: []
 ---
 This talk will overview what it took to add realtime to a truly “web scale”
 app. The result is the DISQUS realtime system, a highly concurrent system for

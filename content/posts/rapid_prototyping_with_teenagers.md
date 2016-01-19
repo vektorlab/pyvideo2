@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=gOnnjPQzXg8"'
+Speakers: [Katie Bell]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/gOnnjPQzXg8/hqdefault.jpg'
+Title: '"Rapid prototyping with teenagers"'
 date: '2015-08-04'
-speakers: [Katie Bell]
-tags: []
 ---
 This is teamwork and rapid prototyping challenges on steroids. Imagine 15 high school kids, most of whom have only just learned to program, working together to design and build a fully functional social networking site in 3 days. 
 

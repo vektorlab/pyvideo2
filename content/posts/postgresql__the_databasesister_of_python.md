@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=1YUFLLl8bGE"'
+Speakers: [Harald Armin Massa]
+Tags: [business, database, json, postgresql, replication, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/1YUFLLl8bGE/hqdefault.jpg'
+Title: '"PostgreSQL - the database-sister of Python"'
 date: '2011-07-13'
-speakers: [Harald Armin Massa]
-tags: [business, database, json, postgresql, replication, web]
 ---
 This talk is the updated and especially enhanced of the "Python and PostgreSQL
 - a match made in heaven" talk of EP 2006, CERN, Switzerland. PostgreSQL and

@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=DDnyRC2Lkdc"'
+Speakers: [Olivier Grisel]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/DDnyRC2Lkdc/maxresdefault.jpg'
+Title: '"Comment faire pousser des forets aleatoires dans les nuages"'
 date: '2013-11-30'
-speakers: [Olivier Grisel]
-tags: []
 ---
 Présentation de l'implémentation d'une méthode d'apprentissage statistique à la mode avec scikit-learn, IPython.parallel et des machines dans le cloud.
 

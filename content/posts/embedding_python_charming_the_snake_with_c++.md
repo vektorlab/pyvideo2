@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=3329SyR215I"'
+Speakers: ["Michael K\xF6nig"]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/3329SyR215I/hqdefault.jpg'
+Title: '"Embedding Python: Charming the Snake with C++"'
 date: '2014-07-23'
-speakers: ["Michael K\xF6nig"]
-tags: []
 ---
 Python with its huge standard library and sophisticated packages developed by its thriving community has become an incredibly useful tool for data scientists. At Blue Yonder, we value Python for the ease with which we can access and combine machine learning algorithms to build accurate prediction models.
 

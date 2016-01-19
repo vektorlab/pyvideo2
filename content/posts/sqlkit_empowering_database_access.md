@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=7oWykWu_5z4"'
+Speakers: [Alessandro Dentella]
+Tags: [database, forms, framework, gui, openoffice, 'python,']
 ThumbnailUrl: 'http://i.ytimg.com/vi/7oWykWu_5z4/hqdefault.jpg'
+Title: '"Sqlkit: empowering database access"'
 date: '2011-07-13'
-speakers: [Alessandro Dentella]
-tags: [database, forms, framework, gui, openoffice, 'python,']
 ---
 It's very easy to access databases with Python, and there are many ORMs
 allowing a high level of abstraction. Still, it's a long road from there to

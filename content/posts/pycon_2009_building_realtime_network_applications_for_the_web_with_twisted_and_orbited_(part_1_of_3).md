@@ -3,9 +3,11 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/173_pycon-2009-building-real-time-network-applications-for-the-web-with-twisted-and-orbited-part-1-of-3.mp4
+Speakers: []
+Tags: [network, orbited, pycon, pycon2009, realtime, twisted]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-BuildingRealtimeNetworkApplicationsForTheWebWithTwisted226-383.jpg'
-speakers: []
-tags: [network, orbited, pycon, pycon2009, realtime, twisted]
+Title: '"PyCon 2009: Building Real-time Network applications for the web with Twisted
+  and Orbited (Part 1 of 3)"'
 ---
   
 Haven't you always wanted to create a massively multiplayer, real-time game

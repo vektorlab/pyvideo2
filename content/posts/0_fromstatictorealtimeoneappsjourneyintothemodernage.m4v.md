@@ -3,8 +3,9 @@ Category: 'DjangoCon EU 2011'
 Copyright: ''
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-eu-2011/0_from-static-to-real-time-one-app-s-journey-into-the-modern-age.m4v
+Speakers: []
+Tags: []
 ThumbnailUrl: ''
-speakers: []
-tags: []
+Title: '"0_from-static-to-real-time-one-app-s-journey-into-the-modern-age.m4v"'
 ---
 

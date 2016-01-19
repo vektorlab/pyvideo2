@@ -3,10 +3,11 @@ Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=-Mx1JVTFOBY"'
+Speakers: [Cosimo Felline, Edgar Roman]
+Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/-Mx1JVTFOBY/hqdefault.jpg'
+Title: '"PBS KIDS: Building a login system for kids and teens in Python"'
 date: '2012-03-09'
-speakers: [Cosimo Felline, Edgar Roman]
-tags: []
 ---
 Our challenge was to create a login system for little people who might barely
 read, maybe no email, perhaps no home computer. And we had to watch out for

@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=LQehhjL_BvE"'
+Speakers: [Stephen McDonald]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/LQehhjL_BvE/hqdefault.jpg'
+Title: '"Rapid Web Development with Mezzanine"'
 date: '2014-08-07'
-speakers: [Stephen McDonald]
-tags: []
 ---
 The modern world of Python web development is chock-full of choices today - do we use a micro or a monolithic framework? Do we use a CMS or roll our own? Mezzanine is one project that aims to simplify these questions with a compelling offering for developing Python powered websites.
 

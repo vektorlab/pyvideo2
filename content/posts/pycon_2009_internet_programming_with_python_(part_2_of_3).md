@@ -3,9 +3,10 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/184_pycon-2009-internet-programming-with-python-part-2-of-3.mp4
+Speakers: [Wesley J. Chun]
+Tags: [pycon, pycon2009, tutorial, webprogramming]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-InternetProgrammingWithPythonPart002475-80.jpg'
-speakers: [Wesley J. Chun]
-tags: [pycon, pycon2009, tutorial, webprogramming]
+Title: '"PyCon 2009: Internet Programming with Python (Part 2 of 3)"'
 ---
 Internet Programming with Python (part 2 of 3)
 

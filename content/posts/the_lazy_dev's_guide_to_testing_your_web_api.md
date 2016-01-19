@@ -3,10 +3,11 @@ Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=8fB2qY8s2i4"'
+Speakers: [Ryan Kelly]
+Tags: [WebTest]
 ThumbnailUrl: 'http://i.ytimg.com/vi/8fB2qY8s2i4/hqdefault.jpg'
+Title: '"The Lazy Dev''s Guide to Testing Your Web API"'
 date: '2012-08-21'
-speakers: [Ryan Kelly]
-tags: [WebTest]
 ---
 Do you enjoy writing test cases for your web application? If so then this may
 not be the talk for you. I'm going to show you how to make a single test suite

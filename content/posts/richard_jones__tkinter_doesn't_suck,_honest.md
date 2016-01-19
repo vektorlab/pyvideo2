@@ -3,9 +3,10 @@ Category: 'Kiwi PyCon 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/118_richard-jones-tkinter-doesn-t-suck-honest.flv
+Speakers: [Richard Jones]
+Tags: [kiwipycon, kiwipycon2009, tkinter]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-RichardJonesTkinterDoesntSuckHonest798-250.jpg'
-speakers: [Richard Jones]
-tags: [kiwipycon, kiwipycon2009, tkinter]
+Title: '"Richard Jones - Tkinter doesn''t suck, honest"'
 ---
 Tkinter doesn't suck, honest
 

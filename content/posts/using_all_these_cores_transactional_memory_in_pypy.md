@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=yMyMEsOi8oY"'
+Speakers: [Armin Rigo]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/yMyMEsOi8oY/hqdefault.jpg'
+Title: '"Using All These Cores: Transactional Memory in PyPy"'
 date: '2014-07-23'
-speakers: [Armin Rigo]
-tags: []
 ---
 PyPy is a fast alternative Python implementation.  Software Transactional Memory (STM) is a current academic research topic.  Put the two together --brew for a couple of years-- and we get a version of PyPy that runs on multiple cores, without the infamous Global Interpreter Lock (GIL).
 

@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: '"http://youtu.be/hZygJwOcQng"'
+Speakers: [Steve Baker]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/hZygJwOcQng/hqdefault.jpg'
+Title: '"The Pythonista''s 3D printing toolchain"'
 date: '2015-09-06'
-speakers: [Steve Baker]
-tags: []
 ---
 [SolidPython](https://github.com/SolidCode/SolidPython) is a Python module which allows executed Python to generate OpenSCAD script. [OpenSCAD](http://www.openscad.org/) is software for creating solid 3D CAD models. OpenSCAD is not an interactive modeller, instead it is something like a 3D-compiler that reads in a script file that describes the object and renders the 3D model from this script file.
 

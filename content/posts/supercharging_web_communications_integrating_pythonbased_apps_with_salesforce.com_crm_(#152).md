@@ -3,10 +3,12 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/346_supercharging-web-communications-integrating-python-based-apps-with-salesforce-com-crm-152.m4v
+Speakers: [Christopher Johnson]
+Tags: [cms, crm, plone, pycon, pycon2010, web]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010SuperchargingWebCommunicationsIntegratingPythonbas271.png'
+Title: '"Supercharging Web Communications: Integrating Python-based Apps with Salesforce.com
+  CRM (#152)"'
 date: '2010-02-19'
-speakers: [Christopher Johnson]
-tags: [cms, crm, plone, pycon, pycon2010, web]
 ---
 Supercharging Web Communications: Integrating Python-based Apps with
 Salesforce.com CRM

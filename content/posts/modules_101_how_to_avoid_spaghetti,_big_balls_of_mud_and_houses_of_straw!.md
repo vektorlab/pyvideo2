@@ -3,10 +3,11 @@ Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=72lahT9Umtg"'
+Speakers: [Graeme Cross]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/72lahT9Umtg/hqdefault.jpg'
+Title: '"Modules 101: how to avoid spaghetti, big balls of mud and houses of straw!"'
 date: '2013-07-06'
-speakers: [Graeme Cross]
-tags: []
 ---
 This introductory tutorial will teach you how to effectively use modules and packages so your code is easier to read, test, package, deploy, reuse and maintain.
 

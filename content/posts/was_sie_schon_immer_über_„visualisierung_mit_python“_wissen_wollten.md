@@ -3,10 +3,12 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=muvvgXc8Xlw"'
+Speakers: [Josef Heinen]
+Tags: [accelerate, anaconda, numba, numpy, opengl, pyqt, python, visualisierung]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/muvvgXc8Xlw/hqdefault.jpg'
+Title: Was Sie schon immer \xFCber \u201EVisualisierung mit Python\u201C wissen\
+  \ wollten\
 date: '2013-10-17'
-speakers: [Josef Heinen]
-tags: [accelerate, anaconda, numba, numpy, opengl, pyqt, python, visualisierung]
 ---
 Schon lange hat sich Python in den Software-Entwicklungsabteilungen von Forschung und Industrie etabliert, nicht zuletzt wegen der Verbreitung von Bibliotheken wie SciPy oder Matplotlib. Bei der Verarbeitung großer Datenmengen oder im Zusammenspiel mit GUI-Toolkits stößt man aber leicht an die Grenzen der interpretativen Programmierung.
 

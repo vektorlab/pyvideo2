@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=uvhoW5M4fK8"'
+Speakers: ["Markus Zapke-Gr\xFCndemann"]
+Tags: [' vagrant', virtual box, ' virtuelle maschinen']
 ThumbnailUrl: 'http://i2.ytimg.com/vi/uvhoW5M4fK8/hqdefault.jpg'
+Title: '"Virtuelle Entwicklungsumgebungen mit Vagrant"'
 date: '2012-10-31'
-speakers: ["Markus Zapke-Gr\xFCndemann"]
-tags: [' vagrant', virtual box, ' virtuelle maschinen']
 ---
 Oft benötigt man für verschiedene Projekte ganz unterschiedliche Bibliotheken,
 Dienste und Werkzeuge. Alle Abhängigkeiten auf einer Maschine zu installieren

@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=1NrykxuCcM0"'
+Speakers: [Thomi Richards]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/1NrykxuCcM0/hqdefault.jpg'
+Title: '"Using Autopilot for Functional UI Testing"'
 date: '2013-09-12'
-speakers: [Thomi Richards]
-tags: []
 ---
 @ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 1
 

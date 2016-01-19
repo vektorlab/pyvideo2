@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
 SourceUrl: '"http://www.youtube.com/watch?v=E5POYrUawW8"'
+Speakers: [Roberto De Ioris]
+Tags: [deploy, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/E5POYrUawW8/hqdefault.jpg'
+Title: '"uWSGI, il coltellino svizzero (di MacGyver) del deploy"'
 date: '2011-07-13'
-speakers: [Roberto De Ioris]
-tags: [deploy, web]
 ---
 La prima parte del talk introdurra' la storia di uWSGI, dall'idea iniziale
 alla messa in produzione dei primi lavori, fino alla sua inclusione nei

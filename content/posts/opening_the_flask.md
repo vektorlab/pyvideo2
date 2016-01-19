@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/440_opening-the-flask.mp4
+Speakers: [Armin Ronacher]
+Tags: [flask, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011OpeningTheFlask360.png'
+Title: '"Opening the Flask"'
 date: '2011-03-11'
-speakers: [Armin Ronacher]
-tags: [flask, pycon, pycon2011]
 ---
 Opening the Flask
 

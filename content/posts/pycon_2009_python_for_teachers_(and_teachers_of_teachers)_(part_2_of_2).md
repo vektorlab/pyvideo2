@@ -3,9 +3,10 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/202_pycon-2009-python-for-teachers-and-teachers-of-teachers-part-2-of-2.mp4
+Speakers: []
+Tags: [pycon, pycon2009, teaching]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PythonForTeachersAndTeachersOfTeachersPart002402-418.jpg'
-speakers: []
-tags: [pycon, pycon2009, teaching]
+Title: '"PyCon 2009: Python for Teachers (and Teachers of Teachers) (Part 2 of 2)"'
 ---
   
 As a geek with Python kung fu, you have fun skills to share with others,

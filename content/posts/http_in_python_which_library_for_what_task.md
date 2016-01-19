@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/439_http-in-python-which-library-for-what-task.mp4
+Speakers: [Augie Fackler]
+Tags: [httplib, pycon, pycon2011, pycurl, urllib]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011HTTPInPythonWhichLibraryForWhatTask758.png'
+Title: '"HTTP in Python: which library for what task?"'
 date: '2011-03-11'
-speakers: [Augie Fackler]
-tags: [httplib, pycon, pycon2011, pycurl, urllib]
 ---
 HTTP in Python: which library for what task?
 

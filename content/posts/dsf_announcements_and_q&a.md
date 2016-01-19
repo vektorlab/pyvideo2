@@ -3,9 +3,10 @@ Category: 'DjangoCon 2010'
 Copyright: ''
 Language: 'English'
 SourceUrl: http://blip.tv/file/get/Robertlofthouse-DSFAnnouncementsAndQA629.ogv
+Speakers: [Dr. Russell Keith-Magee]
+Tags: [djangocon, djangocon2010, dsf]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-DSFAnnouncementsAndQA629-585.jpg'
-speakers: [Dr. Russell Keith-Magee]
-tags: [djangocon, djangocon2010, dsf]
+Title: '"DSF Announcements and Q&A"'
 ---
 DSF Announcements and Q & A
 

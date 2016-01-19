@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=LdVJj65ikRY"'
+Speakers: [Andreas Pelme]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/LdVJj65ikRY/hqdefault.jpg'
+Title: '"Introduction to pytest"'
 date: '2014-07-23'
-speakers: [Andreas Pelme]
-tags: []
 ---
 This talk will show introduce pytest and show some unique and innovative features. It will show how to get started using it and some of the most important features.
 

@@ -3,10 +3,11 @@ Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=7Au2PDYD6Bk"'
+Speakers: [Josh Bartlett]
+Tags: [twisted]
 ThumbnailUrl: 'http://i.ytimg.com/vi/7Au2PDYD6Bk/hqdefault.jpg'
+Title: '"Neatly Twisted"'
 date: '2012-08-22'
-speakers: [Josh Bartlett]
-tags: [twisted]
 ---
 In many Python circles, Twisted is the recommended framework for all
 networking and multitasking applications. Twisted provides a powerful,

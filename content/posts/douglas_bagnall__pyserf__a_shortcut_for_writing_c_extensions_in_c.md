@@ -3,9 +3,10 @@ Category: 'Kiwi PyCon 2009'
 Copyright: 'No license (All rights reserved)'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/109_douglas-bagnall-pyserf-a-shortcut-for-writing-c-extensions-in-c.flv
+Speakers: [Douglas Bagnall]
+Tags: [extensions, kiwipycon, kiwipycon2009, pyserf]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-DouglasBagnallPyserfAShortcutForWritingCExtensionsIn519-861.jpg'
-speakers: [Douglas Bagnall]
-tags: [extensions, kiwipycon, kiwipycon2009, pyserf]
+Title: '"Douglas Bagnall - pyserf - a shortcut for writing C extensions in C"'
 ---
 pyserf - a shortcut for writing C extensions in C
 

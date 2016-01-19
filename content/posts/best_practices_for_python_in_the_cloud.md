@@ -3,11 +3,12 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=nQWVlXlJwp0"'
-ThumbnailUrl: 'http://i.ytimg.com/vi/nQWVlXlJwp0/hqdefault.jpg'
-date: '2011-07-18'
-speakers: [Gisle Aas]
-tags: [cloud, deploy, deployment, django, gpu, hpc, infrastructure, lamp, packages,
+Speakers: [Gisle Aas]
+Tags: [cloud, deploy, deployment, django, gpu, hpc, infrastructure, lamp, packages,
   scaling, web]
+ThumbnailUrl: 'http://i.ytimg.com/vi/nQWVlXlJwp0/hqdefault.jpg'
+Title: '"Best Practices for Python in the Cloud"'
+date: '2011-07-18'
 ---
 Abstract: Whether you’re an independent developer or development manager in a
 large company, “the cloud” is on everyone’s mind. But just because it’s in the

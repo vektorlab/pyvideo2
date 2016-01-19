@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=fVc1ruuixts"'
+Speakers: [Vincent Noel]
+Tags: [analysis, datasets, image, numpy, 'python,', scientific, scipy]
 ThumbnailUrl: 'http://i.ytimg.com/vi/fVc1ruuixts/hqdefault.jpg'
+Title: '"Python(x,y): diving into scientific Python"'
 date: '2011-07-13'
-speakers: [Vincent Noel]
-tags: [analysis, datasets, image, numpy, 'python,', scientific, scipy]
 ---
 This training session will introduce the Python scientific stack to beginner
 or intermediate-level Python programmers. The basics of scientific programming

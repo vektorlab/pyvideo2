@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
 SourceUrl: '"http://www.youtube.com/watch?v=l7e6NmyWclM"'
+Speakers: [Federico Caboni]
+Tags: [ci, framework, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/l7e6NmyWclM/hqdefault.jpg'
+Title: '"Gestione di processi clinici in Python: un caso d''uso"'
 date: '2011-07-18'
-speakers: [Federico Caboni]
-tags: [ci, framework, web]
 ---
 In questo seminario descriverò la nostra esperienza positiva d'uso di Python
 per lo sviluppo di un sistema di etichettatura di provette per il prelievo

@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=_pfJZfdwkgI"'
+Speakers: []
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/_pfJZfdwkgI/hqdefault.jpg'
+Title: '"Lightning Talks & Closing"'
 date: '2015-08-08'
-speakers: []
-tags: []
 ---
 00:00 Intro
 00:25 Nic Couglan - Asyncio and native co-routines in python 3.5

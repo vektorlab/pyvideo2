@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=pbjSYecvLxk"'
+Speakers: [Jean-Michel Armand]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/pbjSYecvLxk/maxresdefault.jpg'
+Title: D\xE9prim\xE9, au bord du burn-out et ...\
 date: '2013-11-30'
-speakers: [Jean-Michel Armand]
-tags: []
 ---
 Déprimé, au bord du burn-out, et pourtant il faut continuer à coder
 

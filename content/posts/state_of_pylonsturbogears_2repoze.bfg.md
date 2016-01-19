@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/446_state-of-pylons-turbogears-2-repoze-bfg.mp4
+Speakers: [Ben Bangert, Chris McDonough, Mark Ramm]
+Tags: [pycon, pycon2011, pylons, pyramid, repoze.bfg, turbogears]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011StateOfPylonsTurboGears2repozebfg818.png'
+Title: '"State of Pylons/TurboGears 2/repoze.bfg"'
 date: '2011-03-11'
-speakers: [Ben Bangert, Chris McDonough, Mark Ramm]
-tags: [pycon, pycon2011, pylons, pyramid, repoze.bfg, turbogears]
 ---
 State of Pylons/TurboGears 2/repoze.bfg
 

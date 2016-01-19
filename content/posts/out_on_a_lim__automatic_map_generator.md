@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=GCD1DUr7aiY"'
+Speakers: [Natalie Scott]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/GCD1DUr7aiY/hqdefault.jpg'
+Title: '"Out on a LIM - Automatic Map Generator"'
 date: '2013-09-12'
-speakers: [Natalie Scott]
-tags: []
 ---
 @ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 1
 

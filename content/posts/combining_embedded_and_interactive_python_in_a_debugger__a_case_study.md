@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=a6oHHGIV3r4"'
+Speakers: [Caroline Tice]
+Tags: [api, embedded]
 ThumbnailUrl: 'http://i.ytimg.com/vi/a6oHHGIV3r4/hqdefault.jpg'
+Title: '"Combining Embedded and Interactive Python in a Debugger:  A Case Study"'
 date: '2011-07-24'
-speakers: [Caroline Tice]
-tags: [api, embedded]
 ---
 LLDB is an open source compiler currently under development. LLDB incorporates
 Python in several different ways: From the command line, one can drop into an

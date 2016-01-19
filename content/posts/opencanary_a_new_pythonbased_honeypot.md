@@ -3,10 +3,11 @@ Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://youtu.be/lXhypJUbxVM"'
+Speakers: [Azhar Desai]
+Tags: [Room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/lXhypJUbxVM/hqdefault.jpg'
+Title: '"OpenCanary: a new Python-based honeypot"'
 date: '2015-10-01'
-speakers: [Azhar Desai]
-tags: [Room 215]
 ---
 Honeypots: a great idea tempered by over a decade of glorious misapplication resulting in a slow relegation to the realm of academia and slightly dubious research. But it doesn’t have to be that way. In August 2015 we released OpenCanary, the Open Source version of our commercial Python-based honeypot. 
 

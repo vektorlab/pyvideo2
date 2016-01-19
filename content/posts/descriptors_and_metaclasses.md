@@ -3,10 +3,11 @@ Category: 'PyCon US 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=v2WTVCyTYMw"'
+Speakers: ["Mike M\xFCller"]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/v2WTVCyTYMw/hqdefault.jpg'
+Title: '"Descriptors and Metaclasses"'
 date: '2015-04-10'
-speakers: ["Mike M\xFCller"]
-tags: []
 ---
 Descriptors and metaclasses are advanced Python features. While it is
 possible to write Python programs without active knowledge of them,

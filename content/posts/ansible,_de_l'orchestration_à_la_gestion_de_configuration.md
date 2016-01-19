@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=gk9H_nEPRo8"'
+Speakers: [Michael Scherer]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/gk9H_nEPRo8/maxresdefault.jpg'
+Title: Ansible, de l'orchestration \xE0 la gestion de configuration\
 date: '2013-11-30'
-speakers: [Michael Scherer]
-tags: []
 ---
 Administrateur systéme de profession, j'utilise puppet à mon travail pour les serveurs. Mais nous n'avions pas d'outil d'orchestration pour mon équipe, ce qui a vite été un leger désagrement. Et Ansible est arrivé, avec le support de kerberos, me permettant d'agir rapidement partout avec la rapidité d'un ninja.
 

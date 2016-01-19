@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=SGj0-BZsFn4"'
+Speakers: [Tom Christie]
+Tags: [django, framework, rest, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/SGj0-BZsFn4/hqdefault.jpg'
+Title: '"Introducing Django REST framework"'
 date: '2011-07-13'
-speakers: [Tom Christie]
-tags: [django, framework, rest, web]
 ---
 Django REST framework is a new project that aims to make it easy to build
 RESTful Web APIs.

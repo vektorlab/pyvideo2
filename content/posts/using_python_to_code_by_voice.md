@@ -3,10 +3,11 @@ Category: 'PyCon US 2013'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=8SkdfdXWYaI"'
+Speakers: [Tavis Rudd]
+Tags: [talk]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/8SkdfdXWYaI/hqdefault.jpg'
+Title: '"Using Python to Code by Voice"'
 date: '2013-03-17'
-speakers: [Tavis Rudd]
-tags: [talk]
 ---
 Two years ago I developed a case of Emacs Pinkie (RSI) so severe my hands went numb and I could no longer type or work. Desperate, I tried voice recognition. At first programming with it was painfully slow but, as I couldn’t type, I persevered. After several months of vocab tweaking and duct-tape coding in Python and Emacs Lisp, I had a system that enabled me to code faster and more efficiently by voice than I ever had by hand.
 

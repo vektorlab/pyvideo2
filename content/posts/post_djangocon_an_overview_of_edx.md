@@ -3,10 +3,11 @@ Category: 'ChiPy'
 Copyright: 'CC BY'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=f1FoYwe_DT4"'
+Speakers: [yarko]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/f1FoYwe_DT4/hqdefault.jpg'
+Title: '"Post djangocon: An overview of edX"'
 date: '2013-09-12'
-speakers: [yarko]
-tags: []
 ---
 edx is a major django application serving huge numbers of students for MIT, Harvard, Stanford, Berkely, and more.  
 - A brief history of Computer-Based Instruction (python has a role);

@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=z751qhAzMb4"'
+Speakers: [David Gouldin]
+Tags: [celery, django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/z751qhAzMb4/hqdefault.jpg'
+Title: '"Using Celery with Social Networks"'
 date: '2012-09-05'
-speakers: [David Gouldin]
-tags: [celery, django]
 ---
 Twitter conditionally rate limits based on IP address rather than access token
 even when one is provided for some of its API calls. Facebook has at least 10

@@ -3,10 +3,11 @@ Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=__s45TTXxps"'
+Speakers: [Matt Spitz]
+Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/__s45TTXxps/hqdefault.jpg'
+Title: '"Practical Machine Learning in Python"'
 date: '2012-03-09'
-speakers: [Matt Spitz]
-tags: []
 ---
 There are a plethora of options when it comes to deciding how to add a machine
 learning component to your python application. In this talk, I'll discuss why

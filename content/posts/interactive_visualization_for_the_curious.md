@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=kr85Jytwy0s"'
+Speakers: [Edward Schofield]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/kr85Jytwy0s/hqdefault.jpg'
+Title: '"Interactive visualization for the curious"'
 date: '2015-08-04'
-speakers: [Edward Schofield]
-tags: []
 ---
 The workhorse plotting tool in Python for most of this century has been Matplotlib. It is stable, powerful, and comprehensive. But the plots it produces are (mostly) lifeless.
 

@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=pDkrkP0yf70"'
+Speakers: [Armin Rigo, C Tismet]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/pDkrkP0yf70/hqdefault.jpg'
+Title: '"The story of stackless Python"'
 date: '2012-07-05'
-speakers: [Armin Rigo, C Tismet]
-tags: []
 ---
 This talk gives a good overview of the status of Stackless Python: Its history
 from the beginning, its current status and its future development to be

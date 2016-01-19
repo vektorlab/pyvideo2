@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=Yk5EE0Us0DE"'
+Speakers: [Graham Dumpleton]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/Yk5EE0Us0DE/hqdefault.jpg'
+Title: '"How do debug tool bars for web applications work? by Graham Dumpleton"'
 date: '2014-08-11'
-speakers: [Graham Dumpleton]
-tags: []
 ---
 When your production web application breaks, working out what went wrong can be hard. Information from log messages and details of any Python exceptions which occurred, along with other application performance data can help to identify the issue, but not always. Often you will need to fall back to a development or test environment and hope you can replicate the problem and then debug the issue from there.
 

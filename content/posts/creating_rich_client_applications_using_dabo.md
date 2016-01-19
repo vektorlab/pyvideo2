@@ -3,10 +3,11 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/248_creating-rich-client-applications-using-dabo.m4v
+Speakers: [Ed Leafe, Paul McNett]
+Tags: [dabo, pycon, pycon2010, tutorial]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010CreatingRichClientApplicationsUsingDabo644-559.jpg'
+Title: '"Creating Rich Client Applications Using Dabo"'
 date: '2010-02-19'
-speakers: [Ed Leafe, Paul McNett]
-tags: [dabo, pycon, pycon2010, tutorial]
 ---
 Creating Rich Client Applications Using Dabo
 

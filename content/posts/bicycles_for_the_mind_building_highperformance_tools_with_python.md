@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=8ylmODAUmL4"'
+Speakers: ["Andreas Kl\xF6ckner"]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/8ylmODAUmL4/hqdefault.jpg'
+Title: '"Bicycles for the Mind: Building High-Performance Tools with Python"'
 date: '2014-08-07'
-speakers: ["Andreas Kl\xF6ckner"]
-tags: []
 ---
 Andreas Klöckner is an assistant professor in the scientific computing group
 within the Department of Computer Science at the University of Illinois at

@@ -3,10 +3,11 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=W6x8IvQOtbo"'
+Speakers: [Stefan Scherfke]
+Tags: [ereignis-diskret, generators, simpy, simulation, zeit-diskret]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/W6x8IvQOtbo/hqdefault.jpg'
+Title: '"Ereignis-diskrete Simulation mit SimPy"'
 date: '2013-10-16'
-speakers: [Stefan Scherfke]
-tags: [ereignis-diskret, generators, simpy, simulation, zeit-diskret]
 ---
 Simulationen kommen immer dann zum Einsatz, wenn Experimente an realen Systemen
 mit hohen Risiken bzw. Kosten verbunden oder gar nicht erst möglich sind. Zudem

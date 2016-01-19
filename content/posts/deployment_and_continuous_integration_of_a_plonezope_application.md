@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=ykzN8gSpIjM"'
+Speakers: [Julien Pivotto]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/ykzN8gSpIjM/maxresdefault.jpg'
+Title: '"Deployment and Continuous integration of a Plone/Zope application"'
 date: '2013-11-30'
-speakers: [Julien Pivotto]
-tags: []
 ---
 Cette conférence vous montrera comme nous utilisons Jenkins, Puppet et d'autres outils pour automatiser le déploiement et le test d'une application python de type Zope/Plone sur plusieurs machines. Ce que nous avons appris, les logiciels que nous utilisons, ce qui n'a pas fonctionné...
 

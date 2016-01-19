@@ -3,11 +3,12 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/420_the-data-structures-of-python.m4v
-ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011TheDataStructuresOfPython246.png'
-date: '2011-03-11'
-speakers: [Alex Gaynor]
-tags: [abc, datastructures, dequearray, dict, ducktyping, frozenset, list, namedtuple,
+Speakers: [Alex Gaynor]
+Tags: [abc, datastructures, dequearray, dict, ducktyping, frozenset, list, namedtuple,
   ordereddict, orderedset, pycon, pycon2011, set, tuple]
+ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011TheDataStructuresOfPython246.png'
+Title: '"The Data Structures of Python"'
+date: '2011-03-11'
 ---
 The Data Structures of Python
 

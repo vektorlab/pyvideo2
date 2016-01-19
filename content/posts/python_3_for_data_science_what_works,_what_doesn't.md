@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=TE7xo1Xk9Fo"'
+Speakers: [Valerio Maggio]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/TE7xo1Xk9Fo/maxresdefault.jpg'
+Title: '"Python 3 for Data Science: what works, what doesn''t"'
 date: '2015-05-30'
-speakers: [Valerio Maggio]
-tags: []
 ---
 In the last years, the Python programming language has engaged a 
 major renovation, and Python 3.x is going to be the next generation reference

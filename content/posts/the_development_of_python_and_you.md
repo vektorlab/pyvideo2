@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/432_the-development-of-python-and-you.mp4
+Speakers: [Brian Curtin]
+Tags: [coredev, cpython, development, gettinginvolved, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011TheDevelopmentOfPythonAndYou317.png'
+Title: '"The Development of Python and You"'
 date: '2011-03-11'
-speakers: [Brian Curtin]
-tags: [coredev, cpython, development, gettinginvolved, pycon, pycon2011]
 ---
 The Development of Python and You
 

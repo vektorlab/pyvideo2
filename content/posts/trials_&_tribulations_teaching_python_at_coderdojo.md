@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=Wlw6SXSb5eU"'
+Speakers: [Caleb Hattingh]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Wlw6SXSb5eU/hqdefault.jpg'
+Title: '"Trials & tribulations teaching Python at CoderDojo"'
 date: '2015-08-04'
-speakers: [Caleb Hattingh]
-tags: []
 ---
 This talk will relate the experience of teaching coding, including Python, to a (nominally) 6-18 age group at a local Brisbane CoderDojo for 2015 Term 1 and 2.
 

@@ -3,10 +3,11 @@ Category: 'DjangoCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=a713rcagoYU"'
+Speakers: [Russell Keith-Magee]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/a713rcagoYU/hqdefault.jpg'
+Title: '"Secrets of the testing masters"'
 date: '2013-07-05'
-speakers: [Russell Keith-Magee]
-tags: []
 ---
 Django ship with a wide range of tools to help you test your web application, but some of the best tools for testing Django don't come in the box.
 

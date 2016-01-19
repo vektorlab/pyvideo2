@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=RSIs_5ME6UE"'
+Speakers: [N Larosa]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/RSIs_5ME6UE/hqdefault.jpg'
+Title: '"Health for geeks: feel better, save money, live longer by being lazy"'
 date: '2012-07-05'
-speakers: [N Larosa]
-tags: []
 ---
 Take care of the most important thing, your psychophysical well-being, and be
 efficient about it. You don’t need to be hungry (well, just a little bit), do

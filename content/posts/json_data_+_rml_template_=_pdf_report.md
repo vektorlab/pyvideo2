@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=9Cq_Zmr0OgM"'
+Speakers: [Stefano Cotta Ramusino]
+Tags: [internationalization, json, matplotlib]
 ThumbnailUrl: 'http://i.ytimg.com/vi/9Cq_Zmr0OgM/hqdefault.jpg'
+Title: '"JSON data + RML template = PDF report"'
 date: '2011-07-13'
-speakers: [Stefano Cotta Ramusino]
-tags: [internationalization, json, matplotlib]
 ---
 The main problem with reports generated in Python is how to separate the
 content from the style using ReportLab library, because all informations

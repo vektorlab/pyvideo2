@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=ULxpa5jPvow"'
+Speakers: [Andrii Mishkovskyi]
+Tags: [gis, google, importing, learning, maps, parsing, postgresql, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/ULxpa5jPvow/hqdefault.jpg'
+Title: '"Making use of OpenStreetMap data with Python"'
 date: '2011-07-13'
-speakers: [Andrii Mishkovskyi]
-tags: [gis, google, importing, learning, maps, parsing, postgresql, web]
 ---
 Ever wondered how web maps are created? Ever wondered if you could build
 something like Google Maps over a weekend? You probably can't, but this talk

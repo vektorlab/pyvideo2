@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=CxK-v0pSpjo"'
+Speakers: [Alan Williams]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/CxK-v0pSpjo/hqdefault.jpg'
+Title: '"Computational Advertising, Billions of records, and AWS - Lessons Learned"'
 date: '2013-09-12'
-speakers: [Alan Williams]
-tags: []
 ---
 @ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 2
 

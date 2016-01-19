@@ -3,10 +3,11 @@ Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=UZIq_9KgFEY"'
+Speakers: [Nick Coghlan]
+Tags: [cpython]
 ThumbnailUrl: 'http://i.ytimg.com/vi/UZIq_9KgFEY/hqdefault.jpg'
+Title: '"How Python Evolves (and How You Can Help Make It Happen)"'
 date: '2011-08-22'
-speakers: [Nick Coghlan]
-tags: [cpython]
 ---
 The CPython reference interpreter lies at the heart of a much wider Python
 ecosystem. The decisions that shape the future development of CPython ripple

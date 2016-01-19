@@ -3,11 +3,12 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=9JFRWC2KI7k"'
-ThumbnailUrl: 'http://i2.ytimg.com/vi/9JFRWC2KI7k/hqdefault.jpg'
-date: '2012-10-31'
-speakers: [Stefan Schwarzer]
-tags: [' breakpoint', debugger, ' debugging', ' fehler', ' fehlersuche', ' print',
+Speakers: [Stefan Schwarzer]
+Tags: [' breakpoint', debugger, ' debugging', ' fehler', ' fehlersuche', ' print',
   ' programmzeiger', ' unterbrechungspunkt']
+ThumbnailUrl: 'http://i2.ytimg.com/vi/9JFRWC2KI7k/hqdefault.jpg'
+Title: '"Debugging mit Python"'
+date: '2012-10-31'
 ---
 Manche Fehler in Python-Programmen lassen sich mit Print-Anweisungen
 aufdecken, in komplizierteren Fällen ist aber ein Debugger gefragt.

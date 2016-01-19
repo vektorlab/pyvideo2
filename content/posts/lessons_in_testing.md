@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=9_39Vbjx23Y"'
+Speakers: [David Cramer]
+Tags: [django, testing]
 ThumbnailUrl: 'http://i.ytimg.com/vi/9_39Vbjx23Y/hqdefault.jpg'
+Title: '"Lessons in Testing"'
 date: '2012-09-05'
-speakers: [David Cramer]
-tags: [django, testing]
 ---
 Testing can be one of the more difficult concepts to pick up in a development
 cycle. With the complexities of large projects, and even small projects,

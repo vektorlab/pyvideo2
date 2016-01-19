@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=1ZE0ESaafs4"'
+Speakers: [Romain Guillebert]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/1ZE0ESaafs4/hqdefault.jpg'
+Title: '"PyPy status talk (a.k.a.: no no, PyPy is not dead)"'
 date: '2014-07-22'
-speakers: [Romain Guillebert]
-tags: []
 ---
 In this talk we will present the current status of PyPy, with a particular focus on what happened in the last two years, since the last EuroPython PyPy talk.  We will give an overview of the current speed and the on-going development efforts, including but not limited to:
 

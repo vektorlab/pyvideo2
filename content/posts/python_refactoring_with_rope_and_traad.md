@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=NvV5OrVk24c"'
+Speakers: [Austin Bingham]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/NvV5OrVk24c/hqdefault.jpg'
+Title: '"Python refactoring with Rope and Traad"'
 date: '2014-07-23'
-speakers: [Austin Bingham]
-tags: []
 ---
 Python is a modern, dynamic language which is growing in popularity, but tool support for it is sometime lacking or only available in specific environments. For refactoring and other common IDE functions, however, the powerful open-source rope library provides a set of tools which are designed to be integrated into almost any programming environment. Rope supports most common refactorings, such as renaming and method extraction, but also more Python-specific refactorings, such as import organization. Rope’s underlying code analysis engine also allows it to do things like locating method definitions and generating auto-completion suggestions.
 

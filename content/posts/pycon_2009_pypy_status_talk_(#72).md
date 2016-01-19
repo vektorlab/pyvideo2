@@ -3,9 +3,10 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/232_pycon-2009-pypy-status-talk-72.mp4
+Speakers: [Holger Krekel, Maciej Fijalkowski]
+Tags: [pycon, pycon2009, pypy]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyPyStatusTalk814-335.jpg'
-speakers: [Holger Krekel, Maciej Fijalkowski]
-tags: [pycon, pycon2009, pypy]
+Title: '"PyCon 2009: PyPy status talk (#72)"'
 ---
 PyPy Status Talk
 

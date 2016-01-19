@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=grGIl9gP-iY"'
+Speakers: [Russell Keith-Magee]
+Tags: [django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/grGIl9gP-iY/hqdefault.jpg'
+Title: '"Get off the bench: Making the leap from user to contributor"'
 date: '2012-09-06'
-speakers: [Russell Keith-Magee]
-tags: [django]
 ---
 Django needs you! No -- seriously -- Django is a volunteer project, and the
 ability of Django to continue to improve is entirely controlled by the time

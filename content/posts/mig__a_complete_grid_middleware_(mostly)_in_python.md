@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=enNcrMTg2lM"'
+Speakers: [Jonas Bardino]
+Tags: [forms, hpc, network, science]
 ThumbnailUrl: 'http://i.ytimg.com/vi/enNcrMTg2lM/hqdefault.jpg'
+Title: '"MiG - A Complete Grid Middleware (mostly) in Python"'
 date: '2011-07-13'
-speakers: [Jonas Bardino]
-tags: [forms, hpc, network, science]
 ---
 Grid computing was all the buzz in the beginning of the millennium and still
 has serious attention in different forms although many of the original grand

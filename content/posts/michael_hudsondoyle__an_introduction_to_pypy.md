@@ -3,9 +3,10 @@ Category: 'Kiwi PyCon 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/123_michael-hudson-doyle-an-introduction-to-pypy.flv
+Speakers: [Michael Hudson-Doyle]
+Tags: [kiwipycon, kiwipycon2009, pypy]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-MichaelHudsonAnIntroductionToPyPy702-526.jpg'
-speakers: [Michael Hudson-Doyle]
-tags: [kiwipycon, kiwipycon2009, pypy]
+Title: '"Michael Hudson-Doyle - An Introduction to PyPy"'
 ---
 An introduction to PyPy
 

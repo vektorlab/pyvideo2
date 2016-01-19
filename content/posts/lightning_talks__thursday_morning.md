@@ -3,11 +3,12 @@ Category: 'DjangoCon 2011'
 Copyright: ''
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/70_lightning-talks-thursday-morning.mp4
-ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-LightningTalksThursAM543-952.jpg'
-speakers: []
-tags: [activitystreams, backbone.js, banana-py, cloud, contribute, djangocon, djangocon2011,
+Speakers: []
+Tags: [activitystreams, backbone.js, banana-py, cloud, contribute, djangocon, djangocon2011,
   djangoexplorer, django-model-blocks, eamcs, fabulaws, multidb, multiforms, pep8,
   pipetter, psychology, pyflakes, pylint, pystar, stackato, tastypie, views, wtfawd]
+ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-LightningTalksThursAM543-952.jpg'
+Title: '"Lightning Talks - Thursday morning"'
 ---
 Lightning Talks - Thursday morning
 

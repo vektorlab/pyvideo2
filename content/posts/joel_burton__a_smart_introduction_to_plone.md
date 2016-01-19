@@ -3,9 +3,10 @@ Category: 'Kiwi PyCon 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/131_joel-burton-a-smart-introduction-to-plone.flv
+Speakers: [Joel Burton]
+Tags: [kiwipycon, kiwipycon2009, plone]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-JoelBurtonASmartIntroductionToPlone158-814.jpg'
-speakers: [Joel Burton]
-tags: [kiwipycon, kiwipycon2009, plone]
+Title: '"Joel Burton - A Smart Introduction to Plone"'
 ---
 A smart introduction to Plone
 

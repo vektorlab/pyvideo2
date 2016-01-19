@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=dGJzl286D5I"'
+Speakers: [Nic Crouch]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/dGJzl286D5I/hqdefault.jpg'
+Title: '"Software Carpentry - Expansion and Partnerships in 2015"'
 date: '2015-08-04'
-speakers: [Nic Crouch]
-tags: []
 ---
 The Software Carpentry Foundation is an international volunteer organisation that teaches basic programming skills to researchers in science, engineering, medicine and other disciplines. Further, the foundation maintains a wealth of open-source, open-access teaching materials for a several programming related topics, including Python, the Unix shell, Git, SQL, R and Matlab. 
 

@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=ILBsJXRQ008"'
+Speakers: [Carl Crowder]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/ILBsJXRQ008/hqdefault.jpg'
+Title: '"Automatic code reviews"'
 date: '2014-07-23'
-speakers: [Carl Crowder]
-tags: []
 ---
 Static analysis tools are a great idea in theory, but are not often really used in practice. These tools usually require quite a lot of initial effort to get set up in a way which produces meaningful output for you or your organisation's particular coding style and values. As a result, it's common to see initial enthusiasm replaced by ignoring the tools.
 

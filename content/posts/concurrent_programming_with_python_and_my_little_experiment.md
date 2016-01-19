@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=snIHnStehIo"'
+Speakers: [Benoit Chesneau]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/snIHnStehIo/hqdefault.jpg'
+Title: '"Concurrent programming with Python and my little experiment"'
 date: '2014-07-25'
-speakers: [Benoit Chesneau]
-tags: []
 ---
 Concurrent programming in Python may be hard. A lot of solutions exists
 though. Most of them are based on an eventloop. This talk will present

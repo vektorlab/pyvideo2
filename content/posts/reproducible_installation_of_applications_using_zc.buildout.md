@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=29rzDcisVZQ"'
+Speakers: [T Lotze]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/29rzDcisVZQ/hqdefault.jpg'
+Title: '"Reproducible installation of applications using zc.buildout"'
 date: '2012-07-06'
-speakers: [T Lotze]
-tags: []
 ---
 zc.buildout is a tool to install and configure applications. An application
 may consist of multiple parts and include multiple programs and processes.

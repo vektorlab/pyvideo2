@@ -3,10 +3,12 @@ Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=PYw2K0_ZZ0w"'
+Speakers: [Nick Coghlan]
+Tags: [pulpdist]
 ThumbnailUrl: 'http://i.ytimg.com/vi/PYw2K0_ZZ0w/hqdefault.jpg'
+Title: '"Path Dependent Development: Why on Earth are you using SQL Alchemy as a JSON
+  validator?"'
 date: '2012-08-22'
-speakers: [Nick Coghlan]
-tags: [pulpdist]
 ---
 The PulpDist project uses SQL Alchemy as part of a custom JSON validator. This
 could be seen as an unusual choice, so it's worth exploring the way this

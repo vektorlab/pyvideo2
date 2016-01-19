@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: '"http://youtu.be/v-y2tJbM0xw"'
+Speakers: [Fei Long Wang]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/v-y2tJbM0xw/hqdefault.jpg'
+Title: '"Zaqar: Message and Notification service of OpenStack "'
 date: '2015-09-06'
-speakers: [Fei Long Wang]
-tags: []
 ---
 As every messaging service, it's main goals are:- performance, availability, durability, fault-tolerance and scalability. Besides providing support for message and notification services through OpenStack, Zaqar aims to ease the design of distributed systems and allow for asynchronous work distribution without creating yet another message broker.
 

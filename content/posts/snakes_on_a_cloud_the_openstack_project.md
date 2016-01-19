@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=-rmctl-VB1Y"'
+Speakers: [Thierry Carrez]
+Tags: [cloud, design, hosting, infrastructure, openstack, 'python,']
 ThumbnailUrl: 'http://i.ytimg.com/vi/-rmctl-VB1Y/hqdefault.jpg'
+Title: '"Snakes on a cloud: the OpenStack project"'
 date: '2011-07-13'
-speakers: [Thierry Carrez]
-tags: [cloud, design, hosting, infrastructure, openstack, 'python,']
 ---
 OpenStack is an innovative open source project written in Python, backed by
 Rackspace Hosting and NASA, building a massively-scalable and reliable cloud

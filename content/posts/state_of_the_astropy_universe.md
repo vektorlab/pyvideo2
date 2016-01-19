@@ -3,10 +3,11 @@ Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=LwwVTfyL7_o"'
+Speakers: [Christoph Deil]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/LwwVTfyL7_o/hqdefault.jpg'
+Title: '"State of the Astropy universe"'
 date: '2014-10-22'
-speakers: [Christoph Deil]
-tags: []
 ---
 The [Astropy Project](http://www.astropy.org/) is a community effort to develop a single core package
 for Astronomy in Python and foster interoperability between Python astronomy

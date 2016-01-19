@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=isXLQEUWVy4"'
+Speakers: [R Lawley]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/isXLQEUWVy4/hqdefault.jpg'
+Title: '"Mongodb and Python part 1"'
 date: '2012-07-05'
-speakers: [R Lawley]
-tags: []
 ---
 This intermediate-level class will teach you techniques using the popular
 NoSQL database MongoDB, its driver PyMongo, and the object-document mapper

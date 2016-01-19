@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
 SourceUrl: '"https://www.youtube.com/watch?v=Wv2U38kGI4A"'
+Speakers: [Marco Buttu]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Wv2U38kGI4A/maxresdefault.jpg'
+Title: '"Il modello ad oggetti di Python"'
 date: '2015-05-29'
-speakers: [Marco Buttu]
-tags: []
 ---
 Come sappiamo in Python ogni nome è legato ad un oggetto, e questo è il motivo per cui si dice: everything in Python is an object. Ma in realtà cosa sia un oggetto, non sempre ci è ben chiaro, e anche nella documentazione ufficiale difatti si trovano imprecisioni in proposito.
 Lo scopo di questo talk è illustrare il modello ad oggetti di Python, in modo sia da chiarire il significato delle relazioni tra oggetti, sia i termini oggetto, istanza, classe e tipo. Vedremo quanto sia importante capire il concetto di metaclasse, perché anche se mai ne definiremo una, programmando in Python ne avremo a che fare quotidianamente.

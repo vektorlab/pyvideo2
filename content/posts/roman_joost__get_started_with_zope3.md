@@ -3,9 +3,10 @@ Category: 'Kiwi PyCon 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/127_roman-joost-get-started-with-zope3.flv
+Speakers: [Roman Joost]
+Tags: [kiwipycon, kiwipycon2009, web, zope, zope3]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-RmanJoostGetStartedWithZope3461-131.jpg'
-speakers: [Roman Joost]
-tags: [kiwipycon, kiwipycon2009, web, zope, zope3]
+Title: '"Roman Joost - Get started with Zope3"'
 ---
 Get started with Zope3
 

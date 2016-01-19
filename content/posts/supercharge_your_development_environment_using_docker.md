@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=-l9xH1X_rvg"'
+Speakers: [Deni Bertovic]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/-l9xH1X_rvg/hqdefault.jpg'
+Title: '"Supercharge your development environment using Docker"'
 date: '2014-07-23'
-speakers: [Deni Bertovic]
-tags: []
 ---
 In this talk I am going to show how to utilize light weight lxc containers
 using docker, and make your development process much more straightforward. How to share container images among your development team and be sure that everyone is running the exact same stack. Do all this without hogging too many resources, without the need for complex provisioning scripts and management systems. And above all else, how to do it fast!

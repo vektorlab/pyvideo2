@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=EhLPAEUI4l0"'
+Speakers: [Josef Heinen]
+Tags: [frameworks, ' opengl', ' visualisierung']
 ThumbnailUrl: 'http://i2.ytimg.com/vi/EhLPAEUI4l0/hqdefault.jpg'
+Title: GR - ein universelles Framework f\xFCr Visualisierungsanwendungen\
 date: '2012-10-31'
-speakers: [Josef Heinen]
-tags: [frameworks, ' opengl', ' visualisierung']
 ---
 Zur Erstellung von Visualisierungsprogrammen existiert eine Vielzahl freier
 und kommerzieller Tools und Bibliotheken. In einem heterogenen Rechnerumfeld

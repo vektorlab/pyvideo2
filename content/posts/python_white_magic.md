@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=WqVMZnefnO8"'
+Speakers: [Antonio Cuni]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/WqVMZnefnO8/hqdefault.jpg'
+Title: '"Python white magic"'
 date: '2012-07-04'
-speakers: [Antonio Cuni]
-tags: []
 ---
 Python is a powerful language. Beginners appreciate its surface of simplicity
 and ease to use, where (almost) everything “just works” (TM) as expected.

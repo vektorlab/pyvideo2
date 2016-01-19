@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'Chinese'
 SourceUrl: '"https://www.youtube.com/watch?v=Nvsl2e0YVmY"'
+Speakers: [Tzu-ping Chung]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Nvsl2e0YVmY/hqdefault.jpg'
+Title: '"Yielding a Tulip"'
 date: '2014-08-11'
-speakers: [Tzu-ping Chung]
-tags: []
 ---
 Asynchronised operations are good. Callbacks are not. Named callbacks clutter scopes and are disruptive. Anonymous callbacks create deeply nested code and become totally unreadable—Python does not even support that because it just lacks style! We deserve better. Let's take a look on how Python 3.4's new "asyncio" (aka Tulip) brings elegance to async tasks.
 

@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=vMjnjmUcldA"'
+Speakers: [Nicholas Tollervey]
+Tags: [community, education]
 ThumbnailUrl: 'http://i.ytimg.com/vi/vMjnjmUcldA/hqdefault.jpg'
+Title: '"The London Python Code Dojo - an Education in Developer Education"'
 date: '2011-07-24'
-speakers: [Nicholas Tollervey]
-tags: [community, education]
 ---
 The London Python Code Dojo is a community organised monthly meeting for
 Python programmers in the UK. Variously described as social coding, developer

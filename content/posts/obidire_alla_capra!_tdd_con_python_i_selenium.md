@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=QliDfkkFa4c"'
+Speakers: [Harry Percival]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/QliDfkkFa4c/hqdefault.jpg'
+Title: '"Obidire alla capra! TDD con Python i Selenium"'
 date: '2012-07-05'
-speakers: [Harry Percival]
-tags: []
 ---
 In breve: - Seguiremo il tutorial officiale di Django, pero con la metodologia
 TDD - primo, i test! - Inclusi i test del browser stesso con Selenium - Anche

@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
 SourceUrl: '"https://www.youtube.com/watch?v=bRnFXei2ePw"'
+Speakers: [Gabriele Bartolini]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/bRnFXei2ePw/maxresdefault.jpg'
+Title: '"Il progetto Barman: Open Source, Team, devops, kanban, PostgreSQL e Python"'
 date: '2015-05-29'
-speakers: [Gabriele Bartolini]
-tags: []
 ---
 Barman è un software open source per la disaster recovery di database PostgreSQL, probabilmente, in questo momento, il tool più utilizzato al mondo per questo scopo.
 È un progetto open source nato nel 2012, scritto in Python e totalmente sviluppato in Italia.

@@ -3,10 +3,11 @@ Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://youtu.be/CTbMUrJ9ztQ"'
+Speakers: [Bernhardt Garlipp]
+Tags: [Room 211]
 ThumbnailUrl: 'https://i.ytimg.com/vi/CTbMUrJ9ztQ/hqdefault.jpg'
+Title: '"Community Security - ANPR (Automated Number Plate Recognition) on your Pi"'
 date: '2015-10-02'
-speakers: [Bernhardt Garlipp]
-tags: [Room 211]
 ---
 The talk will be a introductory tutorial showing how to get an ANPR (Automated Number Plate Recognition) system, which was developed for community security, up and running on your Raspberry Pi. This will provide a comfortable starting point for any security-prone person to start monitoring the vehicles entering and leaving their community.
 

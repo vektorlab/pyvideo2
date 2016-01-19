@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
 SourceUrl: '"https://www.youtube.com/watch?v=5ph4Ou4SNlw"'
+Speakers: [Giancarlo Fanelli, Massimiliano Cuzzoli]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/5ph4Ou4SNlw/maxresdefault.jpg'
+Title: '"Managing Docker with Python"'
 date: '2015-06-09'
-speakers: [Giancarlo Fanelli, Massimiliano Cuzzoli]
-tags: []
 ---
 Looking at the most successful open source projects we have been seriously impressed by the importance of Docker: it is positively revolutionizing the DevOps industry. Docker is a valid alternative to the traditional virtual machines and it is redefining the IT service deployment.
 

@@ -3,11 +3,12 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/307_mastering-team-play-four-powerful-examples-of-composing-python-tools-184.ogv
-ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010MasteringTeamPlayFourPowerfulExamplesOfComposin150.png'
-date: '2010-02-19'
-speakers: [Raymond Hettinger]
-tags: [bisect, dequeues, frozensets, heapq, lists, pycon, pycon2010, sets, sorts,
+Speakers: [Raymond Hettinger]
+Tags: [bisect, dequeues, frozensets, heapq, lists, pycon, pycon2010, sets, sorts,
   weakreferences]
+ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010MasteringTeamPlayFourPowerfulExamplesOfComposin150.png'
+Title: '"Mastering Team Play: Four powerful examples of composing Python tools (#184)"'
+date: '2010-02-19'
 ---
 Mastering Team Play: Four powerful examples of composing Python tools
 

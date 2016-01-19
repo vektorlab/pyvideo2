@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=xgWFTrXn0_U"'
+Speakers: [Mark Lavin]
+Tags: [django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/xgWFTrXn0_U/hqdefault.jpg'
+Title: '"Maintaining Your Sanity While Maintaining Your Open Source App"'
 date: '2012-09-04'
-speakers: [Mark Lavin]
-tags: [django]
 ---
 ## Introduction/Overview
 

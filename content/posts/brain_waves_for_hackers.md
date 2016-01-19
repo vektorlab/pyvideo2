@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=6ewIEOyC5v0"'
+Speakers: [Andreas Klostermann]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/6ewIEOyC5v0/hqdefault.jpg'
+Title: '"Brain Waves for Hackers"'
 date: '2014-07-22'
-speakers: [Andreas Klostermann]
-tags: []
 ---
 A new class of cheap consumer EEG devices allows ordinary hackers and even high school students a glimpse into the human brain.
 

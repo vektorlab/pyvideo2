@@ -3,9 +3,10 @@ Category: 'PyCon AU 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/454_pyconau-2010-state-of-python.flv
+Speakers: [Richard Jones]
+Tags: [advocacy, core, language, pyconau, pyconau2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-StateOfPython134-441.jpg'
-speakers: [Richard Jones]
-tags: [advocacy, core, language, pyconau, pyconau2010]
+Title: '"PyConAU 2010: State Of Python"'
 ---
 State Of Python
 

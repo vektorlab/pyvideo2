@@ -3,9 +3,11 @@ Category: 'DjangoCon 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/54_domain-specific-frameworks-why-they-rock-and-what-can-we-do-to-get-more-of-them.flv
+Speakers: [Sean O'Connor]
+Tags: [djangocon, djangocon2010, domainspecificframeworks, dsf]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-DomainSpecificFrameworksWhyTheyRockAndWhatCanWeDoTo103-637.jpg'
-speakers: [Sean O'Connor]
-tags: [djangocon, djangocon2010, domainspecificframeworks, dsf]
+Title: '"Domain Specific Frameworks - Why they rock and what can we do to get more
+  of them"'
 ---
 Domain Specific Frameworks - Why they rock and what we can do to get more of
 them

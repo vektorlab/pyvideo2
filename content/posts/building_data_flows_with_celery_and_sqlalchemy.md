@@ -3,10 +3,11 @@ Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=AhIoAMltzVw"'
+Speakers: [Roger Barnes]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/AhIoAMltzVw/hqdefault.jpg'
+Title: '"Building data flows with Celery and SQLAlchemy"'
 date: '2013-07-07'
-speakers: [Roger Barnes]
-tags: []
 ---
 Reporting and analysis systems rely on coherent and reliable data, often from disparate sources. To that end, a series of well established data warehousing practices have emerged to extract data and produce a consistent data store.
 

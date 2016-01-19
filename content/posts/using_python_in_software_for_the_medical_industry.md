@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=SFi7LpBr-JY"'
+Speakers: [wesley chun]
+Tags: [documentation, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/SFi7LpBr-JY/hqdefault.jpg'
+Title: '"Using Python in Software for the Medical Industry"'
 date: '2011-07-18'
-speakers: [wesley chun]
-tags: [documentation, web]
 ---
 The medical industry has long been dominated by custom software written by
 manufacturers of medical equipment. With the widespread use of lower-cost

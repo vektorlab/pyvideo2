@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=uhY70ZL2vj8"'
+Speakers: [Stefania Trabucchi]
+Tags: [front-end, ' reponsive webdesign', ' twitter bootstrap', ' webdesign']
 ThumbnailUrl: 'http://i2.ytimg.com/vi/uhY70ZL2vj8/hqdefault.jpg'
+Title: Twitter Bootstrap \u2013 Schweizer Messer fur Webanwendungen?\
 date: '2012-10-30'
-speakers: [Stefania Trabucchi]
-tags: [front-end, ' reponsive webdesign', ' twitter bootstrap', ' webdesign']
 ---
 Twitter Bootstrap –„Schweizer Messer“ für Webanwendungen?
 

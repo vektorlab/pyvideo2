@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=kEqwe7EGuQU"'
+Speakers: [Fredrik Haard]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/kEqwe7EGuQU/hqdefault.jpg'
+Title: '"Minimalism in software development, or why you should do less"'
 date: '2012-07-06'
-speakers: [Fredrik Haard]
-tags: []
 ---
 Lean and agile promises - when implemented right - to reduce the pain of
 process and management overhead. As agile proponents say (the better of them

@@ -3,10 +3,11 @@ Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=Hv2pl7B1pZw"'
+Speakers: [Erik van Zijst]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/Hv2pl7B1pZw/hqdefault.jpg'
+Title: '"Limiting Execution Time Through Interrupt Driven Programming"'
 date: '2013-07-06'
-speakers: [Erik van Zijst]
-tags: []
 ---
 This talk explores the challenges of ensuring responsiveness of applications under varying conditions like suddenly increased load, code regressions and problematic user data that reveal code paths with unusually high time complexity.
 

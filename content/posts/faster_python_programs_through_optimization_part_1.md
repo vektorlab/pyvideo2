@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=lvyfpteeA54"'
+Speakers: [M Mollerv]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/lvyfpteeA54/hqdefault.jpg'
+Title: '"Faster python programs through optimization part 1"'
 date: '2012-07-05'
-speakers: [M Mollerv]
-tags: []
 ---
 Objective This tutorial provides an overview of techniques to improve the
 performance of Python programs. The focus is on concepts such as profiling,

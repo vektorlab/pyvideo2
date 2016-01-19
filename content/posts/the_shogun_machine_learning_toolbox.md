@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=5Zuq0sLFkBY"'
+Speakers: [Heiko Strathmann]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/5Zuq0sLFkBY/hqdefault.jpg'
+Title: '"The Shogun Machine Learning Toolbox"'
 date: '2014-07-24'
-speakers: [Heiko Strathmann]
-tags: []
 ---
 We present the Shogun Machine Learning Toolbox, a unified framework for Machine Learning  algorithms. Machine Learning (ML) is the art of finding structure in data in an automated way and has given rise to a wide range of applications such as recommendation systems, object recognition, brain-computer interfaces, robotics, predicting stock prices, etc.
 

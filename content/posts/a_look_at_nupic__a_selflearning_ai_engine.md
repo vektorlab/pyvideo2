@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=rY7GLyxINFY"'
+Speakers: [Tim McNamara]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/rY7GLyxINFY/hqdefault.jpg'
+Title: '"A look at NuPIC - A self-learning AI engine"'
 date: '2013-09-14'
-speakers: [Tim McNamara]
-tags: []
 ---
 @ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 1
 

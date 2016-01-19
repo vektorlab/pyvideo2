@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=OMLDHNaUMB8"'
+Speakers: [David Sale, Russell Sherwood]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/OMLDHNaUMB8/hqdefault.jpg'
+Title: '"Behaviour Driven Development at BSkyB"'
 date: '2012-07-06'
-speakers: [David Sale, Russell Sherwood]
-tags: []
 ---
 BSkyB is a major player in the broadcasting and telecoms market in the United
 Kingdom. Skyâ??s offering of premium sports, movies and entertainment channels

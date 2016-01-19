@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=eXY9CaFO254"'
+Speakers: [Adrien Guillo]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/eXY9CaFO254/maxresdefault.jpg'
+Title: '"Les effets de bord du Global Interpreter Lock"'
 date: '2013-11-30'
-speakers: [Adrien Guillo]
-tags: []
 ---
 "C'est seulement dans le cas de programmes multi-threadés qui passent beaucoup de temps au sein du GIL à interpréter du bytecode CPython que le GIL devient un goulot d'étranglement"
 

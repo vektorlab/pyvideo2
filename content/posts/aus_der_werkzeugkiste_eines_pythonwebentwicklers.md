@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=sJtPP2BO9BE"'
+Speakers: [Wolfgang Schnerring]
+Tags: []
 ThumbnailUrl: 'http://i4.ytimg.com/vi/sJtPP2BO9BE/hqdefault.jpg'
+Title: '"Aus der Werkzeugkiste eines Python/Web-Entwicklers"'
 date: '2012-11-01'
-speakers: [Wolfgang Schnerring]
-tags: []
 ---
 Werkzeuge erleichtern uns die Arbeit oder nehmen sie uns durch Automatisierung
 sogar ganz ab. In diesem Vortrag stelle ich einige Werkzeuge vor, die sich im

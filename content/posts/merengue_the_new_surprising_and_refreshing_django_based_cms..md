@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=jUHTORehfRg"'
+Speakers: [Manuel Saelices]
+Tags: [cms, django, framework, university, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/jUHTORehfRg/hqdefault.jpg'
+Title: '"Merengue: the new surprising and refreshing Django based CMS."'
 date: '2011-07-13'
-speakers: [Manuel Saelices]
-tags: [cms, django, framework, university, web]
 ---
 Django is an excellent web development platform with an extensive developers
 community. It may be the most popular Python web framework nowadays. However,

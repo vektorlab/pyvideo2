@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=PJ5vUz9FJcw"'
+Speakers: [Hynek Schlawack]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/PJ5vUz9FJcw/hqdefault.jpg'
+Title: '"The Sorry State of SSL"'
 date: '2014-07-22'
-speakers: [Hynek Schlawack]
-tags: []
 ---
 The rule of thumb for people without degrees in cryptography on securing data on the Internet is “GPG for data at rest. TLS for data in motion”. And it’s actually a very good rule everyone should follow.
 

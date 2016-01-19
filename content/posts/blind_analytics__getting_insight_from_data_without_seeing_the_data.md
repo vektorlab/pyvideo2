@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: '"http://youtu.be/zgCCtof4kkY"'
+Speakers: [Brian Thorne]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/zgCCtof4kkY/hqdefault.jpg'
+Title: '"Blind Analytics - getting insight from data without seeing the data"'
 date: '2015-09-06'
-speakers: [Brian Thorne]
-tags: []
 ---
 This talk will start with an overview of current methods of privacy preserving computation including homomorphic encryption, secret sharing, and differential privacy.
 

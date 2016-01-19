@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=YzVvZ9HPrn8"'
+Speakers: [Liang Bo Wang]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/YzVvZ9HPrn8/hqdefault.jpg'
+Title: '"Statistics in Python with R"'
 date: '2014-06-24'
-speakers: [Liang Bo Wang]
-tags: []
 ---
 Statistics is essential to data analysis, and many people choose R because of its great package diversity. With the advent of pandas, Python becomes one of the hottest language to do data analysis, and it will be more helpful if we can do statistics in Python as well. 
 

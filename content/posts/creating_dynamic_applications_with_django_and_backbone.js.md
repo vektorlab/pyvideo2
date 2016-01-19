@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=Is0TIzSG3eg"'
+Speakers: [Mjumbe Poe]
+Tags: [django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/Is0TIzSG3eg/hqdefault.jpg'
+Title: '"Creating Dynamic Applications with Django and Backbone.js"'
 date: '2012-09-04'
-speakers: [Mjumbe Poe]
-tags: [django]
 ---
 Django is a great tool for creating powerful database-driven web applications
 quickly. The ORM, form processing, the admin interface, and wealth of

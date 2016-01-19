@@ -3,10 +3,11 @@ Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=bCsw2kkIWyw"'
+Speakers: [Sandy Walsh]
+Tags: []
 ThumbnailUrl: 'http://i3.ytimg.com/vi/bCsw2kkIWyw/hqdefault.jpg'
+Title: '"Introduction to OpenStack"'
 date: '2012-11-11'
-speakers: [Sandy Walsh]
-tags: []
 ---
 OpenStack is a large python application being developed collaboratively with
 Rackspace, Red Hat, Canonical, Dell, HP, Intel, IBM, Citrix and a host of

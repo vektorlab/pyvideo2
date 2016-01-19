@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=qcqEAE4QoeA"'
+Speakers: [Antonio Cuni, Armin Rigo]
+Tags: [cd, cpython, extensions, hg, jit, optimize, pypy, setup.py, tutorial]
 ThumbnailUrl: 'http://i.ytimg.com/vi/qcqEAE4QoeA/hqdefault.jpg'
+Title: '"PyPy hands-on"'
 date: '2011-07-21'
-speakers: [Antonio Cuni, Armin Rigo]
-tags: [cd, cpython, extensions, hg, jit, optimize, pypy, setup.py, tutorial]
 ---
 The session is divided into two parts, of roughly 2 hours each. People who are
 interested only in the first part, can leave the session after it. However,

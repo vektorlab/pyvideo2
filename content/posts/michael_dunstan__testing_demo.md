@@ -3,9 +3,10 @@ Category: 'Kiwi PyCon 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/134_michael-dunstan-testing-demo.flv
+Speakers: [Michael Dunstan]
+Tags: [doctests, kiwipycon, kiwipycon2009, tdd, testing]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-KPC09T102MD300-535.jpg'
-speakers: [Michael Dunstan]
-tags: [doctests, kiwipycon, kiwipycon2009, tdd, testing]
+Title: '"Michael Dunstan - Testing Demo"'
 ---
 Testing Demo
 

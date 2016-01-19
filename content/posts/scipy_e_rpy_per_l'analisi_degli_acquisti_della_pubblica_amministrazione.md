@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
 SourceUrl: '"https://www.youtube.com/watch?v=fH3hZZ27tzY"'
+Speakers: [Francesco Cavazzana]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/fH3hZZ27tzY/maxresdefault.jpg'
+Title: '"Scipy e Rpy per l''analisi degli acquisti della pubblica amministrazione"'
 date: '2015-05-29'
-speakers: [Francesco Cavazzana]
-tags: []
 ---
 Il talk propone di mostrare un caso concreto di utilizzo di python, con varie librerie, per l’analisi di dati in formato aperto in ambito economico.
 Tutti gli enti pubblici italiani per legge devono pubblicare un file xml liberamente accessibile con tutti i dettagli sulla spesa per acquisti di lavori, beni e servizi.

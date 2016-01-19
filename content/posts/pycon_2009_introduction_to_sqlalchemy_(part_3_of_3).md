@@ -3,9 +3,10 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/198_pycon-2009-introduction-to-sqlalchemy-part-3-of-3.mp4
+Speakers: []
+Tags: [pycon, pycon2009, sqlalchemy, tutorial]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-IntroductionToSQLAlchemyPart003481-712.jpg'
-speakers: []
-tags: [pycon, pycon2009, sqlalchemy, tutorial]
+Title: '"PyCon 2009: Introduction to SQLAlchemy (Part 3 of 3)"'
 ---
   
 [VIDEO HAS ISSUES: some buzzing ] SQLAlchemy is the premier SQL toolkit for

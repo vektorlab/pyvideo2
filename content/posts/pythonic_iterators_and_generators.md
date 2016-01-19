@@ -3,10 +3,11 @@ Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=ODkRRup0a8w"'
+Speakers: [Lakshman  Prasad]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/ODkRRup0a8w/hqdefault.jpg'
+Title: '"Pythonic iterators and generators"'
 date: '2013-07-06'
-speakers: [Lakshman  Prasad]
-tags: []
 ---
 One of the first things you learn in programming is to apply a series of instructions to a set of elements.
 

@@ -3,11 +3,12 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/370_hidden-treasures-in-the-standard-library.mp4
-ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011HiddenTreasuresInTheStandardLibrary179-925.jpg'
-date: '2011-03-11'
-speakers: [Doug Hellmann]
-tags: [cgitb, cmd, contextlib.contextmanager, csv, fileinput, hmac, locale, pdb, pkgutil.getdata,
+Speakers: [Doug Hellmann]
+Tags: [cgitb, cmd, contextlib.contextmanager, csv, fileinput, hmac, locale, pdb, pkgutil.getdata,
   pycon, pycon2011, rlcompleter, robotparser, uuid4]
+ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011HiddenTreasuresInTheStandardLibrary179-925.jpg'
+Title: '"Hidden Treasures in the Standard Library"'
+date: '2011-03-11'
 ---
 Hidden Treasures in the Standard Library
 

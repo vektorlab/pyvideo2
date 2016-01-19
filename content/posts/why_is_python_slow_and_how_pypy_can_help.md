@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/427_why-is-python-slow-and-how-pypy-can-help.mp4
+Speakers: [Alex Gaynor, Maciej Fijalkowski]
+Tags: [jit, pycon, pycon2011, pypy, vm]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011WhyIsPythonSlowAndHowPyPyCanHelp525.png'
+Title: '"Why is Python slow and how PyPy can help?"'
 date: '2011-03-11'
-speakers: [Alex Gaynor, Maciej Fijalkowski]
-tags: [jit, pycon, pycon2011, pypy, vm]
 ---
 Why is Python slow and how PyPy can help?
 

@@ -3,10 +3,12 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=-hma3mlcrD8"'
+Speakers: [Brian Moloney, Joe Jasinski]
+Tags: [django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/-hma3mlcrD8/hqdefault.jpg'
+Title: '"Under the Microscope: Evaluating Existing Django Code When Onboarding a New
+  Client"'
 date: '2012-09-06'
-speakers: [Brian Moloney, Joe Jasinski]
-tags: [django]
 ---
 Taking over someone else’s code is an exercise fraught with peril. However,
 with the growing popularity of Django, more and more organizations are seeking

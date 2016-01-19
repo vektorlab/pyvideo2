@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=JC5QqVWA8Vo"'
+Speakers: [Jamu Kakar]
+Tags: [database]
 ThumbnailUrl: 'http://i.ytimg.com/vi/JC5QqVWA8Vo/hqdefault.jpg'
+Title: '"Using Storm to work with SQL databases"'
 date: '2011-07-13'
-speakers: [Jamu Kakar]
-tags: [database]
 ---
 Storm is an object relational mapper for SQL databases, with builtin support
 for PostgreSQL, MySQL and SQLite. It was designed and implemented as part of

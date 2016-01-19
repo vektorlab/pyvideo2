@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=ZDHkla5rllg"'
+Speakers: [K Haye]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/ZDHkla5rllg/hqdefault.jpg'
+Title: '"Nuitka - the Python compiler"'
 date: '2012-07-05'
-speakers: [K Haye]
-tags: []
 ---
 With Nuitka, for the first time, there is a consequently executed approach to
 statically translate the full language extent of Python, with all its special

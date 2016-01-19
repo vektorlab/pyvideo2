@@ -3,10 +3,11 @@ Category: 'PyCon US 2013'
 Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=6wcP1aMl7wQ"'
+Speakers: [Various]
+Tags: [lightningtalks]
 ThumbnailUrl: 'http://i3.ytimg.com/vi/6wcP1aMl7wQ/hqdefault.jpg'
+Title: '"Lightning Talks - Sunday morning"'
 date: '2013-03-17'
-speakers: [Various]
-tags: [lightningtalks]
 ---
 * [00:00](#t=0m) - Your brain on Python - John Montgomery
 * [04:45](#t=4m45s) - PyWorks: Making the dot asynchronous - Rene Nejsum

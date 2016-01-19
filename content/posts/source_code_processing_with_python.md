@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=tjF5jLD31kQ"'
+Speakers: [Kay Schluehr]
+Tags: [processing, science]
 ThumbnailUrl: 'http://i.ytimg.com/vi/tjF5jLD31kQ/hqdefault.jpg'
+Title: '"Source code processing with Python"'
 date: '2011-07-13'
-speakers: [Kay Schluehr]
-tags: [processing, science]
 ---
 Folklore says that having a problem and trying to solve it with regular
 expressions gives you two problems. However not applying regular expressions

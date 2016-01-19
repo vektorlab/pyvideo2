@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=ULCz2GuMeVc"'
+Speakers: [Thomas Koch]
+Tags: [' energieforschung', ' ontologie', ' pylucene', suche, ' wiki']
 ThumbnailUrl: 'http://i2.ytimg.com/vi/ULCz2GuMeVc/hqdefault.jpg'
+Title: '"EnArgus - ein ontologiebasiertes Forschungsinformationssystem"'
 date: '2012-10-30'
-speakers: [Thomas Koch]
-tags: [' energieforschung', ' ontologie', ' pylucene', suche, ' wiki']
 ---
 Forschungsaktivitäten in vielen Disziplinen werden durch unterschiedliche
 politische Instrumente gefördert. Die Erfassung und Darstellung von

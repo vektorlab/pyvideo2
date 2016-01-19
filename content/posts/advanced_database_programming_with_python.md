@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=LyJ3evnz2Xw"'
+Speakers: [Marc-Andre Lemburg]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/LyJ3evnz2Xw/hqdefault.jpg'
+Title: '"Advanced Database Programming with Python"'
 date: '2014-07-25'
-speakers: [Marc-Andre Lemburg]
-tags: []
 ---
 The Python DB-API 2.0 provides a direct interface to
 many popular database backends. It makes interaction with

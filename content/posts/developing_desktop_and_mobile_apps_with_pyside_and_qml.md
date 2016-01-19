@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=aoXee8Y-3w0"'
+Speakers: [Thomas Perl]
+Tags: [gui, mobile, pyside, qt]
 ThumbnailUrl: 'http://i.ytimg.com/vi/aoXee8Y-3w0/hqdefault.jpg'
+Title: '"Developing Desktop and mobile apps with PySide and QML"'
 date: '2011-07-13'
-speakers: [Thomas Perl]
-tags: [gui, mobile, pyside, qt]
 ---
 PySide offers Python bindings to the Qt libraries. This allows rapid
 development of great UI-based Python applications. With the addition of QML in

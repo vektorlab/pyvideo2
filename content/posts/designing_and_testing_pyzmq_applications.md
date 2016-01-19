@@ -3,11 +3,12 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=TG6wY76hICg"'
-ThumbnailUrl: 'http://i1.ytimg.com/vi/TG6wY76hICg/hqdefault.jpg'
-date: '2012-10-31'
-speakers: [Stefan Scherfke]
-tags: [' application design', " \xF8mq", ' process tests', ' pyzmq', ' system tests',
+Speakers: [Stefan Scherfke]
+Tags: [' application design', " \xF8mq", ' process tests', ' pyzmq', ' system tests',
   ' testing', ' unit tests', zeromq]
+ThumbnailUrl: 'http://i1.ytimg.com/vi/TG6wY76hICg/hqdefault.jpg'
+Title: '"Designing and Testing PyZMQ Applications"'
+date: '2012-10-31'
 ---
 PyZMQ ist eine mächtige aber dennoch einfach zu benutzende Netzwerkbibliothek.
 

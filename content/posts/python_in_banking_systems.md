@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=AmmVtWY2GfU"'
+Speakers: [M Dziergwa]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/AmmVtWY2GfU/hqdefault.jpg'
+Title: '"Python in banking systems"'
 date: '2012-07-06'
-speakers: [M Dziergwa]
-tags: []
 ---
 Creating applications for banks, especially internet banking systems, is a
 very complicated process. Because we do it since many years, I would like to

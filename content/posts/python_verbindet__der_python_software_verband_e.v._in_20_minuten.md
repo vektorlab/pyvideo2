@@ -3,10 +3,11 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=dr8y6ECP8sM"'
+Speakers: ["Mike M\xFCller"]
+Tags: [community, pysv, verband]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/dr8y6ECP8sM/hqdefault.jpg'
+Title: '"Python verbindet - Der Python Software Verband e.V. in 20 Minuten"'
 date: '2013-10-15'
-speakers: ["Mike M\xFCller"]
-tags: [community, pysv, verband]
 ---
 Der Python Software Verband (PySV) ist als eingetragener Verein in Deutschland organisiert, und versteht sich als Support-Organ der gesamten deutschsprachigen Python-Community. 2011 hat sich der PySV langsam aber sicher organisatorisch aus dem früheren DZUG e.V.,  der bereits vollständig aus Python Enthusiasten bestand, emanzipiert und seine Neustrukturierung im letzten Jahr weitgehend abgeschlossen.
 

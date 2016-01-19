@@ -3,10 +3,11 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/235_introduction-to-traits.m4v
+Speakers: [Corran Webster]
+Tags: [pycon, pycon2010, traits, tutorial]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-IntroductionToTraits425-362.jpg'
+Title: '"Introduction to Traits"'
 date: '2010-02-19'
-speakers: [Corran Webster]
-tags: [pycon, pycon2010, traits, tutorial]
 ---
 Introduction to Traits
 

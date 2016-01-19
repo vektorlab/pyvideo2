@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=hXnDyHidDqo"'
+Speakers: [Marek Kuziel]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/hXnDyHidDqo/hqdefault.jpg'
+Title: '"Python in Home Automation"'
 date: '2013-09-13'
-speakers: [Marek Kuziel]
-tags: []
 ---
 @ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1
 

@@ -3,10 +3,12 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/348_seattle-a-python-based-platform-for-easy-development-and-deployment-of-networked-systems-and-applications-162.m4v
+Speakers: [Ivan Beschastnikh, Justin Cappos, Justin Samuel]
+Tags: [api, language, mobile, network, p2p, pycon, pycon2010, seattle, security, university]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010SeattleAPythonbasedPlatformForEasyDevelopmentAn600-243.jpg'
+Title: '"Seattle: A Python-based Platform for Easy Development and Deployment of Networked
+  Systems and Applications (#162)"'
 date: '2010-02-19'
-speakers: [Ivan Beschastnikh, Justin Cappos, Justin Samuel]
-tags: [api, language, mobile, network, p2p, pycon, pycon2010, seattle, security, university]
 ---
 A Python-based Platform for Easy Development and Deployment of Networked
 Systems and Applications

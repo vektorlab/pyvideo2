@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"http://youtu.be/1x0XS7jkwzs"'
+Speakers: [Mike Haworth]
+Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/1x0XS7jkwzs/hqdefault.jpg'
+Title: '"Surprise features you didn''t ask for"'
 date: '2014-09-14'
-speakers: [Mike Haworth]
-tags: [talk]
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Mike Haworth:

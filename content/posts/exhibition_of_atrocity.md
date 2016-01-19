@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/401_exhibition-of-atrocity.mp4
+Speakers: [Mike Pirnat]
+Tags: [badcode, diaperpattern, lambda, pep8, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011ExhibitionOfAtrocity736.png'
+Title: '"Exhibition of Atrocity"'
 date: '2011-03-11'
-speakers: [Mike Pirnat]
-tags: [badcode, diaperpattern, lambda, pep8, pycon, pycon2011]
 ---
 Exhibition of Atrocity
 

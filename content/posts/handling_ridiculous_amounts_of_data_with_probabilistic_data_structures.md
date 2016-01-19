@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/402_handling-ridiculous-amounts-of-data-with-probabilistic-data-structures.mp4
+Speakers: [C. Titus Brown]
+Tags: [bigdata, parallelization, pycon, pycon2011, testing]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011HandlingRidiculousAmountsOfDataWithProbabilisti974.png'
+Title: '"Handling ridiculous amounts of data with probabilistic data structures"'
 date: '2011-03-11'
-speakers: [C. Titus Brown]
-tags: [bigdata, parallelization, pycon, pycon2011, testing]
 ---
 Handling ridiculous amounts of data with probabilistic data structures
 

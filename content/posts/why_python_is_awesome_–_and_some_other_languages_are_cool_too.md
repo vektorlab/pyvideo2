@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: '"http://youtu.be/L2JDiduangk"'
+Speakers: [Lee Symes]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/L2JDiduangk/hqdefault.jpg'
+Title: Why Python is awesome \u2013 and some other languages are cool too\
 date: '2015-09-05'
-speakers: [Lee Symes]
-tags: []
 ---
 Switching between many languages quickly clarifies each language's strengths and weaknesses. My background is in Java – however more recently I have moved onto using Python, JavaScript and PHP, whilst dabbling in Go. My talk will cover:
 

@@ -3,10 +3,11 @@ Category: 'PyCon DE 2013'
 Copyright: 'CC BY-SA'
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=eR-6kEv-6aM"'
+Speakers: []
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/eR-6kEv-6aM/hqdefault.jpg'
+Title: '"Mittwoch Lightning Talks"'
 date: '2013-10-16'
-speakers: []
-tags: []
 ---
 (00:00)  2. Test Driven Infrastructure  -  Schlomo Schapiro
 

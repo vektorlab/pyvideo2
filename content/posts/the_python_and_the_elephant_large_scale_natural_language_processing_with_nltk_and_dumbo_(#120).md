@@ -3,10 +3,12 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/335_the-python-and-the-elephant-large-scale-natural-language-processing-with-nltk-and-dumbo-120.m4v
+Speakers: [Dr. Jimmy J Lin, Nitin Madnani]
+Tags: [dumbo, nltk, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010ThePythonAndTheElephantLargeScaleNaturalLangua697.png'
+Title: '"The Python and the Elephant: Large Scale Natural Language Processing with
+  NLTK and Dumbo (#120)"'
 date: '2010-02-19'
-speakers: [Dr. Jimmy J Lin, Nitin Madnani]
-tags: [dumbo, nltk, pycon, pycon2010]
 ---
 The Python and the Elephant: Large Scale Natural Language Processing with NLTK
 and Dumbo

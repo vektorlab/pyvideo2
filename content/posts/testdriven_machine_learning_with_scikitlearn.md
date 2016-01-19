@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
 SourceUrl: '"https://www.youtube.com/watch?v=JlcDw2V9JJY"'
+Speakers: [Valerio Maggio]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/JlcDw2V9JJY/maxresdefault.jpg'
+Title: '"Test-driven machine learning with scikit-learn"'
 date: '2015-05-30'
-speakers: [Valerio Maggio]
-tags: []
 ---
 Machine learning is an amazing research and application field, which perfectly matches math skills with coding abilities in order to define programs that are able to learn from data.  Therefore, after having defined our own (mathematical) model, machine learning is about writing code - sometimes a lot of - to actually make the model to work.  However, one point usually underestimated or omitted when dealing with machine learning algorithms is how to write good quality code.
 

@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=2ulAnyyOps0"'
+Speakers: [Nik Klever]
+Tags: [didaktik, ' erste programmiersprache']
 ThumbnailUrl: 'http://i3.ytimg.com/vi/2ulAnyyOps0/hqdefault.jpg'
+Title: '"Didaktische Anforderung an die erste Programmsprache"'
 date: '2012-11-01'
-speakers: [Nik Klever]
-tags: [didaktik, ' erste programmiersprache']
 ---
 In diesem Vortrag geht es darum, dass im Herbst am Zentrum für
 Hochschuldidaktik der bayerischen Hochschulen für Angewandte Wissenschaften

@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=NXcWrxzq5KI"'
+Speakers: [Yves Hilpisch]
+Tags: [architecture, engineering, numpy, performance, simulation]
 ThumbnailUrl: 'http://i.ytimg.com/vi/NXcWrxzq5KI/hqdefault.jpg'
+Title: '"Derivatives Analytics with Python & Numpy"'
 date: '2011-07-13'
-speakers: [Yves Hilpisch]
-tags: [architecture, engineering, numpy, performance, simulation]
 ---
 In financial engineering and derivatives analytics, C/C++/Java/VBA and other
 languages are still dominating. Visixion has developed with

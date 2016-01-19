@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=j2ZHZWfx60Y"'
+Speakers: [Jacob Burch]
+Tags: [django, internationalization]
 ThumbnailUrl: 'http://i.ytimg.com/vi/j2ZHZWfx60Y/hqdefault.jpg'
+Title: '"A Gringo''s Guide to Internationalization"'
 date: '2012-09-04'
-speakers: [Jacob Burch]
-tags: [django, internationalization]
 ---
 There's often a bubble in the English-speaking programming world that the
 entire internet runs on English. Our Top-level domains are shortened english

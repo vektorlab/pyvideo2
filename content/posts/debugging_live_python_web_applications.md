@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=YM4F6sSAu9k"'
+Speakers: [Amjith Ramanujam]
+Tags: [debugging, django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/YM4F6sSAu9k/hqdefault.jpg'
+Title: '"Debugging Live Python Web Applications"'
 date: '2012-09-04'
-speakers: [Amjith Ramanujam]
-tags: [debugging, django]
 ---
 This talk will go over some of the ways in which a monitoring system such as
 New Relic can be used to focus in on where problems are arising in a Python

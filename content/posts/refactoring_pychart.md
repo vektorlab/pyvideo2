@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=hdytprStoXc"'
+Speakers: ["Jacob Hall\xE9n"]
+Tags: [graphs, teaching]
 ThumbnailUrl: 'http://i.ytimg.com/vi/hdytprStoXc/hqdefault.jpg'
+Title: '"Refactoring PyChart"'
 date: '2011-07-13'
-speakers: ["Jacob Hall\xE9n"]
-tags: [graphs, teaching]
 ---
 PyChart is a very nice program for producing print quality graphs. However, it
 came equipped with a rather strange API, where every class was called T. It

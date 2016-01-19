@@ -3,9 +3,10 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/212_pycon-2009-toscawidgets-test-driven-modular-ajax-part-2-of-2.mp4
+Speakers: []
+Tags: [pycon, pycon2009, testing, toscawidgets]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-ToscaWidgetsTestDrivenModularAjaxPart002764-754.jpg'
-speakers: []
-tags: [pycon, pycon2009, testing, toscawidgets]
+Title: '"PyCon 2009: ToscaWidgets: Test Driven Modular Ajax (Part 2 of 2)"'
 ---
   
 [VIDEO HAS ISSUES: room's AC was loud] If you have ever struggled with having

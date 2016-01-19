@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=RCBiw78SDb8"'
+Speakers: [Nik Klever]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/RCBiw78SDb8/hqdefault.jpg'
+Title: '"Some Experiences with Python-for-Android (Py4A)"'
 date: '2012-07-06'
-speakers: [Nik Klever]
-tags: []
 ---
 I will talk about some experiences about the API of the Scripting Layer for
 Android (SL4A) which is included in the Python-for-Android Package. The

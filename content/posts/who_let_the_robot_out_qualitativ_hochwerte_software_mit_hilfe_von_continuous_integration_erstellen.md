@@ -3,10 +3,12 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=hf_Su92HdR8"'
+Speakers: [Timo Stollenwerk]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/hf_Su92HdR8/hqdefault.jpg'
+Title: '"Who let the robot out? Qualitativ hochwerte Software mit Hilfe von Continuous
+  Integration erstellen"'
 date: '2013-10-15'
-speakers: [Timo Stollenwerk]
-tags: []
 ---
 Continuous Integration ist Begriff aus der Softwareentwicklung, der den Prozess des fortlaufenden Zusammenfügens von Komponenten zu einer Anwendung beschreibt. Das Ziel der kontinuierlichen Integration ist die Steigerung der Softwarequalität. Jede "Integration" führt zu einem automatisierten Build-Prozess der verschiedene Software-Tests und Code-Analyseschritte ausführt um Fehler so früh wie möglich erkennen und beheben zu können.
 

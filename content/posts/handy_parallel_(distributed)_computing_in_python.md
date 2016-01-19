@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=IsyhAJRkETY"'
+Speakers: [Liang Bo Wang]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/IsyhAJRkETY/hqdefault.jpg'
+Title: '"Handy Parallel (Distributed) Computing in Python"'
 date: '2014-06-27'
-speakers: [Liang Bo Wang]
-tags: []
 ---
 We all start our programming with single process in mind. But parallelization from scratch is a real headache. Things get worse when it comes to writing a spaghetti code in both short time and high performance, which is often the case doing data analysis.
 

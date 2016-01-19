@@ -3,11 +3,12 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/421_panel-python-vms.mp4
-ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011PanelPythonVMs871.png'
-date: '2011-03-11'
-speakers: [Brett Cannon, Dino Viehland, Frank J Wierzbicki, Jacob Kaplan-Moss, Maciej
+Speakers: [Brett Cannon, Dino Viehland, Frank J Wierzbicki, Jacob Kaplan-Moss, Maciej
     Fijalkowski]
-tags: [cpython, ironpython, jython, pycon, pycon2011, pypy]
+Tags: [cpython, ironpython, jython, pycon, pycon2011, pypy]
+ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011PanelPythonVMs871.png'
+Title: '"Panel: Python VMs"'
+date: '2011-03-11'
 ---
 Panel: Python VMs
 

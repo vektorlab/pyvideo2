@@ -3,9 +3,10 @@ Category: 'Kiwi PyCon 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/121_richard-tew-stackless-python-101.flv
+Speakers: [Richard Tew]
+Tags: [kiwipycon, kiwipycon2009, stackless]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-RichardTewStacklessPython101699-529.jpg'
-speakers: [Richard Tew]
-tags: [kiwipycon, kiwipycon2009, stackless]
+Title: '"Richard Tew - Stackless Python 101"'
 ---
 Stackless Python 101
 

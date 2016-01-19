@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=711n8hJ9Z1s"'
+Speakers: [Jan Dittberner]
+Tags: [debian, ' paketierung']
 ThumbnailUrl: 'http://i4.ytimg.com/vi/711n8hJ9Z1s/hqdefault.jpg'
+Title: Python-Code f\xFCr Debian paketieren\
 date: '2012-11-01'
-speakers: [Jan Dittberner]
-tags: [debian, ' paketierung']
 ---
 Das Debian-Projekt ist mit mehr als 30000 Binärpaketen eine der größten
 Distributionen freier Software. Auch viele Python-Bibliotheken und Anwendungen

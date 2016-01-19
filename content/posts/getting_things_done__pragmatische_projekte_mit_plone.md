@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=oqhOeFKiBVk"'
+Speakers: [Andreas Jung]
+Tags: []
 ThumbnailUrl: 'http://i4.ytimg.com/vi/oqhOeFKiBVk/hqdefault.jpg'
+Title: 'Getting things done" - Pragmatische Projekte mit Plone"'
 date: '2012-10-30'
-speakers: [Andreas Jung]
-tags: []
 ---
 Plone ist ein komplexes Web-Framework with vielen Modulen und vielschichtigen
 Abstraktionsebenen. Kundenprojekte im Bereich Web erfordern oft Anpassungen

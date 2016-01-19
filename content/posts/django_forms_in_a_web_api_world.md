@@ -3,10 +3,11 @@ Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=fwXEJh63sKc"'
+Speakers: [Tareque Hossain]
+Tags: [django, django-forms]
 ThumbnailUrl: 'http://i.ytimg.com/vi/fwXEJh63sKc/hqdefault.jpg'
+Title: '"Django forms in a web API world"'
 date: '2012-09-05'
-speakers: [Tareque Hossain]
-tags: [django, django-forms]
 ---
 In our quest to modularize the architecture of web applications, we create
 self-containing backend systems that provide web APIs for programmatic

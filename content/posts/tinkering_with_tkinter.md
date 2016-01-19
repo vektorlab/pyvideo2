@@ -3,10 +3,11 @@ Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=yI7NYgP54sw"'
+Speakers: [Russell Keith-Magee]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/yI7NYgP54sw/hqdefault.jpg'
+Title: '"Tinkering with Tkinter"'
 date: '2013-07-07'
-speakers: [Russell Keith-Magee]
-tags: []
 ---
 Tkinter - the Python wrapper to the Tk graphics library - has been part of the Python standard library since very early on. However, that inclusion hasn't translated into extensive use.
 

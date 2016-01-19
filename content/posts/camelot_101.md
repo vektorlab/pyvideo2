@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=x4hec861h2w"'
+Speakers: [A Cuni, J Dierckx]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/x4hec861h2w/hqdefault.jpg'
+Title: '"Camelot 101"'
 date: '2012-07-05'
-speakers: [A Cuni, J Dierckx]
-tags: []
 ---
 Camelot , as seen on EuroPython 2010 and 2011 is a framework for developing
 desktop database applications at warp speed. It is to desktop applications

@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=eXW_lN4x04k"'
+Speakers: [Andrew Mleczko]
+Tags: [cms, design, framework, plone, pyramid, rest, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/eXW_lN4x04k/hqdefault.jpg'
+Title: '"How to build complex web applications having fun?"'
 date: '2011-07-13'
-speakers: [Andrew Mleczko]
-tags: [cms, design, framework, plone, pyramid, rest, web]
 ---
 Web development is a complexity challenge nowadays. Growing number of
 functionalities results in customer expectations increase which makes project

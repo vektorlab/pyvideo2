@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=FQfFJ19g20I"'
+Speakers: [Luca Mearelli]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/FQfFJ19g20I/maxresdefault.jpg'
+Title: '"Bulding a social network analysis"'
 date: '2015-05-30'
-speakers: [Luca Mearelli]
-tags: []
 ---
 Every conversation has a structure. The network formed by the persons who interact in the conversations inside an online community can thus be analysed with the tools of the network science to understand their characteristics. Enriching online conversations with social network analysis we hope to be able to give community moderators tools that could help them to build better communities and guide the collective intelligence processes inside them. The great vision in this is to be able to contribute to building the engines that could help us to build effective platforms for participatory democracy ( a better overview on these theme is explained by my colleague Alberto Cottica in this TEDx talk: https://www.youtube.com/watch?v=KKrM2c-ww_k  )
 

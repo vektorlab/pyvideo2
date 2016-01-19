@@ -3,11 +3,12 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=F7NOKSP_vlQ"'
-ThumbnailUrl: 'http://i.ytimg.com/vi/F7NOKSP_vlQ/hqdefault.jpg'
-date: '2011-07-18'
-speakers: [Ian Ozsvald]
-tags: [cython, git, multiprocessing, network, numpy, nvidia, profiling, pycuda, runsnakerun,
+Speakers: [Ian Ozsvald]
+Tags: [cython, git, multiprocessing, network, numpy, nvidia, profiling, pycuda, runsnakerun,
   tutorial, windows, wxpython]
+ThumbnailUrl: 'http://i.ytimg.com/vi/F7NOKSP_vlQ/hqdefault.jpg'
+Title: '"Experiences making CPU-bound tasks run much faster"'
+date: '2011-07-18'
 ---
 UPDATE - post-event I've created a [49 page PDF write-
 up](http://ianozsvald.com/2011/06/29/high-performance-python-tutorial-v0-1

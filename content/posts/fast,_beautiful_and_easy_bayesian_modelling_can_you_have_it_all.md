@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=N6kVJTKT6H8"'
+Speakers: [Rhydwyn McGuire]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/N6kVJTKT6H8/hqdefault.jpg'
+Title: '"Fast, beautiful and easy Bayesian modelling: Can you have it all?"'
 date: '2015-08-04'
-speakers: [Rhydwyn McGuire]
-tags: []
 ---
 Bayesian models are often more useful than classical statistical models when dealing with data concerning rare events in small populations. For example, if you are looking at the number of cancer diagnoses in a local government area, Bayesian models allow you to combine the individual and population level data to produce more reliable estimates. 
 

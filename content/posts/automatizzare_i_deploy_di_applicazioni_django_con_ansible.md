@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
 SourceUrl: '"https://www.youtube.com/watch?v=yRaL3IkBwNs"'
+Speakers: [Maurizio Branca]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/yRaL3IkBwNs/maxresdefault.jpg'
+Title: '"Automatizzare i deploy di applicazioni Django con Ansible"'
 date: '2015-05-30'
-speakers: [Maurizio Branca]
-tags: []
 ---
 Il talk descrive come con Ansible sia possibile effettuare deploy frequenti ed affidabili di applicazioni web basate su Django.
 Il deploy di un applicazione web richiede di effettuare una serie di operazioni nella corretta sequenza. Effettuando le operazioni in modo manuale la probabilità di commettere errori aumenta all’aumentare di progetti portati avanti in parallelo o al verificarsi di situazioni di pressione e stanchezza.

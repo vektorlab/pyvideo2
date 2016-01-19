@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=PznPp-BbwyU"'
+Speakers: [Chia-Chi Chang]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/PznPp-BbwyU/hqdefault.jpg'
+Title: '"Hacking Models with Python"'
 date: '2014-06-26'
-speakers: [Chia-Chi Chang]
-tags: []
 ---
 Although there are several data mining tools in python, you can use them to
 deal with almost every kind of data (numeric, text, image, audio, ...) you met.

@@ -3,10 +3,11 @@ Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=nMxiKcgoWZo"'
+Speakers: [Zaki Akhmad]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/nMxiKcgoWZo/hqdefault.jpg'
+Title: '"Python for Application Security Testing"'
 date: '2014-06-27'
-speakers: [Zaki Akhmad]
-tags: []
 ---
 We can never rely on network firewall to be secure. We also must have a secure application. Besides test the functionality of the application, we must also test the security of the application. While the latter is frequently not performed hence the first is considered more important.
 

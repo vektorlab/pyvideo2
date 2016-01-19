@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=QYadUMKQI3Q"'
+Speakers: [Enrico Franchi]
+Tags: [analysis, network, networking]
 ThumbnailUrl: 'http://i.ytimg.com/vi/QYadUMKQI3Q/hqdefault.jpg'
+Title: '"Social Network Analysis in Python"'
 date: '2011-07-13'
-speakers: [Enrico Franchi]
-tags: [analysis, network, networking]
 ---
 Network Analysis has gained a huge recognition since the widespread adoption
 of on-line social networking systems. It is a cross-disciplinary subject with

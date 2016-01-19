@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=5kn3Sugrxz8"'
+Speakers: [M Muller]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/5kn3Sugrxz8/hqdefault.jpg'
+Title: '"Python is faster than fortran"'
 date: '2012-07-06'
-speakers: [M Muller]
-tags: []
 ---
 Many people may think that Python is slow because it is compiled to byte code.
 This presentation shows that Python can be fast even for computational

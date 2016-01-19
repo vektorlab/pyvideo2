@@ -3,10 +3,11 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=rV2GFvurBp0"'
+Speakers: [Klaus Bremer]
+Tags: [fritzbox, python-api]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/rV2GFvurBp0/hqdefault.jpg'
+Title: '"FritzConnection"'
 date: '2013-10-17'
-speakers: [Klaus Bremer]
-tags: [fritzbox, python-api]
 ---
 Die AVM Fritzbox ist ein weit verbreiteter Router für den Internet-Zugang und bietet darüber hinaus auch Funktionen einer Telefonanlage.
 

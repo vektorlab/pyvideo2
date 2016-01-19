@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=UJUbOWDlbWs"'
+Speakers: [Liz Quilty]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/UJUbOWDlbWs/hqdefault.jpg'
+Title: '"Hacking the OWI robotic arm bot"'
 date: '2013-09-12'
-speakers: [Liz Quilty]
-tags: []
 ---
 @ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 1
 

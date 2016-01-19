@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=cubJ4tYVrNc"'
+Speakers: [David Cramer]
+Tags: [optimization, scalable, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/cubJ4tYVrNc/hqdefault.jpg'
+Title: '"Building Scalable Web Apps"'
 date: '2011-07-07'
-speakers: [David Cramer]
-tags: [optimization, scalable, web]
 ---
 Building scalable web applications may seem like a distant problem, but the
 problem is not thinking about it before it's too late. This talk will focus on

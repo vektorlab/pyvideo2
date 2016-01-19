@@ -3,10 +3,11 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=Nsl8WUqdUoI"'
+Speakers: ["Marc-Andr\xE9 Lemburg"]
+Tags: [effizient, projekt, team]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/Nsl8WUqdUoI/hqdefault.jpg'
+Title: '"Effiziente Python-Entwicklung mit kleinen Teams"'
 date: '2013-10-15'
-speakers: ["Marc-Andr\xE9 Lemburg"]
-tags: [effizient, projekt, team]
 ---
 Python bietet eine sehr effiziente Basis für das Umsetzen von komplexen Projektanforderungen. Die dadurch bedingten kürzeren Entwicklungszeiten liefern allerdings nicht nur Vorteile, sondern bringen auch neue Herausforderungen mit sich.
 

@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=c0DE_UfRiXE"'
+Speakers: [Tennessee Leeuwenburg]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/c0DE_UfRiXE/hqdefault.jpg'
+Title: '"Verification: Truth in Statistics by Tennessee Leeuwenburg"'
 date: '2014-08-09'
-speakers: [Tennessee Leeuwenburg]
-tags: []
 ---
 Come to this talk if you want to learn a few basic techniques for putting numerical data in context. If you've ever predicted anything, or tried to work out whether some number was "good enough", you'll probably get something out of this presentation. All techniques and tools demonstrated using Python.
 

@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=99AoONzl-Ik"'
+Speakers: [H Krossing]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/99AoONzl-Ik/hqdefault.jpg'
+Title: '"Seamless integration of python and postgresql"'
 date: '2012-07-05'
-speakers: [H Krossing]
-tags: []
 ---
 Presenting a better way of using PostgreSQL from python with Simple to use way
 to avoid moving data back and forth to client for just for processing while

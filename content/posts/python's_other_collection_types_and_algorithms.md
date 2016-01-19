@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=7QiuxqEpq2o"'
+Speakers: [Andrew Dalke]
+Tags: [bisect, dictionaries, frozenset, heapq, learning, namedtuple, ordereddict]
 ThumbnailUrl: 'http://i.ytimg.com/vi/7QiuxqEpq2o/hqdefault.jpg'
+Title: '"Python''s other collection types and algorithms"'
 date: '2011-07-18'
-speakers: [Andrew Dalke]
-tags: [bisect, dictionaries, frozenset, heapq, learning, namedtuple, ordereddict]
 ---
 It's impossible to use Python without learning about lists, dictionaries and
 tuples, and most people have at least heard about sets. These four collection

@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=LrW-HSHP0ws"'
+Speakers: [Tom Eastman]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/LrW-HSHP0ws/hqdefault.jpg'
+Title: '"Serialization formats aren''t toys by Tom Eastman"'
 date: '2014-08-07'
-speakers: [Tom Eastman]
-tags: []
 ---
 Do you have an API? 
 

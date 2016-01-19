@@ -3,9 +3,10 @@ Category: 'DjangoCon 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/57_first-steps-in-performance-tuning.flv
+Speakers: [Dr. Russell Keith-Magee]
+Tags: [djangocon, djangocon2010, performance, tuning]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-FirstStepsInPerformanceTuning779-385.jpg'
-speakers: [Dr. Russell Keith-Magee]
-tags: [djangocon, djangocon2010, performance, tuning]
+Title: '"First steps in performance tuning"'
 ---
 First steps in performance tuning
 

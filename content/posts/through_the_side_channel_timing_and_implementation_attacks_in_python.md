@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/423_through-the-side-channel-timing-and-implementation-attacks-in-python.mp4
+Speakers: [Geremy Condra]
+Tags: [hacking, hardening, pycon, pycon2011, security]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011ThroughTheSideChannelTimingAndImplementationAt601.png'
+Title: '"Through the Side Channel: Timing and Implementation Attacks in Python"'
 date: '2011-03-11'
-speakers: [Geremy Condra]
-tags: [hacking, hardening, pycon, pycon2011, security]
 ---
 Through the Side Channel: Timing and Implementation Attacks in Python
 

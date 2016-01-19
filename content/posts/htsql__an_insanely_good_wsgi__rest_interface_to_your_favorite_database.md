@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/365_htsql-an-insanely-good-wsgi-rest-interface-to-your-favorite-database.mp4
+Speakers: [Clark C. Evans]
+Tags: [htsql, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011HTSQLAnInsanelyGoodWSGIRESTInterfaceToYour159.png'
+Title: '"HTSQL - an insanely good WSGI / REST interface to your favorite database"'
 date: '2011-03-11'
-speakers: [Clark C. Evans]
-tags: [htsql, pycon, pycon2011]
 ---
 The HTSQL processor is a high-level URI-based query language for relational
 databases such as SQLite, PostgreSQL or MySQL. Since it's written in Python,

@@ -3,10 +3,11 @@ Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"http://youtu.be/i7EZAfhIvCs"'
+Speakers: [Teijo Holzer]
+Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/i7EZAfhIvCs/hqdefault.jpg'
+Title: '"Fixing Python"'
 date: '2014-09-13'
-speakers: [Teijo Holzer]
-tags: [talk]
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Teijo Holzer:

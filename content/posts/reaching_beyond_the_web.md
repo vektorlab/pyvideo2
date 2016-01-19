@@ -3,10 +3,11 @@ Category: 'PyCon ZA 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://archive.org/details/pyconza2014-reaching-beyond-the-web"'
+Speakers: [Vinod Kurup]
+Tags: [pyconza, pyconza2014]
 ThumbnailUrl: 'http://archive.org/download/pyconza2014-reaching-beyond-the-web/pyconza2014-reaching-beyond-the-web.thumbs/14%20A%20Reaching%20Beyond%20the%20Web-_000450.jpg'
+Title: '"Reaching Beyond the Web"'
 date: '2014-10-03'
-speakers: [Vinod Kurup]
-tags: [pyconza, pyconza2014]
 ---
 Using RapidSMS to power democracy in Libya.
 As web developers, we often think of the web as being a ubiquitous resource, available to everyone. The truth is that there are still large groups of people who have either limited or no web access. In addition, there are people who have excellent web access, yet still prefer to use simpler tools to connect to others. How can we reach these groups of people? While not perfectly ubiquitous, SMS technology is much more widespread, especially in areas that don't have great internet connectivity. It's also ubiquitous in the sense that people who have excellent internet access still use SMS frequently.

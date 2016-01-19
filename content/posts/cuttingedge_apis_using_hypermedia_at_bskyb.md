@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=7rSLyLMaWXQ"'
+Speakers: [Adriana Vasiu]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/7rSLyLMaWXQ/hqdefault.jpg'
+Title: '"Cutting-edge APIs using hypermedia at BSkyB"'
 date: '2014-07-22'
-speakers: [Adriana Vasiu]
-tags: []
 ---
 In the technology community at the moment there is a lot of talk about hypermedia enabled APIs and Web as an Architecture model.
  

@@ -3,10 +3,11 @@ Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=yiBCb6Z2jKo"'
+Speakers: [Schlomo Schapiro]
+Tags: [geld, kultur, open-source, politik, wirtschaft]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/yiBCb6Z2jKo/hqdefault.jpg'
+Title: Sponsoring von Open-Source - und damit den Chef \xFCberzeugen\
 date: '2013-10-15'
-speakers: [Schlomo Schapiro]
-tags: [geld, kultur, open-source, politik, wirtschaft]
 ---
 Nutzen Sie Open-Source-Software? 
 

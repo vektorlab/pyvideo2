@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/437_panel-python-in-schools-teaching-it-and-teaching-with-it.mp4
+Speakers: []
+Tags: [pycon, pycon2011, teaching]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011PanelPythonInSchoolsTeachingItAndTeachingWith796.png'
+Title: '"Panel: Python in Schools: Teaching It and Teaching With It."'
 date: '2011-03-11'
-speakers: []
-tags: [pycon, pycon2011, teaching]
 ---
 Panel: Python in Schools: Teaching It and Teaching With It.
 

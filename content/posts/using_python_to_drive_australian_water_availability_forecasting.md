@@ -3,10 +3,11 @@ Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=Gr9MPKTLXpY"'
+Speakers: [David Kent]
+Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/Gr9MPKTLXpY/hqdefault.jpg'
+Title: '"Using Python to drive Australian water availability forecasting"'
 date: '2013-07-07'
-speakers: [David Kent]
-tags: []
 ---
 With Andrew MacDonald and Daehyok Shin
 

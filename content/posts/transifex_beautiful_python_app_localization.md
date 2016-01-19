@@ -3,10 +3,11 @@ Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=KOfB5WQb39g"'
+Speakers: [Dimitris Glezos]
+Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/KOfB5WQb39g/hqdefault.jpg'
+Title: '"Transifex: Beautiful Python app localization"'
 date: '2012-03-11'
-speakers: [Dimitris Glezos]
-tags: []
 ---
 Localization of Python apps used to be hard, but not any more. This talk will
 offer a short intro on software localization in Python and discuss today's

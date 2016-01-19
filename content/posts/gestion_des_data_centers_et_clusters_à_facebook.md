@@ -3,10 +3,11 @@ Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
 SourceUrl: '"https://www.youtube.com/watch?v=jkpvLtdLkBc"'
+Speakers: [Stephan Gorget]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/jkpvLtdLkBc/maxresdefault.jpg'
+Title: Gestion des data centers et clusters \xE0 Facebook\
 date: '2013-11-30'
-speakers: [Stephan Gorget]
-tags: []
 ---
 Facebook est une entreprise où l'infrastructure grandit plus vite que le nombre de personnes qui composent les équipes d'administration système. Facebook a donc décidé d'automatiser les processus liés à l'infrastructure. Cette présentation portera sur l'outil qui permet à Facebook d'automatiser la mise en place de nouveaux datacenters et clusters ainsi que leurs cycles de vie.
 

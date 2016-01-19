@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=RGhmPyJKcjU"'
+Speakers: [Sebastian Beswick]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/RGhmPyJKcjU/hqdefault.jpg'
+Title: '"Sounds good! by Sebastian Beswick"'
 date: '2014-08-11'
-speakers: [Sebastian Beswick]
-tags: []
 ---
 Do you know if it’s worth upgrading your Spotify account to stream songs at 320kb/s?
 

@@ -3,10 +3,11 @@ Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=gR73nLbbgqY"'
+Speakers: [Mark Smith]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/gR73nLbbgqY/hqdefault.jpg'
+Title: '"Writing Awesome Command-Line Programs in Python"'
 date: '2014-07-24'
-speakers: [Mark Smith]
-tags: []
 ---
 Python is a great language for writing command-line tools - which is why so much of Linux is secretly written in Python these days. Unfortunately, what starts as a simple script can quickly get out of hand as more features are added and more people start using it!
 

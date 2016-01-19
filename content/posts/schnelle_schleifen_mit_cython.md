@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=ytgWM-WcJzs"'
+Speakers: [Stefan Behnel]
+Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/ytgWM-WcJzs/hqdefault.jpg'
+Title: '"Schnelle Schleifen mit Cython"'
 date: '2012-10-31'
-speakers: [Stefan Behnel]
-tags: []
 ---
 Keine PyCon(-DE) ohne Cython, die de-facto Standarderweiterungssprache für
 Python. Diesmal geht es um ein paar neuere Spracherweiterungen zur Python-

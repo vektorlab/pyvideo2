@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=GuNwewBU_Hw"'
+Speakers: [S Thorne]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/GuNwewBU_Hw/hqdefault.jpg'
+Title: '"Twisted tutorial part 1"'
 date: '2012-07-06'
-speakers: [S Thorne]
-tags: []
 ---
 Twisted is one of the best asynchronous network programming frameworks out
 there, and can help you build cool stuff very easily, once you understand the

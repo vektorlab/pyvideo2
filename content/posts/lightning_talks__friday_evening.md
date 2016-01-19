@@ -3,10 +3,11 @@ Category: 'PyCon US 2013'
 Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=1vui-LupKJI"'
+Speakers: [Various]
+Tags: [lightningtalks]
 ThumbnailUrl: 'http://i2.ytimg.com/vi/1vui-LupKJI/hqdefault.jpg'
+Title: '"Lightning Talks - Friday evening"'
 date: '2013-03-15'
-speakers: [Various]
-tags: [lightningtalks]
 ---
 * [00:00](#t=0m) - Intro to Lightning Talks - MC Larry Hasting
 * [01:56](#t=1m56s) - Instrumental - Matthew J Desmarais

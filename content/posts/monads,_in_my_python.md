@@ -3,10 +3,11 @@ Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=WNwV3wR4JjA"'
+Speakers: [Xuanyi Chew]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/WNwV3wR4JjA/hqdefault.jpg'
+Title: '"Monads, in my Python?"'
 date: '2015-08-04'
-speakers: [Xuanyi Chew]
-tags: []
 ---
 Monads shouldn't be difficult to understand. This talk aims to show what monads are, and why you shouldn't be afraid of them. You most likely use them already (yes, really). 
 

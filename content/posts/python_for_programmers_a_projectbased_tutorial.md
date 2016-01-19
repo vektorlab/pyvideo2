@@ -3,10 +3,11 @@ Category: 'PyCon US 2013'
 Copyright: 'CC'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=Nc16qeGBtMU"'
+Speakers: [Alexandra Strong, Christine Cheung, Katharine Jarmul]
+Tags: [tutorial]
 ThumbnailUrl: 'http://i.ytimg.com/vi/Nc16qeGBtMU/hqdefault.jpg'
+Title: '"Python for Programmers: A Project-Based Tutorial"'
 date: '2013-03-13'
-speakers: [Alexandra Strong, Christine Cheung, Katharine Jarmul]
-tags: [tutorial]
 ---
 Are you a Python-curious programmer? Learn by writing your first project! You'll build a complete quiz creation web application. We will cover topics from data structures and classes, to debugging and testing.
 

@@ -3,10 +3,11 @@ Category: 'PyCon US 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/274_using-python-to-create-robotic-simulations-for-planetary-exploration-159.m4v
+Speakers: [Dr. Jonathan M Cameron]
+Tags: [nasa, pycon, pycon2010, robotics, simulation]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010UsingPythonToCreateRoboticSimulationsForPlaneta894-385.jpg'
+Title: '"Using Python to Create Robotic Simulations for Planetary Exploration (#159)"'
 date: '2010-02-19'
-speakers: [Dr. Jonathan M Cameron]
-tags: [nasa, pycon, pycon2010, robotics, simulation]
 ---
 Using Python to Create Robotic Simulations for Planetary Exploration (#159)
 

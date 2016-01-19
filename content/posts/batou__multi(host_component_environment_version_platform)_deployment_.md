@@ -3,10 +3,11 @@ Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
 SourceUrl: '"https://www.youtube.com/watch?v=-f8Ef0Y_ZYk"'
+Speakers: [Christian Theune]
+Tags: [deployment]
 ThumbnailUrl: 'http://i2.ytimg.com/vi/-f8Ef0Y_ZYk/hqdefault.jpg'
+Title: '"batou - multi-(host component environment version platform) deployment "'
 date: '2012-10-31'
-speakers: [Christian Theune]
-tags: [deployment]
 ---
 Batou ist ein Open-Source Werkzeug um mit Python das Deployment von komplexen
 Anwendungen zu beschreiben und zu automatisieren.

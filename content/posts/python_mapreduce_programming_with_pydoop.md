@@ -3,10 +3,11 @@ Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=IyXOP7SJqKQ"'
+Speakers: [Simone Leo]
+Tags: [api, cpython, distributed, hadoop, jython, mapreduce, tutorial]
 ThumbnailUrl: 'http://i.ytimg.com/vi/IyXOP7SJqKQ/hqdefault.jpg'
+Title: '"Python MapReduce Programming with Pydoop"'
 date: '2011-07-13'
-speakers: [Simone Leo]
-tags: [api, cpython, distributed, hadoop, jython, mapreduce, tutorial]
 ---
 Hadoop is the leading open source implementation of MapReduce, Google's large
 scale distributed computing paradigm. Hadoop's native API is in Java, and its

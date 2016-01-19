@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=jZj7K3r9s3k"'
+Speakers: [Simone Dalla]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/jZj7K3r9s3k/hqdefault.jpg'
+Title: '"Google Apps loves Python?"'
 date: '2012-07-05'
-speakers: [Simone Dalla]
-tags: []
 ---
 Can we put a new appointment on our Google Calendar with Python script? Yes,
 we can. Can we get the list of our Google Documents with Python script? Yes,

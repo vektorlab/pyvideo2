@@ -3,10 +3,11 @@ Category: 'PyCon CA 2012'
 Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: '"https://www.youtube.com/watch?v=F4rFuIb1Ie4"'
+Speakers: ["Fernando P\xE9rez"]
+Tags: []
 ThumbnailUrl: 'http://i3.ytimg.com/vi/F4rFuIb1Ie4/hqdefault.jpg'
+Title: '"Science And Python: retrospective of a (mostly) successful decade "'
 date: '2012-11-11'
-speakers: ["Fernando P\xE9rez"]
-tags: []
 ---
 The relation between Python and scientific work is a long one, and in the last
 10+ years it has turned into a major success story. I will review this process

@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=9gbUFyPltDs"'
+Speakers: [Alex Martelli]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/9gbUFyPltDs/hqdefault.jpg'
+Title: '"Permission or forgiveness?"'
 date: '2012-07-04'
-speakers: [Alex Martelli]
-tags: []
 ---
 Grace Murray Hopper’s famous motto, “It’s easier to ask forgiveness than
 permission”, has many useful applications – in Python, in concurrency, in

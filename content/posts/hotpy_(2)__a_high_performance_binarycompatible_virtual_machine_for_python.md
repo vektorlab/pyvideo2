@@ -3,10 +3,11 @@ Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=c6PYnZUMF7o"'
+Speakers: [Mark Shannon]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/c6PYnZUMF7o/hqdefault.jpg'
+Title: '"HotPy (2) - A High Performance Binary-Compatible Virtual Machine for Python"'
 date: '2012-07-06'
-speakers: [Mark Shannon]
-tags: []
 ---
 HotPy (2) is a new interpreter for Python. It is binary compatible with
 CPython and reuses CPython’s object and module implementations. The core

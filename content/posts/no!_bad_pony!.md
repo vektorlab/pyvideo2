@@ -3,10 +3,11 @@ Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=xFh40R5KcV8"'
+Speakers: [Russell Keith-Magee]
+Tags: [django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/xFh40R5KcV8/hqdefault.jpg'
+Title: '"No! Bad Pony!"'
 date: '2012-08-22'
-speakers: [Russell Keith-Magee]
-tags: [django]
 ---
 The Django community is not short of ideas that could be added to the core
 repository. Some of these ideas are great, and are just waiting for the right

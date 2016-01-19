@@ -3,10 +3,11 @@ Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
 SourceUrl: '"https://www.youtube.com/watch?v=CQfPq6wXyJI"'
+Speakers: [Alessandro Molina]
+Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/CQfPq6wXyJI/maxresdefault.jpg'
+Title: '"Messing up with PyMongo for fun and profit"'
 date: '2015-05-30'
-speakers: [Alessandro Molina]
-tags: []
 ---
 BSON (Binary JSON) è il formato di rappresentazione dei dati usato internamente da MongoDB per la trasmissione e rappresentazione dei documenti salvati nel database.
 Ogni volta che si implementano delle API HTTP basate su MongoDB il driver (pymongo) riceve i dati in formato BSON e li deve convertire in un formato comprensibile da Python. Successivamente questi dati dovranno essere re-encodati nel formato usato dalle nostre API, solitamente JSON.

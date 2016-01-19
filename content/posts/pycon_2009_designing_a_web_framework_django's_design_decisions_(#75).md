@@ -3,9 +3,10 @@ Category: 'PyCon US 2009'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/225_pycon-2009-designing-a-web-framework-django-s-design-decisions-75.mp4
+Speakers: [Jacob Kaplan-Moss]
+Tags: [pycon, pycon2009]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-DesigningAWebFrameworkDjangosDesignDecisions895-36.jpg'
-speakers: [Jacob Kaplan-Moss]
-tags: [pycon, pycon2009]
+Title: '"PyCon 2009: Designing a web framework: Django''s design decisions (#75)"'
 ---
 Designing a web framework: Django's design decisions
 

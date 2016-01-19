@@ -3,10 +3,11 @@ Category: 'PyCon US 2011'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/412_tuf-secure-software-updates-in-python.mp4
+Speakers: [Geremy Condra]
+Tags: [pycon, pycon2011, security, tuf, updates]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011TUFSecureSoftwareUpdatesInPython643-944.jpg'
+Title: '"TUF: Secure Software Updates in Python"'
 date: '2011-03-11'
-speakers: [Geremy Condra]
-tags: [pycon, pycon2011, security, tuf, updates]
 ---
 TUF: Secure Software Updates in Python
 

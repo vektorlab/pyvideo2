@@ -3,10 +3,11 @@ Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
 SourceUrl: '"http://www.youtube.com/watch?v=DEI5oJzzdFw"'
+Speakers: [Michael Still]
+Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/DEI5oJzzdFw/hqdefault.jpg'
+Title: '"What is OpenStack? by Michael Still"'
 date: '2014-08-07'
-speakers: [Michael Still]
-tags: []
 ---
 OpenStack is one of the biggest python projects ever, and is hiring plenty of interesting python people to work on Open Source, which is cool. Yet, many people tell me that they don't really understand what OpenStack is. Let's fix that once and for all.
 
