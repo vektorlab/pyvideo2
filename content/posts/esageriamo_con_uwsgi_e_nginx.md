@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=-xuelXMtYNE"'
+SourceUrl: 'http://www.youtube.com/watch?v=-xuelXMtYNE'
 Speakers: [Roberto De Ioris]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/-xuelXMtYNE/hqdefault.jpg'
-Title: '"Esageriamo con uWSGI e Nginx"'
+Title: 'Esageriamo con uWSGI e Nginx'
 date: '2012-07-04'
 ---
 Siamo tutti capaci di far girare una applicazione WSGI su un server

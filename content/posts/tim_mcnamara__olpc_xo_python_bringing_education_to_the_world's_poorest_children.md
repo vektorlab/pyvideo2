@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Tim McNamara]
 Tags: [kiwipycon, kiwipycon2009, olpc]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-TimMcNamaraOLPCXOPythonBringingEducationToTheWorldsPo728-638.jpg'
-Title: '"Tim McNamara - OLPC XO: Python bringing education to the world''s poorest
-  children"'
+Title: 'Tim McNamara - OLPC XO: Python bringing education to the world''s poorest
+  children'
 ---
 OLPC XO: Python bringing education to the world's poorest children
 

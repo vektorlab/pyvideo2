@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/YcSRqAJ06KM"'
+SourceUrl: 'http://youtu.be/YcSRqAJ06KM'
 Speakers: [Douglas Bagnall]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/YcSRqAJ06KM/hqdefault.jpg'
-Title: '"Multimedia programming using Gstreamer (and, of course, Python)"'
+Title: 'Multimedia programming using Gstreamer (and, of course, Python)'
 date: '2014-09-14'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

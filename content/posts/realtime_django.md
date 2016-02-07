@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Adam Miskiewicz, Ben Slavin]
 Tags: [data, djangocon, djangocon2011, realtime]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-RealTimeDjango172-84.jpg'
-Title: '"Real-Time Django"'
+Title: 'Real-Time Django'
 ---
 Real-Time Django
 

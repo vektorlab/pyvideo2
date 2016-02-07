@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=wslWYg0CTkY"'
+SourceUrl: 'https://www.youtube.com/watch?v=wslWYg0CTkY'
 Speakers: [Hugo Boyer]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/wslWYg0CTkY/hqdefault.jpg'
-Title: '"Python for makers"'
+Title: 'Python for makers'
 date: '2012-03-10'
 ---
 Digital fabrication is the art of translating digital designs into physical

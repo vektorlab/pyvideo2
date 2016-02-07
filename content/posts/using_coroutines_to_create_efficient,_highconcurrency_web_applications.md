@@ -7,7 +7,7 @@ Speakers: [Matt Spitz]
 Tags: [coroutines, gevent, gunicorn, highconcurrency, libevent, pycon, pycon2011,
   wsgi]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011UsingCoroutinesToCreateEfficientHighConcurrency731.png'
-Title: '"Using Coroutines to Create Efficient, High-Concurrency Web Applications"'
+Title: 'Using Coroutines to Create Efficient, High-Concurrency Web Applications'
 date: '2011-03-11'
 ---
 Using Coroutines to Create Efficient, High-Concurrency Web Applications

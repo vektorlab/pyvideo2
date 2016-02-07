@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Ned Batchelder]
 Tags: [extensions, pycon, pycon2009, python-advanced]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-AWhirlwindExcursionThroughWritingACExtension305-36.jpg'
-Title: '"PyCon 2009: A Whirlwind Excursion through Writing a C Extension (#68)"'
+Title: 'PyCon 2009: A Whirlwind Excursion through Writing a C Extension (#68)'
 ---
   
 [VIDEO HAS ISSUES: Ambient mic used, some echoing] Everyone's heard of C

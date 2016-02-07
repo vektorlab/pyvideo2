@@ -2,7 +2,7 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=Vqs5opW8CAY"'
+SourceUrl: 'https://www.youtube.com/watch?v=Vqs5opW8CAY'
 Speakers: [Justin Mayer]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Vqs5opW8CAY/maxresdefault.jpg'

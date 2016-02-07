@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Deniz Kural]
 Tags: [bigdata, casestudy, dna, genomes, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011RapidPythonUsedOnBigDataToDiscoverHumanGenet382.png'
-Title: '"Rapid Python used on Big Data to Discover Human Genetic Variation"'
+Title: 'Rapid Python used on Big Data to Discover Human Genetic Variation'
 date: '2011-03-11'
 ---
 Rapid Python used on Big Data to Discover Human Genetic Variation

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=0Xt-au2QnRg"'
+SourceUrl: 'http://www.youtube.com/watch?v=0Xt-au2QnRg'
 Speakers: [Anselm Kruis]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/0Xt-au2QnRg/hqdefault.jpg'
-Title: '"Post-Mortem Debugging with Heap-Dumps"'
+Title: 'Post-Mortem Debugging with Heap-Dumps'
 date: '2014-07-25'
 ---
 Post-Mortem Debugging with Heap-Dumps

@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=pWCAADXd-DI"'
+SourceUrl: 'http://www.youtube.com/watch?v=pWCAADXd-DI'
 Speakers: [Erik Labianca]
 Tags: [cryptography, django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/pWCAADXd-DI/hqdefault.jpg'
-Title: '"Cryptography for Django Applications"'
+Title: 'Cryptography for Django Applications'
 date: '2012-09-05'
 ---
 # Introduction

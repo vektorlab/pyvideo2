@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Tim Penhey]
 Tags: [kiwipycon, kiwipycon2009, launchpad]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-TimPenheyLaunchpadTheGoodTheBadAndTheOMGHowDoesThat845-307.jpg'
-Title: '"Tim Penhey - Launchpad: The Good, the Bad, and the OMG How Does That Work"'
+Title: 'Tim Penhey - Launchpad: The Good, the Bad, and the OMG How Does That Work'
 ---
 Launchpad: The Good, The Bad, and the OMG How Does That Work
 

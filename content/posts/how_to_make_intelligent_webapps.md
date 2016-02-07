@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=N7monH2jXNI"'
+SourceUrl: 'http://www.youtube.com/watch?v=N7monH2jXNI'
 Speakers: [Deepak Thukral]
 Tags: [django, learning, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/N7monH2jXNI/hqdefault.jpg'
-Title: '"How to make intelligent web-apps"'
+Title: 'How to make intelligent web-apps'
 date: '2011-07-13'
 ---
 The primary goal of this talk is twofold: to evaluate the need of data mining

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Nadia Alramli, Stani Michiels]
 Tags: [crossplatform, packaging, py2app, py2exe, pycon, pycon2010, wxpython]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010CrossPlatformApplicationDevelopmentAndDistributio341.png'
-Title: '"Cross platform application development and distribution (#116)"'
+Title: 'Cross platform application development and distribution (#116)'
 date: '2010-02-19'
 ---
 Cross platform application development and distribution

@@ -2,11 +2,11 @@
 Category: 'PyCon US 2013'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=9mgg45Wr8jY"'
+SourceUrl: 'https://www.youtube.com/watch?v=9mgg45Wr8jY'
 Speakers: [Stuart Williams]
 Tags: [tutorial]
 ThumbnailUrl: 'http://i.ytimg.com/vi/9mgg45Wr8jY/hqdefault.jpg'
-Title: '"Python Epiphanies"'
+Title: 'Python Epiphanies'
 date: '2013-03-14'
 ---
 This tutorial is for software developers who've been using Python with

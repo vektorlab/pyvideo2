@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Glyph Lefkowitz]
 Tags: [djangocon, djangocon2011, keynote]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-KeynoteGlyphLefkowitz810-708.jpg'
-Title: '"Keynote - Glyph Lefkowitz"'
+Title: 'Keynote - Glyph Lefkowitz'
 ---
 Keynote
 

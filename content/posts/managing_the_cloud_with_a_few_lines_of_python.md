@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=LbKvCvfWcJc"'
+SourceUrl: 'http://www.youtube.com/watch?v=LbKvCvfWcJc'
 Speakers: [Frank Becker]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/LbKvCvfWcJc/hqdefault.jpg'
-Title: '"Managing the Cloud with a Few Lines of Python"'
+Title: 'Managing the Cloud with a Few Lines of Python'
 date: '2014-07-23'
 ---
 One of the advantages of cloud computing is that resources can be enabled or disabled dynamically. 

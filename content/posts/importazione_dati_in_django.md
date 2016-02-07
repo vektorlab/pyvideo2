@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=gj3un9L8cO8"'
+SourceUrl: 'https://www.youtube.com/watch?v=gj3un9L8cO8'
 Speakers: [Gianluca Esposito]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/gj3un9L8cO8/maxresdefault.jpg'
-Title: '"Importazione dati in Django"'
+Title: 'Importazione dati in Django'
 date: '2015-05-30'
 ---
 L’importazione dati da una fonte esterna, in un Database già esistente, è un task che nasconde numerose insidie.

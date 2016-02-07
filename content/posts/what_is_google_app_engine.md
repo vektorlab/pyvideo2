@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=tT7nNx6ahhA"'
+SourceUrl: 'http://www.youtube.com/watch?v=tT7nNx6ahhA'
 Speakers: [wesley chun]
 Tags: [architecture, cloud, google, hosting, infrastructure, memcache, security, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/tT7nNx6ahhA/hqdefault.jpg'
-Title: '"What is Google App Engine?"'
+Title: 'What is Google App Engine?'
 date: '2011-07-13'
 ---
 Google App Engine is a unique hosting platform that lets you build

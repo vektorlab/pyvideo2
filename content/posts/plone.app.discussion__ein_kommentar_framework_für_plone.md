@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2011'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'German'
-SourceUrl: '"http://www.youtube.com/watch?v=aS5Rjwb3up0"'
+SourceUrl: 'http://www.youtube.com/watch?v=aS5Rjwb3up0'
 Speakers: [Timo Stollenwerk]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/aS5Rjwb3up0/hqdefault.jpg'

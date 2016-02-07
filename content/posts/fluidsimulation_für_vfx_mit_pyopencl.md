@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=KGU2stOCta4"'
+SourceUrl: 'https://www.youtube.com/watch?v=KGU2stOCta4'
 Speakers: [Dieter Morgenroth]
 Tags: [pyopencl]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/KGU2stOCta4/hqdefault.jpg'

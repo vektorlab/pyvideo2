@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Michael Carter]
 Tags: [hookbox, pycon, pycon2011, realtime, webapps]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011HookboxAllPythonWebframeworksNowRealtimeBatteri858.png'
-Title: '"Hookbox: All Python web-frameworks, now real-time. Batteries Included."'
+Title: 'Hookbox: All Python web-frameworks, now real-time. Batteries Included.'
 date: '2011-03-11'
 ---
 Hookbox: All Python web-frameworks, now real-time. Batteries Included.

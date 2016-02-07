@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=vZc5mETltzM"'
+SourceUrl: 'http://www.youtube.com/watch?v=vZc5mETltzM'
 Speakers: [Joe Jasinski]
 Tags: [django, payments]
 ThumbnailUrl: 'http://i.ytimg.com/vi/vZc5mETltzM/hqdefault.jpg'
-Title: '"So You Want to Make a Payment: Comparing and contrasting Django payment options"'
+Title: 'So You Want to Make a Payment: Comparing and contrasting Django payment options'
 date: '2012-09-05'
 ---
 When developing eCommerce applications in Django, you will often be faced with

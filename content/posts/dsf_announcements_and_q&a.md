@@ -6,7 +6,7 @@ SourceUrl: http://blip.tv/file/get/Robertlofthouse-DSFAnnouncementsAndQA629.ogv
 Speakers: [Dr. Russell Keith-Magee]
 Tags: [djangocon, djangocon2010, dsf]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-DSFAnnouncementsAndQA629-585.jpg'
-Title: '"DSF Announcements and Q&A"'
+Title: 'DSF Announcements and Q&A'
 ---
 DSF Announcements and Q & A
 

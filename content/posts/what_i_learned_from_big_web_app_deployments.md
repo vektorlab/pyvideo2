@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=ENnI2FU3EV4"'
+SourceUrl: 'http://www.youtube.com/watch?v=ENnI2FU3EV4'
 Speakers: [Christian Theune]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/ENnI2FU3EV4/hqdefault.jpg'
-Title: '"What i learned from big web app deployments"'
+Title: 'What i learned from big web app deployments'
 date: '2012-07-04'
 ---
 The requirements and expectations towards deployment and operations are

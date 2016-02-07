@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=DakC_lRNw9E"'
+SourceUrl: 'https://www.youtube.com/watch?v=DakC_lRNw9E'
 Speakers: [Andrew Francis]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/DakC_lRNw9E/hqdefault.jpg'
-Title: '"How to Solve a Problem Like Santa Claus"'
+Title: 'How to Solve a Problem Like Santa Claus'
 date: '2012-11-11'
 ---
 The Santa Claus Problem is a conceptually simple but notoriously tough

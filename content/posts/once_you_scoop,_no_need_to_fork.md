@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=RT6uMqzm9uc"'
+SourceUrl: 'https://www.youtube.com/watch?v=RT6uMqzm9uc'
 Speakers: [Yannick Hold]
 Tags: []
 ThumbnailUrl: 'http://i3.ytimg.com/vi/RT6uMqzm9uc/hqdefault.jpg'
-Title: '"Once you Scoop, no need to fork"'
+Title: 'Once you Scoop, no need to fork'
 date: '2012-11-10'
 ---
 The future is parallel. In this rapidly evolving parallel world, the scoop is

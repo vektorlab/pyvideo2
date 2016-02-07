@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=elA96lMW-gA"'
+SourceUrl: 'https://www.youtube.com/watch?v=elA96lMW-gA'
 Speakers: [Emanuel Danci, Vlad Temian]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/elA96lMW-gA/maxresdefault.jpg'
-Title: '"gitfs - building a filesystem in Python"'
+Title: 'gitfs - building a filesystem in Python'
 date: '2015-05-29'
 ---
 gitfs is an open-source[1] filesystem which was designed to bring the full powers of Git to everyone, no matter how little they know about versioning. A user can mount any repository and all the his changes will be automatically converted into commits. gitfs will also expose the history of the branch you’re currently working on by simulating snapshots of every commit.

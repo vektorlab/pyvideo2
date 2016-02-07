@@ -2,11 +2,11 @@
 Category: 'PyCon US 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=WAitSilLDUA"'
+SourceUrl: 'https://www.youtube.com/watch?v=WAitSilLDUA'
 Speakers: [Thomas Ballinger]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/WAitSilLDUA/hqdefault.jpg'
-Title: '"Terminal whispering"'
+Title: 'Terminal whispering'
 date: '2015-04-12'
 ---
 Have you ever wanted to add a status bar to your command line program?

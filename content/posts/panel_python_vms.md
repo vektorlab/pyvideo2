@@ -7,7 +7,7 @@ Speakers: [Brett Cannon, Dino Viehland, Frank J Wierzbicki, Jacob Kaplan-Moss, M
     Fijalkowski]
 Tags: [cpython, ironpython, jython, pycon, pycon2011, pypy]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011PanelPythonVMs871.png'
-Title: '"Panel: Python VMs"'
+Title: 'Panel: Python VMs'
 date: '2011-03-11'
 ---
 Panel: Python VMs

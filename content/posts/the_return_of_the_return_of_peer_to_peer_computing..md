@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=xxSKmecZ09E"'
+SourceUrl: 'http://www.youtube.com/watch?v=xxSKmecZ09E'
 Speakers: [Nicholas Tollervey]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/xxSKmecZ09E/hqdefault.jpg'
-Title: '"The Return of "The Return of Peer to Peer Computing"."'
+Title: 'The Return of "The Return of Peer to Peer Computing".'
 date: '2014-07-24'
 ---
 This talk introduces, describes and demonstrates concepts and code created during sprints and via online collaboration by a distributed group of Pythonistas under the working title p4p2p (http://p4p2p.net).

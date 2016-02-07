@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=z_q5BaniZH0"'
+SourceUrl: 'http://www.youtube.com/watch?v=z_q5BaniZH0'
 Speakers: [Joshua Hesketh]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/z_q5BaniZH0/hqdefault.jpg'
-Title: '"Continuous Integration Testing for Your Database Migrations by Joshua Hesketh"'
+Title: 'Continuous Integration Testing for Your Database Migrations by Joshua Hesketh'
 date: '2014-08-11'
 ---
 This is a talk about how OpenStack does database migration continuous integration, and how other projects might be able to learn from what we've done.

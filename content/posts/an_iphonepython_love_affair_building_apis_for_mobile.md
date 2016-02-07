@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=GB0EJUhC7yc"'
+SourceUrl: 'http://www.youtube.com/watch?v=GB0EJUhC7yc'
 Speakers: [Anna Callahan, Nate Aune]
 Tags: [api, django, flask, json, mobile, rest, tastypie, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/GB0EJUhC7yc/hqdefault.jpg'
-Title: '"An iPhone-Python love affair: Building APIs for mobile"'
+Title: 'An iPhone-Python love affair: Building APIs for mobile'
 date: '2011-07-07'
 ---
 Mobile apps are the hot item of the day - and the best mobile apps are backed

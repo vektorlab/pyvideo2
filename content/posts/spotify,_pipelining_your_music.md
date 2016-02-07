@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=OH4Q9db0xFw"'
+SourceUrl: 'http://www.youtube.com/watch?v=OH4Q9db0xFw'
 Speakers: [Jyrki Pulliainen]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/OH4Q9db0xFw/hqdefault.jpg'
-Title: '"Spotify, pipelining your music"'
+Title: 'Spotify, pipelining your music'
 date: '2012-07-04'
 ---
 Spotify’s current catalog contains 15 million songs. Original storage of audio

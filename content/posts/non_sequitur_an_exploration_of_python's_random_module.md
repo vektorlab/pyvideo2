@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=cQg4GC-TFG8"'
+SourceUrl: 'http://www.youtube.com/watch?v=cQg4GC-TFG8'
 Speakers: [Jair Trejo]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/cQg4GC-TFG8/hqdefault.jpg'
-Title: '"Non Sequitur: An exploration of Python''s random module"'
+Title: 'Non Sequitur: An exploration of Python''s random module'
 date: '2014-07-24'
 ---
 # Audience

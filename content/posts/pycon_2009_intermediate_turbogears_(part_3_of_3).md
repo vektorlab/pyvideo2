@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [pycon, pycon2009, turbogears]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-IntermediateTurbogearsPart003567-791.jpg'
-Title: '"PyCon 2009: Intermediate Turbogears (Part 3 of 3)"'
+Title: 'PyCon 2009: Intermediate Turbogears (Part 3 of 3)'
 ---
   
 Have you conquered the basics of Pylons/TurboGears2 (or just taken the morning

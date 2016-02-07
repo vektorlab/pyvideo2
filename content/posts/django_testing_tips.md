@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=ScjhonARTvU"'
+SourceUrl: 'http://www.youtube.com/watch?v=ScjhonARTvU'
 Speakers: [Simon Meers]
 Tags: [django, testing]
 ThumbnailUrl: 'http://i.ytimg.com/vi/ScjhonARTvU/hqdefault.jpg'
-Title: '"Django Testing Tips"'
+Title: 'Django Testing Tips'
 date: '2012-08-22'
 ---
 Django's test framework is excellent for ensuring that your site/app is

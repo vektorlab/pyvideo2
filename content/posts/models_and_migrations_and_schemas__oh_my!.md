@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=gwP7zLDDdPA"'
+SourceUrl: 'http://www.youtube.com/watch?v=gwP7zLDDdPA'
 Speakers: [Andrew Godwin]
 Tags: [django, models]
 ThumbnailUrl: 'http://i.ytimg.com/vi/gwP7zLDDdPA/hqdefault.jpg'
-Title: '"Models and Migrations and Schemas - oh my!"'
+Title: 'Models and Migrations and Schemas - oh my!'
 date: '2012-09-06'
 ---
 Django has a long and varied history of dealing with changing schema

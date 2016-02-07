@@ -2,7 +2,7 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=_PPQLeimyOM"'
+SourceUrl: 'https://www.youtube.com/watch?v=_PPQLeimyOM'
 Speakers: [Christopher Neugebauer]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/_PPQLeimyOM/hqdefault.jpg'

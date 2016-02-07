@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=IBC_dxr-4ps"'
+SourceUrl: 'http://www.youtube.com/watch?v=IBC_dxr-4ps'
 Speakers: [Floris Bruynooghe]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/IBC_dxr-4ps/hqdefault.jpg'
-Title: '"Advanced Uses of py.test Fixtures"'
+Title: 'Advanced Uses of py.test Fixtures'
 date: '2014-07-24'
 ---
 This talks will assume some basic familiarity with the py.test

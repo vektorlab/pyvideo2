@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=CMKV4hlcU8Y"'
+SourceUrl: 'https://www.youtube.com/watch?v=CMKV4hlcU8Y'
 Speakers: [Andreas Klostermann]
 Tags: [biology, brain computer interfaces, eeg, medicine, neurofeedback, raspberry
     pi]

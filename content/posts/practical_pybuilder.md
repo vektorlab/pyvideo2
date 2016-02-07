@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=iQU18hAjux4"'
+SourceUrl: 'http://www.youtube.com/watch?v=iQU18hAjux4'
 Speakers: [Maximilien Riehl]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/iQU18hAjux4/hqdefault.jpg'
-Title: '"Practical PyBuilder"'
+Title: 'Practical PyBuilder'
 date: '2014-07-25'
 ---
 # Why another build tool

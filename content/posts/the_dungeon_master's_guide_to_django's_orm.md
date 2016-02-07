@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=bgV39DlmZ2U"'
+SourceUrl: 'http://www.youtube.com/watch?v=bgV39DlmZ2U'
 Speakers: [Malcolm Tredinnick]
 Tags: [django, django-orm]
 ThumbnailUrl: 'http://i.ytimg.com/vi/bgV39DlmZ2U/hqdefault.jpg'
-Title: '"The Dungeon Master''s guide to Django''s ORM"'
+Title: 'The Dungeon Master''s guide to Django''s ORM'
 date: '2012-09-05'
 ---
 Django's database layer is a necessarily complicated piece of code. It is a

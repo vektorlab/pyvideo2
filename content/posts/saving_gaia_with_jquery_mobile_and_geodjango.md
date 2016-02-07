@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=xE2-QKe9rGc"'
+SourceUrl: 'http://www.youtube.com/watch?v=xE2-QKe9rGc'
 Speakers: [Calvin Cheng]
 Tags: [database, geodjango, jquery, mobile, spatial, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/xE2-QKe9rGc/hqdefault.jpg'
-Title: '"Saving Gaia with jQuery Mobile and GeoDjango"'
+Title: 'Saving Gaia with jQuery Mobile and GeoDjango'
 date: '2011-07-13'
 ---
 We had the privilege of working on a mobile web application for ETH Zurich,

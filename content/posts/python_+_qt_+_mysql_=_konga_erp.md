@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=N2e9ICXHkbw"'
+SourceUrl: 'http://www.youtube.com/watch?v=N2e9ICXHkbw'
 Speakers: [Fabrizio Toso]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/N2e9ICXHkbw/hqdefault.jpg'
-Title: '"Python + Qt + MySQL = Konga ERP"'
+Title: 'Python + Qt + MySQL = Konga ERP'
 date: '2012-07-05'
 ---
 L’obiettivo di questo talk è quello descrivere brevemente come in azienda

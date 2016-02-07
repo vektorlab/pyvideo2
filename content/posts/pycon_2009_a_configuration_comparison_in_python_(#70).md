@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [configobj, configparser, csv, lxml, pycon, pycon2009, pyyaml, simplejson]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-AConfigurationComparisonInPython235-852.jpg'
-Title: '"PyCon 2009: A Configuration Comparison in Python (#70)"'
+Title: 'PyCon 2009: A Configuration Comparison in Python (#70)'
 ---
 A Configuration Comparison in Python
 

@@ -2,11 +2,11 @@
 Category: 'ChiPy'
 Copyright: 'CC BY'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=Qu6MVLnt2D8"'
+SourceUrl: 'https://www.youtube.com/watch?v=Qu6MVLnt2D8'
 Speakers: [yarko]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/Qu6MVLnt2D8/hqdefault.jpg'
-Title: '"What''s Love Got to do with It? / Love: for techies"'
+Title: 'What''s Love Got to do with It? / Love: for techies'
 date: '2013-09-12'
 ---
 What you think Love is - is (probably) wrong.

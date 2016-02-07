@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [cheeseshop, eggs, pycon, pycon2009, virtualenv, zc.buildout]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-EggsAndBuildoutDeploymentInPythonPart001587-862.jpg'
-Title: '"PyCon 2009: Eggs and Buildout Deployment in Python (Part 1 of 3)"'
+Title: 'PyCon 2009: Eggs and Buildout Deployment in Python (Part 1 of 3)'
 ---
   
 Puzzled about Python eggs and packages? Wondering how to repeatably pull

@@ -2,11 +2,11 @@
 Category: 'PyCon US 2013'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=LAWM0hALtAg"'
+SourceUrl: 'https://www.youtube.com/watch?v=LAWM0hALtAg'
 Speakers: [Jim Baker]
 Tags: [talk]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/LAWM0hALtAg/hqdefault.jpg'
-Title: '"Integrating Jython with Java"'
+Title: 'Integrating Jython with Java'
 date: '2013-03-16'
 ---
 Jython provides a nearly seamless integration when using Java

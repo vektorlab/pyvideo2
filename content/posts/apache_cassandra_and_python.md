@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=188mXjwdkak"'
+SourceUrl: 'https://www.youtube.com/watch?v=188mXjwdkak'
 Speakers: [Jeremiah Jordan]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/188mXjwdkak/hqdefault.jpg'
-Title: '"Apache Cassandra and Python"'
+Title: 'Apache Cassandra and Python'
 date: '2012-03-09'
 ---
 Using Apache Cassandra from Python is easy to do. This talk will cover setting

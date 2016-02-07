@@ -2,12 +2,12 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=M8v06Wksx24"'
+SourceUrl: 'http://www.youtube.com/watch?v=M8v06Wksx24'
 Speakers: [Alessandro Molina]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/M8v06Wksx24/hqdefault.jpg'
-Title: '"Costruire applicazioni web complesse con le pluggable applications di TurboGears2
-  in pochi minuti"'
+Title: 'Costruire applicazioni web complesse con le pluggable applications di TurboGears2
+  in pochi minuti'
 date: '2012-07-06'
 ---
 Con la release 2.1 di TurboGears il team di sviluppo ha posto molta enfasi nel

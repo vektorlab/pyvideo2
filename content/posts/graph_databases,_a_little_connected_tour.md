@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=IZVPsuWODpg"'
+SourceUrl: 'http://www.youtube.com/watch?v=IZVPsuWODpg'
 Speakers: ["Francisco Fern\xE1ndez Casta\xF1o"]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/IZVPsuWODpg/hqdefault.jpg'
-Title: '"Graph Databases, a little connected tour"'
+Title: 'Graph Databases, a little connected tour'
 date: '2014-07-23'
 ---
 There are many kinds of NoSQL databases like, document databases, key-value, column databases and graph databases.

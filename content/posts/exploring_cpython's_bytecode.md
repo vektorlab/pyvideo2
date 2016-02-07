@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=c08Ee2gQ3pY"'
+SourceUrl: 'http://www.youtube.com/watch?v=c08Ee2gQ3pY'
 Speakers: [Floris Bruynooghe]
 Tags: [bytecode, cpython, vm]
 ThumbnailUrl: 'http://i.ytimg.com/vi/c08Ee2gQ3pY/hqdefault.jpg'
-Title: '"Exploring CPython''s bytecode"'
+Title: 'Exploring CPython''s bytecode'
 date: '2011-07-21'
 ---
 The CPython interpreter always compiles your source code to bytecode, usually

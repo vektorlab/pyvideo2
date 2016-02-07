@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=EQVaNTRqIjY"'
+SourceUrl: 'https://www.youtube.com/watch?v=EQVaNTRqIjY'
 Speakers: [Tom Eastman]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/EQVaNTRqIjY/hqdefault.jpg'
-Title: '"Playing to lose: making sensible security decisions by assuming the worst"'
+Title: 'Playing to lose: making sensible security decisions by assuming the worst'
 date: '2015-08-04'
 ---
 The unfortunate truth about networked applications is that an attacker only needs to know one thing you didn't know to get past your defenses. You need to know everything, they don't.

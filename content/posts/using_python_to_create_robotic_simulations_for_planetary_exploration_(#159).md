@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Dr. Jonathan M Cameron]
 Tags: [nasa, pycon, pycon2010, robotics, simulation]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010UsingPythonToCreateRoboticSimulationsForPlaneta894-385.jpg'
-Title: '"Using Python to Create Robotic Simulations for Planetary Exploration (#159)"'
+Title: 'Using Python to Create Robotic Simulations for Planetary Exploration (#159)'
 date: '2010-02-19'
 ---
 Using Python to Create Robotic Simulations for Planetary Exploration (#159)

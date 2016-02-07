@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [forms, panel, pycon, pycon2010, restish, turbogears, web, web2py, zope]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010PanelFormGeneratorGenerators20300.png'
-Title: '"Panel: Form Generator Generators (#28)"'
+Title: 'Panel: Form Generator Generators (#28)'
 date: '2010-02-19'
 ---
 Panel: Form Generator Generators

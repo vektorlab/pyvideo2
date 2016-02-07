@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=w_zl52L6CU4"'
+SourceUrl: 'http://www.youtube.com/watch?v=w_zl52L6CU4'
 Speakers: [Jonathan Schemoul]
 Tags: [architecture, design, framework, processing, ui, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/w_zl52L6CU4/hqdefault.jpg'
-Title: '"Flow-based programming made easy with PyF 2.0"'
+Title: 'Flow-based programming made easy with PyF 2.0'
 date: '2011-07-13'
 ---
 PyF is a python framework to ease flow based programming and allow massive

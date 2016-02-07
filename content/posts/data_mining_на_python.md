@@ -2,7 +2,7 @@
 Category: 'PyCon Ukraine 2014'
 Copyright: 'youtube'
 Language: 'Russian'
-SourceUrl: '"https://www.youtube.com/watch?v=o_wEh-spa9I"'
+SourceUrl: 'https://www.youtube.com/watch?v=o_wEh-spa9I'
 Speakers: [Vitaly Haritonskiy]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/o_wEh-spa9I/hqdefault.jpg'

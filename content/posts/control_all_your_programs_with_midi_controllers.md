@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/p2CsRZoatc8"'
+SourceUrl: 'http://youtu.be/p2CsRZoatc8'
 Speakers: [Tobi Wulff]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/p2CsRZoatc8/hqdefault.jpg'
-Title: '"Control All Your Programs with MIDI Controllers"'
+Title: 'Control All Your Programs with MIDI Controllers'
 date: '2014-09-13'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

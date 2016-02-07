@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Jeremy Edberg]
 Tags: [pycon, pycon2010, reddit, scaling, web]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010ScalingYourPythonApplicationOnEC2191887.png'
-Title: '"Scaling your Python application on EC2 (#191)"'
+Title: 'Scaling your Python application on EC2 (#191)'
 date: '2010-02-19'
 ---
 Scaling Your Python Application on EC2

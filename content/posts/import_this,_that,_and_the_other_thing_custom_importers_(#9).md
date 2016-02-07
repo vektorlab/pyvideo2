@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Brett Cannon]
 Tags: [import, importers, importing, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010ImportThisThatAndTheOtherThingCustomImporters824.png'
-Title: '"Import this, that, and the other thing: custom importers (#9)"'
+Title: 'Import this, that, and the other thing: custom importers (#9)'
 date: '2010-02-19'
 ---
 Import this, that, and the other thing. Custom importers

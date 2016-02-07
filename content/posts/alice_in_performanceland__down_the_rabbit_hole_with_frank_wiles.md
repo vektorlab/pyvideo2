@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Frank Wiles]
 Tags: [djangocon, djangocon2010, optimization, performance, scaling]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-AliceInPerformancelandDownTheRabbitHoleWithFrankWiles688.png'
-Title: '"Alice in Performanceland -- Down the Rabbit Hole with Frank Wiles"'
+Title: 'Alice in Performanceland -- Down the Rabbit Hole with Frank Wiles'
 ---
 Alice in Performanceland -- Down the Rabbit Hole with Frank Wiles
 

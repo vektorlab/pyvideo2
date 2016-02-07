@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Tim Knapp]
 Tags: [deliverance, kiwipycon, kiwipycon2009, plone]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-TimKnappGettingAllYourWebAppsToWearTheCompanyBrand869-36.jpg'
-Title: '"Tim Knapp - Getting All Your Web Apps To Wear The Company Brand"'
+Title: 'Tim Knapp - Getting All Your Web Apps To Wear The Company Brand'
 ---
 Getting all your web apps to wear the company brand
 

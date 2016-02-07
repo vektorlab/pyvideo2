@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Michael D. Healy]
 Tags: [nltk, pycon, pycon2011, twitter]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011LinguisticsOfTwitter909.png'
-Title: '"Linguistics of Twitter"'
+Title: 'Linguistics of Twitter'
 date: '2011-03-11'
 ---
 Contrary to expectations, the prevalence of television did not cause every

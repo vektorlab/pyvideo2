@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=gyDKMAWPyuY"'
+SourceUrl: 'http://www.youtube.com/watch?v=gyDKMAWPyuY'
 Speakers: [Martijn Faassen]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/gyDKMAWPyuY/hqdefault.jpg'
-Title: '"Morepath: a Python Web Framework with Super Powers"'
+Title: 'Morepath: a Python Web Framework with Super Powers'
 date: '2014-07-24'
 ---
 [Morepath](http://morepath.readthedocs.org) is a new server web

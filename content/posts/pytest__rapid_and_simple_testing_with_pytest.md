@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=85Ybi0CncIg"'
+SourceUrl: 'https://www.youtube.com/watch?v=85Ybi0CncIg'
 Speakers: [Holger Krekel]
 Tags: [python, ' testen']
 ThumbnailUrl: 'http://i1.ytimg.com/vi/85Ybi0CncIg/hqdefault.jpg'
-Title: '"pytest - rapid and simple testing with pytest"'
+Title: 'pytest - rapid and simple testing with pytest'
 date: '2012-10-31'
 ---
 Das Werkzeug py.test erlaubt es schnell und einfach Test für Python-Programme

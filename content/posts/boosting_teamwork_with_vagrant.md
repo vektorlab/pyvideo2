@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=DsYVx-mh3NE"'
+SourceUrl: 'http://www.youtube.com/watch?v=DsYVx-mh3NE'
 Speakers: [Julien Phalip]
 Tags: [django, vagrant]
 ThumbnailUrl: 'http://i.ytimg.com/vi/DsYVx-mh3NE/hqdefault.jpg'
-Title: '"Boosting teamwork with Vagrant"'
+Title: 'Boosting teamwork with Vagrant'
 date: '2012-09-06'
 ---
 In this talk I will present Vagrant, a free open-source tool facilitating the

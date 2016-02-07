@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=-oSAMkqbWjs"'
+SourceUrl: 'http://www.youtube.com/watch?v=-oSAMkqbWjs'
 Speakers: [Josef]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/-oSAMkqbWjs/hqdefault.jpg'
-Title: '"Scientific Visualization with GR"'
+Title: 'Scientific Visualization with GR'
 date: '2014-07-25'
 ---
 Python has long been established in software development departments of research and industry, not least because of the proliferation of libraries such as *SciPy* and *Matplotlib*. However, when processing large amounts of data, in particular in combination with GUI toolkits (*Qt*) or three-dimensional visualizations (*OpenGL*), it seems that Python as an interpretative programming language may be reaching its limits.

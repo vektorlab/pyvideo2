@@ -7,7 +7,7 @@ Speakers: []
 Tags: [cocos2d, google, hacks, inflect.py, jython, olpc, pippy, pyconau, pyconau2010,
   robots, scripts, with]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-LightningTalksSaturday403.png'
-Title: '"PyConAU 2010: Lightning talks - Saturday"'
+Title: 'PyConAU 2010: Lightning talks - Saturday'
 ---
 Lightning Talks - Saturday
 

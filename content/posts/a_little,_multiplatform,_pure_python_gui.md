@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=HNyKU3o3v5c"'
+SourceUrl: 'https://www.youtube.com/watch?v=HNyKU3o3v5c'
 Speakers: [Davide Rosa]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/HNyKU3o3v5c/maxresdefault.jpg'
-Title: '"A little, multiplatform, pure python GUI"'
+Title: 'A little, multiplatform, pure python GUI'
 date: '2015-05-29'
 ---
 Nuova piattaforma, nuova GUI. Sempre la stessa storia. Quante volte vi è capitato di adattare un vostro script ad una nuova piattaforma, solo perché l’interfaccia utente non era supportata dal device di destinazione? E poi installa questo, installa quello e qualcosa non và… Bene, vi presento la mia GUI, 28Kb di puro python, puro stupendo e morbido python. 

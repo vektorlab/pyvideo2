@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=ahM4GBZ-6qg"'
+SourceUrl: 'https://www.youtube.com/watch?v=ahM4GBZ-6qg'
 Speakers: [Christine Cheung]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/ahM4GBZ-6qg/hqdefault.jpg'
-Title: '"Django Templating: More Than Just Blocks"'
+Title: 'Django Templating: More Than Just Blocks'
 date: '2012-03-10'
 ---
 Django's template language is designed to strike a balance between power and

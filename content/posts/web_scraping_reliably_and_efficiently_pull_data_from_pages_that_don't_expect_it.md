@@ -2,12 +2,12 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=52wxGESwQSA"'
+SourceUrl: 'https://www.youtube.com/watch?v=52wxGESwQSA'
 Speakers: [Asheesh Laroia]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/52wxGESwQSA/hqdefault.jpg'
-Title: '"Web scraping: Reliably and efficiently pull data from pages that don''t expect
-  it"'
+Title: 'Web scraping: Reliably and efficiently pull data from pages that don''t expect
+  it'
 date: '2012-03-07'
 ---
 Exciting information is trapped in web pages and behind HTML forms. In this

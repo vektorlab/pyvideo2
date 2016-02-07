@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=EYKdmo9Rg2s"'
+SourceUrl: 'https://www.youtube.com/watch?v=EYKdmo9Rg2s'
 Speakers: [Flavio Percoco]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/EYKdmo9Rg2s/maxresdefault.jpg'
-Title: '"Breaking backwards compatibility The easy way"'
+Title: 'Breaking backwards compatibility The easy way'
 date: '2015-05-29'
 ---
 Say you have this piece of software that many people use. One day, you wake up and you have the urge to make them suffer. Well, there’s no better way to do so than breaking the software they’re using.

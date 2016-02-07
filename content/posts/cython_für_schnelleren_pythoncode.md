@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=zzi7V3aem8g"'
+SourceUrl: 'https://www.youtube.com/watch?v=zzi7V3aem8g'
 Speakers: [Stefan Behnel]
 Tags: [compiler, cython, optimierung]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/zzi7V3aem8g/hqdefault.jpg'

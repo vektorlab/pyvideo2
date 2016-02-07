@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Wesley J. Chun]
 Tags: [documentation, pycon, pycon2010, tools]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010WritingBooksUsingPythonAndOpenSourceSoftware40530.png'
-Title: '"Writing Books using Python and Open Source Software (#40)"'
+Title: 'Writing Books using Python and Open Source Software (#40)'
 date: '2010-02-19'
 ---
 Writing Books using Python and Open Source Software

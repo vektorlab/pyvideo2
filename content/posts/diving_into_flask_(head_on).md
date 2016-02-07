@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=5twaatBqmjE"'
+SourceUrl: 'http://www.youtube.com/watch?v=5twaatBqmjE'
 Speakers: [Andni Mishkovskyi]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/5twaatBqmjE/hqdefault.jpg'
-Title: '"Diving into Flask (head on)"'
+Title: 'Diving into Flask (head on)'
 date: '2012-07-04'
 ---
 About the talk What is Flask? Is it any better than Django? Can I use Flask on

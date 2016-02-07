@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [David Beazley]
 Tags: [io, pycon, pycon2010, python3, tutorial]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010MasteringPython3IO499.png'
-Title: '"Mastering Python 3 I/O (part 1)"'
+Title: 'Mastering Python 3 I/O (part 1)'
 date: '2010-02-19'
 ---
 Mastering Python 3 I/O

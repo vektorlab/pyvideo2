@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=I15RkhqH6l0"'
+SourceUrl: 'https://www.youtube.com/watch?v=I15RkhqH6l0'
 Speakers: [Waleri Enns]
 Tags: [' code', "qualit\xE4t"]
 ThumbnailUrl: 'http://i2.ytimg.com/vi/I15RkhqH6l0/hqdefault.jpg'
-Title: '"Putting Technical Debt under Control"'
+Title: 'Putting Technical Debt under Control'
 date: '2012-10-31'
 ---
 "You don't control what you cannot measure"

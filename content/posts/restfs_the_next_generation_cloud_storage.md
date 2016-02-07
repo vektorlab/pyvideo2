@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=9DIpgNzC5KM"'
+SourceUrl: 'http://www.youtube.com/watch?v=9DIpgNzC5KM'
 Speakers: [F Manfredi, F Mosca]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/9DIpgNzC5KM/hqdefault.jpg'
-Title: '"Restfs the next generation cloud storage"'
+Title: 'Restfs the next generation cloud storage'
 date: '2012-07-05'
 ---
 The RestFS is an experimental project to develop an open-source distributed

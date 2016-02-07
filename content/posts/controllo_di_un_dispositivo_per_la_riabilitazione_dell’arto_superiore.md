@@ -2,7 +2,7 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=_rJ9M078yJs"'
+SourceUrl: 'https://www.youtube.com/watch?v=_rJ9M078yJs'
 Speakers: [Matteo Malosio]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/_rJ9M078yJs/maxresdefault.jpg'

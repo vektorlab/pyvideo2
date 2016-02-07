@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=WSdyU5s-SMI"'
+SourceUrl: 'http://www.youtube.com/watch?v=WSdyU5s-SMI'
 Speakers: [Ryan Kelly]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/WSdyU5s-SMI/hqdefault.jpg'
-Title: '"Testing for Graceful Failure with Vaurien and Marteau"'
+Title: 'Testing for Graceful Failure with Vaurien and Marteau'
 date: '2013-09-12'
 ---
 @ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 2

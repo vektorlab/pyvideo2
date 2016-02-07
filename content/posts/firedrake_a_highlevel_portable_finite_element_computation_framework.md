@@ -2,11 +2,11 @@
 Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=VdzE0ZBAa-Q"'
+SourceUrl: 'https://www.youtube.com/watch?v=VdzE0ZBAa-Q'
 Speakers: [Florian Rathgeber]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/VdzE0ZBAa-Q/hqdefault.jpg'
-Title: '"Firedrake: a High-level Portable Finite Element Computation Framework"'
+Title: 'Firedrake: a High-level Portable Finite Element Computation Framework'
 date: '2014-10-22'
 ---
 In an ideal world, scientific applications are computationally efficient,

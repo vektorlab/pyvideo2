@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=pJqSbhGIhWU"'
+SourceUrl: 'http://www.youtube.com/watch?v=pJqSbhGIhWU'
 Speakers: [Ali Afshar]
 Tags: [api, google, updating]
 ThumbnailUrl: 'http://i.ytimg.com/vi/pJqSbhGIhWU/hqdefault.jpg'
-Title: '"Latest advances in the Google APIs platform"'
+Title: 'Latest advances in the Google APIs platform'
 date: '2011-07-18'
 ---
 This talk will give an outline of the advances that Google have made in API

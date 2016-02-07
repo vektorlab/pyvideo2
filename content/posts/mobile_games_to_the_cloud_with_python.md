@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=wWypp2KexGs"'
+SourceUrl: 'http://www.youtube.com/watch?v=wWypp2KexGs'
 Speakers: ["Darko Roni\u0107", Mislav Stipetic]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/wWypp2KexGs/hqdefault.jpg'
-Title: '"Mobile Games to the Cloud With Python"'
+Title: 'Mobile Games to the Cloud With Python'
 date: '2014-07-22'
 ---
 #### The Talk

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=1oenHuqyQXc"'
+SourceUrl: 'http://www.youtube.com/watch?v=1oenHuqyQXc'
 Speakers: [H Percival]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/1oenHuqyQXc/hqdefault.jpg'
-Title: '"Fully Test-driven Django with selenium part 2"'
+Title: 'Fully Test-driven Django with selenium part 2'
 date: '2012-07-06'
 ---
 tl; dr: The concept: run through the official Django tutorial, but with full

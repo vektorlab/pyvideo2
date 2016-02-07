@@ -7,7 +7,7 @@ Speakers: [Andrew Godwin]
 Tags: [databasemigration, databasemigrations, djangocon, djangocon2010, migration,
   migrations, south]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-StepAwayFromThatDatabase838-974.jpg'
-Title: '"Step Away From That Database"'
+Title: 'Step Away From That Database'
 ---
 Step away from that database
 

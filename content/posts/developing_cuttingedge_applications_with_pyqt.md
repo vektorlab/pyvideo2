@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=6ko-tO-3bJ0"'
+SourceUrl: 'http://www.youtube.com/watch?v=6ko-tO-3bJ0'
 Speakers: [Lorenzo Mancini, Matteo Bertozzi]
 Tags: [deployment, distributed, pyqt, qt]
 ThumbnailUrl: 'http://i.ytimg.com/vi/6ko-tO-3bJ0/hqdefault.jpg'
-Title: '"Developing cutting-edge applications with PyQt"'
+Title: 'Developing cutting-edge applications with PyQt'
 date: '2011-07-18'
 ---
 (Presented with Matteo Bertozzi)

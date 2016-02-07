@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Roy Hyunjin Han]
 Tags: [africa, casestudy, infrastructure, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010HowPythonIsGuidingInfrastructureConstructionInA743.png'
-Title: '"How Python is guiding infrastructure construction in Africa (#84)"'
+Title: 'How Python is guiding infrastructure construction in Africa (#84)'
 date: '2010-02-19'
 ---
 How Python is guiding infrastructure construction in Africa

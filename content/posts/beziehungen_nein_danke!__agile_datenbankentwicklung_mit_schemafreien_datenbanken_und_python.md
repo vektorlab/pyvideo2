@@ -2,13 +2,13 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=0re7PgM9Duc"'
+SourceUrl: 'https://www.youtube.com/watch?v=0re7PgM9Duc'
 Speakers: ["Martin Sch\xF6nert"]
 Tags: [' agile softwareentwicklung', ' datenbank', ' datenmodellierung', ' nosql',
   orm, ' python']
 ThumbnailUrl: 'http://i1.ytimg.com/vi/0re7PgM9Duc/hqdefault.jpg'
-Title: '"Beziehungen? Nein danke! - Agile Datenbankentwicklung mit schemafreien Datenbanken
-  und Python"'
+Title: 'Beziehungen? Nein danke! - Agile Datenbankentwicklung mit schemafreien Datenbanken
+  und Python'
 date: '2012-11-01'
 ---
 Python-Projekte haben immer häufiger alternative Datenbanken aus der nosql

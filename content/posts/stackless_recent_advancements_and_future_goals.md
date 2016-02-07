@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=H3sQLC40GXU"'
+SourceUrl: 'http://www.youtube.com/watch?v=H3sQLC40GXU'
 Speakers: [Anselm Kruis, Christian Tismer]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/H3sQLC40GXU/hqdefault.jpg'
-Title: '"Stackless: Recent advancements and future goals"'
+Title: 'Stackless: Recent advancements and future goals'
 date: '2014-07-23'
 ---
 Stackless: Recent advancements and future goals

@@ -2,7 +2,7 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'Chinese'
-SourceUrl: '"https://www.youtube.com/watch?v=MSOlZeDN3qc"'
+SourceUrl: 'https://www.youtube.com/watch?v=MSOlZeDN3qc'
 Speakers: [Toomore Chiang]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/MSOlZeDN3qc/hqdefault.jpg'

@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=1i5leCslA4g"'
+SourceUrl: 'https://www.youtube.com/watch?v=1i5leCslA4g'
 Speakers: [Christopher Neugebauer]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/1i5leCslA4g/hqdefault.jpg'
-Title: '"Test-Driven Repair"'
+Title: 'Test-Driven Repair'
 date: '2015-08-04'
 ---
 “it is impossible BY DEFINITION to do Test-Driven Development after the code is written.” — Tim Ottinger, author of ‘Clean Code’, on Twitter [1].

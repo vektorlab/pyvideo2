@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=wWlmpoSN34I"'
+SourceUrl: 'https://www.youtube.com/watch?v=wWlmpoSN34I'
 Speakers: [Ben Sturmfels]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/wWlmpoSN34I/hqdefault.jpg'
-Title: '"Transitioning from PHP to Django on the sly"'
+Title: 'Transitioning from PHP to Django on the sly'
 date: '2013-07-06'
 ---
 You know that Python and Django is the way forward for your client, but with a mountain of legacy PHP code, where do you start?

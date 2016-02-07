@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=wNWrr19gE0Y"'
+SourceUrl: 'https://www.youtube.com/watch?v=wNWrr19gE0Y'
 Speakers: [Katie McLaughlin]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/wNWrr19gE0Y/hqdefault.jpg'
-Title: '"Build a Better Hat Rack: All Contributions Welcome"'
+Title: 'Build a Better Hat Rack: All Contributions Welcome'
 date: '2015-08-04'
 ---
 We have many ways of reporting and recognising our code contributions in open source projects, but often it is the work we do outside of code commits themselves that get forgotten and unattributed. Hours of code review, documentation, testing; organising of meetups and volunteering at conferences; even just brainstorming and talking about things - how much of these have you done without accreditation? 

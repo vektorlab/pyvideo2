@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=I5e__EoRpnM"'
+SourceUrl: 'https://www.youtube.com/watch?v=I5e__EoRpnM'
 Speakers: [Ezio Melotti, Franco Carbognani]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/I5e__EoRpnM/maxresdefault.jpg'
-Title: '"V-ERAS-14: A Virtual Reality Mars Exploration Mission (in English)"'
+Title: 'V-ERAS-14: A Virtual Reality Mars Exploration Mission (in English)'
 date: '2015-05-29'
 ---
 The European MaRs Analogue Station for Advanced Technologies Integration (ERAS) is a program spearheaded by the Italian Mars Society (IMS), whose main goal is to provide an effective test bed for field operation studies in preparation for human missions to Mars.

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=jYhLqo4Mqbc"'
+SourceUrl: 'http://www.youtube.com/watch?v=jYhLqo4Mqbc'
 Speakers: [Enrico Franchi]
 Tags: [java, jvm, jython, memory]
 ThumbnailUrl: 'http://i.ytimg.com/vi/jYhLqo4Mqbc/hqdefault.jpg'
-Title: '"Interoperability: from Python to Clojure and the other way round"'
+Title: 'Interoperability: from Python to Clojure and the other way round'
 date: '2011-07-13'
 ---
 Clojure is a modern Lisp dialect symbiotic with the Java Virtual Machine and

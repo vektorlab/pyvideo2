@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=SGleKfigMsk"'
+SourceUrl: 'https://www.youtube.com/watch?v=SGleKfigMsk'
 Speakers: [Graham Dumpleton]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/SGleKfigMsk/hqdefault.jpg'
-Title: '"Using benchmarks to understand how WSGI servers work"'
+Title: 'Using benchmarks to understand how WSGI servers work'
 date: '2015-08-03'
 ---
 During the development of a Python web application the inbuilt development web server provided by the web framework is often what is used. When moving to a production environment, one has to choose a more capable production grade WSGI deployment mechanism. Which of the various WSGI servers available is going to be the most suitable is going to depend on a range of criteria related to your specific web applications requirements.

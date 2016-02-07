@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=-abRRUK19lE"'
+SourceUrl: 'https://www.youtube.com/watch?v=-abRRUK19lE'
 Speakers: [Lex Hider]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/-abRRUK19lE/hqdefault.jpg'
-Title: '"Salt: How to be Truly Lazy"'
+Title: 'Salt: How to be Truly Lazy'
 date: '2013-07-06'
 ---
 In the immortal words of that modern day philosopher Homer Jay Simpson: "Can't Someone Else Do It?"                                                     

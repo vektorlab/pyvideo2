@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Simon Wittber]
 Tags: [casestudy, pyconau, pyconau2010, robots]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-HardRealtimePythonOrGiantRobotsOfDoom180.png'
-Title: '"PyConAU 2010: Hard Real-time Python, or, Giant Robots of Doom"'
+Title: 'PyConAU 2010: Hard Real-time Python, or, Giant Robots of Doom'
 ---
 Hard Real-time Python, or, Giant Robots of Doom
 

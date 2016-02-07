@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Joel Burton]
 Tags: [kiwipycon, kiwipycon2009, plone, pylons, turbogears, web, zope]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-JoelBurtonWhyPythonWebFrameworksAreChangingTheWeb374-745.jpg'
-Title: '"Joel Burton - Why Python Web Frameworks are Changing the Web"'
+Title: 'Joel Burton - Why Python Web Frameworks are Changing the Web'
 ---
 Why Python web frameworks are changing the web
 

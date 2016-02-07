@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Wesley J. Chun]
 Tags: [pycon, pycon2009, tutorial, webprogramming]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-InternetProgrammingWithPythonPart003373-329.jpg'
-Title: '"PyCon 2009: Internet Programming with Python (Part 3 of 3)"'
+Title: 'PyCon 2009: Internet Programming with Python (Part 3 of 3)'
 ---
 Internet Programming with Python (part 3 of 3)
 

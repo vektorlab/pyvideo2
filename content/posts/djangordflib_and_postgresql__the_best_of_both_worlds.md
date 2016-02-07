@@ -2,12 +2,12 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=zP7p_wbOjbw"'
+SourceUrl: 'http://www.youtube.com/watch?v=zP7p_wbOjbw'
 Speakers: [Stefan Talpalaru]
 Tags: [architecture, database, django, orm, postgresql, reusing, search, serialization,
   university]
 ThumbnailUrl: 'http://i.ytimg.com/vi/zP7p_wbOjbw/hqdefault.jpg'
-Title: '"django-rdflib and postgresql - the best of both worlds"'
+Title: 'django-rdflib and postgresql - the best of both worlds'
 date: '2011-07-13'
 ---
 rdflib is a python library implementing a database with various triples back-

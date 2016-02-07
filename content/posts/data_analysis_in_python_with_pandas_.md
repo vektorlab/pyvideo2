@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=w26x-z-BdWQ"'
+SourceUrl: 'https://www.youtube.com/watch?v=w26x-z-BdWQ'
 Speakers: [Wes McKinney]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/w26x-z-BdWQ/hqdefault.jpg'
-Title: '"Data analysis in Python with pandas "'
+Title: 'Data analysis in Python with pandas '
 date: '2012-03-07'
 ---
 The tutorial will give a hands-on introduction to manipulating and analyzing

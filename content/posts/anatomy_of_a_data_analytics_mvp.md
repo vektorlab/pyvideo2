@@ -2,11 +2,11 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=BJkWl5RiCAg"'
+SourceUrl: 'https://www.youtube.com/watch?v=BJkWl5RiCAg'
 Speakers: [Ken Hu]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/BJkWl5RiCAg/hqdefault.jpg'
-Title: '"Anatomy of a Data Analytics MVP"'
+Title: 'Anatomy of a Data Analytics MVP'
 date: '2014-06-27'
 ---
 Behind the glamour of mobile apps, business SaaS products have been steadily building itself into a billion dollar industry. With companies such as Salesforce spearheading the adaption of business SaaS products in corporate, startups are rising to take on the SME market.

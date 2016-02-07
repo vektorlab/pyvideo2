@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=QO_HCDRZEbo"'
+SourceUrl: 'https://www.youtube.com/watch?v=QO_HCDRZEbo'
 Speakers: [Andi Albrecht]
 Tags: [testing]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/QO_HCDRZEbo/hqdefault.jpg'
-Title: '"-getrieben. Wer treibt eigentlich die Test-Entwicklung?"'
+Title: '-getrieben. Wer treibt eigentlich die Test-Entwicklung?'
 date: '2013-10-15'
 ---
 In den letzten Jahren machen auch in der Python-Welt immer mehr “getriebene” Entwicklungsmethoden die Runde, so zum Beispiel Test Driven Development, Behavior Driven Development oder Feature Driven Development. Kaum ist davon die Rede, kommen noch weitere Schlagworte aus dem Bereich des Testens, wie Acceptance Test, Unit Test, Functional Test oder Integration Test, dazu und die Verwirrung ist oftmals perfekt. Verliert man in diesem Dschungel an Begriffen den Überblick, ist die Gefahr gegeben, dass man das Testen entweder ganz lässt oder keine der Methoden richtig anzuwenden.

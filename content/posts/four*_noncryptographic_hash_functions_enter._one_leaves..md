@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=IdVX4qHJXEY"'
+SourceUrl: 'https://www.youtube.com/watch?v=IdVX4qHJXEY'
 Speakers: [Adam Harvey]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/IdVX4qHJXEY/hqdefault.jpg'
-Title: '"Four* non-cryptographic hash functions enter. One leaves."'
+Title: 'Four* non-cryptographic hash functions enter. One leaves.'
 date: '2015-08-04'
 ---
 When you say “hash function” in a room full of Python developers, people tend to think of the classics you get in hashlib: MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA-OHGODPLEASESTOP, and the like — cryptographic hash functions intended for cryptographic uses.

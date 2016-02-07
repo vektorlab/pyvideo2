@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=CQfPq6wXyJI"'
+SourceUrl: 'https://www.youtube.com/watch?v=CQfPq6wXyJI'
 Speakers: [Alessandro Molina]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/CQfPq6wXyJI/maxresdefault.jpg'
-Title: '"Messing up with PyMongo for fun and profit"'
+Title: 'Messing up with PyMongo for fun and profit'
 date: '2015-05-30'
 ---
 BSON (Binary JSON) è il formato di rappresentazione dei dati usato internamente da MongoDB per la trasmissione e rappresentazione dei documenti salvati nel database.

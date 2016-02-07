@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=MoL2nDYcW1U"'
+SourceUrl: 'http://www.youtube.com/watch?v=MoL2nDYcW1U'
 Speakers: [Giovanni Bajo]
 Tags: [matplotlib, py2exe, pyqt]
 ThumbnailUrl: 'http://i.ytimg.com/vi/MoL2nDYcW1U/hqdefault.jpg'
-Title: '"Distributing Python programs through PyInstaller"'
+Title: 'Distributing Python programs through PyInstaller'
 date: '2011-07-20'
 ---
 The talk will focus on how to distribute multi-platform proprietary Python

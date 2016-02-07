@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=dX3DRdFKW_E"'
+SourceUrl: 'https://www.youtube.com/watch?v=dX3DRdFKW_E'
 Speakers: [Barry Warsaw]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/dX3DRdFKW_E/hqdefault.jpg'
-Title: '"Mailman 3"'
+Title: 'Mailman 3'
 date: '2012-03-10'
 ---
 Mailman 3 has been in development for several years. This is an evolution of

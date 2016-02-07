@@ -2,11 +2,11 @@
 Category: 'PyCon US 2013'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=pYZNLOKEE5I"'
+SourceUrl: 'https://www.youtube.com/watch?v=pYZNLOKEE5I'
 Speakers: [Various]
 Tags: [lightningtalks]
 ThumbnailUrl: 'http://i.ytimg.com/vi/pYZNLOKEE5I/hqdefault.jpg'
-Title: '"Lightning Talks - Saturday morning"'
+Title: 'Lightning Talks - Saturday morning'
 date: '2013-03-16'
 ---
 * [00:00](#t=0s) - ToRo (Tornado Coroutines) - Jesse Jiryu Davis

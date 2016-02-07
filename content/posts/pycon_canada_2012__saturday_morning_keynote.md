@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=qrN3fJIGx7Y"'
+SourceUrl: 'https://www.youtube.com/watch?v=qrN3fJIGx7Y'
 Speakers: [Jessica McKellar]
 Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/qrN3fJIGx7Y/hqdefault.jpg'
-Title: '"PyCon Canada 2012 - Saturday Morning Keynote"'
+Title: 'PyCon Canada 2012 - Saturday Morning Keynote'
 date: '2012-11-10'
 ---
 Jessica is a veteran open source contributor and a maintainer for several open

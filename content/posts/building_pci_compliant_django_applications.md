@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=9ZIPNWqjIEI"'
+SourceUrl: 'http://www.youtube.com/watch?v=9ZIPNWqjIEI'
 Speakers: [Ken Cochrane]
 Tags: [django, pci-complicance]
 ThumbnailUrl: 'http://i.ytimg.com/vi/9ZIPNWqjIEI/hqdefault.jpg'
-Title: '"Building PCI compliant Django applications"'
+Title: 'Building PCI compliant Django applications'
 date: '2012-09-06'
 ---
 PCI DSS is a set of twelve different security standards that are required for

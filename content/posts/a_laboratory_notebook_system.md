@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=jrQT77qFN3o"'
+SourceUrl: 'http://www.youtube.com/watch?v=jrQT77qFN3o'
 Speakers: [A Schereiber]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/jrQT77qFN3o/hqdefault.jpg'
-Title: '"A laboratory Notebook System"'
+Title: 'A laboratory Notebook System'
 date: '2012-07-06'
 ---
 Many scientists are using a laboratory notebook when conducting experiments.

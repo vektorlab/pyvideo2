@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2011'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'German'
-SourceUrl: '"http://www.youtube.com/watch?v=EtDb3A14BJM"'
+SourceUrl: 'http://www.youtube.com/watch?v=EtDb3A14BJM'
 Speakers: [Andreas Schreiber]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/EtDb3A14BJM/hqdefault.jpg'

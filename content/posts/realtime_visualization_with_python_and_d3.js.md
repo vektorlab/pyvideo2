@@ -2,11 +2,11 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=Bzl-Rgmg7vQ"'
+SourceUrl: 'https://www.youtube.com/watch?v=Bzl-Rgmg7vQ'
 Speakers: [Muyueh Lee]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Bzl-Rgmg7vQ/hqdefault.jpg'
-Title: '"Real-time visualization with Python and d3.js"'
+Title: 'Real-time visualization with Python and d3.js'
 date: '2014-06-27'
 ---
 Pyhton has great power in scrapping and analyzing data, and D3.js is a great tool for building visual interface. In the first part of the talk, I will demonstrate how to set up D3.js as an interactive layer on top of Python. In the second part of the talk, I will show what it can achieve, by using the "Taiwan Vegetable Auction" dataset (past 10 years transaction data of 127 kinds of vegetable, 1GB).

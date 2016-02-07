@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=D341KedzE-Y"'
+SourceUrl: 'https://www.youtube.com/watch?v=D341KedzE-Y'
 Speakers: [Davide Corio]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/D341KedzE-Y/maxresdefault.jpg'
-Title: '"Odoo CMS by Davide Corio"'
+Title: 'Odoo CMS by Davide Corio'
 date: '2015-05-29'
 ---
 Odoo website builder, ecommerce ed altre nuove funzionalità.

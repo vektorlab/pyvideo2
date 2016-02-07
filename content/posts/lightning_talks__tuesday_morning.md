@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [djangocon, djangocon2011, djangozoom, philo, protobuf, redis]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-LightningTalksTuePm466-363.jpg'
-Title: '"Lightning Talks - Tuesday morning"'
+Title: 'Lightning Talks - Tuesday morning'
 ---
 Lightning talks - Tuesday morning
 

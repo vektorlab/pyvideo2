@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=cPZokpaA0Vw"'
+SourceUrl: 'http://www.youtube.com/watch?v=cPZokpaA0Vw'
 Speakers: [F Buynooghe]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/cPZokpaA0Vw/hqdefault.jpg'
-Title: '"Using sockets in Python"'
+Title: 'Using sockets in Python'
 date: '2012-07-06'
 ---
 Sockets are a fundamental abstraction operating systems provide to expose

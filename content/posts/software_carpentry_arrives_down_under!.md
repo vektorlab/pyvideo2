@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=-AGgugxn4RM"'
+SourceUrl: 'https://www.youtube.com/watch?v=-AGgugxn4RM'
 Speakers: [Damien Irving]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/-AGgugxn4RM/hqdefault.jpg'
-Title: '"Software Carpentry arrives Down Under!"'
+Title: 'Software Carpentry arrives Down Under!'
 date: '2013-07-06'
 ---
 Scientists are required to do more and more programming these days,  however they are almost always self-taught. They spend a large percentage of their time wrestling with software, reinvent a lot of wheels, and still don’t know if their results are reliable. For proficient software developers, particularly those employed to assist these scientists, this computational illiteracy is easy to identify, but much harder to remedy. What do you teach a scientist, given their time constraints, background knowledge and work requirements? This presentation will give an answer to that question, by describing what gets taught at a Software Carpentry boot camp.

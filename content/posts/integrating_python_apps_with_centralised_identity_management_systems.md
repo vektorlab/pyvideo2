@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"http://youtu.be/YwWC7DOC3tE"'
+SourceUrl: 'http://youtu.be/YwWC7DOC3tE'
 Speakers: [Fraser Tweedale]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/YwWC7DOC3tE/hqdefault.jpg'
-Title: '"Integrating Python Apps with Centralised Identity Management Systems"'
+Title: 'Integrating Python Apps with Centralised Identity Management Systems'
 date: '2015-09-05'
 ---
 Most Python web developers are familiar with authentication and

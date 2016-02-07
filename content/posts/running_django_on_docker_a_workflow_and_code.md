@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=SgL8r--p97s"'
+SourceUrl: 'http://www.youtube.com/watch?v=SgL8r--p97s'
 Speakers: [Alexey Kotlyarov, Danielle Madeley]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/SgL8r--p97s/hqdefault.jpg'
-Title: '"Running Django on Docker: a workflow and code"'
+Title: 'Running Django on Docker: a workflow and code'
 date: '2014-08-09'
 ---
 Docker (http://docker.io) is the hot-new-thing out there for running your application in development and in production. Here at Infoxchange, we are extremely excited about how Docker allows a build-once, run-anywhere approach to moving applications from testing through to production. We are one of the first organisations to be using Docker in production on high-SLA applications.

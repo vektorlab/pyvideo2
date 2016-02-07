@@ -7,8 +7,8 @@ Speakers: [C. Titus Brown]
 Tags: [bitten, buildbot, ci, cruisecontrol, dart, hudson, pony-build, pycon, pycon2010,
   testing]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010WhyNotRunAllYourTestsAllTheTimeAStudyOfCon964.png'
-Title: '"Why not run all your tests all the time? A study of continuous integration
-  systems (#160)"'
+Title: 'Why not run all your tests all the time? A study of continuous integration
+  systems (#160)'
 date: '2010-02-19'
 ---
 Why not run all your tests at all the time? A study of continuous integration

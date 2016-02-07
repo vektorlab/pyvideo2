@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=i-dZ2pxJNFM"'
+SourceUrl: 'https://www.youtube.com/watch?v=i-dZ2pxJNFM'
 Speakers: ["\xC9ric Araujo"]
 Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/i-dZ2pxJNFM/hqdefault.jpg'
-Title: '"How you can contribute to Python"'
+Title: 'How you can contribute to Python'
 date: '2012-11-11'
 ---
 Did you know that you could contribute to Python? From documentation

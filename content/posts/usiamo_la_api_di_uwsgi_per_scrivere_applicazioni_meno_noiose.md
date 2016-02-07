@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=cn0bD2i-Ev8"'
+SourceUrl: 'http://www.youtube.com/watch?v=cn0bD2i-Ev8'
 Speakers: [Roberto De Ioris]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/cn0bD2i-Ev8/hqdefault.jpg'
-Title: '"Usiamo la api di uWSGI per scrivere applicazioni meno noiose"'
+Title: 'Usiamo la api di uWSGI per scrivere applicazioni meno noiose'
 date: '2012-07-06'
 ---
 uWSGI oltre a fornire un ambiente per eseguire le vostre applicazioni

@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/265Sqo7cgbM"'
+SourceUrl: 'http://youtu.be/265Sqo7cgbM'
 Speakers: [Danny Adair]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/265Sqo7cgbM/hqdefault.jpg'
-Title: '"The Full Monty - CI on OpenStack"'
+Title: 'The Full Monty - CI on OpenStack'
 date: '2014-09-13'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

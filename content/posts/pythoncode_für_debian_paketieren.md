@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=711n8hJ9Z1s"'
+SourceUrl: 'https://www.youtube.com/watch?v=711n8hJ9Z1s'
 Speakers: [Jan Dittberner]
 Tags: [debian, ' paketierung']
 ThumbnailUrl: 'http://i4.ytimg.com/vi/711n8hJ9Z1s/hqdefault.jpg'

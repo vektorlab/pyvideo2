@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=nTpte3_jNO0"'
+SourceUrl: 'http://www.youtube.com/watch?v=nTpte3_jNO0'
 Speakers: [Antonio Cuni, Armin Rigo]
 Tags: [cpython, ctypes, cython, extensions, pypy, stackless]
 ThumbnailUrl: 'http://i.ytimg.com/vi/nTpte3_jNO0/hqdefault.jpg'
-Title: '"PyPy in production"'
+Title: 'PyPy in production'
 date: '2011-07-13'
 ---
 The PyPy project has recently gathered a lot of attention for its progress in

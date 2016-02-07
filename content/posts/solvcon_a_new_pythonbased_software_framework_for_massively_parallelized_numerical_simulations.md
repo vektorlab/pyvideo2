@@ -7,8 +7,8 @@ Speakers: [Yung-Yu Chen]
 Tags: [gpgpu, numericalsimulations, parallelcomputing, pycon, pycon2011, simulations,
   solvcon]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011SOLVCONANewPythonBasedSoftwareFrameworkForMass564.png'
-Title: '"SOLVCON: A New Python-Based Software Framework for Massively Parallelized
-  Numerical Simulations"'
+Title: 'SOLVCON: A New Python-Based Software Framework for Massively Parallelized
+  Numerical Simulations'
 date: '2011-03-11'
 ---
 SOLVCON: A New Python-Based Software Framework for Massively Parallelized

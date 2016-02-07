@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2011'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'German'
-SourceUrl: '"http://www.youtube.com/watch?v=-YaLa0ITb0E"'
+SourceUrl: 'http://www.youtube.com/watch?v=-YaLa0ITb0E'
 Speakers: [Georg Brandl]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/-YaLa0ITb0E/hqdefault.jpg'

@@ -7,7 +7,7 @@ Speakers: []
 Tags: [django-configstore, django.contrib.messages, django-hashsignal, djangozoom,
   dsf, hash-signaling, lettuce, openid, orm, psf, routing]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-LightningTalksDay1811.png'
-Title: '"Lightning Talks - Day 1"'
+Title: 'Lightning Talks - Day 1'
 ---
 Lightning Talks
 

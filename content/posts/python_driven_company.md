@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=4kIXlgK-uUY"'
+SourceUrl: 'http://www.youtube.com/watch?v=4kIXlgK-uUY'
 Speakers: [Fabrizio Romano, Maciej]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/4kIXlgK-uUY/hqdefault.jpg'
-Title: '"Python Driven Company"'
+Title: 'Python Driven Company'
 date: '2014-07-25'
 ---
 By introducing ipython notebook, pandas and the other data analysis packages that make python even more accessible and attractive, we attempted to adapt python as a core technology across our whole company. We’ve challenged the dominant position of Microsoft Excel and similar tools, and dared to replace it by pandas-powered ipython notebooks.

@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=fCSAOcTbe8g"'
+SourceUrl: 'http://www.youtube.com/watch?v=fCSAOcTbe8g'
 Speakers: [Jay Gattuso]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/fCSAOcTbe8g/hqdefault.jpg'
-Title: '"From nothing to daily use - How Python changed my work life"'
+Title: 'From nothing to daily use - How Python changed my work life'
 date: '2013-09-12'
 ---
 @ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1

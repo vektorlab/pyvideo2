@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=VOUH4_ka2Ls"'
+SourceUrl: 'http://www.youtube.com/watch?v=VOUH4_ka2Ls'
 Speakers: [S Thorne]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/VOUH4_ka2Ls/hqdefault.jpg'
-Title: '"Twisted tutorial part 2"'
+Title: 'Twisted tutorial part 2'
 date: '2012-07-06'
 ---
 Twisted is one of the best asynchronous network programming frameworks out

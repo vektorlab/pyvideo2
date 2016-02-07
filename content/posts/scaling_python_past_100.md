@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Mark Ramm]
 Tags: [casestudy, pycon, pycon2011, scalability, sourceforge, turbogears]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011ScalingPythonPast100645-312.jpg'
-Title: '"Scaling Python past 100"'
+Title: 'Scaling Python past 100'
 date: '2011-03-11'
 ---
 Scaling Python past 100

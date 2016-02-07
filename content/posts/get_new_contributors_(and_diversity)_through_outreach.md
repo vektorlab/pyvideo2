@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Asheesh Laroia]
 Tags: [diversity, openhatch, outreach, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011GetNewContributorsAndDiversityThroughOutreach225.png'
-Title: '"Get new contributors (and diversity) through outreach"'
+Title: 'Get new contributors (and diversity) through outreach'
 date: '2011-03-11'
 ---
 Get new contributors (and diversity) through outreach

@@ -7,7 +7,7 @@ Speakers: [Eric Holscher]
 Tags: [api, ci, continuousintegration, databasemigrations, debugging, delayedexecutions,
   deployment, djangocon, djangocon2010, documentation, migrations, safety, search]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-LargeProblemsInDjangoMostlySolved109-212.jpg'
-Title: '"Large Problems in Django, Mostly Solved"'
+Title: 'Large Problems in Django, Mostly Solved'
 ---
 Large Problems in Django, Mostly Solved
 

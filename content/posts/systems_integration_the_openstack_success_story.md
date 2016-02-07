@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=pYzIOrAkb-A"'
+SourceUrl: 'http://www.youtube.com/watch?v=pYzIOrAkb-A'
 Speakers: [Flavio Percoco]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/pYzIOrAkb-A/hqdefault.jpg'
-Title: '"Systems Integration: The OpenStack success story"'
+Title: 'Systems Integration: The OpenStack success story'
 date: '2014-07-23'
 ---
 Abstract

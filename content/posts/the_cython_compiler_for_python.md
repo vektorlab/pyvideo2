@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=ZHpkLX2VFMU"'
+SourceUrl: 'http://www.youtube.com/watch?v=ZHpkLX2VFMU'
 Speakers: [Stefan Behnel]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/ZHpkLX2VFMU/hqdefault.jpg'
-Title: '"The Cython Compiler for Python"'
+Title: 'The Cython Compiler for Python'
 date: '2014-07-22'
 ---
 The Cython compiler is the most widely used static compiler for Python. The code it generates is used in countless critical applications that process huge amounts of data world wide. Cython has two major use cases: to compile Python code into fast native extension modules, and to connect native code to the CPython runtime. The main goal of the Cython project is to make it easy for users to manually optimise their Python code to make it run at C speed. This talk by one of the core developers will give an intro to using the compiler and an overview of its major features.

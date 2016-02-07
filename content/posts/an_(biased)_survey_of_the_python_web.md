@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Mark Ramm]
 Tags: [pycon, pycon2011, web, webframeworks]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011AnBiasedSurveyOfThePythonWeb847.png'
-Title: '"An (biased) survey of the python web"'
+Title: 'An (biased) survey of the python web'
 date: '2011-03-11'
 ---
 An (biased) survey of the python web

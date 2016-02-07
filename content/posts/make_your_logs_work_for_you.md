@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=i3rH5cU-Uz4"'
+SourceUrl: 'https://www.youtube.com/watch?v=i3rH5cU-Uz4'
 Speakers: ["Honza Kr\xE1l"]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/i3rH5cU-Uz4/hqdefault.jpg'
-Title: '"Make your logs work for you"'
+Title: 'Make your logs work for you'
 date: '2015-08-06'
 ---
 Any modern business generates a lot of logs - from customer transactions all the way to the technical logs of your servers. Many times these logs are thrown away or just sit uselessly somewhere on disk.

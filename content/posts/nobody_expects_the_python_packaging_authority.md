@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=8Xrdt3-YVz4"'
+SourceUrl: 'https://www.youtube.com/watch?v=8Xrdt3-YVz4'
 Speakers: [Nick Coghlan]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/8Xrdt3-YVz4/hqdefault.jpg'
-Title: '"Nobody Expects the Python Packaging Authority"'
+Title: 'Nobody Expects the Python Packaging Authority'
 date: '2013-07-06'
 ---
 These are interesting times for the Python packaging ecosystem, with the Python Packaging Authority (creators of the popular pip and virtualenv tools) emerging as the umbrella brand for a suite of related tools that will bring support for updated packaging standards to both the upcoming Python 3.4 and to existing versions of Python.

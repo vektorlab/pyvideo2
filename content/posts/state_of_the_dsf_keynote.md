@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Dr. Russell Keith-Magee]
 Tags: [djangocon, djangocon2011, dsf]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-StateOfTheDSFKeynote607-161.jpg'
-Title: '"State of the DSF Keynote"'
+Title: 'State of the DSF Keynote'
 ---
 State of the DSF Keynote
 

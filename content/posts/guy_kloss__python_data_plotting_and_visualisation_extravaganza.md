@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Guy Kloss]
 Tags: [data, gnuplot, kiwipycon, kiwipycon2009, matplotlib, mayavi2, plotting, visualpython]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-GuyKlossPythonDataPlottingAndVisualisationExtravaganza813-419.jpg'
-Title: '"Guy Kloss - Python Data Plotting and Visualisation Extravaganza"'
+Title: 'Guy Kloss - Python Data Plotting and Visualisation Extravaganza'
 ---
 Python Data Plotting and Visualization Extravaganza
 

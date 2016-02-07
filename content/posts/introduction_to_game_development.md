@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=duc3jYgAaR0"'
+SourceUrl: 'https://www.youtube.com/watch?v=duc3jYgAaR0'
 Speakers: [Katie Cunningham, Richard Jones]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/duc3jYgAaR0/hqdefault.jpg'
-Title: '"Introduction to Game Development"'
+Title: 'Introduction to Game Development'
 date: '2012-03-08'
 ---
 This tutorial will walk the attendees from some introductory game development

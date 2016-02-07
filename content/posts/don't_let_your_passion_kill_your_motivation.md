@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=8K6WiIsRk20"'
+SourceUrl: 'https://www.youtube.com/watch?v=8K6WiIsRk20'
 Speakers: [Flavio Percoco]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/8K6WiIsRk20/hqdefault.jpg'
-Title: '"Don''t let your passion kill your motivation"'
+Title: 'Don''t let your passion kill your motivation'
 date: '2015-05-30'
 ---
 If I would ask you to sit down and do some work right now (assuming you’re not doing it), how would you feel about it? Would you be motivated enough to take off your laptop and start coding? Or would you rather do something else?

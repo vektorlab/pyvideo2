@@ -2,7 +2,7 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=BGRnVNs7A28"'
+SourceUrl: 'https://www.youtube.com/watch?v=BGRnVNs7A28'
 Speakers: [Benoit Chesneau]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/BGRnVNs7A28/maxresdefault.jpg'

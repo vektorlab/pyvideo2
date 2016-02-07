@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=qh9fN2iHaCQ"'
+SourceUrl: 'http://www.youtube.com/watch?v=qh9fN2iHaCQ'
 Speakers: [N Iarocci]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/qh9fN2iHaCQ/hqdefault.jpg'
-Title: '"Developing Restful web apis with python, flask and mongodb"'
+Title: 'Developing Restful web apis with python, flask and mongodb'
 date: '2012-07-05'
 ---
 In the last year we have been working on a full featured, Python powered,

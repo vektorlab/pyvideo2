@@ -7,7 +7,7 @@ Speakers: []
 Tags: [cork, gitosis, lindberg, nasa, playerpiano, pycon, pycon2009, pymite, sqlpython,
   web2py]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PlenaryMorningLightningTalksSaturday678-923.jpg'
-Title: '"PyCon 2009: Plenary: Morning Lightning Talks (Saturday)"'
+Title: 'PyCon 2009: Plenary: Morning Lightning Talks (Saturday)'
 ---
 Plenary: Morning Lightning Talks
 

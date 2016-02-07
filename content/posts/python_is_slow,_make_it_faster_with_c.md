@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/tGLSKXfx0m0"'
+SourceUrl: 'http://youtu.be/tGLSKXfx0m0'
 Speakers: [Ben Shaw]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/tGLSKXfx0m0/hqdefault.jpg'
-Title: '"Python is slow, make it faster with C"'
+Title: 'Python is slow, make it faster with C'
 date: '2014-09-13'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

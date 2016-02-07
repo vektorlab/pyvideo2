@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Rick Copeland]
 Tags: [jinja, mongodb, pycon, pycon2010, turbogears]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010HowPythonTurboGearsAndMongoDBAreTransformingSou564-509.jpg'
-Title: '"How Python, TurboGears, and MongoDB are Transforming SourceForge.net (#47)"'
+Title: 'How Python, TurboGears, and MongoDB are Transforming SourceForge.net (#47)'
 date: '2010-02-19'
 ---
 How Python, TurboGears, and MongoDB are transforming SourceForge.net

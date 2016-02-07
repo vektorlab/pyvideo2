@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://youtu.be/9V1OZEe_MjA"'
+SourceUrl: 'http://youtu.be/9V1OZEe_MjA'
 Speakers: [Greg Kempe]
 Tags: [Room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/9V1OZEe_MjA/hqdefault.jpg'
-Title: '"Pragmatic Python for Social Change"'
+Title: 'Pragmatic Python for Social Change'
 date: '2015-10-01'
 ---
 [Code for South Africa](http://code4sa.org) is a civic technology lab that uses Python and open data to promote informed decision making to drive social change. We use our skills for social good.

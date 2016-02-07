@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=paK0-lkksIc"'
+SourceUrl: 'http://www.youtube.com/watch?v=paK0-lkksIc'
 Speakers: [Raymond Hettinger]
 Tags: [optimization, tutorial]
 ThumbnailUrl: 'http://i.ytimg.com/vi/paK0-lkksIc/hqdefault.jpg'
-Title: '"Advanced Python"'
+Title: 'Advanced Python'
 date: '2011-07-20'
 ---
 This tutorial will work through a series of real-world examples, showing how

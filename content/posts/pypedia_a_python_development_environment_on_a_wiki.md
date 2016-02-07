@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=di3csK0Wsik"'
+SourceUrl: 'http://www.youtube.com/watch?v=di3csK0Wsik'
 Speakers: [A Kanterakis]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/di3csK0Wsik/hqdefault.jpg'
-Title: '"Pypedia: a python development environment on a wiki"'
+Title: 'Pypedia: a python development environment on a wiki'
 date: '2012-07-04'
 ---
 In this talk we present PyPedia. PyPedia is an effort to host a Python

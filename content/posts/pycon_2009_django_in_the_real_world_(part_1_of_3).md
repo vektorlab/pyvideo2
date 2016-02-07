@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [pycon, pycon2009, tutorial]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-DjangoInTheRealWorldPart001795-302.jpg'
-Title: '"PyCon 2009: Django in the Real World (Part 1 of 3)"'
+Title: 'PyCon 2009: Django in the Real World (Part 1 of 3)'
 ---
 There's plenty of material (documentation, blogs, books) out there that'll
 help you write a site using Django... but then what? You've still got to test,

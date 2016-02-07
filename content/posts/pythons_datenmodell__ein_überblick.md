@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=ivLD1gvlt7Q"'
+SourceUrl: 'https://www.youtube.com/watch?v=ivLD1gvlt7Q'
 Speakers: [Oliver Bestwalter]
 Tags: [datenmodell, oop, protokolle, pythonisch]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/ivLD1gvlt7Q/hqdefault.jpg'

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [pycon, pycon2009, sprinting]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PlenaryIntroToSprinting227-400.jpg'
-Title: '"PyCon 2009: Plenary: Intro to Sprinting"'
+Title: 'PyCon 2009: Plenary: Intro to Sprinting'
 ---
   
 by Brett Cannon What sprinting is: a group of people doing something together.

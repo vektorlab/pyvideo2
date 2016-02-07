@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=muvvgXc8Xlw"'
+SourceUrl: 'https://www.youtube.com/watch?v=muvvgXc8Xlw'
 Speakers: [Josef Heinen]
 Tags: [accelerate, anaconda, numba, numpy, opengl, pyqt, python, visualisierung]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/muvvgXc8Xlw/hqdefault.jpg'

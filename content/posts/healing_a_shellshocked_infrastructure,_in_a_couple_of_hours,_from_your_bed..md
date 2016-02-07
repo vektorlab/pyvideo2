@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=GV8_qL-akOI"'
+SourceUrl: 'https://www.youtube.com/watch?v=GV8_qL-akOI'
 Speakers: [Michele Finelli]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/GV8_qL-akOI/maxresdefault.jpg'
-Title: '"Healing a shell-shocked infrastructure, in a couple of hours, from your bed."'
+Title: 'Healing a shell-shocked infrastructure, in a couple of hours, from your bed.'
 date: '2015-05-30'
 ---
 In September 2014 a very severe vulnerabilty in bash was discovered, affecting any Linux system on Earth. For Internet-facing services it was necessary to patch the servers as soon as possible: the time was running low and our hero (me) was lying in a bad, due to a painful back-ache … a disaster was looming …

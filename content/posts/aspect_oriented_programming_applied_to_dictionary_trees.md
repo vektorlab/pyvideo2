@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=EwLih26Cjfs"'
+SourceUrl: 'http://www.youtube.com/watch?v=EwLih26Cjfs'
 Speakers: [Florian Friesdorf]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/EwLih26Cjfs/hqdefault.jpg'
-Title: '"Aspect oriented programming applied to dictionary trees"'
+Title: 'Aspect oriented programming applied to dictionary trees'
 date: '2012-07-06'
 ---
 Mixins enable code re-usage across class hierarchies, adapters allow for

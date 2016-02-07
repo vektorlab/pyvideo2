@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=KN9eHa2cXNQ"'
+SourceUrl: 'http://www.youtube.com/watch?v=KN9eHa2cXNQ'
 Speakers: [Mark Rees]
 Tags: [pypy]
 ThumbnailUrl: 'http://i.ytimg.com/vi/KN9eHa2cXNQ/hqdefault.jpg'
-Title: '"PyPy - is it ready for production?"'
+Title: 'PyPy - is it ready for production?'
 date: '2012-08-22'
 ---
 I have followed the development of PyPy since 2004 and played with various

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Clark C. Evans]
 Tags: [htsql, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011HTSQLAnInsanelyGoodWSGIRESTInterfaceToYour159.png'
-Title: '"HTSQL - an insanely good WSGI / REST interface to your favorite database"'
+Title: 'HTSQL - an insanely good WSGI / REST interface to your favorite database'
 date: '2011-03-11'
 ---
 The HTSQL processor is a high-level URI-based query language for relational

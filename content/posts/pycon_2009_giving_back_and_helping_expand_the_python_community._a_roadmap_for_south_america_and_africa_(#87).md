@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [pycon, pycon2009, pythoncommunity]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-GivingBackAndHelpingExpandThePythonCommunityARoadmapFo605-542.jpg'
-Title: '"PyCon 2009: Giving back and helping expand the Python community. A roadmap
-  for South America and Africa (#87)"'
+Title: 'PyCon 2009: Giving back and helping expand the Python community. A roadmap
+  for South America and Africa (#87)'
 ---
   
 For many of us, Python has dramatically changed our professional life: Open

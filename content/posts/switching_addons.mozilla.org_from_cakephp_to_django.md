@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2010'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
-SourceUrl: '"http://blip.tv/file/4106752"'
+SourceUrl: 'http://blip.tv/file/4106752'
 Speakers: [Jeff Balogh]
 Tags: [casestudy, djangocon, djangocon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-SwitchingAddonsmozillaorgFromCakePHPToDjango334.png'
-Title: '"Switching addons.mozilla.org from CakePHP to Django"'
+Title: 'Switching addons.mozilla.org from CakePHP to Django'
 ---
 Switching addons.mozilla.org from CakePHP to Django
 

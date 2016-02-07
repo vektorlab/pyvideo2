@@ -7,8 +7,8 @@ Speakers: [Matt Harrison]
 Tags: [callables, closures, decorators, functionalprogramming, functions, generators,
   iterators, listcomprehensions, pycon, pycon2010, python-advanced]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010TheMeatyPartsOfPythonClosuresDecoratorsListCom541-52.jpg'
-Title: '"The Meaty Parts of Python: Closures, Decorators, List Comprehension, and
-  Functional Constructs"'
+Title: 'The Meaty Parts of Python: Closures, Decorators, List Comprehension, and
+  Functional Constructs'
 date: '2010-02-19'
 ---
 The Meaty Parts of Python: Closures, Decorators, List Comprehension, and

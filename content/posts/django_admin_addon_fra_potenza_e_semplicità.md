@@ -2,7 +2,7 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=MlZfJVC7ci8"'
+SourceUrl: 'https://www.youtube.com/watch?v=MlZfJVC7ci8'
 Speakers: [Sandro Dentella]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/MlZfJVC7ci8/maxresdefault.jpg'

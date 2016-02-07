@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=fB_XzU8sRbU"'
+SourceUrl: 'http://www.youtube.com/watch?v=fB_XzU8sRbU'
 Speakers: [Chetan Giridhar]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/fB_XzU8sRbU/hqdefault.jpg'
-Title: '"Rapid development of Unified Real-time communication for Websites"'
+Title: 'Rapid development of Unified Real-time communication for Websites'
 date: '2013-09-12'
 ---
 @ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 2

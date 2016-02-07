@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Dave Malcolm]
 Tags: [cpython, memory, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011DudeWheresMyRAMADeepDiveIntoHowPythonUses951.png'
-Title: 'Dude, Where''s My RAM?" - A deep dive into how Python uses memory"'
+Title: 'Dude, Where''s My RAM?" - A deep dive into how Python uses memory'
 date: '2011-03-11'
 ---
 "Dude, Where's My RAM?" - A deep dive into how Python uses memory

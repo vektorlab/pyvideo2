@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Maciej Fijalkowski]
 Tags: [pycon, pycon2010, pypy]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010KeynoteStateOfPyPy184-324.jpg'
-Title: '"Keynote: State of PyPy"'
+Title: 'Keynote: State of PyPy'
 date: '2010-02-19'
 ---
 Keynote: State of PyPy

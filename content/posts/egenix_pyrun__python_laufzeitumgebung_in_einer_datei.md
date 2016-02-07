@@ -2,12 +2,12 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=ZaCk9Gp8e-U"'
+SourceUrl: 'https://www.youtube.com/watch?v=ZaCk9Gp8e-U'
 Speakers: ["Marc-Andr\xE9 Lemburg"]
 Tags: [' interpreter', ' kompakt', ' laufzeitumgebung', ' open-source', ' python',
   virtualenv]
 ThumbnailUrl: 'http://i3.ytimg.com/vi/ZaCk9Gp8e-U/hqdefault.jpg'
-Title: '"eGenix PyRun - Python Laufzeitumgebung in einer Datei"'
+Title: 'eGenix PyRun - Python Laufzeitumgebung in einer Datei'
 date: '2012-10-31'
 ---
 eGenix PyRun kondensiert eine komplette Python Laufzeitumgebung mit

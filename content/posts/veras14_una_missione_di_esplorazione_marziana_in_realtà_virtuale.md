@@ -2,7 +2,7 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=tbOra5MjSgQ"'
+SourceUrl: 'https://www.youtube.com/watch?v=tbOra5MjSgQ'
 Speakers: [Ezio Melotti, Franco Carbognani]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/tbOra5MjSgQ/hqdefault.jpg'

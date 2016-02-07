@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://youtu.be/lrLV93EFO0g"'
+SourceUrl: 'http://youtu.be/lrLV93EFO0g'
 Speakers: [Gideon Redelinghuys]
 Tags: [Room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/lrLV93EFO0g/hqdefault.jpg'
-Title: '"Python @ CloudFlare"'
+Title: 'Python @ CloudFlare'
 date: '2015-10-01'
 ---
 CloudFlare protects and accelerates any website online. Whether it's protecting large customers from 160Gbps DDOS attacks, dealing with normal Reddit traffic, Universal SSL or providing one of the fastest DNS servers in the world we need to stay up, work fast and deploy fast.

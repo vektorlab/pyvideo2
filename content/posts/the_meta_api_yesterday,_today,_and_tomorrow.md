@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=pxBfDe7wiEo"'
+SourceUrl: 'https://www.youtube.com/watch?v=pxBfDe7wiEo'
 Speakers: [Daniel Pyrathon]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/pxBfDe7wiEo/maxresdefault.jpg'
-Title: '"The Meta API: yesterday, today, and tomorrow"'
+Title: 'The Meta API: yesterday, today, and tomorrow'
 date: '2015-05-29'
 ---
 The Meta API is the core part of Django that enables introspection of the ORM with the rest of the system. The API allows different parts of the framework such as lookups, queries, forms, admin to understand and use the capabilities of every model.

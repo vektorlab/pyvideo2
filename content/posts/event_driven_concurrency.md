@@ -2,11 +2,11 @@
 Category: 'ChiPy'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=2gcrTsQ7yi4"'
+SourceUrl: 'https://www.youtube.com/watch?v=2gcrTsQ7yi4'
 Speakers: [Ben Toews]
 Tags: []
 ThumbnailUrl: 'http://i3.ytimg.com/vi/2gcrTsQ7yi4/hqdefault.jpg'
-Title: '"Event Driven Concurrency"'
+Title: 'Event Driven Concurrency'
 date: '2012-09-13'
 ---
 Ben recently discovered event driven concurrency. He will be talking about

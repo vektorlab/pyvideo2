@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Dr. Jimmy J Lin, Nitin Madnani]
 Tags: [dumbo, nltk, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010ThePythonAndTheElephantLargeScaleNaturalLangua697.png'
-Title: '"The Python and the Elephant: Large Scale Natural Language Processing with
-  NLTK and Dumbo (#120)"'
+Title: 'The Python and the Elephant: Large Scale Natural Language Processing with
+  NLTK and Dumbo (#120)'
 date: '2010-02-19'
 ---
 The Python and the Elephant: Large Scale Natural Language Processing with NLTK

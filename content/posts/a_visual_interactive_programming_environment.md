@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=_OX-3UhwUeg"'
+SourceUrl: 'http://www.youtube.com/watch?v=_OX-3UhwUeg'
 Speakers: [Geoffrey French]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/_OX-3UhwUeg/hqdefault.jpg'
-Title: '"A Visual Interactive Programming Environment"'
+Title: 'A Visual Interactive Programming Environment'
 date: '2011-07-07'
 ---
 The Larch Environment is a visual interactive programming environment for

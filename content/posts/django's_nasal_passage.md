@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=NZnnB7l3ZHM"'
+SourceUrl: 'http://www.youtube.com/watch?v=NZnnB7l3ZHM'
 Speakers: [Erik Rose]
 Tags: [django, nose, testing]
 ThumbnailUrl: 'http://i.ytimg.com/vi/NZnnB7l3ZHM/hqdefault.jpg'
-Title: '"Django''s Nasal Passage"'
+Title: 'Django''s Nasal Passage'
 date: '2012-09-06'
 ---
   * Why nose?

@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=0hMR3jiRcPQ"'
+SourceUrl: 'https://www.youtube.com/watch?v=0hMR3jiRcPQ'
 Speakers: [Klaus Bremer]
 Tags: [' class based generic views', django]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/0hMR3jiRcPQ/hqdefault.jpg'
-Title: '"Django class based generic views"'
+Title: 'Django class based generic views'
 date: '2012-10-31'
 ---
 Django class based generic views können zu einer strukturell einheitlichen

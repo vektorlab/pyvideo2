@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Scott Chacon]
 Tags: [git, hg, mercurial, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010HgAndGitCantWeAllJustGetAlong154454-979.jpg'
-Title: '"Hg and Git : Can''t we all just get along? (#154)"'
+Title: 'Hg and Git : Can''t we all just get along? (#154)'
 date: '2010-02-19'
 ---
 Hg and Git: Can't we all just get along?

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=9r-nbbTRCjQ"'
+SourceUrl: 'http://www.youtube.com/watch?v=9r-nbbTRCjQ'
 Speakers: [Tom Christie]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/9r-nbbTRCjQ/hqdefault.jpg'
-Title: '"Documenting your project with MkDocs."'
+Title: 'Documenting your project with MkDocs.'
 date: '2014-07-22'
 ---
 This talk will be a practical introduction to MkDocs, a new tool for creating documentation from Markdown:

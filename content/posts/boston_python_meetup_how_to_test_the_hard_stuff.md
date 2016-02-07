@@ -2,11 +2,11 @@
 Category: 'Boston Python Meetup'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://vimeo.com/11980200"'
+SourceUrl: 'http://vimeo.com/11980200'
 Speakers: [Stephan Richter]
 Tags: [bostonpy, session, testing, unittest]
 ThumbnailUrl: ''
-Title: '"Boston Python Meetup: How to test the hard stuff"'
+Title: 'Boston Python Meetup: How to test the hard stuff'
 ---
 How to Test the Hard Stuff
 

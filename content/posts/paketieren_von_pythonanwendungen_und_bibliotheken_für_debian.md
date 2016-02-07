@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2011'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'German'
-SourceUrl: '"http://www.youtube.com/watch?v=2c_L9HTN2Jk"'
+SourceUrl: 'http://www.youtube.com/watch?v=2c_L9HTN2Jk'
 Speakers: [Jan Dittberner]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/2c_L9HTN2Jk/hqdefault.jpg'

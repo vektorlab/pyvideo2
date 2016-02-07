@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=LsfrMjcIudA"'
+SourceUrl: 'http://www.youtube.com/watch?v=LsfrMjcIudA'
 Speakers: [Alex Martelli]
 Tags: [api, design, interfaces]
 ThumbnailUrl: 'http://i.ytimg.com/vi/LsfrMjcIudA/hqdefault.jpg'
-Title: '"Good API design"'
+Title: 'Good API design'
 date: '2011-07-21'
 ---
 Designing interfaces so that other code can interact with ours (whether our

@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=MeKrPc4V_iU"'
+SourceUrl: 'https://www.youtube.com/watch?v=MeKrPc4V_iU'
 Speakers: [Martin Alderete]
 Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/MeKrPc4V_iU/hqdefault.jpg'
-Title: '"NINJA-IDE, an IDE specially designed for Python"'
+Title: 'NINJA-IDE, an IDE specially designed for Python'
 date: '2012-11-10'
 ---
 One of the recurrent questions in all the Python communities around the world

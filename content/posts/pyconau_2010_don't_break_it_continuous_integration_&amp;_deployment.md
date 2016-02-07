@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Benno Rice]
 Tags: [agile, architecture, packaging, pyconau, pyconau2010, testing]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-DontBreakItContinuousIntegrationDeployment397.png'
-Title: '"PyConAU 2010: Don''t Break It: Continuous Integration &amp; Deployment"'
+Title: 'PyConAU 2010: Don''t Break It: Continuous Integration &amp; Deployment'
 ---
 Don't Break It: Continuous Integration & Deployment
 

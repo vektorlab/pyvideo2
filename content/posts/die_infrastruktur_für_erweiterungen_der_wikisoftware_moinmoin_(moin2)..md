@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=rHrxNcYqBTw"'
+SourceUrl: 'https://www.youtube.com/watch?v=rHrxNcYqBTw'
 Speakers: [Reimar Bauer]
 Tags: [' moinmoin', ' plugins', ' python', wiki]
 ThumbnailUrl: 'http://i3.ytimg.com/vi/rHrxNcYqBTw/hqdefault.jpg'

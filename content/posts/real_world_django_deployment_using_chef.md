@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Noah Kantrowitz]
 Tags: [chef, deployment]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-RealWorldDjangoDeploymentUsingChef158-86.jpg'
-Title: '"Real world Django deployment using Chef"'
+Title: 'Real world Django deployment using Chef'
 ---
 Real world Django deployment using Chef
 

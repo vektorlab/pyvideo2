@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=JKBQ-2uiwcw"'
+SourceUrl: 'http://www.youtube.com/watch?v=JKBQ-2uiwcw'
 Speakers: [Ewen McNeill]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/JKBQ-2uiwcw/hqdefault.jpg'
-Title: '"Seize control of your network with Ryu"'
+Title: 'Seize control of your network with Ryu'
 date: '2014-09-13'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

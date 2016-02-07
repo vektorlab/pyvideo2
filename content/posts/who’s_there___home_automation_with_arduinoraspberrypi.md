@@ -2,7 +2,7 @@
 Category: 'PyCon US 2013'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=pkb5pr2Q0X0"'
+SourceUrl: 'https://www.youtube.com/watch?v=pkb5pr2Q0X0'
 Speakers: [Rupa Dachere]
 Tags: [talk]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/pkb5pr2Q0X0/hqdefault.jpg'

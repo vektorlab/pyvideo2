@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=CSULRDoF8-g"'
+SourceUrl: 'https://www.youtube.com/watch?v=CSULRDoF8-g'
 Speakers: [Adam Forsyth]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/CSULRDoF8-g/hqdefault.jpg'
-Title: '"Getting the most out of Stack Overflow"'
+Title: 'Getting the most out of Stack Overflow'
 date: '2013-07-07'
 ---
 Stack Overflow is the single greatest repository of coding knowledge in the world. Now approaching five years old, its community-moderated, strict Q&A format has made it far more useful than other similar sites.

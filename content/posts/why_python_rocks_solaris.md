@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/eakvNuYjwAk"'
+SourceUrl: 'http://youtu.be/eakvNuYjwAk'
 Speakers: [James McPherson]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/eakvNuYjwAk/hqdefault.jpg'
-Title: '"Why Python rocks Solaris"'
+Title: 'Why Python rocks Solaris'
 date: '2014-09-13'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

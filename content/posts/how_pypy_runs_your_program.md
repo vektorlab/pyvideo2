@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://youtu.be/mHTu723RDNI"'
+SourceUrl: 'http://youtu.be/mHTu723RDNI'
 Speakers: [Maciej Fijalkowski]
 Tags: [Room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/mHTu723RDNI/hqdefault.jpg'
-Title: '"How PyPy runs your program"'
+Title: 'How PyPy runs your program'
 date: '2015-10-02'
 ---
 In this talk we would like to have a short introduction on how Python

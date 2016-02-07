@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://youtu.be/s041lMgOlgs"'
+SourceUrl: 'http://youtu.be/s041lMgOlgs'
 Speakers: [Abuobayda Shabat]
 Tags: [Room 211]
 ThumbnailUrl: 'https://i.ytimg.com/vi/s041lMgOlgs/hqdefault.jpg'
-Title: '"An Introduction to Image Classification"'
+Title: 'An Introduction to Image Classification'
 date: '2015-10-01'
 ---
 In this tutorial, two main areas will be covered using Textural Images Dataset:

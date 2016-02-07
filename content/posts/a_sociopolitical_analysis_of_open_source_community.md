@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Ian Bicking]
 Tags: [djangocon, djangocon2009, opensource]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-ASociopoliticalAnalysisOfOpenSourceCommunity386.png'
-Title: '"A socio-political analysis of open source community"'
+Title: 'A socio-political analysis of open source community'
 ---
 DjangoCon presents A socio-political analysis of open source community
 

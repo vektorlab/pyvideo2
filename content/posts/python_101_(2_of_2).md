@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [pycon, pycon2009, python-basics]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-Python101Part002503-307.jpg'
-Title: '"Python 101 (2 of 2)"'
+Title: 'Python 101 (2 of 2)'
 ---
 Python 101 (Part 2 of 2)
 

@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=BfEcIAzdv9M"'
+SourceUrl: 'https://www.youtube.com/watch?v=BfEcIAzdv9M'
 Speakers: [Reimar Bauer]
 Tags: [einsteiger, pymove3d, wettbewerb]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/BfEcIAzdv9M/hqdefault.jpg'
-Title: '"Python Einsteiger-Programmierwettbewerb"'
+Title: 'Python Einsteiger-Programmierwettbewerb'
 date: '2013-10-15'
 ---
 Im Planungsprozess der diesjährigen PyCon DE ist ein Programmierwettbewerb für SchülerInnen im Alter von 13 bis zum vollendetetem 21 Lebensjahr enthalten.

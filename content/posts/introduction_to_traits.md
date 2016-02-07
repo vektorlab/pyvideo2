@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Corran Webster]
 Tags: [pycon, pycon2010, traits, tutorial]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-IntroductionToTraits425-362.jpg'
-Title: '"Introduction to Traits"'
+Title: 'Introduction to Traits'
 date: '2010-02-19'
 ---
 Introduction to Traits

@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=HkRuVNRbieU"'
+SourceUrl: 'http://www.youtube.com/watch?v=HkRuVNRbieU'
 Speakers: [Chris Esther]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/HkRuVNRbieU/hqdefault.jpg'
-Title: '"OSINT, Maltego & Python"'
+Title: 'OSINT, Maltego & Python'
 date: '2013-09-13'
 ---
 @ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 1

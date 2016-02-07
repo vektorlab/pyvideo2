@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=rZCANK4by0Q"'
+SourceUrl: 'http://www.youtube.com/watch?v=rZCANK4by0Q'
 Speakers: [Mark Ramm-Christensen]
 Tags: [database, nosql, optimizing, performance]
 ThumbnailUrl: 'http://i.ytimg.com/vi/rZCANK4by0Q/hqdefault.jpg'
-Title: '"Relate or !Relate"'
+Title: 'Relate or !Relate'
 date: '2011-07-13'
 ---
 To Relate or Not to Relate, that is the question raised by the NoSQL movement.

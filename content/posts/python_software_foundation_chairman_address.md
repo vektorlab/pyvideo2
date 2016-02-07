@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Steve Holden]
 Tags: [future, psf, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011PythonSoftwareFoundationChairmanAddress279.png'
-Title: '"Python Software Foundation Chairman Address"'
+Title: 'Python Software Foundation Chairman Address'
 date: '2011-03-11'
 ---
 Python Software Foundation Chairman Address

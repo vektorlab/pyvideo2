@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=eOkxLCCbU9w"'
+SourceUrl: 'http://www.youtube.com/watch?v=eOkxLCCbU9w'
 Speakers: [Graham Dumpleton]
 Tags: [bottlenecks, performance]
 ThumbnailUrl: 'http://i.ytimg.com/vi/eOkxLCCbU9w/hqdefault.jpg'
-Title: '"Web Server Bottlenecks And Performance Tuning"'
+Title: 'Web Server Bottlenecks And Performance Tuning'
 date: '2012-08-22'
 ---
 A benchmark of a hello world application is often what developers use to make

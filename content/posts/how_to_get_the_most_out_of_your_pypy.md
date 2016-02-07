@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=oZw8m_lyhvo"'
+SourceUrl: 'https://www.youtube.com/watch?v=oZw8m_lyhvo'
 Speakers: [Alex Gaynor, Armin Rigo, Maciej Fijalkowski]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/oZw8m_lyhvo/hqdefault.jpg'
-Title: '"How to get the most out of your PyPy"'
+Title: 'How to get the most out of your PyPy'
 date: '2012-03-07'
 ---
 For many applications PyPy can provide performance benefits right out of the

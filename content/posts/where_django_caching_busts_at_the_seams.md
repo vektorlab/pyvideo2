@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=dXDLWGY0Tro"'
+SourceUrl: 'http://www.youtube.com/watch?v=dXDLWGY0Tro'
 Speakers: [Kyle Rimkus, Mike Biglan]
 Tags: [caching, django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/dXDLWGY0Tro/hqdefault.jpg'
-Title: '"Where Django Caching Busts at the Seams"'
+Title: 'Where Django Caching Busts at the Seams'
 date: '2012-09-06'
 ---
 Most mid-sized Django websites thrive by relying on memcached. Though what

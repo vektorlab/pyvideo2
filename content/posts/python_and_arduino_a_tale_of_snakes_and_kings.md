@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=IslxBmz1pVg"'
+SourceUrl: 'http://www.youtube.com/watch?v=IslxBmz1pVg'
 Speakers: [Alessandro Pasotti, Davide Corio]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/IslxBmz1pVg/hqdefault.jpg'
-Title: '"Python and Arduino: a tale of snakes and kings"'
+Title: 'Python and Arduino: a tale of snakes and kings'
 date: '2012-07-06'
 ---
 Interact with the real world is one of the most common needs when we talk

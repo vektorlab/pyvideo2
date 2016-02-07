@@ -2,11 +2,11 @@
 Category: 'DjangoCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=nTMupredqR0"'
+SourceUrl: 'https://www.youtube.com/watch?v=nTMupredqR0'
 Speakers: [Tom Eastman]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/nTMupredqR0/hqdefault.jpg'
-Title: '"The Server Side: The coolest parts of backend development with Django"'
+Title: 'The Server Side: The coolest parts of backend development with Django'
 date: '2013-07-05'
 ---
 There are few feelings more sweet than being a web-app backend developer, and knowing that the vaguaries and frustrations of front-end design, Javascript inconsistencies, and web-browser quirks are "Someone Else's Problem". 

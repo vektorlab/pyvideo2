@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://youtu.be/TjuRnguO62E"'
+SourceUrl: 'http://youtu.be/TjuRnguO62E'
 Speakers: [Tobias Brandt]
 Tags: [Room 211]
 ThumbnailUrl: 'https://i.ytimg.com/vi/TjuRnguO62E/hqdefault.jpg'
-Title: '"The Split-Apply-Combine Pattern for Data Science in Python"'
+Title: 'The Split-Apply-Combine Pattern for Data Science in Python'
 date: '2015-10-01'
 ---
 Many data science problems involve the application of a split-apply-combine pattern, where you break up a big dataset into independent pieces, operate on each piece in isolation and then put all the pieces back together. This crops up in all stages of a data analysis:

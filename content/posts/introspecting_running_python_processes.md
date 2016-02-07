@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=YdnBK5yO4zU"'
+SourceUrl: 'https://www.youtube.com/watch?v=YdnBK5yO4zU'
 Speakers: [Adam Lowry]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/YdnBK5yO4zU/hqdefault.jpg'
-Title: '"Introspecting Running Python Processes"'
+Title: 'Introspecting Running Python Processes'
 date: '2012-03-09'
 ---
 Understanding the internal state of a running system can be vital to

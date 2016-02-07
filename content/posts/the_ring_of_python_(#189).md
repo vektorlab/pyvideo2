@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Holger Krekel]
 Tags: [cpython, cython, ironpython, jython, pycon, pycon2010, pypy, stackless, unladenswallow]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010TheRingOfPython189914.png'
-Title: '"The Ring of Python (#189)"'
+Title: 'The Ring of Python (#189)'
 date: '2010-02-19'
 ---
 The Ring of Python

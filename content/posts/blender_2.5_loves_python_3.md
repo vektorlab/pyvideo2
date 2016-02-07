@@ -2,11 +2,11 @@
 Category: 'ChiPy'
 Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
-SourceUrl: '"http://blip.tv/file/2785963"'
+SourceUrl: 'http://blip.tv/file/2785963'
 Speakers: [Christopher Allan Webber]
 Tags: [blender, chipy, chriswebber, python3]
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-Blender25LovesPython3867.png'
-Title: '"Blender 2.5 loves Python 3"'
+Title: 'Blender 2.5 loves Python 3'
 date: '2009-10-08'
 ---
 Blender 2.5 loves Python 3

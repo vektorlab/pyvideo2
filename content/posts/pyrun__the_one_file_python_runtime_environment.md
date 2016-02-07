@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=VnyvyTgWbzg"'
+SourceUrl: 'http://www.youtube.com/watch?v=VnyvyTgWbzg'
 Speakers: [M Lembuirg]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/VnyvyTgWbzg/hqdefault.jpg'
-Title: '"Pyrun - the one file python runtime environment"'
+Title: 'Pyrun - the one file python runtime environment'
 date: '2012-07-05'
 ---
 Introducing a simple to deploy Python run-time which can be used to easily

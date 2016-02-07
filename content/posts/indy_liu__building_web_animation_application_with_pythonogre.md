@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Indy Liu]
 Tags: [boto, celery, ffmpeg, kiwipycon, kiwipycon2009, ogre]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-IndyLiuBuildingWebAnimationApplicationWithPythonOgre541-29.jpg'
-Title: '"Indy Liu - Building web animation application with Python-Ogre"'
+Title: 'Indy Liu - Building web animation application with Python-Ogre'
 ---
 Building web animation application with Python-ogre
 

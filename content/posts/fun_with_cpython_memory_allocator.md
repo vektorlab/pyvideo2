@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=l9Le_JOwgsM"'
+SourceUrl: 'http://www.youtube.com/watch?v=l9Le_JOwgsM'
 Speakers: [Tomasz Paczkowski]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/l9Le_JOwgsM/hqdefault.jpg'
-Title: '"Fun with cPython memory allocator"'
+Title: 'Fun with cPython memory allocator'
 date: '2014-07-25'
 ---
 Working with Python does not usually involve debugging memory problems: the interpreter takes care of allocating and releasing system memory and you get to enjoy working on real problems. But what if you encounter such problems? What if your program never releases memory? How do you debug it?

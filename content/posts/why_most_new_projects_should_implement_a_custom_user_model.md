@@ -2,11 +2,11 @@
 Category: 'Chicago Djangonauts'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"http://youtu.be/0bAJV0zNWQw"'
+SourceUrl: 'http://youtu.be/0bAJV0zNWQw'
 Speakers: [Marlon Castillo]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/0bAJV0zNWQw/hqdefault.jpg'
-Title: '"Why Most New Projects Should Implement a Custom User Model"'
+Title: 'Why Most New Projects Should Implement a Custom User Model'
 date: '2015-09-03'
 ---
 All the Gain with Little of the Pain: Why Most New Projects Should Implement a Custom User Model - 

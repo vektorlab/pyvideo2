@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2011'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'German'
-SourceUrl: '"http://www.youtube.com/watch?v=lRx6I_g6KBU"'
+SourceUrl: 'http://www.youtube.com/watch?v=lRx6I_g6KBU'
 Speakers: [Rainer Bruggemann]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/lRx6I_g6KBU/hqdefault.jpg'

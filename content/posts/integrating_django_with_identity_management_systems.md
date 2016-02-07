@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=HhcotmeioT8"'
+SourceUrl: 'https://www.youtube.com/watch?v=HhcotmeioT8'
 Speakers: [Fraser Tweedale]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/HhcotmeioT8/hqdefault.jpg'
-Title: '"Integrating Django with Identity Management Systems"'
+Title: 'Integrating Django with Identity Management Systems'
 date: '2015-08-04'
 ---
 Most Django developers are familiar with authentication and

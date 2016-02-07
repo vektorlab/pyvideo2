@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Brian Curtin]
 Tags: [coredev, cpython, development, gettinginvolved, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011TheDevelopmentOfPythonAndYou317.png'
-Title: '"The Development of Python and You"'
+Title: 'The Development of Python and You'
 date: '2011-03-11'
 ---
 The Development of Python and You

@@ -2,12 +2,12 @@
 Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=D7w8H4wmPRo"'
+SourceUrl: 'https://www.youtube.com/watch?v=D7w8H4wmPRo'
 Speakers: [Almar Klein, Cyrille Rossant, Eric Larson, Luke Campagnola, Nicolas P.
     Rougier]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/D7w8H4wmPRo/hqdefault.jpg'
-Title: '"Introducing Vispy''s high level modules: easy, powerful visualization"'
+Title: 'Introducing Vispy''s high level modules: easy, powerful visualization'
 date: '2014-10-22'
 ---
 Vispy is an OpenGL-based interactive visualization library in Python. Its goal is to make it easy to create beautiful and fast dynamic visualizations. For example, scientific plotting of tens of millions of points, interacting with complex polygonial models, and (dynamic) volume rendering.

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Luke Gotszling]
 Tags: [couchdb, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011CouchDBAndPythonInPractice776.png'
-Title: '"CouchDB and Python in practice"'
+Title: 'CouchDB and Python in practice'
 date: '2011-03-11'
 ---
 CouchDB and Python in practice

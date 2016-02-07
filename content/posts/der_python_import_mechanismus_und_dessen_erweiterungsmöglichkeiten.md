@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2011'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'German'
-SourceUrl: '"http://www.youtube.com/watch?v=JENq3NucjVU"'
+SourceUrl: 'http://www.youtube.com/watch?v=JENq3NucjVU'
 Speakers: [Ilan Schnell]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/JENq3NucjVU/hqdefault.jpg'

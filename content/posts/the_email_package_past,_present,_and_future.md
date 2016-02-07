@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=C9K8DOe1zWw"'
+SourceUrl: 'https://www.youtube.com/watch?v=C9K8DOe1zWw'
 Speakers: [R. David Murray]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/C9K8DOe1zWw/hqdefault.jpg'
-Title: '"The Email Package: Past, Present, and Future"'
+Title: 'The Email Package: Past, Present, and Future'
 date: '2012-03-10'
 ---
 The email package in the Python Standard library has had a somewhat rocky

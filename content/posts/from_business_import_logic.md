@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=m6apPdIQJnw"'
+SourceUrl: 'https://www.youtube.com/watch?v=m6apPdIQJnw'
 Speakers: [Bogdan Chmielewski]
 Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/m6apPdIQJnw/hqdefault.jpg'
-Title: '"from business import logic"'
+Title: 'from business import logic'
 date: '2012-11-10'
 ---
 Programmers generally spend their time heads-down crafting complex technical

@@ -7,7 +7,7 @@ Speakers: [Chris Shenton, C. Titus Brown, Daniel Greenfeld, Dan Mesh, Frank Wile
   Rich Leland]
 Tags: [panel, pycon, pycon2011, sellingpython]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011HowToSellPython286.png'
-Title: '"How to sell Python"'
+Title: 'How to sell Python'
 date: '2011-03-11'
 ---
 How to sell Python

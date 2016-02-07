@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=y420yZMRdLw"'
+SourceUrl: 'http://www.youtube.com/watch?v=y420yZMRdLw'
 Speakers: [Petr Viktorin]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/y420yZMRdLw/hqdefault.jpg'
-Title: '"The Magic of Attribute Access"'
+Title: 'The Magic of Attribute Access'
 date: '2014-07-22'
 ---
 The first part of this talk will describe what exactly happens when you

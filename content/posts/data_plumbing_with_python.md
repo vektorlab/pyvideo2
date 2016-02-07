@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=Bb3YEqtHvGs"'
+SourceUrl: 'http://www.youtube.com/watch?v=Bb3YEqtHvGs'
 Speakers: [Pavlos Christoforou]
 Tags: [community, deployment, framework, processing]
 ThumbnailUrl: 'http://i.ytimg.com/vi/Bb3YEqtHvGs/hqdefault.jpg'
-Title: '"Data Plumbing with Python"'
+Title: 'Data Plumbing with Python'
 date: '2011-07-18'
 ---
 Point Nine provides operations outsourcing and support to large and complex

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Gary Bernhardt]
 Tags: [backup, bigdata, bitbacker, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011BackupIsHardLetsGoShopping206.png'
-Title: '"Backup Is Hard; Let''s Go Shopping"'
+Title: 'Backup Is Hard; Let''s Go Shopping'
 date: '2011-03-11'
 ---
 Backup Is Hard; Let's Go Shopping

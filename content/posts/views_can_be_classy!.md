@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=yr9HOLipPXc"'
+SourceUrl: 'http://www.youtube.com/watch?v=yr9HOLipPXc'
 Speakers: [Kenneth Love]
 Tags: [class-based-views, django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/yr9HOLipPXc/hqdefault.jpg'
-Title: '"Views can be Classy!"'
+Title: 'Views can be Classy!'
 date: '2012-09-04'
 ---
 It seems like most people in the Django community either don't have any idea

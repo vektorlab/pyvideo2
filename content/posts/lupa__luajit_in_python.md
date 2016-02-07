@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=JreLvRxOF9M"'
+SourceUrl: 'https://www.youtube.com/watch?v=JreLvRxOF9M'
 Speakers: [Stefan Behnel]
 Tags: [lua, luajit, lupa]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/JreLvRxOF9M/hqdefault.jpg'
-Title: '"Lupa - LuaJIT in Python"'
+Title: 'Lupa - LuaJIT in Python'
 date: '2013-10-17'
 ---
 Der Python-Interpreter hat den Ruf, eine ausgereifte und grandios einfach zu verwendende dynamische Sprache und Laufzeitumgebung zu bieten, die für jede noch so [exotische Anforderung](https://xkcd.com/413/) eine Lösung bereit hält.

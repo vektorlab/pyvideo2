@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=4-TwdBuTR1A"'
+SourceUrl: 'https://www.youtube.com/watch?v=4-TwdBuTR1A'
 Speakers: [Eric Snow]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/4-TwdBuTR1A/hqdefault.jpg'
-Title: '"Interfaces and Python"'
+Title: 'Interfaces and Python'
 date: '2012-03-09'
 ---
 In 2.6, Python introduced the Abstract Base Classes. Before that we had

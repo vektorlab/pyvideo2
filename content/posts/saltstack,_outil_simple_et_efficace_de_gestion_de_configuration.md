@@ -2,11 +2,11 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=8yDML4CbXH0"'
+SourceUrl: 'https://www.youtube.com/watch?v=8yDML4CbXH0'
 Speakers: [Sebastien Douche]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/8yDML4CbXH0/maxresdefault.jpg'
-Title: '"SaltStack, outil simple et efficace de gestion de configuration"'
+Title: 'SaltStack, outil simple et efficace de gestion de configuration'
 date: '2013-11-30'
 ---
 SaltStack est à l'instar de Puppet, un outil de gestion de configuration. Il permet de grandement simplifier le travail quotidien des admistrateurs système, libérant du temps pour des tâches bien plus intéressantes.

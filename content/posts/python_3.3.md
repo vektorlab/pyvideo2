@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=bXFLZqpWAPk"'
+SourceUrl: 'https://www.youtube.com/watch?v=bXFLZqpWAPk'
 Speakers: ["Martin v. L\xF6wis"]
 Tags: [' python', python3]
 ThumbnailUrl: 'http://i3.ytimg.com/vi/bXFLZqpWAPk/hqdefault.jpg'
-Title: '"Python 3.3"'
+Title: 'Python 3.3'
 date: '2012-10-31'
 ---
 Am 29.9.2012 wurde nach 19-monatiger Entwicklungszeit Python 3.3

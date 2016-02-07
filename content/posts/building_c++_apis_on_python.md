@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=i5YwerH73EY"'
+SourceUrl: 'http://www.youtube.com/watch?v=i5YwerH73EY'
 Speakers: [A Bingham]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/i5YwerH73EY/hqdefault.jpg'
-Title: '"Building C++ APIs on Python"'
+Title: 'Building C++ APIs on Python'
 date: '2012-07-05'
 ---
 Python has great support for interfacing with C/C++ code, and this has been

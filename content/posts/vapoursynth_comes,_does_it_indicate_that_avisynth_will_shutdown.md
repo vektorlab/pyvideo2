@@ -2,11 +2,11 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'Chinese'
-SourceUrl: '"https://www.youtube.com/watch?v=JAAxfAKQeEg"'
+SourceUrl: 'https://www.youtube.com/watch?v=JAAxfAKQeEg'
 Speakers: [Hsueh-Tsung Kuo]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/JAAxfAKQeEg/hqdefault.jpg'
-Title: '"VapourSynth comes, does it indicate that AviSynth will shutdown?"'
+Title: 'VapourSynth comes, does it indicate that AviSynth will shutdown?'
 date: '2014-06-27'
 ---
 VapourSynth is a powerful tool for video post-production. In contrast to video editing tools with GUI interface, it parses expressions and statements from Python script, builds corresponding filter graph, and cheats output video as regular uncompressed RGB/YUV AVI stream file. Thus, everyone can view video editing result just by playing Python script as a regular AVI file.

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Chris Perkins]
 Tags: [database, pycon, pycon2010, turbogears, tutorial]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010RelationalDatabaseApplications742.png'
-Title: '"Relational Database Applications"'
+Title: 'Relational Database Applications'
 date: '2010-02-19'
 ---
 Turbogears Database Applications (Relational Database Applications)

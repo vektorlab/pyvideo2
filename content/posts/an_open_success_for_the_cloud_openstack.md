@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Andy Smith]
 Tags: [openstack, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011AnOpenSuccessForTheCloudOpenStack791.png'
-Title: '"An Open success for the cloud: OpenStack"'
+Title: 'An Open success for the cloud: OpenStack'
 date: '2011-03-11'
 ---
 An Open success for the cloud: OpenStack

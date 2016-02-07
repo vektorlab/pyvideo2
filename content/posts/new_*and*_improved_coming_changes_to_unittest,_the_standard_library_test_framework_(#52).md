@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Michael Foord]
 Tags: [pycon, pycon2010, unittest]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010NewAndImprovedComingChangesToUnittestTheStanda472-63.jpg'
-Title: '"New *and* Improved: Coming changes to unittest, the standard library test
-  framework (#52)"'
+Title: 'New *and* Improved: Coming changes to unittest, the standard library test
+  framework (#52)'
 date: '2010-02-19'
 ---
 New *and* Improved: Coming changes to unittest, the standard library test

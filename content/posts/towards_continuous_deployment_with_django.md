@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=_lgWVkYYtf4"'
+SourceUrl: 'http://www.youtube.com/watch?v=_lgWVkYYtf4'
 Speakers: [Roger Barnes]
 Tags: [deployment, django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/_lgWVkYYtf4/hqdefault.jpg'
-Title: '"Towards continuous deployment with Django"'
+Title: 'Towards continuous deployment with Django'
 date: '2012-08-22'
 ---
 It's no secret that python is fantastic when it comes to rapid prototyping and

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=3uTnXITm-kA"'
+SourceUrl: 'http://www.youtube.com/watch?v=3uTnXITm-kA'
 Speakers: [Mark Shannon]
 Tags: [cpython, jit, pypy, vm]
 ThumbnailUrl: 'http://i.ytimg.com/vi/3uTnXITm-kA/hqdefault.jpg'
-Title: '"Making CPython Fast Using Trace-based Optimisations"'
+Title: 'Making CPython Fast Using Trace-based Optimisations'
 date: '2011-07-13'
 ---
 CPython can be made faster by implementing the sort of optimizations used in

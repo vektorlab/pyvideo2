@@ -2,11 +2,11 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=ah9fwabLD70"'
+SourceUrl: 'https://www.youtube.com/watch?v=ah9fwabLD70'
 Speakers: [Julien Danjou]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/ah9fwabLD70/maxresdefault.jpg'
-Title: '"Hy, a Lisp on Python"'
+Title: 'Hy, a Lisp on Python'
 date: '2013-11-30'
 ---
 Hy (https://github.com/hylang/hy) is an implementation of a Lisp language on top of Python. It The project has been started this year, and is making good progress, since a lot of code can already be executed. Compatibility with Python is one of its core attribute, and in this regard it follows the path that Clojure took with Java.

@@ -2,7 +2,7 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=jkpvLtdLkBc"'
+SourceUrl: 'https://www.youtube.com/watch?v=jkpvLtdLkBc'
 Speakers: [Stephan Gorget]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/jkpvLtdLkBc/maxresdefault.jpg'

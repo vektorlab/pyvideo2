@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=m4OHUDsNrLo"'
+SourceUrl: 'http://www.youtube.com/watch?v=m4OHUDsNrLo'
 Speakers: [E Franchi]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/m4OHUDsNrLo/hqdefault.jpg'
-Title: '"Complex and social network analysis in Python"'
+Title: 'Complex and social network analysis in Python'
 date: '2012-07-04'
 ---
 A complex network is a network that has non trivial topological properties,

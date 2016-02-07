@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=-l9xH1X_rvg"'
+SourceUrl: 'http://www.youtube.com/watch?v=-l9xH1X_rvg'
 Speakers: [Deni Bertovic]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/-l9xH1X_rvg/hqdefault.jpg'
-Title: '"Supercharge your development environment using Docker"'
+Title: 'Supercharge your development environment using Docker'
 date: '2014-07-23'
 ---
 In this talk I am going to show how to utilize light weight lxc containers

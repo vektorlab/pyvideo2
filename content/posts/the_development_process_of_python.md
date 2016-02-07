@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=JuH4ZpoZBYM"'
+SourceUrl: 'http://www.youtube.com/watch?v=JuH4ZpoZBYM'
 Speakers: [Ezio Melotti]
 Tags: [community, contribute, cpython, mercurial, workflow]
 ThumbnailUrl: 'http://i.ytimg.com/vi/JuH4ZpoZBYM/hqdefault.jpg'
-Title: '"The development process of Python"'
+Title: 'The development process of Python'
 date: '2011-07-13'
 ---
 Python is an open source language, where everyone can contribute, and thanks

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [David Beazley]
 Tags: [chipy, cool, python3, zeromq]
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-Vintage1978SuperboardIIHackingWithSomePython3AndZeroMQ478.png'
-Title: '"Vintage 1978 Superboard II hacking with some Python3 and ZeroMQ"'
+Title: 'Vintage 1978 Superboard II hacking with some Python3 and ZeroMQ'
 date: '2011-01-13'
 ---
 I'm not sure if we're still looking for talks on Thursday, but if so, I'd like

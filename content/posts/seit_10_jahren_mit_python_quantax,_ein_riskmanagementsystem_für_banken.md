@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2011'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'German'
-SourceUrl: '"http://www.youtube.com/watch?v=mchs5LywPOs"'
+SourceUrl: 'http://www.youtube.com/watch?v=mchs5LywPOs'
 Speakers: [Martin Gfeller]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/mchs5LywPOs/hqdefault.jpg'

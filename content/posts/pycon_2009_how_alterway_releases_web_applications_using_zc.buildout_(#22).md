@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [pycon, pycon2009, zc.buildout]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-HowAlterWayReleasesWebApplicationsUsingZcbuildout747-905.jpg'
-Title: '"PyCon 2009: How AlterWay releases web applications using zc.buildout (#22)"'
+Title: 'PyCon 2009: How AlterWay releases web applications using zc.buildout (#22)'
 ---
   
 This talk will describe how zc.buildout is used in our company every day to

@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=Fqknoni5aX0"'
+SourceUrl: 'https://www.youtube.com/watch?v=Fqknoni5aX0'
 Speakers: [Lex Hider]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Fqknoni5aX0/hqdefault.jpg'
-Title: '"Conda: a cross-platform, python-agnostic binary package manager."'
+Title: 'Conda: a cross-platform, python-agnostic binary package manager.'
 date: '2015-08-04'
 ---
 You may be aware of pip & virtualenv for installing and maintaining your software libraries.

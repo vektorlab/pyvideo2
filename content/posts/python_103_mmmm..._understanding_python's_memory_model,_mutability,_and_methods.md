@@ -2,12 +2,12 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=HHFCFJSPWrI"'
+SourceUrl: 'http://www.youtube.com/watch?v=HHFCFJSPWrI'
 Speakers: [wesley chun]
 Tags: [debugging, exceptions, memory, scripts]
 ThumbnailUrl: 'http://i.ytimg.com/vi/HHFCFJSPWrI/hqdefault.jpg'
-Title: '"Python 103: Mmmm... Understanding Python''s Memory Model, Mutability, and
-  Methods"'
+Title: 'Python 103: Mmmm... Understanding Python''s Memory Model, Mutability, and
+  Methods'
 date: '2011-07-21'
 ---
 In Python 101, you learned basic Python syntax, what its flow control

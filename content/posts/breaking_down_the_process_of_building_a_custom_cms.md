@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Brian Luft, Yann Malet]
 Tags: [development, djangocon, djangocon2010, projectmanagement]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-BreakingDownTheProcessOfBuildingACustomCMS112-442.jpg'
-Title: '"Breaking down the process of building a custom CMS"'
+Title: 'Breaking down the process of building a custom CMS'
 ---
 Breaking down the process of building a custom CMS
 

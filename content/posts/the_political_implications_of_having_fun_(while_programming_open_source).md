@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=B5V7fWST3H0"'
+SourceUrl: 'http://www.youtube.com/watch?v=B5V7fWST3H0'
 Speakers: [Benno Luthiger]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/B5V7fWST3H0/hqdefault.jpg'
-Title: '"The political implications of having fun (while programming open source)"'
+Title: 'The political implications of having fun (while programming open source)'
 date: '2011-07-13'
 ---
 What are the implications for the society if people enjoy their work, because

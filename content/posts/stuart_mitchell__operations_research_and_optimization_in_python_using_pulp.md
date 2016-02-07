@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Stuart Mitchell]
 Tags: [graphviz, kiwipycon, kiwipycon2009]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-StuartMitchellOperationsResearchAndOptimizationInPython689-252.jpg'
-Title: '"Stuart Mitchell - Operations research and Optimization in Python using Pulp"'
+Title: 'Stuart Mitchell - Operations research and Optimization in Python using Pulp'
 ---
 Operations research and optimization in Python using Pulp
 

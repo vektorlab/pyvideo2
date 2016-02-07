@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=AFgzYRA_kys"'
+SourceUrl: 'https://www.youtube.com/watch?v=AFgzYRA_kys'
 Speakers: [Matthew Hooker]
 Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/AFgzYRA_kys/hqdefault.jpg'
-Title: '"Configuration management with ZooKeeper"'
+Title: 'Configuration management with ZooKeeper'
 date: '2012-11-10'
 ---
 This talk is about Jones, a robust configuration management interface for

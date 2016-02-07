@@ -2,11 +2,11 @@
 Category: 'PyCon US 2013'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=0FZjkpoeJWM"'
+SourceUrl: 'https://www.youtube.com/watch?v=0FZjkpoeJWM'
 Speakers: [Harry Percival]
 Tags: [tutorial]
 ThumbnailUrl: 'http://i.ytimg.com/vi/0FZjkpoeJWM/hqdefault.jpg'
-Title: '"Fully Test-Driven Web Development with Django and Selenium"'
+Title: 'Fully Test-Driven Web Development with Django and Selenium'
 date: '2013-03-14'
 ---
 The concept: run through the official Django tutorial, but with full TDD.

@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=CObboy8XzaM"'
+SourceUrl: 'http://www.youtube.com/watch?v=CObboy8XzaM'
 Speakers: [Medhat Gayed]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/CObboy8XzaM/hqdefault.jpg'
-Title: '"Concurrent Programming using multiprocessing"'
+Title: 'Concurrent Programming using multiprocessing'
 date: '2013-09-12'
 ---
 @ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 2

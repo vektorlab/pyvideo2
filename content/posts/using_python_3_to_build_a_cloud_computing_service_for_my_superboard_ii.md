@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [David Beazley]
 Tags: [pycon, pycon2011, soawesome, superboard]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011UsingPython3ToBuildACloudComputingServiceFor438.png'
-Title: '"Using Python 3 to Build a Cloud Computing Service for my Superboard II"'
+Title: 'Using Python 3 to Build a Cloud Computing Service for my Superboard II'
 date: '2011-03-11'
 ---
 Using Python 3 to Build a Cloud Computing Service for my Superboard II

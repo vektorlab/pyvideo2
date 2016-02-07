@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=bIWnQ3F1eLA"'
+SourceUrl: 'http://www.youtube.com/watch?v=bIWnQ3F1eLA'
 Speakers: [Tom Eastman]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/bIWnQ3F1eLA/hqdefault.jpg'
-Title: '"Caching: A trip down the rabbit hole by Tom Eastman"'
+Title: 'Caching: A trip down the rabbit hole by Tom Eastman'
 date: '2014-08-11'
 ---
 The question: How do I make my website fast?

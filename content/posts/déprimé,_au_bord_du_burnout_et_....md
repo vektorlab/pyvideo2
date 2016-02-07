@@ -2,7 +2,7 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=pbjSYecvLxk"'
+SourceUrl: 'https://www.youtube.com/watch?v=pbjSYecvLxk'
 Speakers: [Jean-Michel Armand]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/pbjSYecvLxk/maxresdefault.jpg'

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Olivier Grisel]
 Tags: [googlepredictionapi, machinelearning, nltk, pycon, pycon2011, scikit-learn]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011StatisticalMachineLearningForTextClassification447.png'
-Title: '"Statistical machine learning for text classification with scikit-learn"'
+Title: 'Statistical machine learning for text classification with scikit-learn'
 date: '2011-03-11'
 ---
 Statistical machine learning for text classification with scikit-learn

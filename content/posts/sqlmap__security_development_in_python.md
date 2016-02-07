@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=O3mdKNjsdlQ"'
+SourceUrl: 'http://www.youtube.com/watch?v=O3mdKNjsdlQ'
 Speakers: [Miroslav Stampar]
 Tags: [community, security, testing]
 ThumbnailUrl: 'http://i.ytimg.com/vi/O3mdKNjsdlQ/hqdefault.jpg'
-Title: '"sqlmap - security development in Python"'
+Title: 'sqlmap - security development in Python'
 date: '2011-07-24'
 ---
 The "sqlmap" is one of the largest, widely used and most active Python

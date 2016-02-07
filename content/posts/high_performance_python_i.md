@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=Iw9-GckD-gQ"'
+SourceUrl: 'https://www.youtube.com/watch?v=Iw9-GckD-gQ'
 Speakers: [Ian Ozsvald]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/Iw9-GckD-gQ/hqdefault.jpg'
-Title: '"High Performance Python I"'
+Title: 'High Performance Python I'
 date: '2012-03-08'
 ---
 At EuroPython 2011 I ran a very hands-on tutorial for High Performance Python

@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2014'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=7tEcZ8eDKAc"'
+SourceUrl: 'http://www.youtube.com/watch?v=7tEcZ8eDKAc'
 Speakers: [Edward Schofield]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/7tEcZ8eDKAc/hqdefault.jpg'
-Title: '"How (not) to upgrade a platform by Edward Schofield"'
+Title: 'How (not) to upgrade a platform by Edward Schofield'
 date: '2014-08-07'
 ---
 Guido admitted in his PyCon 2014 keynote that he will never again conduct a language transition like that from Python 2 to Python 3. The vast majority of Python code written in 2014 is still a ``SyntaxError`` on the latest version of Python. Some people have been wondering: will Python 3 ever take off? 

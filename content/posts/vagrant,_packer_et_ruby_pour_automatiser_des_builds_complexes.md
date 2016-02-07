@@ -2,11 +2,11 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=iTU5CRuY96I"'
+SourceUrl: 'https://www.youtube.com/watch?v=iTU5CRuY96I'
 Speakers: [David Cournapeau]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/iTU5CRuY96I/maxresdefault.jpg'
-Title: '"Vagrant, packer et ruby pour automatiser des builds complexes"'
+Title: 'Vagrant, packer et ruby pour automatiser des builds complexes'
 date: '2013-11-30'
 ---
 Vagrant, packer et un peu de ruby pour automatiser des builds complexes.

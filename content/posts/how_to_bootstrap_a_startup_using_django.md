@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=gmIG56Hf9dc"'
+SourceUrl: 'http://www.youtube.com/watch?v=gmIG56Hf9dc'
 Speakers: [J Leidel, P Wassibauer]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/gmIG56Hf9dc/hqdefault.jpg'
-Title: '"How to bootstrap a startup using django"'
+Title: 'How to bootstrap a startup using django'
 date: '2012-07-04'
 ---
 Based on our (Philipp Wassibauer and Jannis Leidel) experiences building

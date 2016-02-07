@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=C2SSrHuxN7s"'
+SourceUrl: 'https://www.youtube.com/watch?v=C2SSrHuxN7s'
 Speakers: [Michael Meinel]
 Tags: [middleware, protocol buffers, skalierbar, space debris, weltraumschrott, zeromq]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/C2SSrHuxN7s/hqdefault.jpg'

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=qLKNjpudFbY"'
+SourceUrl: 'http://www.youtube.com/watch?v=qLKNjpudFbY'
 Speakers: [David Cramer]
 Tags: [deployment, disqus]
 ThumbnailUrl: 'http://i.ytimg.com/vi/qLKNjpudFbY/hqdefault.jpg'
-Title: '"Pitfalls of Continuous Deployment"'
+Title: 'Pitfalls of Continuous Deployment'
 date: '2011-07-13'
 ---
 Practice iterative development like the pros. Release sooner, faster, and more

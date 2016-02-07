@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=qcqEAE4QoeA"'
+SourceUrl: 'http://www.youtube.com/watch?v=qcqEAE4QoeA'
 Speakers: [Antonio Cuni, Armin Rigo]
 Tags: [cd, cpython, extensions, hg, jit, optimize, pypy, setup.py, tutorial]
 ThumbnailUrl: 'http://i.ytimg.com/vi/qcqEAE4QoeA/hqdefault.jpg'
-Title: '"PyPy hands-on"'
+Title: 'PyPy hands-on'
 date: '2011-07-21'
 ---
 The session is divided into two parts, of roughly 2 hours each. People who are

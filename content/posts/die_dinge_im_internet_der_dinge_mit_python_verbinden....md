@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=TM7lO_B-BPw"'
+SourceUrl: 'https://www.youtube.com/watch?v=TM7lO_B-BPw'
 Speakers: [Andreas Schreiber]
 Tags: [internet of things, mqtt, quantified self, raspberry pi, temperaturmessung]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/TM7lO_B-BPw/hqdefault.jpg'
-Title: '"Die Dinge im Internet der Dinge mit Python verbinden..."'
+Title: 'Die Dinge im Internet der Dinge mit Python verbinden...'
 date: '2013-10-17'
 ---
 Das Internet der Dinge besteht aus kleinen, manchmal intelligenten, Geräten und Sensoren, die über das Internet verbunden sind. Typische Sensoren sind Wettermessgeräte oder medizinische Geräte. Das Internet der Dinge wird nun bald real da sein, was durch günstige kleine Einplatinencomputer wie Raspberry Pi oder Arduino mit beeinflusst wird. Allerdings haben diese Geräte nicht viel Rechenleistung. Außerdem sind sie in machen Umgebungen auch nur mit eingeschränkter Netzwerkbandbreite angebunden. Um nun (viele) solche Geräte zu verbinden und Daten austauschen zu lassen sind sehr leichtgewichtige Protokolle und Implementierungen notwendig.

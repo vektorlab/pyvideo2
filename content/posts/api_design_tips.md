@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=IKQzXu43hzY"'
+SourceUrl: 'http://www.youtube.com/watch?v=IKQzXu43hzY'
 Speakers: [Daniel Lindsley]
 Tags: [api, django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/IKQzXu43hzY/hqdefault.jpg'
-Title: '"API Design Tips"'
+Title: 'API Design Tips'
 date: '2012-09-04'
 ---
 If you're a developer of any sort (Django, Python, Javascript, etc), chances

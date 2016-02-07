@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Yannick Gingras]
 Tags: [community, growth, pycon, pycon2011, usergroups]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011MontrealPythonLessonsLearnedFromBootstrapingAP942.png'
-Title: '"Montreal-Python -- Lessons Learned from Bootstraping a Python Community"'
+Title: 'Montreal-Python -- Lessons Learned from Bootstraping a Python Community'
 date: '2011-03-11'
 ---
 The talk will first walk the audience through the factors inherent to Montréal

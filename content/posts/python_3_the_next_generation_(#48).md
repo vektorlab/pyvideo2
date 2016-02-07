@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Wesley J. Chun]
 Tags: [2to3, pycon, pycon2010, python3]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010Python3TheNextGeneration48189-803.jpg'
-Title: '"Python 3: The Next Generation (#48)"'
+Title: 'Python 3: The Next Generation (#48)'
 date: '2010-02-19'
 ---
 Python 3: The Next Generation

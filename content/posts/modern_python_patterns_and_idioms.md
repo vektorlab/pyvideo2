@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=LeuChRCByZc"'
+SourceUrl: 'https://www.youtube.com/watch?v=LeuChRCByZc'
 Speakers: [Alex Martelli]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/LeuChRCByZc/maxresdefault.jpg'
-Title: '"Modern Python Patterns and Idioms"'
+Title: 'Modern Python Patterns and Idioms'
 date: '2015-06-09'
 ---
 Python itself has grown to encompass some classic idioms, such as Decorate-Sort-Undecorate, AKA DSU, begetting the widespread key= argument to most functions related to ordering – but not quite all of them: heapq, for example, still mostly lacks key= – so, we also show what idioms to use with this and similar modules.

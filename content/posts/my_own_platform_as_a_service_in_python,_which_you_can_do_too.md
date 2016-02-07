@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"http://youtu.be/AxTeVemFBkQ"'
+SourceUrl: 'http://youtu.be/AxTeVemFBkQ'
 Speakers: [Lee Begg]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/AxTeVemFBkQ/hqdefault.jpg'
-Title: '"My own Platform as a Service in Python, which you can do too"'
+Title: 'My own Platform as a Service in Python, which you can do too'
 date: '2015-09-05'
 ---
 Over the last couple of years I have evolved my own Platform as a Service (PaaS) for hosting Django apps, and you can run it too.

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=xjikvIHjvHs"'
+SourceUrl: 'http://www.youtube.com/watch?v=xjikvIHjvHs'
 Speakers: [Alexey Malashkevich]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/xjikvIHjvHs/hqdefault.jpg'
-Title: '"How Pony ORM translates Python generators to SQL queries"'
+Title: 'How Pony ORM translates Python generators to SQL queries'
 date: '2014-07-24'
 ---
 [Pony ORM](http://ponyorm.com) is an object-relational mapper implemented in Python. It allows writing advanced queries to a database using plain Python in the form of a generator expression. This way queries look very concise.

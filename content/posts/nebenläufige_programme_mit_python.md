@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=6Tb8TdovzGM"'
+SourceUrl: 'https://www.youtube.com/watch?v=6Tb8TdovzGM'
 Speakers: [Stefan Schwarzer]
 Tags: [' deadlock', gil, ' multiprocessing', " nebenl\xE4ufigkeit", ' queue', ' threading']
 ThumbnailUrl: 'http://i3.ytimg.com/vi/6Tb8TdovzGM/hqdefault.jpg'

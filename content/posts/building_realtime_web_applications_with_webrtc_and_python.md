@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=uBV_KKGzNqQ"'
+SourceUrl: 'http://www.youtube.com/watch?v=uBV_KKGzNqQ'
 Speakers: [Tarashish Mishra]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/uBV_KKGzNqQ/hqdefault.jpg'
-Title: '"Building Realtime Web Applications with WebRTC and Python"'
+Title: 'Building Realtime Web Applications with WebRTC and Python'
 date: '2014-07-25'
 ---
 Introduction

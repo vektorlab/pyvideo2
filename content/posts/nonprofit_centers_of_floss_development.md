@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=9q8LTZSvpr8"'
+SourceUrl: 'https://www.youtube.com/watch?v=9q8LTZSvpr8'
 Speakers: [Bradley M. Kuhn]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/9q8LTZSvpr8/hqdefault.jpg'
-Title: '"Non-Profit Centers of FLOSS Development"'
+Title: 'Non-Profit Centers of FLOSS Development'
 date: '2012-03-09'
 ---
 Free, Libre & Open Source Software (FLOSS) began as a not-for-profit endeavor.

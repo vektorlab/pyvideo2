@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [everyblock, pycon, pycon2009]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-BehindTheScenesOfEveryBlockcom359-71.jpg'
-Title: '"PyCon 2009: Behind the scenes of EveryBlock.com (#111)"'
+Title: 'PyCon 2009: Behind the scenes of EveryBlock.com (#111)'
 ---
 PyCon 2009: Behind the scenes of EveryBlock.com by Adrian Holovaty
 

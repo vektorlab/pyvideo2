@@ -7,7 +7,7 @@ Speakers: [Christopher Allan Webber]
 Tags: [chipy, chriswebber, cwebber, foss, gnu, media, mediagoblin, mongodb, mongokit,
   wsgi]
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-GNUMediaGoblinForAFederatedMediaFuture830.png'
-Title: '"GNU MediaGoblin for a federated media future"'
+Title: 'GNU MediaGoblin for a federated media future'
 date: '2011-06-09'
 ---
 

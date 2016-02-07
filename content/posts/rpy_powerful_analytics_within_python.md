@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=puoIKCfgX1w"'
+SourceUrl: 'http://www.youtube.com/watch?v=puoIKCfgX1w'
 Speakers: [Rhydwyn Mcguire]
 Tags: [rpy]
 ThumbnailUrl: 'http://i.ytimg.com/vi/puoIKCfgX1w/hqdefault.jpg'
-Title: '"RPy: Powerful Analytics within python"'
+Title: 'RPy: Powerful Analytics within python'
 date: '2012-08-22'
 ---
 R is an incredibly powerful statistical programming language. It is the choice

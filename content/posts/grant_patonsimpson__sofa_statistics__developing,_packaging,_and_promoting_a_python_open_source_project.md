@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Grant Paton-Simpson]
 Tags: [kiwipycon, kiwipycon2009, launchpad, opensource, sofa, sourceforge]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-GrantPatonSimpsonSOFAStatisticsDevelopingPackagingPromo591-977.jpg'
-Title: '"Grant Paton-Simpson - SOFA Statistics - Developing, packaging, and promoting
-  a Python open source project"'
+Title: 'Grant Paton-Simpson - SOFA Statistics - Developing, packaging, and promoting
+  a Python open source project'
 ---
 SOFA Statistics - Developing, packaging and promoting a Python open source
 project

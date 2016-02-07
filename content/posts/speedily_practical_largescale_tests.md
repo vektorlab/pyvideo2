@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=1VZfL9JVgFg"'
+SourceUrl: 'https://www.youtube.com/watch?v=1VZfL9JVgFg'
 Speakers: [Erik Rose]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/1VZfL9JVgFg/hqdefault.jpg'
-Title: '"Speedily Practical Large-Scale Tests"'
+Title: 'Speedily Practical Large-Scale Tests'
 date: '2012-03-09'
 ---
 Mozilla's projects have thousands of tests, so we've had to venture beyond

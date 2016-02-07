@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=oquJqXsSQ38"'
+SourceUrl: 'http://www.youtube.com/watch?v=oquJqXsSQ38'
 Speakers: [Harald Massa]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/oquJqXsSQ38/hqdefault.jpg'
-Title: '"Becoming a better programmer"'
+Title: 'Becoming a better programmer'
 date: '2012-07-04'
 ---
 so you have selected the best possible programming language; you learned about

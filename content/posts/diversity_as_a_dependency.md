@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=GMGi9FpiNTk"'
+SourceUrl: 'http://www.youtube.com/watch?v=GMGi9FpiNTk'
 Speakers: [Anna Ravenscroft]
 Tags: [diversity, psf]
 ThumbnailUrl: 'http://i.ytimg.com/vi/GMGi9FpiNTk/hqdefault.jpg'
-Title: '"Diversity as a Dependency"'
+Title: 'Diversity as a Dependency'
 date: '2011-07-21'
 ---
 The PSF recently adopted a diversity statement. While some argue that we

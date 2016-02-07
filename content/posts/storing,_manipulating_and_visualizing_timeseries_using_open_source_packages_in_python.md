@@ -2,12 +2,12 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=qTwvObrRGdY"'
+SourceUrl: 'https://www.youtube.com/watch?v=qTwvObrRGdY'
 Speakers: [Jonathan Rocher]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/qTwvObrRGdY/hqdefault.jpg'
-Title: '"Storing, manipulating and visualizing timeseries using open source packages
-  in Python"'
+Title: 'Storing, manipulating and visualizing timeseries using open source packages
+  in Python'
 date: '2012-03-10'
 ---
 Analyzing, storing and visualizing time-series efficiently are recurring

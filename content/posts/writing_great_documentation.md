@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Jacob Kaplan-Moss]
 Tags: [docs, documentation, epydoc, faqs, pycco, pycon, pycon2011, sphinx]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011WritingGreatDocumentation902.png'
-Title: '"Writing great documentation"'
+Title: 'Writing great documentation'
 date: '2011-03-11'
 ---
 Writing great documentation

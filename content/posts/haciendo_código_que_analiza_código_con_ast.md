@@ -2,7 +2,7 @@
 Category: 'PyCon Ar 2014'
 Copyright: 'youtube'
 Language: 'Spanish'
-SourceUrl: '"https://www.youtube.com/watch?v=gaNzBZa9Ah0"'
+SourceUrl: 'https://www.youtube.com/watch?v=gaNzBZa9Ah0'
 Speakers: [Diego Sarmentero]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/gaNzBZa9Ah0/hqdefault.jpg'

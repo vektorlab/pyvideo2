@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Peter Shinners]
 Tags: [deploying, embedded, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010HowAreLargeApplicationsEmbeddingPython6975-926.jpg'
-Title: '"How Are Large Applications Embedding Python? (#6)"'
+Title: 'How Are Large Applications Embedding Python? (#6)'
 date: '2010-02-19'
 ---
 How Are Large Applications Embedding Python?

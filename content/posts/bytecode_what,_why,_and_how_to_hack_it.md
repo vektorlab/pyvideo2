@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=ve7lLHtJ9l8"'
+SourceUrl: 'http://www.youtube.com/watch?v=ve7lLHtJ9l8'
 Speakers: [Ryan F Kelly]
 Tags: [bytecode]
 ThumbnailUrl: 'http://i.ytimg.com/vi/ve7lLHtJ9l8/hqdefault.jpg'
-Title: '"Bytecode: What, Why, and How to Hack it"'
+Title: 'Bytecode: What, Why, and How to Hack it'
 date: '2011-08-22'
 ---
 What's python really doing when it runs your scripts, and what's with all

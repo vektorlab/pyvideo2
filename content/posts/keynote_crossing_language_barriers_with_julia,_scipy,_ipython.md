@@ -2,11 +2,11 @@
 Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=jhlVHoeB05A"'
+SourceUrl: 'https://www.youtube.com/watch?v=jhlVHoeB05A'
 Speakers: [Stephen G. Johnson]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/jhlVHoeB05A/hqdefault.jpg'
-Title: '"Keynote: Crossing Language Barriers with Julia, SciPy, IPython"'
+Title: 'Keynote: Crossing Language Barriers with Julia, SciPy, IPython'
 date: '2014-10-22'
 ---
 Julia (julialang.org) is a new language targeted at scientific computing, which combines the high-level abstractions and dynamic interactivity of languages like Python with the performance of low-level languages like C, thanks to being designed from the beginning for efficient just-in-time compilation by LLVM. But a major challenge for any young programming language is the availability of a large ecosystem of mature libraries and tools. To overcome this difficulty, Julia is "bootstrapping" off of the Python ecosystem, both by making it easy to call Python code and also by exploiting infrastructure such as IPython/Jupyter.

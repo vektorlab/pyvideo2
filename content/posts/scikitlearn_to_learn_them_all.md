@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=zVPfVkC5qDk"'
+SourceUrl: 'http://www.youtube.com/watch?v=zVPfVkC5qDk'
 Speakers: [Valerio Maggio]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/zVPfVkC5qDk/hqdefault.jpg'
-Title: '"Scikit-learn to "learn them all'
+Title: 'Scikit-learn to "learn them all'
 date: '2014-07-24'
 ---
 **Machine Learning** is about *using the right features, to build the right 

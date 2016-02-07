@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=OCDbLcCB-uA"'
+SourceUrl: 'http://www.youtube.com/watch?v=OCDbLcCB-uA'
 Speakers: [Craig de Stigter]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/OCDbLcCB-uA/hqdefault.jpg'
-Title: '"Intro to Metaclasses"'
+Title: 'Intro to Metaclasses'
 date: '2013-09-16'
 ---
 @ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 2

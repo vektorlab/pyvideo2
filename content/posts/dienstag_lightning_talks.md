@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2013'
 Copyright: 'CC BY-SA'
 Language: 'German'
-SourceUrl: '"http://youtu.be/N29XAFjiKf4"'
+SourceUrl: 'http://youtu.be/N29XAFjiKf4'
 Speakers: []
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/N29XAFjiKf4/hqdefault.jpg'
-Title: '"Dienstag Lightning Talks"'
+Title: 'Dienstag Lightning Talks'
 date: '2013-10-15'
 ---
 (00:00) Ilan Schnell - Conda Packaging

@@ -2,11 +2,11 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=GbeIjkhTnik"'
+SourceUrl: 'https://www.youtube.com/watch?v=GbeIjkhTnik'
 Speakers: [Keith Yang]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/GbeIjkhTnik/hqdefault.jpg'
-Title: '"How PyCon APAC 2014 Web is built"'
+Title: 'How PyCon APAC 2014 Web is built'
 date: '2014-06-27'
 ---
 Sitting on Web Chair of PyCon APAC 2014, I'm still new to Django and we're even new to Mezzanine. How we make it happen? It might be related to these keywords from the perspective of a Pyramid user:

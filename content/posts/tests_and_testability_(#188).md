@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Ned Batchelder]
 Tags: [pycon, pycon2010, testing]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010TestsAndTestability188726.png'
-Title: '"Tests and Testability (#188)"'
+Title: 'Tests and Testability (#188)'
 date: '2010-02-19'
 ---
 Tests and Testability

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [djangocon, djangocon2009]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-SellingDjangoToYourSuperiorsSuccessStoriesPanel152.png'
-Title: '"Selling Django to Your Superiors: Success Stories Panel"'
+Title: 'Selling Django to Your Superiors: Success Stories Panel'
 ---
   
 Video freezes from 3:30-4:30, audio is fine.

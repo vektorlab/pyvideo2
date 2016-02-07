@@ -2,12 +2,12 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=gsxAmno6noo"'
+SourceUrl: 'https://www.youtube.com/watch?v=gsxAmno6noo'
 Speakers: [Dr. Yves Hilpisch]
 Tags: [' bewertung von derivaten', dexision, ' finanzen', ' on demand', ' scientific
     python', ' simulation']
 ThumbnailUrl: 'http://i4.ytimg.com/vi/gsxAmno6noo/hqdefault.jpg'
-Title: '"DEXISION -- Moderne Finanztheorie und -praxis mit Python"'
+Title: 'DEXISION -- Moderne Finanztheorie und -praxis mit Python'
 date: '2012-10-30'
 ---
 DEXISION ist eine kommerzielle Bewertungslösung für Finanzderivate. Sie wurde

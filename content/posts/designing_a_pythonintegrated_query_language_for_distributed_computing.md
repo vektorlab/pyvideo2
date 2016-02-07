@@ -2,11 +2,11 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=wxlq0HkE3zw"'
+SourceUrl: 'https://www.youtube.com/watch?v=wxlq0HkE3zw'
 Speakers: [Jiwon Seo]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/wxlq0HkE3zw/hqdefault.jpg'
-Title: '"Designing a Python-integrated query language for distributed computing"'
+Title: 'Designing a Python-integrated query language for distributed computing'
 date: '2014-06-27'
 ---
 Python becomes increasingly popular in the domain of big data analysis. Many big data frameworks such as Hadoop now support Python to some extent. PySociaLite is a new big data framework developed at Stanford. It is designed from beginning to be fully integrated into Python. In PySociaLite, SQL-like queries (called SociaLite) are directly embedded within Python code; the queries can access Python variables and functions, so there is full inter-operation between SociaLite and Python.

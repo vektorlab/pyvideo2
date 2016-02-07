@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Brian Luft]
 Tags: [djangocon, djangocon2011, south]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-ALittleSouthSanity152-343.jpg'
-Title: '"A Little South Sanity"'
+Title: 'A Little South Sanity'
 ---
 A Little South Sanity
 

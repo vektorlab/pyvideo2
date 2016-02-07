@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=xbWBIudWRxQ"'
+SourceUrl: 'http://www.youtube.com/watch?v=xbWBIudWRxQ'
 Speakers: [Joshua Ginsberg]
 Tags: [django, redis]
 ThumbnailUrl: 'http://i.ytimg.com/vi/xbWBIudWRxQ/hqdefault.jpg'
-Title: '"Accelerating and Enhancing Django with Redis"'
+Title: 'Accelerating and Enhancing Django with Redis'
 date: '2012-09-06'
 ---
 Getting your Django app to a v1.0 release means focusing on function and user

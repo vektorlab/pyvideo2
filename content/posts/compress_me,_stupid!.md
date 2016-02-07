@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=rilU44j_wUU"'
+SourceUrl: 'http://www.youtube.com/watch?v=rilU44j_wUU'
 Speakers: [Valentin Haenal]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/rilU44j_wUU/hqdefault.jpg'
-Title: '"Compress Me, Stupid!"'
+Title: 'Compress Me, Stupid!'
 date: '2014-07-23'
 ---
 Compression is a technique to reduce the number of bits needed to

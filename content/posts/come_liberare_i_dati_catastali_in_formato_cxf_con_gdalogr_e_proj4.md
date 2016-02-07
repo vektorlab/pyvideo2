@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=BP3G1s4eYMk"'
+SourceUrl: 'http://www.youtube.com/watch?v=BP3G1s4eYMk'
 Speakers: [Alessandro Amici]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/BP3G1s4eYMk/hqdefault.jpg'
-Title: '"Come "liberare" i dati catastali in formato CXF con GDAL/OGR e Proj4"'
+Title: 'Come "liberare" i dati catastali in formato CXF con GDAL/OGR e Proj4'
 date: '2012-07-04'
 ---
 La buona notizia è che l’Agenzia del Territorio è in grado di fornire i dati

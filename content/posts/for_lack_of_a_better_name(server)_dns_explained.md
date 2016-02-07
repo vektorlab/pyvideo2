@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=ZqKNDn56Aoo"'
+SourceUrl: 'http://www.youtube.com/watch?v=ZqKNDn56Aoo'
 Speakers: [Lynn Root]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/ZqKNDn56Aoo/hqdefault.jpg'
-Title: '"For lack of a better name(server): DNS Explained"'
+Title: 'For lack of a better name(server): DNS Explained'
 date: '2014-07-23'
 ---
 Following instructions of what entries to create where is easy enough when using a PaaS.

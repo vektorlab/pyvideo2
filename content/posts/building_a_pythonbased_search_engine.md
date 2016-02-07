@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=cY7pE7vX6MU"'
+SourceUrl: 'https://www.youtube.com/watch?v=cY7pE7vX6MU'
 Speakers: [Daniel Lindsley]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/cY7pE7vX6MU/hqdefault.jpg'
-Title: '"Building A Python-Based Search Engine"'
+Title: 'Building A Python-Based Search Engine'
 date: '2012-03-11'
 ---
 Search is an increasingly common request in all types of applications as the

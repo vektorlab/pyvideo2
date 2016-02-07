@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=IETT76NN6Z8"'
+SourceUrl: 'https://www.youtube.com/watch?v=IETT76NN6Z8'
 Speakers: [Stefan Behnel]
 Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/IETT76NN6Z8/hqdefault.jpg'
-Title: '"Cython mit PyPy - das Beste aus drei Welten"'
+Title: 'Cython mit PyPy - das Beste aus drei Welten'
 date: '2012-10-30'
 ---
 Die Programmiersprache Cython ([http://cython.org](http://cython.org) "Web-

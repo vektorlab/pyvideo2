@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=nJEfq8qduKA"'
+SourceUrl: 'https://www.youtube.com/watch?v=nJEfq8qduKA'
 Speakers: [Javier de la Rosa]
 Tags: []
 ThumbnailUrl: 'http://i3.ytimg.com/vi/nJEfq8qduKA/hqdefault.jpg'
-Title: '"Graph Databases in Python"'
+Title: 'Graph Databases in Python'
 date: '2012-11-11'
 ---
 Since the irruption in the market of the NoSQL concept, graph databases have

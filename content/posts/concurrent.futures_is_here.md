@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=2Ng-UIedZMY"'
+SourceUrl: 'http://www.youtube.com/watch?v=2Ng-UIedZMY'
 Speakers: [Andrew Dalke]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/2Ng-UIedZMY/hqdefault.jpg'
-Title: '"concurrent.futures is here"'
+Title: 'concurrent.futures is here'
 date: '2012-07-06'
 ---
 The future is here! Or rather, concurrent.futures became part of the Python

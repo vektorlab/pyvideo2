@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
-SourceUrl: '"http://www.youtube.com/watch?v=oN02lznMDE8"'
+SourceUrl: 'http://www.youtube.com/watch?v=oN02lznMDE8'
 Speakers: [Enrico Franchi]
 Tags: [analysis, network]
 ThumbnailUrl: 'http://i.ytimg.com/vi/oN02lznMDE8/hqdefault.jpg'
-Title: '"Social Network Analysis con Python"'
+Title: 'Social Network Analysis con Python'
 date: '2011-07-18'
 ---
 La popolarità dell'analisi dei network è cresciuta molto con la recente

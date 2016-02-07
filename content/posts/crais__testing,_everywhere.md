@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=8SIW_R6FP9E"'
+SourceUrl: 'https://www.youtube.com/watch?v=8SIW_R6FP9E'
 Speakers: [Aniello Barletta]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/8SIW_R6FP9E/maxresdefault.jpg'
-Title: '"CRAIS - Testing, everywhere"'
+Title: 'CRAIS - Testing, everywhere'
 date: '2015-06-09'
 ---
 CRAIS acts as an Appium (1) broker, in order to spawn Appium servers as selenium grid nodes with specific capabilities using:

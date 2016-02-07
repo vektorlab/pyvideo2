@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=Wnj31Nejstc"'
+SourceUrl: 'https://www.youtube.com/watch?v=Wnj31Nejstc'
 Speakers: [Nic Crouch]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Wnj31Nejstc/hqdefault.jpg'
-Title: '"Are they ready? A quick review of graph databases and Python"'
+Title: 'Are they ready? A quick review of graph databases and Python'
 date: '2015-08-29'
 ---
 Graph databases store, retrieve and process data that takes the form of a graph: a network of nodes and the relationships between them. As one of the fastest growing database models over the past two years, they promise a number of fantastic outcomes including increased performance, faster development, and cleaner code. Vendors also boast of large corporate deployments throughout the US and Europe. 

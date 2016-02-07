@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=UgcC_bY4rPg"'
+SourceUrl: 'https://www.youtube.com/watch?v=UgcC_bY4rPg'
 Speakers: [Rhys Elsmore]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/UgcC_bY4rPg/hqdefault.jpg'
-Title: '"Just Use Postgres."'
+Title: 'Just Use Postgres.'
 date: '2015-08-04'
 ---
 Making use of the latest database for your data is considered trendy and edgy, with vendors promising unrealistic expectations when it comes to capabilities of these systems. Furthermore, communities such as Hacker News enforce the idea that you must use the latest and coolest technology in order to be a ‘rockstar’ engineer.

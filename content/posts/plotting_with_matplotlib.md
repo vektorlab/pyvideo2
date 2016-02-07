@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=P7SVi0YTIuE"'
+SourceUrl: 'https://www.youtube.com/watch?v=P7SVi0YTIuE'
 Speakers: ["Mike M\xFCller"]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/P7SVi0YTIuE/hqdefault.jpg'
-Title: '"Plotting with matplotlib"'
+Title: 'Plotting with matplotlib'
 date: '2012-03-08'
 ---
 When it comes to plotting with Python many people think about matplotlib. It

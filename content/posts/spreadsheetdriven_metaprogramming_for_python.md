@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=DmLHqOvbG9M"'
+SourceUrl: 'https://www.youtube.com/watch?v=DmLHqOvbG9M'
 Speakers: [Javier Candeira]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/DmLHqOvbG9M/hqdefault.jpg'
-Title: '"Spreadsheet-Driven Meta-Programming for Python"'
+Title: 'Spreadsheet-Driven Meta-Programming for Python'
 date: '2015-08-04'
 ---
 We've all had those very detail-oriented clients who are able to specify their needs very neatly, often by means of exhaustive spreadsheets. Wouldn't it be nice if we could turn these spreadsheets straight into Python code?

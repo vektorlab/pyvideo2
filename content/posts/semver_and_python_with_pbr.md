@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/6hjg-Uia5AU"'
+SourceUrl: 'http://youtu.be/6hjg-Uia5AU'
 Speakers: [Robert Collins]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/6hjg-Uia5AU/hqdefault.jpg'
-Title: '"Semver and Python with PBR"'
+Title: 'Semver and Python with PBR'
 date: '2014-09-13'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

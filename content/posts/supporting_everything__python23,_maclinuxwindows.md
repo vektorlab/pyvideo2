@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2013'
 Copyright: 'CC BY-SA 2.5 CA'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=zEsM3hARceQ"'
+SourceUrl: 'http://www.youtube.com/watch?v=zEsM3hARceQ'
 Speakers: [James Saryerwinnie]
 Tags: [talk]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/zEsM3hARceQ/hqdefault.jpg'
-Title: '"Supporting Everything - Python2/3, Mac/Linux/Windows"'
+Title: 'Supporting Everything - Python2/3, Mac/Linux/Windows'
 date: '2013-08-10'
 ---
 There comes a time in the life of a library where it must leave your machine

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Jeff Rush]
 Tags: [adapters, interfaces, pycon, pycon2010, zope.interface]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010InterfacesAdaptersAndFactories181339.png'
-Title: '"Interfaces, Adapters and Factories (#181)"'
+Title: 'Interfaces, Adapters and Factories (#181)'
 date: '2010-02-19'
 ---
 Interfaces, Adapters, and Factories

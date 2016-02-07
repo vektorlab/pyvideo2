@@ -2,11 +2,11 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=mRSBNoPptPM"'
+SourceUrl: 'https://www.youtube.com/watch?v=mRSBNoPptPM'
 Speakers: [Joe Hakim Rahme]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/mRSBNoPptPM/maxresdefault.jpg'
-Title: '"How to manage over 1000contributors in a Python open source project"'
+Title: 'How to manage over 1000contributors in a Python open source project'
 date: '2013-11-30'
 ---
 Very large development: How to manage over 1000 contributors in a Python open source project

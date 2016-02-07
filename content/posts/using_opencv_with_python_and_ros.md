@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Bill Mania, Eric Kinzle]
 Tags: [billmania, camera, chipy, image, opencv, robot, ros]
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-UsingOpenCVWithPythonAndROS709.png'
-Title: '"Using OpenCV with Python and ROS"'
+Title: 'Using OpenCV with Python and ROS'
 date: '2011-06-09'
 ---
 Bill Mania and Eric Kinzle A brief presentation of using the OpenCV computer

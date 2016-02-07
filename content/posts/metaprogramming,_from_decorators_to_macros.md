@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=-i3UXrCNjPM"'
+SourceUrl: 'http://www.youtube.com/watch?v=-i3UXrCNjPM'
 Speakers: [andrea crotti]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/-i3UXrCNjPM/hqdefault.jpg'
-Title: '"Metaprogramming, from decorators to macros"'
+Title: 'Metaprogramming, from decorators to macros'
 date: '2014-07-24'
 ---
 This talk is a journey in the wonderful world of metaprogramming.

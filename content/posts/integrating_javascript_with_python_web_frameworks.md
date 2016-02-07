@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=efzaKGnNAjE"'
+SourceUrl: 'http://www.youtube.com/watch?v=efzaKGnNAjE'
 Speakers: [Jen Zajac]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/efzaKGnNAjE/hqdefault.jpg'
-Title: '"Integrating JavaScript with Python Web Frameworks"'
+Title: 'Integrating JavaScript with Python Web Frameworks'
 date: '2013-09-13'
 ---
 @ Kiwi PyCon 2013 - Saturday, 08 Sep 2013 - Track 2

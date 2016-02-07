@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=br9D39weshc"'
+SourceUrl: 'https://www.youtube.com/watch?v=br9D39weshc'
 Speakers: ["Dirk B\xE4chle"]
 Tags: [building, build system, framework, programming, software]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/br9D39weshc/hqdefault.jpg'
-Title: '"SCons - Software bauen in Python"'
+Title: 'SCons - Software bauen in Python'
 date: '2013-10-16'
 ---
 Dieser Vortrag stellt SCons (www.scons.org) und seine Benutzung vor. Er richtet sich in erster Linie an Softwareentwickler oder Betreuer von großen Buildumgebungen, die nach Alternativen zu herkömmlichen Tools, wie CMake oder autotools, suchen.

@@ -2,7 +2,7 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
-SourceUrl: '"http://www.youtube.com/watch?v=JETzbuanMds"'
+SourceUrl: 'http://www.youtube.com/watch?v=JETzbuanMds'
 Speakers: [Simone Federici]
 Tags: [xml]
 ThumbnailUrl: 'http://i.ytimg.com/vi/JETzbuanMds/hqdefault.jpg'

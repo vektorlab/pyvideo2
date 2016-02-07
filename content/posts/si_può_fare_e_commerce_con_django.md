@@ -2,7 +2,7 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=3YeVL5faRo4"'
+SourceUrl: 'https://www.youtube.com/watch?v=3YeVL5faRo4'
 Speakers: [Marco Badan]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/3YeVL5faRo4/maxresdefault.jpg'

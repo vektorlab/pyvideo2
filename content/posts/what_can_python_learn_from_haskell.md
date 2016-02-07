@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=eVChXmNjV7o"'
+SourceUrl: 'http://www.youtube.com/watch?v=eVChXmNjV7o'
 Speakers: [Bob Ippolito]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/eVChXmNjV7o/hqdefault.jpg'
-Title: '"What can python learn from Haskell?"'
+Title: 'What can python learn from Haskell?'
 date: '2014-07-21'
 ---
 What can we learn from Erlang or Haskell for building reliable high

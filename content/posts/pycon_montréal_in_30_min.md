@@ -2,7 +2,7 @@
 Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://youtu.be/bJPRkTbK8Kk"'
+SourceUrl: 'http://youtu.be/bJPRkTbK8Kk'
 Speakers: [Petrus Janse van Rensburg]
 Tags: [Room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/bJPRkTbK8Kk/hqdefault.jpg'

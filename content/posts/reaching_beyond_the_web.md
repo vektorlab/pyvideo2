@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://archive.org/details/pyconza2014-reaching-beyond-the-web"'
+SourceUrl: 'http://archive.org/details/pyconza2014-reaching-beyond-the-web'
 Speakers: [Vinod Kurup]
 Tags: [pyconza, pyconza2014]
 ThumbnailUrl: 'http://archive.org/download/pyconza2014-reaching-beyond-the-web/pyconza2014-reaching-beyond-the-web.thumbs/14%20A%20Reaching%20Beyond%20the%20Web-_000450.jpg'
-Title: '"Reaching Beyond the Web"'
+Title: 'Reaching Beyond the Web'
 date: '2014-10-03'
 ---
 Using RapidSMS to power democracy in Libya.

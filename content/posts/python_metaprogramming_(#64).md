@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Nicolas Lara]
 Tags: [metaprogramming, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010PythonMetaprogramming64641.png'
-Title: '"Python Metaprogramming (#64)"'
+Title: 'Python Metaprogramming (#64)'
 date: '2010-02-19'
 ---
 Python Metaprogramming

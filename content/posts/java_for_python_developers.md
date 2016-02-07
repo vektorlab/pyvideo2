@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/RfGldwLoiUk"'
+SourceUrl: 'http://youtu.be/RfGldwLoiUk'
 Speakers: [Christopher Neugebauer]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/RfGldwLoiUk/hqdefault.jpg'
-Title: '"Java for Python Developers"'
+Title: 'Java for Python Developers'
 date: '2014-09-13'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

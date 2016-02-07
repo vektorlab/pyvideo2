@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://youtu.be/cSWb834XPpM"'
+SourceUrl: 'http://youtu.be/cSWb834XPpM'
 Speakers: [Simon Cross]
 Tags: [Room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/cSWb834XPpM/hqdefault.jpg'
-Title: 'Python in Production" Panel Discussion"'
+Title: 'Python in Production" Panel Discussion'
 date: '2015-10-02'
 ---
 A panel discussion on using and deploying Python projects in production. The panel will follow a simple discussion format with panelists responding to questions from the audience.

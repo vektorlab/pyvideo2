@@ -2,11 +2,11 @@
 Category: 'ChiPy'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=dFyD8--zs84"'
+SourceUrl: 'https://www.youtube.com/watch?v=dFyD8--zs84'
 Speakers: [Tal Liron]
 Tags: [Genie, vala]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/dFyD8--zs84/hqdefault.jpg'
-Title: '"Genie"'
+Title: 'Genie'
 date: '2013-01-10'
 ---
 This talk will introduce Genie, a new programming language with a Python-

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
-SourceUrl: '"http://www.youtube.com/watch?v=5XjxTBgETfU"'
+SourceUrl: 'http://www.youtube.com/watch?v=5XjxTBgETfU'
 Speakers: [Stefano Brilli]
 Tags: [gpu, pycuda, 'python,']
 ThumbnailUrl: 'http://i.ytimg.com/vi/5XjxTBgETfU/hqdefault.jpg'
-Title: '"Sfrutta la potenza della GPU con PyCUDA (e compagni)"'
+Title: 'Sfrutta la potenza della GPU con PyCUDA (e compagni)'
 date: '2011-07-13'
 ---
 CUDA è una tecnologia che permette di sfruttare la potenza di calcolo delle

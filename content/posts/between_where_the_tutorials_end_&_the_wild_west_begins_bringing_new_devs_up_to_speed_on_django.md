@@ -2,12 +2,12 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=OV5akJtAjgE"'
+SourceUrl: 'http://www.youtube.com/watch?v=OV5akJtAjgE'
 Speakers: [Julia Grace]
 Tags: [django]
 ThumbnailUrl: 'http://i.ytimg.com/vi/OV5akJtAjgE/hqdefault.jpg'
-Title: '"Between where the Tutorials end & the Wild West begins: bringing new devs
-  up to speed on Django"'
+Title: 'Between where the Tutorials end & the Wild West begins: bringing new devs
+  up to speed on Django'
 date: '2012-09-05'
 ---
 This is a rough outline of how I learned Django; 4 months ago I was a total

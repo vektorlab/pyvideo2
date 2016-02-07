@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=47NSfuuuMfs"'
+SourceUrl: 'https://www.youtube.com/watch?v=47NSfuuuMfs'
 Speakers: [Ken Elkabany]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/47NSfuuuMfs/hqdefault.jpg'
-Title: '"The Journey to Give Every Scientist a Supercomputer"'
+Title: 'The Journey to Give Every Scientist a Supercomputer'
 date: '2012-03-10'
 ---
 The recent cloud buzz has hugely benefited Python web devs. But, for Python's

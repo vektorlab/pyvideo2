@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=eXW_lN4x04k"'
+SourceUrl: 'http://www.youtube.com/watch?v=eXW_lN4x04k'
 Speakers: [Andrew Mleczko]
 Tags: [cms, design, framework, plone, pyramid, rest, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/eXW_lN4x04k/hqdefault.jpg'
-Title: '"How to build complex web applications having fun?"'
+Title: 'How to build complex web applications having fun?'
 date: '2011-07-13'
 ---
 Web development is a complexity challenge nowadays. Growing number of

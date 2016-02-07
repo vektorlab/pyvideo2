@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=OqpkB1wv5bs"'
+SourceUrl: 'http://www.youtube.com/watch?v=OqpkB1wv5bs'
 Speakers: [Matteo Boscolo]
 Tags: [deploy, pycon, pyqt]
 ThumbnailUrl: 'http://i.ytimg.com/vi/OqpkB1wv5bs/hqdefault.jpg'
-Title: '"Developing a Cad application as an hobby. My exciting hobby is now my job"'
+Title: 'Developing a Cad application as an hobby. My exciting hobby is now my job'
 date: '2011-07-13'
 ---
 PythonCAD is a CAD package written, surprisingly enough, in Python using the

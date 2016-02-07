@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Pamela S Fox]
 Tags: [apis, json, jsonrpc, pyconau, pyconau2010, web]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-BuildingTheWaveRobotsAPIBehindTheScenes216.png'
-Title: '"PyConAU 2010: Building the Wave Robots API: Behind the Scenes"'
+Title: 'PyConAU 2010: Building the Wave Robots API: Behind the Scenes'
 ---
 Building the Wave Robots API: Behind the Scenes
 

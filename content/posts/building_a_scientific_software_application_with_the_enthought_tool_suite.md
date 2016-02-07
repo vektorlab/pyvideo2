@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=F4qHeJqlYbk"'
+SourceUrl: 'http://www.youtube.com/watch?v=F4qHeJqlYbk'
 Speakers: [Mark Dickinson]
 Tags: [enthought, numpy, scientific, scipy, traits]
 ThumbnailUrl: 'http://i.ytimg.com/vi/F4qHeJqlYbk/hqdefault.jpg'
-Title: '"Building a Scientific Software Application with the Enthought Tool Suite"'
+Title: 'Building a Scientific Software Application with the Enthought Tool Suite'
 date: '2011-07-24'
 ---
 The Enthought Tool Suite (ETS) is a collection of Python-based open source

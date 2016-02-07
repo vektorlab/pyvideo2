@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=R4feORh5MrU"'
+SourceUrl: 'http://www.youtube.com/watch?v=R4feORh5MrU'
 Speakers: [John Barham]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/R4feORh5MrU/hqdefault.jpg'
-Title: '"Building a Cloud Service with Python"'
+Title: 'Building a Cloud Service with Python'
 date: '2012-08-22'
 ---
 Presentation will go in-depth on the architecture of a web application service

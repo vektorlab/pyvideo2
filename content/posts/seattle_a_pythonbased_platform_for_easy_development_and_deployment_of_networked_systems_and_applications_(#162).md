@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Ivan Beschastnikh, Justin Cappos, Justin Samuel]
 Tags: [api, language, mobile, network, p2p, pycon, pycon2010, seattle, security, university]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010SeattleAPythonbasedPlatformForEasyDevelopmentAn600-243.jpg'
-Title: '"Seattle: A Python-based Platform for Easy Development and Deployment of Networked
-  Systems and Applications (#162)"'
+Title: 'Seattle: A Python-based Platform for Easy Development and Deployment of Networked
+  Systems and Applications (#162)'
 date: '2010-02-19'
 ---
 A Python-based Platform for Easy Development and Deployment of Networked

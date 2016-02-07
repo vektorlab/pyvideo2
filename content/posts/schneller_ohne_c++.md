@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=zYg3lhwbm3s"'
+SourceUrl: 'https://www.youtube.com/watch?v=zYg3lhwbm3s'
 Speakers: [Stefan Behnel]
 Tags: [' c++', ' entwicklungskosten', python, ' sprachintegration']
 ThumbnailUrl: 'http://i3.ytimg.com/vi/zYg3lhwbm3s/hqdefault.jpg'
-Title: '"Schneller ohne C++"'
+Title: 'Schneller ohne C++'
 date: '2012-11-01'
 ---
 Die Sichtbarkeit von C++ in der Software-Entwicklung ist auch in ihrem 33.

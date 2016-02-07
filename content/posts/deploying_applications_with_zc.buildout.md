@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [JIm Fulton]
 Tags: [deployment, pycon, pycon2011, zc.buildout]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011DeployingApplicationsWithZcbuildout710.png'
-Title: '"Deploying Applications with zc.buildout"'
+Title: 'Deploying Applications with zc.buildout'
 date: '2011-03-11'
 ---
 Deploying Applications with zc.buildout

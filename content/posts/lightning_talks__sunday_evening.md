@@ -2,11 +2,11 @@
 Category: 'PyCon US 2013'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=OL3De8BAhME"'
+SourceUrl: 'https://www.youtube.com/watch?v=OL3De8BAhME'
 Speakers: [Various]
 Tags: [sprints lightningtalks]
 ThumbnailUrl: 'http://i4.ytimg.com/vi/OL3De8BAhME/hqdefault.jpg'
-Title: '"Lightning Talks - Sunday evening"'
+Title: 'Lightning Talks - Sunday evening'
 date: '2013-03-17'
 ---
 * [00:00](#t=0m) - Python 3 on your Atari Desktop - Jeffrey Armstrong

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=3FubECqg688"'
+SourceUrl: 'http://www.youtube.com/watch?v=3FubECqg688'
 Speakers: [Celia Cintas]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/3FubECqg688/hqdefault.jpg'
-Title: '"3D sensors and Python: A space odyssey"'
+Title: '3D sensors and Python: A space odyssey'
 date: '2014-07-23'
 ---
 This talk will start with a brief introduction to 3D Sensors and OpenNI. Then we’ll surf into PyOpenNI,  features such as the skeleton, hand and gesture tracking, RGB and depth video. Every topic will be presented with practical demos. The talk will end with a demo integrating WebGL (THREE.JS), 3D sensors, Flask and ZMQ to produce a simple fully open source based NUI game.

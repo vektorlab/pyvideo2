@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=TN9nIBxDXU8"'
+SourceUrl: 'http://www.youtube.com/watch?v=TN9nIBxDXU8'
 Speakers: [Rob Collins]
 Tags: [business, graphs, network, scientific]
 ThumbnailUrl: 'http://i.ytimg.com/vi/TN9nIBxDXU8/hqdefault.jpg'
-Title: '"Pricing products using Python graphs and sets"'
+Title: 'Pricing products using Python graphs and sets'
 date: '2011-07-21'
 ---
 We will look at the limitations of available rule engines when it comes to

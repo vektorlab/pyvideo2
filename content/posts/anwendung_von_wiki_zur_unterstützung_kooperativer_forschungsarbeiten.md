@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2011'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'German'
-SourceUrl: '"http://www.youtube.com/watch?v=tL3yFA5_q_g"'
+SourceUrl: 'http://www.youtube.com/watch?v=tL3yFA5_q_g'
 Speakers: [Reimar Bauer]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/tL3yFA5_q_g/hqdefault.jpg'

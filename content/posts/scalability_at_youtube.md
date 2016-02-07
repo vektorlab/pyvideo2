@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=G-lGCC4KKok"'
+SourceUrl: 'https://www.youtube.com/watch?v=G-lGCC4KKok'
 Speakers: [Mike Solomon, Shannon -jj Behrens]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/G-lGCC4KKok/hqdefault.jpg'
-Title: '"Scalability at YouTube"'
+Title: 'Scalability at YouTube'
 date: '2012-03-09'
 ---
 This talk covers scalability at YouTube. It's given by one of the original

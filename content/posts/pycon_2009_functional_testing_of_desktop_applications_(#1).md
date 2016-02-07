@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [functionaltesting, pycon, pycon2009, testing]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-FunctionalTestingOfDesktopApplications136-206.jpg'
-Title: '"PyCon 2009: Functional Testing of Desktop Applications (#1)"'
+Title: 'PyCon 2009: Functional Testing of Desktop Applications (#1)'
 ---
   
 Many advocates of unit testing believe that testing desktop (GUI) applications

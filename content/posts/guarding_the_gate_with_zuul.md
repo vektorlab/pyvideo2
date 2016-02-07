@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=HlpJhqgGL34"'
+SourceUrl: 'https://www.youtube.com/watch?v=HlpJhqgGL34'
 Speakers: [Joshua Hesketh]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/HlpJhqgGL34/hqdefault.jpg'
-Title: '"Guarding the gate with Zuul"'
+Title: 'Guarding the gate with Zuul'
 date: '2015-08-04'
 ---
 Zuul is a program that is used to gate the source code repositories of a project so that changes are only merged if they pass tests.

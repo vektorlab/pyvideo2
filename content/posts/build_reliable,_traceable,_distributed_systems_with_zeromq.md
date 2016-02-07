@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=9G6-GksU7Ko"'
+SourceUrl: 'https://www.youtube.com/watch?v=9G6-GksU7Ko'
 Speakers: ["J\xE9r\xF4me Petazzoni"]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/9G6-GksU7Ko/hqdefault.jpg'
-Title: '"Build reliable, traceable, distributed systems with ZeroMQ"'
+Title: 'Build reliable, traceable, distributed systems with ZeroMQ'
 date: '2012-03-09'
 ---
 We will show how to build simple yet powerful RPC code with ZeroMQ, with very

@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"http://youtu.be/54E8GVe8m0o"'
+SourceUrl: 'http://youtu.be/54E8GVe8m0o'
 Speakers: [Jeremy Stott]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/54E8GVe8m0o/hqdefault.jpg'
-Title: '"A practical guide to web security"'
+Title: 'A practical guide to web security'
 date: '2015-09-05'
 ---
 This presentation is an introduction to securing your Python web application. I am definitely not a security expert, just a developer who thinks security should be everyone's job. That's right. It's your responsibility too. Hopefully I can soften the blow by giving you a beginner's guide to security. That's me, the beginner.

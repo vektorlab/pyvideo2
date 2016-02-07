@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=eZ6mC5-Dz4w"'
+SourceUrl: 'http://www.youtube.com/watch?v=eZ6mC5-Dz4w'
 Speakers: [Ivan Teoh]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/eZ6mC5-Dz4w/hqdefault.jpg'
-Title: '"Python Web Templating Battle"'
+Title: 'Python Web Templating Battle'
 date: '2012-08-21'
 ---
 Head to head - popular templating engines using in the Python world will be

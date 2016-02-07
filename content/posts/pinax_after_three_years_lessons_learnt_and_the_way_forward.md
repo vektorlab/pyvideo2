@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [James Tauber]
 Tags: [djangocon, djangocon2011, pinax]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-PinaxAfterThreeYearsLessonsLearntAndTheWayForward913-612.jpg'
-Title: '"Pinax after Three Years: Lessons Learnt and the Way Forward"'
+Title: 'Pinax after Three Years: Lessons Learnt and the Way Forward'
 ---
 Pinax after three years: Lessons learnt and the way forward
 

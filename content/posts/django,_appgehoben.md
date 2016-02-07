@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=dOaJdo1km-o"'
+SourceUrl: 'https://www.youtube.com/watch?v=dOaJdo1km-o'
 Speakers: [Frank Becker]
 Tags: [app, ' django', ' module', ' package', ' pluggable', ' reuseable app', ' web']
 ThumbnailUrl: 'http://i1.ytimg.com/vi/dOaJdo1km-o/hqdefault.jpg'
-Title: '"Django, App-gehoben"'
+Title: 'Django, App-gehoben'
 date: '2012-10-31'
 ---
 Das Webframework Django kommt ganz wie Python mit "Batteries included".

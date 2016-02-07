@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Jinal Jhaveri]
 Tags: [casestudy, database, memcache, paster, profiling, pycon, pycon2010, tornado]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010ScalingPythonWebappsFromZeroTo50MillionUsers288-77.jpg'
-Title: '"Scaling Python webapps from zero to 50 million users - A top-down approach.
-  (#134)"'
+Title: 'Scaling Python webapps from zero to 50 million users - A top-down approach.
+  (#134)'
 date: '2010-02-19'
 ---
 Scaling Python webapps from zero to 50 million users - A top-down approach

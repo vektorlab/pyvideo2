@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=HbJZu2qcC-s"'
+SourceUrl: 'http://www.youtube.com/watch?v=HbJZu2qcC-s'
 Speakers: [Ravi Chandra]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/HbJZu2qcC-s/hqdefault.jpg'
-Title: '"Fake it till you make it"'
+Title: 'Fake it till you make it'
 date: '2013-09-14'
 ---
 @ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 1

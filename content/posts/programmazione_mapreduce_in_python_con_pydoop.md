@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
-SourceUrl: '"http://www.youtube.com/watch?v=iKqWk-yz8R8"'
+SourceUrl: 'http://www.youtube.com/watch?v=iKqWk-yz8R8'
 Speakers: [Simone Leo]
 Tags: [community, hadoop, java, jython, mapreduce, 'python,', tutorial]
 ThumbnailUrl: 'http://i.ytimg.com/vi/iKqWk-yz8R8/hqdefault.jpg'
-Title: '"Programmazione MapReduce in Python con Pydoop"'
+Title: 'Programmazione MapReduce in Python con Pydoop'
 date: '2011-07-13'
 ---
 Hadoop è la principale implementazione open source di MapReduce, il paradigma

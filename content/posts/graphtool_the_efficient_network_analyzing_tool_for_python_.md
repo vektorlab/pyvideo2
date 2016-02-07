@@ -2,11 +2,11 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'Chinese'
-SourceUrl: '"https://www.youtube.com/watch?v=653RV87Ppgk"'
+SourceUrl: 'https://www.youtube.com/watch?v=653RV87Ppgk'
 Speakers: [Mosky Liu]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/653RV87Ppgk/hqdefault.jpg'
-Title: '"Graph-Tool: The Efficient Network Analyzing Tool for Python "'
+Title: 'Graph-Tool: The Efficient Network Analyzing Tool for Python '
 date: '2014-08-10'
 ---
 現實中有許多有網絡關係的資料 --- 例如網際網路上的網頁與超連結、Facebook 上的人與朋友關係、購物網站中的商品與購買者 --- 對於這些資料，我們都可以將他們化約為點 (vertex)，並利用邊 (edge) 來使點與點之間產生關聯，最後形成一張圖 (graph)，最後，我們可以利用圖論 (Graph theory) 來發掘其中隱藏著的有趣資訊。 然而自己從無到有手寫出所有圖論演算法有些不切實際，這場演講要介紹的就是一套 Python 的圖論函數庫：graph-tool。它是一個基於 C++ Boost Graph 的 Python 函數庫，提供許多常用的演算法、視覺化等工具。是一個進行圖分析時，可以享受到 C++ 的執行速度與 Python 的開發速度的完美組合。 這場演講主要會包含到使用 graph-tool 這個函數庫時會需要的基本概念，常用的 API 介紹，以及一個使用 graph-tool 進行分析的情境實例。

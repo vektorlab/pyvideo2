@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=gRYklEeybWo"'
+SourceUrl: 'https://www.youtube.com/watch?v=gRYklEeybWo'
 Speakers: [Gianfranco Durin]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/gRYklEeybWo/maxresdefault.jpg'
-Title: '"Riconoscimento di eventi in sequenze di immagini molto rumorose"'
+Title: 'Riconoscimento di eventi in sequenze di immagini molto rumorose'
 date: '2015-05-29'
 ---
 In molti sistemi fisici, è importante riuscire ad individuare degli eventi analizzando una sequenza di immagini. Un esempio tra i tanti è quello di analizzare la dinamica di magnetizzazione un film sottile magnetico misurato con sistemi magneto-ottici. Le sequenze che si misurano contengono immagini solitamente molto rumorose dove è difficile riconoscere gli oggetti (nel nostro caso zone corrispondenti a inversione della magnetizzazione) perché i loro contorni non sono ben definiti. Non valgono quindi le tecniche standard per il riconoscimento dei bordi, come la edge detection etc.

@@ -2,11 +2,11 @@
 Category: 'Boston Python Meetup'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://vimeo.com/11963043"'
+SourceUrl: 'http://vimeo.com/11963043'
 Speakers: [Marshall Weir]
 Tags: [bostonpy, session, testing, unittest]
 ThumbnailUrl: ''
-Title: '"Boston Python Meetup: Testing: Where do I start?"'
+Title: 'Boston Python Meetup: Testing: Where do I start?'
 ---
 Testing, Where Do I Start?
 

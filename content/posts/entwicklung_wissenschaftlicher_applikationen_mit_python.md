@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=PAE0CLzGxEE"'
+SourceUrl: 'https://www.youtube.com/watch?v=PAE0CLzGxEE'
 Speakers: [Florian Rhiem, Ingo Heimbach]
 Tags: [anwendungsentwicklung, numpy, opencl, opengl, python, visualisierung, wxpython]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/PAE0CLzGxEE/hqdefault.jpg'
-Title: '"Entwicklung wissenschaftlicher Applikationen mit Python"'
+Title: 'Entwicklung wissenschaftlicher Applikationen mit Python'
 date: '2013-10-15'
 ---
 Durch Experimente und Simulationen werden im wissenschaftlichen Bereich große Mengen an Daten erzeugt. Diese müssen geeignet aufbereitet werden, um sie in eine für die Wissenschaftler verständliche Form zu überführen. Ein Beispiel dafür ist die Untersuchung von Phasenwechselmaterialien, welche in wiederbeschreibbaren optischen Medien eingesetzt werden. Der beim Löschen und Beschreiben eintretende Wechsel zwischen kristallinem und amorphen Zustand wird auf Großrechnern simuliert und die resultierende molekulare Struktur auf Hohlstellen hin untersucht, da diese Rückschlüsse auf das Verhalten des Materials zulassen. Den Kern der Präsentation nimmt die Entwicklung der Anwendung *pyMolDyn* ein, welche die Analyse und Visualisierung der Moleküle und Hohlstellen übernimmt.

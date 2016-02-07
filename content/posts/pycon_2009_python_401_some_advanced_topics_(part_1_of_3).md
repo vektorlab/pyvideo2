@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [pycon, pycon2009, python-advanced]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-Python401SomeAdvancedTopicsPart001455-299.jpg'
-Title: '"PyCon 2009: Python 401: Some Advanced Topics (Part 1 of 3)"'
+Title: 'PyCon 2009: Python 401: Some Advanced Topics (Part 1 of 3)'
 ---
 Python 401: Some Advanced Topics
 

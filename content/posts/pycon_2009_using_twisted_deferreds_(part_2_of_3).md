@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [asynchronous, deferreds, pycon, pycon2009, tutorial, twisted]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-UsingTwistedDeferredsPart002282-868.jpg'
-Title: '"PyCon 2009: Using Twisted Deferreds (Part 2 of 3)"'
+Title: 'PyCon 2009: Using Twisted Deferreds (Part 2 of 3)'
 ---
 [](http://blip.tv/file/1997952)
 

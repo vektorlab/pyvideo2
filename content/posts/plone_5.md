@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=EA2FCvoo21Q"'
+SourceUrl: 'https://www.youtube.com/watch?v=EA2FCvoo21Q'
 Speakers: [Timo Stollenwerk]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/EA2FCvoo21Q/hqdefault.jpg'
-Title: '"Plone 5"'
+Title: 'Plone 5'
 date: '2013-10-15'
 ---
 Plone 5, das nächstes Major Release des Python-basierten Open Source Content Management Systems Plone, verspricht einige interessante Neuerungen.

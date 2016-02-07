@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=twQKAoq2OPE"'
+SourceUrl: 'https://www.youtube.com/watch?v=twQKAoq2OPE'
 Speakers: [Brandon Rhodes]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/twQKAoq2OPE/hqdefault.jpg'
-Title: '"Python, Linkers, and Virtual Memory"'
+Title: 'Python, Linkers, and Virtual Memory'
 date: '2012-03-11'
 ---
 Why does “top” show that your Python process uses 110 MB of virtual memory but

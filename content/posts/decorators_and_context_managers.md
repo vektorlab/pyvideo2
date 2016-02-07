@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=cSbD5SKwak0"'
+SourceUrl: 'https://www.youtube.com/watch?v=cSbD5SKwak0'
 Speakers: [Dave Brondsema]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/cSbD5SKwak0/hqdefault.jpg'
-Title: '"Decorators and Context Managers"'
+Title: 'Decorators and Context Managers'
 date: '2012-03-09'
 ---
 Learn how decorators and context managers work, see several popular examples,

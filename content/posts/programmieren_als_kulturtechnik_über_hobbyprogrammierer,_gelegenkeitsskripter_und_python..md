@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=3gsKdEgA03w"'
+SourceUrl: 'https://www.youtube.com/watch?v=3gsKdEgA03w'
 Speakers: ["J\xF6rg Kantel"]
 Tags: [keynote]
 ThumbnailUrl: 'http://i4.ytimg.com/vi/3gsKdEgA03w/hqdefault.jpg'

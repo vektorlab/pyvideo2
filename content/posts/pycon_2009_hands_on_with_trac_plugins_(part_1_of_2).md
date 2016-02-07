@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [plugins, pycon, pycon2009, trac]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-HandsOnWithTracPluginsPart001304-597.jpg'
-Title: '"PyCon 2009: Hands on with Trac plugins (Part 1 of 2)"'
+Title: 'PyCon 2009: Hands on with Trac plugins (Part 1 of 2)'
 ---
   
 Trac, an open-source project management tool, has been gaining in popularity,

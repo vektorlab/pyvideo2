@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=YGwciTWE60A"'
+SourceUrl: 'https://www.youtube.com/watch?v=YGwciTWE60A'
 Speakers: [Adriano Di Luzio]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/YGwciTWE60A/maxresdefault.jpg'
-Title: '"Davvy - Django, WebDAV e (pessimo) stato dell''arte."'
+Title: 'Davvy - Django, WebDAV e (pessimo) stato dell''arte.'
 date: '2015-05-29'
 ---
 Davvy è un’applicazione Django che permette la gestione di servizi WebDAV.

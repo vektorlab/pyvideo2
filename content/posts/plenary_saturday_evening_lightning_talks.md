@@ -7,7 +7,7 @@ Speakers: []
 Tags: [debugging, embedded, hg, lightning, lightningtalk, phatch, pycharm, pycon,
   pycon2010, scrape.py]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010PlenarySautrdayEveningLightningTalks793.png'
-Title: '"Plenary: Saturday Evening Lightning Talks"'
+Title: 'Plenary: Saturday Evening Lightning Talks'
 date: '2010-02-19'
 ---
 Saturday Evening Lightning Talks

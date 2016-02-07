@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=bPNGn1XHCKw"'
+SourceUrl: 'http://www.youtube.com/watch?v=bPNGn1XHCKw'
 Speakers: [Jozef van Eenbergen]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/bPNGn1XHCKw/hqdefault.jpg'
-Title: '"Amanda: A New Generation of Distributed Services Framework"'
+Title: 'Amanda: A New Generation of Distributed Services Framework'
 date: '2014-07-22'
 ---
 Presentation outline

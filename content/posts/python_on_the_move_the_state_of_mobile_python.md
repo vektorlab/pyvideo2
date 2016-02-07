@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=Cbkcr3ofBmk"'
+SourceUrl: 'https://www.youtube.com/watch?v=Cbkcr3ofBmk'
 Speakers: [Russell Keith-Magee]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Cbkcr3ofBmk/hqdefault.jpg'
-Title: '"Python on the move: The state of mobile Python"'
+Title: 'Python on the move: The state of mobile Python'
 date: '2015-08-04'
 ---
 Over the last 5-10 years, the "desktop/server" split that dominated computing in the 80s, 90s and early 2000s has been joined by a third player - mobile devices such as phones and tablets.

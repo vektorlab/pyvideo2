@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=4_m-sm_DfMs"'
+SourceUrl: 'https://www.youtube.com/watch?v=4_m-sm_DfMs'
 Speakers: [Lachlan Blackhall]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/4_m-sm_DfMs/hqdefault.jpg'
-Title: '"Learn You a Flask"'
+Title: 'Learn You a Flask'
 date: '2015-08-04'
 ---
 Flask is a Python web framework that is both lightweight and powerful. With an active community, and a diverse and versatile choice of plugins, Flask allows you to scale from simple single-URL websites through to highly complex website architectures. 

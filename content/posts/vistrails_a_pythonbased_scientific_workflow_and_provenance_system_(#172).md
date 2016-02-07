@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [David Koop]
 Tags: [pycon, pycon2010, scientific, vistrails]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010VisTrailsAPythonBasedScientificWorkflowAndProven325-746.jpg'
-Title: '"VisTrails: A Python-Based Scientific Workflow and Provenance System (#172)"'
+Title: 'VisTrails: A Python-Based Scientific Workflow and Provenance System (#172)'
 date: '2010-02-19'
 ---
 VisTrails: A Python-Based Scientific Workflow and Provenance System

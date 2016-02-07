@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://youtu.be/kXLQ_7GGMnM"'
+SourceUrl: 'http://youtu.be/kXLQ_7GGMnM'
 Speakers: [Richard Larkin]
 Tags: [Room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/kXLQ_7GGMnM/hqdefault.jpg'
-Title: '"Kivy Showcase: a short exploration of how Kivy is changing the world"'
+Title: 'Kivy Showcase: a short exploration of how Kivy is changing the world'
 date: '2015-10-02'
 ---
 In this talk, we will look at some real-world success stories using Kivy. From exhibition-size interactive displays to race car telemetry systems to robotics, Kivy is being used to deliver many compelling and innovative applications. We'll use these applications to discuss some of the features and abilities of the framework that make it such a good choice for a wide range of uses.

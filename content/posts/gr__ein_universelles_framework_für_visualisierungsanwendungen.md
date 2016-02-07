@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=EhLPAEUI4l0"'
+SourceUrl: 'https://www.youtube.com/watch?v=EhLPAEUI4l0'
 Speakers: [Josef Heinen]
 Tags: [frameworks, ' opengl', ' visualisierung']
 ThumbnailUrl: 'http://i2.ytimg.com/vi/EhLPAEUI4l0/hqdefault.jpg'

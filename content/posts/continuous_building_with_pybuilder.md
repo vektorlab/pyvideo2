@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=5Yqk6SYnLVs"'
+SourceUrl: 'https://www.youtube.com/watch?v=5Yqk6SYnLVs'
 Speakers: [YADT Project]
 Tags: [automation, build, buildtool, lifecycle, maven, pybuilder, python]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/5Yqk6SYnLVs/hqdefault.jpg'
-Title: '"Continuous building with Pybuilder"'
+Title: 'Continuous building with Pybuilder'
 date: '2013-10-17'
 ---
 Pybuilder ist ein erweiterbares und benutzerfreundliches *continuous Build Tool*

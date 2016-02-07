@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=frlsGUHYu04"'
+SourceUrl: 'https://www.youtube.com/watch?v=frlsGUHYu04'
 Speakers: [Ash Christopher]
 Tags: []
 ThumbnailUrl: 'http://i3.ytimg.com/vi/frlsGUHYu04/hqdefault.jpg'
-Title: '"Horizontally Scaling Your Database with Django"'
+Title: 'Horizontally Scaling Your Database with Django'
 date: '2012-11-11'
 ---
 When web apps reach a certain size, often their data footprint will outgrow

@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=qbYYamU42Sw"'
+SourceUrl: 'https://www.youtube.com/watch?v=qbYYamU42Sw'
 Speakers: [Wes McKinney]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/qbYYamU42Sw/hqdefault.jpg'
-Title: '"pandas: Powerful data analysis tools for Python"'
+Title: 'pandas: Powerful data analysis tools for Python'
 date: '2012-03-09'
 ---
 pandas is a Python library providing fast, expressive data structures for

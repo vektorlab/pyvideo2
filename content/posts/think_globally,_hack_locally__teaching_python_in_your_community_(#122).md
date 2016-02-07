@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Leigh Honeywell]
 Tags: [community, pycon, pycon2010, teaching]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010ThinkGloballyHackLocallyTeachingPythonInYourC847.png'
-Title: '"Think Globally, Hack Locally - Teaching Python in Your Community (#122)"'
+Title: 'Think Globally, Hack Locally - Teaching Python in Your Community (#122)'
 date: '2010-02-19'
 ---
 Think Globally, Hack Locally - Teaching Python in Your Community

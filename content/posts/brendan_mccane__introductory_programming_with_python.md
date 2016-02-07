@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Brendan McCane]
 Tags: [education, kiwipycon, kiwipycon2009]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-BrendanMcCaneIntroductoryProgrammingWithPython306-471.jpg'
-Title: '"Brendan McCane - Introductory programming with Python"'
+Title: 'Brendan McCane - Introductory programming with Python'
 ---
 Introductory programming with Python
 

@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=JlrkizEBjXk"'
+SourceUrl: 'https://www.youtube.com/watch?v=JlrkizEBjXk'
 Speakers: [Todd Owen]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/JlrkizEBjXk/hqdefault.jpg'
-Title: '"Ansible, Simplicity, and the Zen of Python"'
+Title: 'Ansible, Simplicity, and the Zen of Python'
 date: '2015-08-04'
 ---
 Ansible is a configuration management tool, written in Python, that has taken the world of IT automation by storm. Its most remarkable quality is simplicity.

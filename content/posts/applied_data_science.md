@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=LFy01OYCoEY"'
+SourceUrl: 'https://www.youtube.com/watch?v=LFy01OYCoEY'
 Speakers: [Tennessee Leeuwenburg]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/LFy01OYCoEY/hqdefault.jpg'
-Title: '"Applied Data Science"'
+Title: 'Applied Data Science'
 date: '2015-08-04'
 ---
 Ever tried to get into data science or machine learning, but struggled with getting your tech stack working, or found the maths off-putting? Curious about the limits of what your laptop or desktop really are when it comes to Big Data and predictive analytics? Ever wondered if these tools were really accessible to a general developer?

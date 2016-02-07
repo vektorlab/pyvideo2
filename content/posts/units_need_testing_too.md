@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Gary Bernhardt]
 Tags: [pycon, pycon2011, pyunit, testing, unittests]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011UnitsNeedTestingToo863.png'
-Title: '"Units Need Testing Too"'
+Title: 'Units Need Testing Too'
 date: '2011-03-11'
 ---
 Units Need Testing Too

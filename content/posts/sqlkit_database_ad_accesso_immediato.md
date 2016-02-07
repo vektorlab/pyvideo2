@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
-SourceUrl: '"http://www.youtube.com/watch?v=nx04zGh3gME"'
+SourceUrl: 'http://www.youtube.com/watch?v=nx04zGh3gME'
 Speakers: [Alessandro Dentella]
 Tags: [ci, database, framework, gui, openoffice, orm]
 ThumbnailUrl: 'http://i.ytimg.com/vi/nx04zGh3gME/hqdefault.jpg'
-Title: '"Sqlkit: database ad accesso immediato"'
+Title: 'Sqlkit: database ad accesso immediato'
 date: '2011-07-18'
 ---
 È molto facile accedere ad un database con Python e ci sono molti ORM che

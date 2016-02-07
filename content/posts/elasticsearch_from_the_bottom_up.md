@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=PpX7J-G2PEo"'
+SourceUrl: 'http://www.youtube.com/watch?v=PpX7J-G2PEo'
 Speakers: [Alex Brasetvik]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/PpX7J-G2PEo/hqdefault.jpg'
-Title: '"Elasticsearch from the bottom up"'
+Title: 'Elasticsearch from the bottom up'
 date: '2014-07-24'
 ---
 ## Who I am and motivation

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Andrew Godwin]
 Tags: [databasemigration, djangocon, djangocon2009, south]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-DatabaseMigrationsSouthAndYou968.png'
-Title: '"Database Migrations, South, And You"'
+Title: 'Database Migrations, South, And You'
 ---
 Database migrations, south and you
 

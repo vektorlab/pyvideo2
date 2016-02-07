@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=6vppgFWnrlE"'
+SourceUrl: 'https://www.youtube.com/watch?v=6vppgFWnrlE'
 Speakers: [Elizabeth Leddy]
 Tags: []
 ThumbnailUrl: 'http://i3.ytimg.com/vi/6vppgFWnrlE/hqdefault.jpg'
-Title: '"I Wish I Knew How to Quit You: Secrets to sustainable Python communities"'
+Title: 'I Wish I Knew How to Quit You: Secrets to sustainable Python communities'
 date: '2012-11-10'
 ---
 Plone is one of the oldest open source python communities still working today.

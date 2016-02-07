@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Carlos de la Guardia]
 Tags: [pycon, pycon2010, repoze.bfg, wsgi]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010PayOnlyForWhatYouEatATourOfTheRepozeBFGRepo556.png'
-Title: '"Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy
-  (#174)"'
+Title: 'Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy
+  (#174)'
 date: '2010-02-19'
 ---
 Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy

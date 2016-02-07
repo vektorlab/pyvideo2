@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=SULKL7TMRsU"'
+SourceUrl: 'https://www.youtube.com/watch?v=SULKL7TMRsU'
 Speakers: [Bernie Hackett, Rick Copeland]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/SULKL7TMRsU/hqdefault.jpg'
-Title: '"MongoDB and Python"'
+Title: 'MongoDB and Python'
 date: '2012-03-07'
 ---
 This intermediate-level class will teach you techniques using the popular

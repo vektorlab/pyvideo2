@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [ironpython, pycon, pycon2009]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-DevelopingWithIronPythonPart003708-475.jpg'
-Title: '"PyCon 2009: Application Developing with IronPython (Part 3 of 3)"'
+Title: 'PyCon 2009: Application Developing with IronPython (Part 3 of 3)'
 ---
 A tutorial on "Developing with IronPython": Python for .NET and Mono. The
 Common Language Runtime is very different to CPython, with a powerful JIT

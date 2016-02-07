@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=ny10aTjTB_M"'
+SourceUrl: 'https://www.youtube.com/watch?v=ny10aTjTB_M'
 Speakers: [Lutz Mende]
 Tags: [' agil', ' python', ' scrum', ' testcase', trac, ' usecase']
 ThumbnailUrl: 'http://i3.ytimg.com/vi/ny10aTjTB_M/hqdefault.jpg'

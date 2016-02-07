@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=vfYul2E56fo"'
+SourceUrl: 'https://www.youtube.com/watch?v=vfYul2E56fo'
 Speakers: [Idan Gazit]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/vfYul2E56fo/hqdefault.jpg'
-Title: '"Data, Design, Meaning"'
+Title: 'Data, Design, Meaning'
 date: '2012-03-09'
 ---
 The ultimate goal of data visualization is to tell a story and supply meaning.

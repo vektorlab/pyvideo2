@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Peter Fein]
 Tags: [chipy, logging, twiggy]
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-TwiggyAPythonicLogger801-516.jpg'
-Title: '"Twiggy: A Pythonic Logger"'
+Title: 'Twiggy: A Pythonic Logger'
 date: '2010-04-08'
 ---
 Twiggy is an early-stage project to build a more Pythonic logging module. It

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
-SourceUrl: '"http://www.youtube.com/watch?v=t4eycS8ayFA"'
+SourceUrl: 'http://www.youtube.com/watch?v=t4eycS8ayFA'
 Speakers: [Marco Nenciarini]
 Tags: [backup]
 ThumbnailUrl: 'http://i.ytimg.com/vi/t4eycS8ayFA/hqdefault.jpg'
-Title: '"Scrivere un tool parallelo e distribuito per backup multi-terabyte"'
+Title: 'Scrivere un tool parallelo e distribuito per backup multi-terabyte'
 date: '2011-07-13'
 ---
 Una trattazione sull'uso di Python per implementare un tool per il backup

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: []
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-PyMite410-91.jpg'
-Title: '"PyCon 2009: PyMite: Python-on-a-chip"'
+Title: 'PyCon 2009: PyMite: Python-on-a-chip'
 ---
 PyMite: Python on a chip
 

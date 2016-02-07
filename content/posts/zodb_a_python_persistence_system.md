@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Chris McDonough]
 Tags: [pycon, pycon2011, zodb]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011ZODBAPythonPersistenceSystem382.png'
-Title: '"ZODB: A Python Persistence System"'
+Title: 'ZODB: A Python Persistence System'
 date: '2011-03-11'
 ---
 ZODB: A Python Persistence System

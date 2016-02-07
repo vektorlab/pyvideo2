@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"http://youtu.be/TGLTaBDhXGI"'
+SourceUrl: 'http://youtu.be/TGLTaBDhXGI'
 Speakers: [Will Hughes]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/TGLTaBDhXGI/hqdefault.jpg'
-Title: '"Mezzanine: a brief primer"'
+Title: 'Mezzanine: a brief primer'
 date: '2015-09-06'
 ---
 Mezzanine is a CMS framework built on top of Django that provides a set of primitives for building rich sites that can be managed by non-technical users.

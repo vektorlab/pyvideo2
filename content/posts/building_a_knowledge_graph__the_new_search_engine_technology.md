@@ -2,11 +2,11 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=3HB8vTbPJcI"'
+SourceUrl: 'https://www.youtube.com/watch?v=3HB8vTbPJcI'
 Speakers: [Jimmy Lai]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/3HB8vTbPJcI/hqdefault.jpg'
-Title: '"Building a Knowledge Graph - the new search engine technology"'
+Title: 'Building a Knowledge Graph - the new search engine technology'
 date: '2014-06-27'
 ---
 Knowledge graph is the new search engine technology. All the leading search engine exploit knowledge graph to provide more accurate result to user, e.g. Bing, Google, Yahoo.

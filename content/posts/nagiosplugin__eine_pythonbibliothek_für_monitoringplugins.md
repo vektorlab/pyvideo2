@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=i6ah40KmwV8"'
+SourceUrl: 'https://www.youtube.com/watch?v=i6ah40KmwV8'
 Speakers: [Christian Kauhaus]
 Tags: [icinga, ' monitoring', ' nagios', ' plugin']
 ThumbnailUrl: 'http://i2.ytimg.com/vi/i6ah40KmwV8/hqdefault.jpg'

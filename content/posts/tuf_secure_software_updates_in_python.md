@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Geremy Condra]
 Tags: [pycon, pycon2011, security, tuf, updates]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011TUFSecureSoftwareUpdatesInPython643-944.jpg'
-Title: '"TUF: Secure Software Updates in Python"'
+Title: 'TUF: Secure Software Updates in Python'
 date: '2011-03-11'
 ---
 TUF: Secure Software Updates in Python

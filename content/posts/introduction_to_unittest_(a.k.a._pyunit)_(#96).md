@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Chander Ganesan]
 Tags: [pycon, pycon2010, pyunit, testing, unittest]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010IntroductionToUnittestAkaPyUnit96996-668.jpg'
-Title: '"Introduction to unittest (a.k.a. PyUnit) (#96)"'
+Title: 'Introduction to unittest (a.k.a. PyUnit) (#96)'
 date: '2010-02-19'
 ---
 Introduction to Unittest (a.k.a. PyUnit)

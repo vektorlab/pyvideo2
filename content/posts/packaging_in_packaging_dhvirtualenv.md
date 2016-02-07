@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=d_jqe1O31X8"'
+SourceUrl: 'http://www.youtube.com/watch?v=d_jqe1O31X8'
 Speakers: [Jyrki Pulliainen]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/d_jqe1O31X8/hqdefault.jpg'
-Title: '"Packaging in packaging: dh-virtualenv"'
+Title: 'Packaging in packaging: dh-virtualenv'
 date: '2014-07-24'
 ---
 [Dh-virtualenv][1] is an open source tool developed at Spotify. We use it

@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=YienqSky-c0"'
+SourceUrl: 'https://www.youtube.com/watch?v=YienqSky-c0'
 Speakers: [Pino de Candia]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/YienqSky-c0/hqdefault.jpg'
-Title: '"MidoNet: networking made easy"'
+Title: 'MidoNet: networking made easy'
 date: '2015-08-04'
 ---
 MidoNet is a Software Defined Networking solution that's currently integrated with OpenStack, Eucalyptus and Docker. We open sourced in November last year and we’re working hard to build a strong community around it.

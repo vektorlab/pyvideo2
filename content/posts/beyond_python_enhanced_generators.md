@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=yWR00Y6tkC8"'
+SourceUrl: 'http://www.youtube.com/watch?v=yWR00Y6tkC8'
 Speakers: [Erik Groeneveld]
 Tags: [generators, search]
 ThumbnailUrl: 'http://i.ytimg.com/vi/yWR00Y6tkC8/hqdefault.jpg'
-Title: '"Beyond Python Enhanced Generators"'
+Title: 'Beyond Python Enhanced Generators'
 date: '2011-07-24'
 ---
 Right after the introduction of PEP342 (Enhanced Generators) we started to

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Graham Dumpleton]
 Tags: [mod_wsgi, pyconau, pyconau2010, virtualenv, wsgi]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-GettingStartedWithApachemod_wsgi847.png'
-Title: '"PyConAU 2010: Getting started with Apache/mod_wsgi"'
+Title: 'PyConAU 2010: Getting started with Apache/mod_wsgi'
 ---
 Getting started with Apache/mod_wsgi
 

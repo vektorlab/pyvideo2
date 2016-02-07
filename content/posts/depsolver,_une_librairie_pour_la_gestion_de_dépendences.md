@@ -2,7 +2,7 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=HAoAstK95UE"'
+SourceUrl: 'https://www.youtube.com/watch?v=HAoAstK95UE'
 Speakers: [David Cournapeau]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/HAoAstK95UE/maxresdefault.jpg'

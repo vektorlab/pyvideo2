@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2011'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'German'
-SourceUrl: '"http://www.youtube.com/watch?v=uvLFO3xp714"'
+SourceUrl: 'http://www.youtube.com/watch?v=uvLFO3xp714'
 Speakers: ["Markus Zapke-Gr\xFCndemann"]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/uvLFO3xp714/hqdefault.jpg'

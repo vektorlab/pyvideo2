@@ -2,7 +2,7 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=WezVJSzqv1Y"'
+SourceUrl: 'https://www.youtube.com/watch?v=WezVJSzqv1Y'
 Speakers: ["S\xE9bastien Keim"]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/WezVJSzqv1Y/maxresdefault.jpg'

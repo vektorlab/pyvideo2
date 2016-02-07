@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [innosetup, py2exe, pycon, pycon2009, windows]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-HowIDistributePythonApplicationsOnWindowsPy2exeInnoSet226-152.jpg'
-Title: '"PyCon 2009: How I Distribute Python applications on Windows - py2exe and
-  InnoSetup (#108)"'
+Title: 'PyCon 2009: How I Distribute Python applications on Windows - py2exe and
+  InnoSetup (#108)'
 ---
   
 There are many deployment options for Python code. I'll share what has worked

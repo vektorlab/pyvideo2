@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/VOEbhYxWimU"'
+SourceUrl: 'http://youtu.be/VOEbhYxWimU'
 Speakers: [Greig Roulston]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/VOEbhYxWimU/hqdefault.jpg'
-Title: '"Find All the Books"'
+Title: 'Find All the Books'
 date: '2014-09-13'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

@@ -2,11 +2,11 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=QgDeh3IR0fs"'
+SourceUrl: 'https://www.youtube.com/watch?v=QgDeh3IR0fs'
 Speakers: [Laurent Luce]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/QgDeh3IR0fs/maxresdefault.jpg'
-Title: '"Les merveilles internes des objets du CPython"'
+Title: 'Les merveilles internes des objets du CPython'
 date: '2013-11-30'
 ---
 En connaître plus sur l'implémentation d'un langage aide à être plus efficace quand on code. CPython est l'implémentation la plus utilisée et ses objets contiennent plein de merveilles. On découvrira quelques merveilles trouvées dans l'implémentation de la liste, du dictionnaire, de la chaîne de caractères et de l'entier.

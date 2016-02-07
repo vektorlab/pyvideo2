@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"http://youtu.be/O1qaoykYIXY"'
+SourceUrl: 'http://youtu.be/O1qaoykYIXY'
 Speakers: [Ben Shaw]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/O1qaoykYIXY/hqdefault.jpg'
-Title: '"Micro-Services: Is HTTP the only way?"'
+Title: 'Micro-Services: Is HTTP the only way?'
 date: '2015-09-05'
 ---
 Introduction

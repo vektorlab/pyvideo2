@@ -7,7 +7,7 @@ Speakers: [Laurens Van Houtven]
 Tags: [cd, ci, continuousdeployment, deployment, pycon, pycon2011, softwaredevelopment,
   tdd, workflow]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011ContinuousDeployment817.png'
-Title: '"Continuous deployment"'
+Title: 'Continuous deployment'
 date: '2011-03-11'
 ---
 Continuous deployment

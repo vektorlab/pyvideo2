@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=vM9DUUz7Fa8"'
+SourceUrl: 'http://www.youtube.com/watch?v=vM9DUUz7Fa8'
 Speakers: [Michele Simionato]
 Tags: [api, argparse, cmd, decorators, parser]
 ThumbnailUrl: 'http://i.ytimg.com/vi/vM9DUUz7Fa8/hqdefault.jpg'
-Title: '"plac: more than just another command-line arguments parser"'
+Title: 'plac: more than just another command-line arguments parser'
 date: '2011-07-13'
 ---
 plac is general purpose tool than can be used to define command-oriented

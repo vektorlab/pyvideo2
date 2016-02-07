@@ -2,7 +2,7 @@
 Category: 'PyCon ZA 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://archive.org/details/pyconza2014-python-ideas"'
+SourceUrl: 'http://archive.org/details/pyconza2014-python-ideas'
 Speakers: [David Mertz]
 Tags: [pyconza, pyconza2014]
 ThumbnailUrl: 'http://archive.org/download/pyconza2014-python-ideas/pyconza2014-python-ideas.thumbs/8%20What%20I%20learned%20about%20Python-_000690.jpg'

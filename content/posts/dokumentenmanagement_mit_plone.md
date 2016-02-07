@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=P90sY2BaESI"'
+SourceUrl: 'https://www.youtube.com/watch?v=P90sY2BaESI'
 Speakers: [Maik Derstappen]
 Tags: [cms, ' dms', ' extranet', ' intranet', ' plone']
 ThumbnailUrl: 'http://i1.ytimg.com/vi/P90sY2BaESI/hqdefault.jpg'
-Title: '"Dokumentenmanagement mit Plone"'
+Title: 'Dokumentenmanagement mit Plone'
 date: '2012-10-30'
 ---
 Plone ist weit mehr als nur ein CMS, es bietet mit seiner einfachen

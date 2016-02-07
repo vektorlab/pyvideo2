@@ -7,7 +7,7 @@ Speakers: [Doug Hellmann]
 Tags: [cgitb, cmd, contextlib.contextmanager, csv, fileinput, hmac, locale, pdb, pkgutil.getdata,
   pycon, pycon2011, rlcompleter, robotparser, uuid4]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011HiddenTreasuresInTheStandardLibrary179-925.jpg'
-Title: '"Hidden Treasures in the Standard Library"'
+Title: 'Hidden Treasures in the Standard Library'
 date: '2011-03-11'
 ---
 Hidden Treasures in the Standard Library

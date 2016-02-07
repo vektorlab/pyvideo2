@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=hvPYuqzTPIk"'
+SourceUrl: 'https://www.youtube.com/watch?v=hvPYuqzTPIk'
 Speakers: [Brian K. Jones]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/hvPYuqzTPIk/hqdefault.jpg'
-Title: '"Fake It Til You Make It: Unit Testing Patterns With Mocks and Fakes"'
+Title: 'Fake It Til You Make It: Unit Testing Patterns With Mocks and Fakes'
 date: '2012-03-09'
 ---
 In this talk, aimed at intermediate Pythonistas, we'll have a look at some

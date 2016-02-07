@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=ZNsfvjeQ8cY"'
+SourceUrl: 'https://www.youtube.com/watch?v=ZNsfvjeQ8cY'
 Speakers: [Christopher Arndt]
 Tags: [diy, midi, musik, osc, raspberry pi, remote control]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/ZNsfvjeQ8cY/hqdefault.jpg'

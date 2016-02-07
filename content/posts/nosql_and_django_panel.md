@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [casestudy, djangocon, djangocon2010, nosql, orm]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-NoSQLAndDjangoPanel848.png'
-Title: '"NoSQL and Django Panel"'
+Title: 'NoSQL and Django Panel'
 ---
 NoSQL and Django Panel
 

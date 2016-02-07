@@ -7,7 +7,7 @@ Speakers: []
 Tags: [activestate, bigapps, cmusphinx, coverage.py, cpython, lawyers, lightningtalks,
   programmingbook, pycon, pycon2010, python-cookbook, sqlalchemy, ubuntuone]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PlenaryFridayEveningLightningTalks330-562.jpg'
-Title: '"Plenary: Friday Evening Lightning Talks"'
+Title: 'Plenary: Friday Evening Lightning Talks'
 date: '2010-02-19'
 ---
 Plenary: Friday Evening Lightning Talks

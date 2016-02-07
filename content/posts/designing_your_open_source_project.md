@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=bdqLtx3K36k"'
+SourceUrl: 'http://www.youtube.com/watch?v=bdqLtx3K36k'
 Speakers: [Bryan Veloso]
 Tags: [django, opensource]
 ThumbnailUrl: 'http://i.ytimg.com/vi/bdqLtx3K36k/hqdefault.jpg'
-Title: '"Designing Your Open Source Project"'
+Title: 'Designing Your Open Source Project'
 date: '2012-09-04'
 ---
 There is an ever present rift between designers and developers and it is one

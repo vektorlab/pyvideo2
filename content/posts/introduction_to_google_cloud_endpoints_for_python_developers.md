@@ -2,11 +2,11 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'Chinese'
-SourceUrl: '"https://www.youtube.com/watch?v=uOn6_bLy3vo"'
+SourceUrl: 'https://www.youtube.com/watch?v=uOn6_bLy3vo'
 Speakers: [Colin Su]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/uOn6_bLy3vo/hqdefault.jpg'
-Title: '"Introduction to Google Cloud Endpoints for Python developers"'
+Title: 'Introduction to Google Cloud Endpoints for Python developers'
 date: '2014-08-11'
 ---
 Google Cloud Endpoints provides a simple way to create a RESTful service and be fueled by the infrastructure of Google, it also generates client libraries for JavaScript, Android and iOS to minimize the effort for developers who are integrating their service with mobile and web in bootstrapping.

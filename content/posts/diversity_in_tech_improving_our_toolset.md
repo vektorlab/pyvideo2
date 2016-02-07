@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Jennifer Leech]
 Tags: [diversity, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011DiversityInTechImprovingOurToolset347.png'
-Title: '"Diversity in Tech: Improving our Toolset"'
+Title: 'Diversity in Tech: Improving our Toolset'
 date: '2011-03-11'
 ---
 Diversity in Tech: Improving our Toolset

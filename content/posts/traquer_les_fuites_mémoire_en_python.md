@@ -2,7 +2,7 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=oQ17KDBr24I"'
+SourceUrl: 'https://www.youtube.com/watch?v=oQ17KDBr24I'
 Speakers: [Victor Stinner]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/oQ17KDBr24I/maxresdefault.jpg'

@@ -2,7 +2,7 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=9_LnOTFDNUk"'
+SourceUrl: 'https://www.youtube.com/watch?v=9_LnOTFDNUk'
 Speakers: [Javier Candeira]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/9_LnOTFDNUk/hqdefault.jpg'

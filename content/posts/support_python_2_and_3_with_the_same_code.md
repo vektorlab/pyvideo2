@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=elAV6aZDMvg"'
+SourceUrl: 'http://www.youtube.com/watch?v=elAV6aZDMvg'
 Speakers: [Stefan Schwarzer]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/elAV6aZDMvg/hqdefault.jpg'
-Title: '"Support Python 2 and 3 with the same code"'
+Title: 'Support Python 2 and 3 with the same code'
 date: '2014-07-24'
 ---
 Your library supports only Python 2, - but your users keep nagging you about Python 3 support?

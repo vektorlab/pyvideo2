@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Dylan Jay]
 Tags: [deployment, hostout, pyconau, pyconau2010, silverlining, web, wsgi, zc.buildout]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-whoopsIDeployedAgainNewWaysToGetYourAppInTheCloud589.png'
-Title: '"PyConAU 2010: whoops I deployed again - new ways to get your app in the cloud"'
+Title: 'PyConAU 2010: whoops I deployed again - new ways to get your app in the cloud'
 ---
 whoops I deployed again - new ways to get your app in the cloud
 

@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=1KHM7WvNeL4"'
+SourceUrl: 'https://www.youtube.com/watch?v=1KHM7WvNeL4'
 Speakers: ["Honza Kr\xE1l"]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/1KHM7WvNeL4/hqdefault.jpg'
-Title: '"Don''t be afraid to search"'
+Title: 'Don''t be afraid to search'
 date: '2015-08-04'
 ---
 Creating a good search experience for your website is perceived as hard when it doesn't have to be so.

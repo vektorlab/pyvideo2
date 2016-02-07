@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=1WeX6oRw5Y8"'
+SourceUrl: 'http://www.youtube.com/watch?v=1WeX6oRw5Y8'
 Speakers: [Tom Ron]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/1WeX6oRw5Y8/hqdefault.jpg'
-Title: '"Learning Chess from data"'
+Title: 'Learning Chess from data'
 date: '2014-07-24'
 ---
 Can empirical samples unveil the big picture?

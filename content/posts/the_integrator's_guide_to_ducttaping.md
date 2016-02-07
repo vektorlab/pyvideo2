@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=1yZmtiNeffg"'
+SourceUrl: 'http://www.youtube.com/watch?v=1yZmtiNeffg'
 Speakers: [S Deponti]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/1yZmtiNeffg/hqdefault.jpg'
-Title: '"The integrator''s guide to duct-taping"'
+Title: 'The integrator''s guide to duct-taping'
 date: '2012-07-06'
 ---
 “Duct-taping” different systems together is a common task, and is generally

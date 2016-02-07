@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=mh9bDeIFcUA"'
+SourceUrl: 'https://www.youtube.com/watch?v=mh9bDeIFcUA'
 Speakers: [Gabriele Bartolini]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/mh9bDeIFcUA/maxresdefault.jpg'
-Title: '"PostgreSQL 9 4 per devops (in English)"'
+Title: 'PostgreSQL 9 4 per devops (in English)'
 date: '2015-05-29'
 ---
 The world’s best open source database won’t stop improving!

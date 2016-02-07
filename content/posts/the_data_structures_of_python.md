@@ -7,7 +7,7 @@ Speakers: [Alex Gaynor]
 Tags: [abc, datastructures, dequearray, dict, ducktyping, frozenset, list, namedtuple,
   ordereddict, orderedset, pycon, pycon2011, set, tuple]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011TheDataStructuresOfPython246.png'
-Title: '"The Data Structures of Python"'
+Title: 'The Data Structures of Python'
 date: '2011-03-11'
 ---
 The Data Structures of Python

@@ -7,7 +7,7 @@ Speakers: [Graham Dumpleton]
 Tags: [djangocon, djangocon2011, exceptions, memcache, monitoring, performance, requests,
   transactions]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-MonkeyingAroundWithPythonAtNewRelic328-388.jpg'
-Title: '"Monkeying Around with Python at New Relic"'
+Title: 'Monkeying Around with Python at New Relic'
 ---
 Monkeying around with Python at New Relic
 

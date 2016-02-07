@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Bill Mania, Brian Ray]
 Tags: [chipy, robot, ros]
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-ROSRobotOperatingSystem313.png'
-Title: '"ROS - Robot Operating System"'
+Title: 'ROS - Robot Operating System'
 date: '2011-01-13'
 ---
 ROS is the Robot Operating System, originally from Stanford and now supported

@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2011'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'German'
-SourceUrl: '"http://www.youtube.com/watch?v=9svCX5hiRgE"'
+SourceUrl: 'http://www.youtube.com/watch?v=9svCX5hiRgE'
 Speakers: [Helmut Merz]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/9svCX5hiRgE/hqdefault.jpg'

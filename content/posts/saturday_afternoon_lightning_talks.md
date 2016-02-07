@@ -7,7 +7,7 @@ Speakers: []
 Tags: [djangozoom, engineering, flufl.i18n, interviewing, javascript, pycon, pycon2011,
   pywo, readthedocs, sphinx]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011SaturdayAfternoonLightningTalks857.png'
-Title: '"Saturday Afternoon Lightning Talks"'
+Title: 'Saturday Afternoon Lightning Talks'
 date: '2011-03-11'
 ---
 Saturday Afternoon Lightning Talks

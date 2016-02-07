@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=xHqlzuPq_qQ"'
+SourceUrl: 'https://www.youtube.com/watch?v=xHqlzuPq_qQ'
 Speakers: [Travis Oliphant]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/xHqlzuPq_qQ/hqdefault.jpg'
-Title: '"High Performance Python II"'
+Title: 'High Performance Python II'
 date: '2012-03-08'
 ---
 In this tutorial, I will cover how to write very fast Python code for data

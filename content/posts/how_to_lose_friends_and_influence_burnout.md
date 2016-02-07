@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=2lrRix3PM4k"'
+SourceUrl: 'http://www.youtube.com/watch?v=2lrRix3PM4k'
 Speakers: [Rhys Elsmore]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/2lrRix3PM4k/hqdefault.jpg'
-Title: '"How to Lose Friends and Influence Burnout"'
+Title: 'How to Lose Friends and Influence Burnout'
 date: '2013-09-15'
 ---
 @ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1

@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=8LVw2ktxjpA"'
+SourceUrl: 'https://www.youtube.com/watch?v=8LVw2ktxjpA'
 Speakers: [Dr. Yves Hilpisch]
 Tags: [datenanalyse, ' pandas', ' zeitreihen']
 ThumbnailUrl: 'http://i1.ytimg.com/vi/8LVw2ktxjpA/hqdefault.jpg'
-Title: '"Effiziente Datenanalyse mit pandas"'
+Title: 'Effiziente Datenanalyse mit pandas'
 date: '2012-10-30'
 ---
 Datenanalyse ist eine der Kernaufgaben moderner Technologie. pandas (vgl.

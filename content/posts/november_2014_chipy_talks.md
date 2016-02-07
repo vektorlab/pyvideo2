@@ -2,11 +2,11 @@
 Category: 'ChiPy'
 Copyright: 'youtube standard license'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=EEwufSsx4O8"'
+SourceUrl: 'https://www.youtube.com/watch?v=EEwufSsx4O8'
 Speakers: [Asma Mehjabeen, Isaac Adorno]
 Tags: []
 ThumbnailUrl: ''
-Title: '"November 2014 Chipy Talks"'
+Title: 'November 2014 Chipy Talks'
 ---
 ### Hidden Markov Models to improve activity recognition in patients with spinal cord injury  
 By: Asma Mehjabeen

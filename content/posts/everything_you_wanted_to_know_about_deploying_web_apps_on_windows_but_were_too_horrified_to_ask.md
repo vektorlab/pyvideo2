@@ -2,12 +2,12 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=rFH_KtFYz4U"'
+SourceUrl: 'http://www.youtube.com/watch?v=rFH_KtFYz4U'
 Speakers: [Christopher Lambacher]
 Tags: []
 ThumbnailUrl: 'http://i3.ytimg.com/vi/rFH_KtFYz4U/hqdefault.jpg'
-Title: '"Everything you wanted to know about deploying web apps on Windows but were
-  too horrified to ask"'
+Title: 'Everything you wanted to know about deploying web apps on Windows but were
+  too horrified to ask'
 date: '2012-11-10'
 ---
 Conventional wisdom says that no one deploys web applications on Windows. I

@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Alex Gaynor]
 Tags: [pycon, pycon2010, realtime, web]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010BuildingLeafyChatDjangoDoseAndHurricaneLessonsL504.png'
-Title: '"Building Leafy Chat, DjangoDose, and Hurricane, Lessons Learned on the Real-Time
-  Web with Python (#24)"'
+Title: 'Building Leafy Chat, DjangoDose, and Hurricane, Lessons Learned on the Real-Time
+  Web with Python (#24)'
 date: '2010-02-19'
 ---
 Building Leafy Chat, DjangoDose, and Hurricane. Lessons learned on the real-

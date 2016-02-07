@@ -2,12 +2,12 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=NkUTLRZBWLM"'
+SourceUrl: 'https://www.youtube.com/watch?v=NkUTLRZBWLM'
 Speakers: [Jason Huggins]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/NkUTLRZBWLM/hqdefault.jpg'
-Title: '"Building a Robot that Can Play Angry Birds on a Smartphone, (or Robots are
-  the Future of Testing)"'
+Title: 'Building a Robot that Can Play Angry Birds on a Smartphone, (or Robots are
+  the Future of Testing)'
 date: '2012-03-10'
 ---
 Can your robot play Angry Birds? On an iPhone? Mine can. I call it

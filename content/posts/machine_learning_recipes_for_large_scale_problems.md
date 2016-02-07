@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=cWmgjXOesEc"'
+SourceUrl: 'https://www.youtube.com/watch?v=cWmgjXOesEc'
 Speakers: [Valerio Maggio]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/cWmgjXOesEc/maxresdefault.jpg'
-Title: '"Machine Learning Recipes for Large Scale problems"'
+Title: 'Machine Learning Recipes for Large Scale problems'
 date: '2015-05-30'
 ---
 Machine Learning focuses on constructing algorithms for making predictions from data. These algorithms usually require huge amount of data to analyse, thus demanding for high computational costs and requiring easily scalable solutions to be effectively applied. These factors favoured a more and more increasing interest in scaling up machine learning applications.

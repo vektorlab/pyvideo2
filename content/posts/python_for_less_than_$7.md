@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=7BGAHFsnDXA"'
+SourceUrl: 'https://www.youtube.com/watch?v=7BGAHFsnDXA'
 Speakers: [Graeme Cross]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/7BGAHFsnDXA/hqdefault.jpg'
-Title: '"Python for less than $7"'
+Title: 'Python for less than $7'
 date: '2015-08-04'
 ---
 You can now run Python 3.4 on microcontrollers that cost less than a cup of coffee (in a up-market Parisian restaurant :)

@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=PWIvm-uloMg"'
+SourceUrl: 'http://www.youtube.com/watch?v=PWIvm-uloMg'
 Speakers: [Graham P Dumpleton]
 Tags: [hosting, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/PWIvm-uloMg/hqdefault.jpg'
-Title: '"Hosting Python Web Applications"'
+Title: 'Hosting Python Web Applications'
 date: '2011-08-22'
 ---
 Web applications which are able to dynamically deliver up content

@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=tQL-TbDsv0U"'
+SourceUrl: 'https://www.youtube.com/watch?v=tQL-TbDsv0U'
 Speakers: [Anton Caceres]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/tQL-TbDsv0U/maxresdefault.jpg'
-Title: '"Asynchronous Web Development with Python 3"'
+Title: 'Asynchronous Web Development with Python 3'
 date: '2015-05-29'
 ---
 The asyncio module with updated chainable coroutines introduced with Python 3.4 was a game-changer for I/O management and asynchronous web development in Python. Even web frameworks like Tornado that already had an own asynchronous IO-loop implementation, can now take advantage of the subgenerator delegation syntax to provide a high degree of concurrency and responsiveness while keeping the simplicity of sequential code.

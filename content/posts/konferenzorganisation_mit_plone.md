@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=68WDcWMom7Q"'
+SourceUrl: 'https://www.youtube.com/watch?v=68WDcWMom7Q'
 Speakers: [Andreas Mantke]
 Tags: [' add-on', ' dexterity', ' konferenz-organisation', plone]
 ThumbnailUrl: 'http://i3.ytimg.com/vi/68WDcWMom7Q/hqdefault.jpg'
-Title: '"Konferenz-Organisation mit Plone"'
+Title: 'Konferenz-Organisation mit Plone'
 date: '2012-10-31'
 ---
 Der Vortrag zeigt die Entwicklung eines Konferenz-Organisations-Add-ons für

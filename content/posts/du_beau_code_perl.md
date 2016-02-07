@@ -2,11 +2,11 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=PohwAdkaVcY"'
+SourceUrl: 'https://www.youtube.com/watch?v=PohwAdkaVcY'
 Speakers: [Marc Chantreux]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/PohwAdkaVcY/maxresdefault.jpg'
-Title: '"du beau code Perl"'
+Title: 'du beau code Perl'
 date: '2013-11-30'
 ---
 Répondant à la demande qui m'avait été faite l'an dernier de montrer du "beau code perl", je montre les similarités conceptuelles entre les 2 langages , les différences syntaxiques et (SPOIL) conclus que tout ça n'est qu'affaire de gout.

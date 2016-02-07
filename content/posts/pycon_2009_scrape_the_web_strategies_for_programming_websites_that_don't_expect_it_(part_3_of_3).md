@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [pycon, pycon2009, scraping]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-ScrapeTheWebStrategiesForProgrammingWebsitesThatDontExp728-232.jpg'
-Title: '"PyCon 2009: Scrape the Web: Strategies for programming websites that don''t
-  expect it (Part 3 of 3)"'
+Title: 'PyCon 2009: Scrape the Web: Strategies for programming websites that don''t
+  expect it (Part 3 of 3)'
 ---
   
 [VIDEO HAS ISSUES: Speaker walked away from the mic most of the time.] Do you

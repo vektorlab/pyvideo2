@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=wC6SYGtW9Go"'
+SourceUrl: 'https://www.youtube.com/watch?v=wC6SYGtW9Go'
 Speakers: [Douglas Cerna]
 Tags: []
 ThumbnailUrl: 'http://i4.ytimg.com/vi/wC6SYGtW9Go/hqdefault.jpg'
-Title: '"SchoolTool"'
+Title: 'SchoolTool'
 date: '2012-11-10'
 ---
 SchoolTool is an FOSS student information system developed in Python using the

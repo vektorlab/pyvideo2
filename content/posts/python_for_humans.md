@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=uqIx4VRIuwM"'
+SourceUrl: 'https://www.youtube.com/watch?v=uqIx4VRIuwM'
 Speakers: [Kenneth Reitz]
 Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/uqIx4VRIuwM/hqdefault.jpg'
-Title: '"Python for Humans"'
+Title: 'Python for Humans'
 date: '2012-11-11'
 ---
 Python’s ecosystem is held up to a high standard, but it falls short in a few

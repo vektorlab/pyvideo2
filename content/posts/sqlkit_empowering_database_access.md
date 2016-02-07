@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=7oWykWu_5z4"'
+SourceUrl: 'http://www.youtube.com/watch?v=7oWykWu_5z4'
 Speakers: [Alessandro Dentella]
 Tags: [database, forms, framework, gui, openoffice, 'python,']
 ThumbnailUrl: 'http://i.ytimg.com/vi/7oWykWu_5z4/hqdefault.jpg'
-Title: '"Sqlkit: empowering database access"'
+Title: 'Sqlkit: empowering database access'
 date: '2011-07-13'
 ---
 It's very easy to access databases with Python, and there are many ORMs

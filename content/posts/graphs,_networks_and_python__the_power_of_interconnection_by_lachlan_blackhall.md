@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=1q7FBxy1Rds"'
+SourceUrl: 'http://www.youtube.com/watch?v=1q7FBxy1Rds'
 Speakers: [Lachlan Blackhall]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/1q7FBxy1Rds/hqdefault.jpg'
-Title: '"Graphs, Networks and Python:  The Power of Interconnection by Lachlan Blackhall"'
+Title: 'Graphs, Networks and Python:  The Power of Interconnection by Lachlan Blackhall'
 date: '2014-08-09'
 ---
 Graph and network structures are everywhere and can be found in social, biological and technological networks that impact us on a daily basis. Understanding, and exploiting, graphical structures creates opportunities for obtaining new analytic insights, implementing new computational paradigms, and better defining the relationship between objects of any sort.

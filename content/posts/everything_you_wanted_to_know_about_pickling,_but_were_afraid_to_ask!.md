@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Richard T. Saunders]
 Tags: [pickling, pycon, pycon2011, serialization]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011EverythingYouWantedToKnowAboutPicklingButWere385.png'
-Title: '"Everything You Wanted To Know About Pickling, But Were Afraid To Ask!"'
+Title: 'Everything You Wanted To Know About Pickling, But Were Afraid To Ask!'
 date: '2011-03-11'
 ---
 Everything You Wanted To Know About Pickling, But Were Afraid To Ask!

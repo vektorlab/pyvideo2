@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [network, orbited, pycon, pycon2009, realtime, twisted]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-BuildingRealtimeNetworkApplicationsForTheWebWithTwisted900-383.jpg'
-Title: '"PyCon 2009: Building Real-time Network applications for the web with Twisted
-  and Orbited (Part 2 of 3)"'
+Title: 'PyCon 2009: Building Real-time Network applications for the web with Twisted
+  and Orbited (Part 2 of 3)'
 ---
   
 Haven't you always wanted to create a massively multiplayer, real-time game

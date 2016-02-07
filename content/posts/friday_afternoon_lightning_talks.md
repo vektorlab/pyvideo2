@@ -7,7 +7,7 @@ Speakers: []
 Tags: [cpython, ironpython, japan, logging.statistics, pycon, pycon2011, pyparsing,
   qtile]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011FridayAfternoonLightningTalks981.png'
-Title: '"Friday Afternoon Lightning Talks"'
+Title: 'Friday Afternoon Lightning Talks'
 date: '2011-03-11'
 ---
 Friday afternoon lightning talks

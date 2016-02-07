@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Nick Seidenman]
 Tags: [databases, pyconau, pyconau2010, pylons]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-MultipleHeterogeneousModelsInPylons870.png'
-Title: '"PyConAU 2010: Multiple, Heterogeneous Models in Pylons"'
+Title: 'PyConAU 2010: Multiple, Heterogeneous Models in Pylons'
 ---
 Multiple, Heterogeneous Models in Pylons
 

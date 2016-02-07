@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/ynxQ3qF7LwY"'
+SourceUrl: 'http://youtu.be/ynxQ3qF7LwY'
 Speakers: [Ben Denham, Grant Paton-Simpson]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/ynxQ3qF7LwY/hqdefault.jpg'
-Title: '"basil - making it easy to spin up best practice python web frameworks"'
+Title: 'basil - making it easy to spin up best practice python web frameworks'
 date: '2014-09-14'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

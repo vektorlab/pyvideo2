@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=GynvZHDdUgA"'
+SourceUrl: 'http://www.youtube.com/watch?v=GynvZHDdUgA'
 Speakers: [Elyse Maria Glina]
 Tags: [nltk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/GynvZHDdUgA/hqdefault.jpg'
-Title: '"Human as a Second Language: Succeeding with the Natural Language Toolkit"'
+Title: 'Human as a Second Language: Succeeding with the Natural Language Toolkit'
 date: '2012-08-21'
 ---
 The Natural Language Toolkit (NLTK) suite offers powerful tools for natural

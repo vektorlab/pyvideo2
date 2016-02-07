@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Adam Fast]
 Tags: []
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-IntroductionToGeoDjango145.png'
-Title: '"Introduction to GeoDjango"'
+Title: 'Introduction to GeoDjango'
 date: '2013-05-17'
 ---
 

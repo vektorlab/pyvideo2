@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Glyph Lefkowitz]
 Tags: [decorators, deferreds, delcarations, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010TurtlesAllTheWayDownDemystifyingDeferredsDecora171.png'
-Title: '"Turtles All The Way Down: Demystifying Deferreds, Decorators, and Declarations
-  (#169)"'
+Title: 'Turtles All The Way Down: Demystifying Deferreds, Decorators, and Declarations
+  (#169)'
 date: '2010-02-19'
 ---
 Turtles all the way down: Demystifying deferreds, decorators and declarations

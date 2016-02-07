@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=S8Y1eN-34eY"'
+SourceUrl: 'http://www.youtube.com/watch?v=S8Y1eN-34eY'
 Speakers: [Andreas Schreiber]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/S8Y1eN-34eY/hqdefault.jpg'
-Title: '"Programming mobile apps with python"'
+Title: 'Programming mobile apps with python'
 date: '2012-07-04'
 ---
 Apps for smartphones and tablet PCs are getting the most relevant kind of

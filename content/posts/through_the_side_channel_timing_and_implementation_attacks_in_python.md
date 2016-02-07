@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Geremy Condra]
 Tags: [hacking, hardening, pycon, pycon2011, security]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011ThroughTheSideChannelTimingAndImplementationAt601.png'
-Title: '"Through the Side Channel: Timing and Implementation Attacks in Python"'
+Title: 'Through the Side Channel: Timing and Implementation Attacks in Python'
 date: '2011-03-11'
 ---
 Through the Side Channel: Timing and Implementation Attacks in Python

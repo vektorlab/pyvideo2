@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=-lKV4zC1gss"'
+SourceUrl: 'http://www.youtube.com/watch?v=-lKV4zC1gss'
 Speakers: [Francesc Alted]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/-lKV4zC1gss/hqdefault.jpg'
-Title: '"Out-of-Core Columnar Datasets"'
+Title: 'Out-of-Core Columnar Datasets'
 date: '2014-07-25'
 ---
 It is a fact: we just entered in the Big Data era.  More sensors, more

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Mark Pesce]
 Tags: [keynote, pyconau, pyconau2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-KeynoteMarkPesceHowNotToBeSeen121-838.jpg'
-Title: '"PyConAU 2010: Keynote: Mark Pesce; &quot;How Not To Be Seen&quot;"'
+Title: 'PyConAU 2010: Keynote: Mark Pesce; &quot;How Not To Be Seen&quot;'
 ---
 PyConAU 2010 KeyNote
 

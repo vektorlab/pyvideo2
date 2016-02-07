@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=k9JuDrHgmbU"'
+SourceUrl: 'https://www.youtube.com/watch?v=k9JuDrHgmbU'
 Speakers: [Robert Lehmann]
 Tags: [opentechschool]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/k9JuDrHgmbU/hqdefault.jpg'
-Title: '"OpenTechSchool Potpourri"'
+Title: 'OpenTechSchool Potpourri'
 date: '2013-10-15'
 ---
 Die OpenTechSchool ist eine Community-Initiative die freie Programmierworkshops für sämtliche Zielgruppen anbietet.  Mit mehreren freien Materialien für Programmieranfänger und -fortgeschrittene bringen wir unseren Teilnehmern Grundlagen oder spezielle Themenkomplexe bei.

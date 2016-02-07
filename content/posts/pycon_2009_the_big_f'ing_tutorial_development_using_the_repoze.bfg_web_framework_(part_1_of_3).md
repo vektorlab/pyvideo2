@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Chris McDonough]
 Tags: [pycon, pycon2009, repoze, repoze.bfg, tutorial, zope]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-TheBigFingTutorialDevelopmentUsingTheRepozebfgWebFramew393-62.jpg'
-Title: '"PyCon 2009: The Big F''ing Tutorial: Development Using the repoze.bfg Web
-  Framework (Part 1 of 3)"'
+Title: 'PyCon 2009: The Big F''ing Tutorial: Development Using the repoze.bfg Web
+  Framework (Part 1 of 3)'
 ---
 The Big F'ing Tutorial: Development Using repoze.bfg Web Framework (Part 1 of
 3)

@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=mByG_51ZWiQ"'
+SourceUrl: 'https://www.youtube.com/watch?v=mByG_51ZWiQ'
 Speakers: [Capel Brunker]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/mByG_51ZWiQ/hqdefault.jpg'
-Title: '"Inviting Code"'
+Title: 'Inviting Code'
 date: '2015-08-04'
 ---
 Projects tend to grow, expand and reshape as they progress, this can lead to; high code maintenance, legacy code and feature addition fatigue. Implementing a well-documented and malleable software architecture is a major step in addressing these associated time sinks. This talk will discuss viable software architecture approaches – while demonstrating core python modules, concepts and design patterns from a big data perspective.

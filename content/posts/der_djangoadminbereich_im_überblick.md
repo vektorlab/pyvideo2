@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=AkELl59QjoE"'
+SourceUrl: 'https://www.youtube.com/watch?v=AkELl59QjoE'
 Speakers: [Andreas Albrecht]
 Tags: [django]
 ThumbnailUrl: 'http://i2.ytimg.com/vi/AkELl59QjoE/hqdefault.jpg'

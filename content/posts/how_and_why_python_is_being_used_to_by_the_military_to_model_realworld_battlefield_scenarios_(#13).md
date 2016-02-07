@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [casestudy, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010HowAndWhyPythonIsBeingUsedToByTheMilitaryTo898.png'
-Title: '"How and why Python is being used to by the Military to model real-world battlefield
-  scenarios (#13)"'
+Title: 'How and why Python is being used to by the Military to model real-world battlefield
+  scenarios (#13)'
 date: '2010-02-19'
 ---
 How and why Python is being used by the Military to model real-world

@@ -7,7 +7,7 @@ Speakers: []
 Tags: [emacs, ide, komodo, komodoide, pycharm, pycon, pycon2011, pythontoolsforvisualstudio,
   visualstudio, wingware]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011PythonIDEsPanel405.png'
-Title: '"Python IDEs Panel"'
+Title: 'Python IDEs Panel'
 date: '2011-03-11'
 ---
 Python IDEs Panel

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Roman Joost]
 Tags: [gimp, kiwipycon, kiwipycon2009]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-RomanJoostInterfacingWithGIMPUsingPython423-984.jpg'
-Title: '"Roman Joost - Interfacing with GIMP using Python"'
+Title: 'Roman Joost - Interfacing with GIMP using Python'
 ---
 Interfacing with GIMP using Python
 

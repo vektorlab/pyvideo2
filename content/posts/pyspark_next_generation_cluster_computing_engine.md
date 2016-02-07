@@ -2,11 +2,11 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'youtube'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=gaR7svYX8pw"'
+SourceUrl: 'https://www.youtube.com/watch?v=gaR7svYX8pw'
 Speakers: [Wisely Chen]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/gaR7svYX8pw/hqdefault.jpg'
-Title: '"PySpark: next generation cluster computing engine"'
+Title: 'PySpark: next generation cluster computing engine'
 date: '2014-06-24'
 ---
 Apache Spark™ is a lightning fast engine for large-scale data processing. It is an in-memory cluster computing framework, originally developed in UC Berkeley. Base on it's project page's evaluation, machine learning programming can run program 100x faster than Hadoop MapReduce. And Spark can run on Hadoop 2's YARN cluster manager, and can read any existing Hadoop data. Currently, it supports Scala, Java and Python for writing spark programs. 

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=zZY-5cHZsT0"'
+SourceUrl: 'http://www.youtube.com/watch?v=zZY-5cHZsT0'
 Speakers: [Claude Gibert]
 Tags: [framework, nasa, parallel, performance, 'python,', scientific]
 ThumbnailUrl: 'http://i.ytimg.com/vi/zZY-5cHZsT0/hqdefault.jpg'
-Title: '"Meteorology, Climate and Python: desperately trying to forget technical details"'
+Title: 'Meteorology, Climate and Python: desperately trying to forget technical details'
 date: '2011-07-13'
 ---
 # Contents

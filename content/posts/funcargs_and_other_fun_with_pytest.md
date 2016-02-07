@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=DTNejE9EraI"'
+SourceUrl: 'http://www.youtube.com/watch?v=DTNejE9EraI'
 Speakers: [Brianna Laugher]
 Tags: [pytest, testing]
 ThumbnailUrl: 'http://i.ytimg.com/vi/DTNejE9EraI/hqdefault.jpg'
-Title: '"Funcargs and other fun with pytest"'
+Title: 'Funcargs and other fun with pytest'
 date: '2012-08-22'
 ---
 Pytest is a mature and comprehensive testing suite for Python projects, but it

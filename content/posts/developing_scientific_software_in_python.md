@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=qIVEkecxVqo"'
+SourceUrl: 'http://www.youtube.com/watch?v=qIVEkecxVqo'
 Speakers: [Duncan S Gray]
 Tags: [scientific]
 ThumbnailUrl: 'http://i.ytimg.com/vi/qIVEkecxVqo/hqdefault.jpg'
-Title: '"Developing Scientific Software in Python"'
+Title: 'Developing Scientific Software in Python'
 date: '2011-08-22'
 ---
 In particular:

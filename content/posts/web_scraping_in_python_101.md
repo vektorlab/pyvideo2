@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=TeXRh17pB6c"'
+SourceUrl: 'http://www.youtube.com/watch?v=TeXRh17pB6c'
 Speakers: [M.Yasoob Khalid]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/TeXRh17pB6c/hqdefault.jpg'
-Title: '"Web Scraping in Python 101"'
+Title: 'Web Scraping in Python 101'
 date: '2014-07-22'
 ---
 Who am I ?

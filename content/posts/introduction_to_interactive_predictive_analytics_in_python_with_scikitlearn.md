@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=Zd5dfooZWG4"'
+SourceUrl: 'https://www.youtube.com/watch?v=Zd5dfooZWG4'
 Speakers: [Olivier Grisel]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/Zd5dfooZWG4/hqdefault.jpg'
-Title: '"Introduction to Interactive Predictive Analytics in Python with scikit-learn"'
+Title: 'Introduction to Interactive Predictive Analytics in Python with scikit-learn'
 date: '2012-03-08'
 ---
 The goal of this tutorial is to give the attendee a first experience of

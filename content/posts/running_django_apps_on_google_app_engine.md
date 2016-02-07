@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Wesley J. Chun]
 Tags: [django-nonrel, gae, googleappengine, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011RunningDjangoAppsOnGoogleAppEngine570.png'
-Title: '"Running Django Apps on Google App Engine"'
+Title: 'Running Django Apps on Google App Engine'
 date: '2011-03-11'
 ---
 Running Django Apps on Google App Engine
@@ -39,7 +39,7 @@ What this means that current Django users can now use their existing knowledge
 to write apps for App Engine as long as they keep App Engine restrictions in
 mind, e.g., no JOINs. Projects written in this manner will work without any
 modifications other than changing the configuration settings. On the other
-side, App Engine developers now have an alternative to the '"webapp" framework
+side, App Engine developers now have an alternative to the 'webapp" framework
 that comes with its SDK. You can now leverage the power of a full web
 framework like Django and still enjoy the flexibility and scalability of App
 Engine. In this talk, we'll discuss Django-nonrel, and how to port App Engine

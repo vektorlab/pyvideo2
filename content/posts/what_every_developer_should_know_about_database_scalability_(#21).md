@@ -7,7 +7,7 @@ Speakers: [Jonathan Ellis]
 Tags: [caching, distributeddatabases, partitioning, pycon, pycon2010, replication,
   scaling]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010WhatEveryDeveloperShouldKnowAboutDatabaseScalab945.png'
-Title: '"What every developer should know about database scalability (#21)"'
+Title: 'What every developer should know about database scalability (#21)'
 date: '2010-02-19'
 ---
 What every developer should know about database scalability

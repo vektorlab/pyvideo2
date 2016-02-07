@@ -2,11 +2,11 @@
 Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=_ExWz-j1ZhY"'
+SourceUrl: 'https://www.youtube.com/watch?v=_ExWz-j1ZhY'
 Speakers: [Gijs Molenaar]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/_ExWz-j1ZhY/hqdefault.jpg'
-Title: '"The Radio astronomical TRAnsient detection Pipeline (TRAP)"'
+Title: 'The Radio astronomical TRAnsient detection Pipeline (TRAP)'
 date: '2014-10-22'
 ---
 LOFAR, the Low Frequency Array, is an innovative new radio telescope in the Netherlands, which will continuously monitor the radio sky. The study of transient sources is one of the key science projects of LOFAR. Under this remit come all time-variable astronomical radio sources, including pulsars, gamma-ray bursts, X-ray binaries, radio supernovae, flare stars, and even exo-planets. With its continuous monitoring of a large area of sky, it is hoped that LOFAR will detect many new transient events, and provide alerts to the international community for follow-up observations at other wavelengths.

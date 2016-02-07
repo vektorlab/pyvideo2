@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Eric Gaumer]
 Tags: [pycon, pycon2011, pypes, stackless]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011LargeScaleDataConditioningProcessingWithStackl439.png'
-Title: '"Large Scale Data Conditioning &amp; Processing with Stackless Python and
-  Pypes"'
+Title: 'Large Scale Data Conditioning &amp; Processing with Stackless Python and
+  Pypes'
 date: '2011-03-11'
 ---
 Large Scale Data Conditioning & Processing with Stackless Python and Pypes

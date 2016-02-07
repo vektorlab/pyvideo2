@@ -2,11 +2,11 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=ud_E7D7l5Oc"'
+SourceUrl: 'https://www.youtube.com/watch?v=ud_E7D7l5Oc'
 Speakers: ["\xC9ric Alber", Yannick Jost]
 Tags: []
 ThumbnailUrl: ''
-Title: '"Brewery : mettez un Python dans votre robot !"'
+Title: 'Brewery : mettez un Python dans votre robot !'
 date: '2013-11-30'
 ---
 La BH Team participe depuis 7 ans à la Coupe de France de Robotique.

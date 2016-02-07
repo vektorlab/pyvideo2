@@ -2,11 +2,11 @@
 Category: 'PyCon US 2013'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=MoA0uLcXDFQ"'
+SourceUrl: 'https://www.youtube.com/watch?v=MoA0uLcXDFQ'
 Speakers: [Laurent Gautier]
 Tags: [poster]
 ThumbnailUrl: 'http://i.ytimg.com/vi/MoA0uLcXDFQ/hqdefault.jpg'
-Title: '"rpy2: Use R from the Comfort of Python"'
+Title: 'rpy2: Use R from the Comfort of Python'
 date: '2013-03-17'
 ---
 R has become hard to avoid when working with data; there is hardly a method in statistics or visualization that is not available, and there are many methods that are originally only available in R.

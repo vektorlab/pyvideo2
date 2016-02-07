@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=c16jwvOmKxM"'
+SourceUrl: 'https://www.youtube.com/watch?v=c16jwvOmKxM'
 Speakers: [Fraser Tweedale]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/c16jwvOmKxM/hqdefault.jpg'
-Title: '"Cooking with Cryptography"'
+Title: 'Cooking with Cryptography'
 date: '2015-08-17'
 ---
 The ``cryptography`` library emerged in 2014 with the goal of

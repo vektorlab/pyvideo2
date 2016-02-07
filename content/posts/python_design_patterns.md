@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=bPJKYrZjq10"'
+SourceUrl: 'http://www.youtube.com/watch?v=bPJKYrZjq10'
 Speakers: [Alex Martelli]
 Tags: [architecture, design, patterns]
 ThumbnailUrl: 'http://i.ytimg.com/vi/bPJKYrZjq10/hqdefault.jpg'
-Title: '"Python Design Patterns"'
+Title: 'Python Design Patterns'
 date: '2011-07-13'
 ---
 A completely misguided meme has long been going around: that Python doesn't

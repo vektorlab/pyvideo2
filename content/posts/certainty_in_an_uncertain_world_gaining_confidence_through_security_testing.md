@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=TmuEDxX1FDQ"'
+SourceUrl: 'https://www.youtube.com/watch?v=TmuEDxX1FDQ'
 Speakers: [Geremy Condra]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/TmuEDxX1FDQ/hqdefault.jpg'
-Title: '"Certainty in an Uncertain World: Gaining Confidence through Security Testing"'
+Title: 'Certainty in an Uncertain World: Gaining Confidence through Security Testing'
 date: '2012-03-09'
 ---
 Nobody thinks you have to be a performance expert to write performance tests-

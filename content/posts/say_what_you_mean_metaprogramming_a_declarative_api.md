@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=nRDC6GtfB4g"'
+SourceUrl: 'http://www.youtube.com/watch?v=nRDC6GtfB4g'
 Speakers: [Ryan F Kelly]
 Tags: [api, django, orm]
 ThumbnailUrl: 'http://i.ytimg.com/vi/nRDC6GtfB4g/hqdefault.jpg'
-Title: '"Say What You Mean: Meta-Programming a Declarative API"'
+Title: 'Say What You Mean: Meta-Programming a Declarative API'
 date: '2011-08-22'
 ---
 This talk will explore the use of python's meta-programming facilities to

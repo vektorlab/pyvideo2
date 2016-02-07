@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Michael Dunstan]
 Tags: [doctests, kiwipycon, kiwipycon2009, tdd, testing]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-KPC09T102MD300-535.jpg'
-Title: '"Michael Dunstan - Testing Demo"'
+Title: 'Michael Dunstan - Testing Demo'
 ---
 Testing Demo
 

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Carl Meyer]
 Tags: [chipy, ianbicking, pip, virtualenv]
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-ReverseengineeringIanBickingsBrainInsidePipAndVirtualenv225.png'
-Title: '"Reverse-engineering Ian Bicking''s brain: inside pip and virtualenv."'
+Title: 'Reverse-engineering Ian Bicking''s brain: inside pip and virtualenv.'
 date: '2011-02-10'
 ---
   * 1 [http://us.pycon.org/2011/schedule/sessions/198/](http://us.pycon.org/2011/schedule/sessions/198/)

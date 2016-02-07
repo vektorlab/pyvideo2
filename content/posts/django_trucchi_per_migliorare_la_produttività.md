@@ -2,7 +2,7 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
-SourceUrl: '"http://www.youtube.com/watch?v=TuCYD1qnNcw"'
+SourceUrl: 'http://www.youtube.com/watch?v=TuCYD1qnNcw'
 Speakers: [Simone Federici]
 Tags: [django, 'python,']
 ThumbnailUrl: 'http://i.ytimg.com/vi/TuCYD1qnNcw/hqdefault.jpg'

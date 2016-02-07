@@ -2,7 +2,7 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=-Wx3FToSPT8"'
+SourceUrl: 'https://www.youtube.com/watch?v=-Wx3FToSPT8'
 Speakers: [Christophe de Vienne]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/-Wx3FToSPT8/maxresdefault.jpg'

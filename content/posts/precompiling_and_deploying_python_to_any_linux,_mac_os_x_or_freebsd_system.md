@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=KKkuu_A6ZhQ"'
+SourceUrl: 'http://www.youtube.com/watch?v=KKkuu_A6ZhQ'
 Speakers: ["P\xE9ter Szab\xF3"]
 Tags: [dependencies]
 ThumbnailUrl: 'http://i.ytimg.com/vi/KKkuu_A6ZhQ/hqdefault.jpg'
-Title: '"Precompiling and deploying Python to any Linux, Mac OS X or FreeBSD system"'
+Title: 'Precompiling and deploying Python to any Linux, Mac OS X or FreeBSD system'
 date: '2011-07-13'
 ---
 If a Python application has lots of dependencies and requires specific

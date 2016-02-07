@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=TE7xo1Xk9Fo"'
+SourceUrl: 'https://www.youtube.com/watch?v=TE7xo1Xk9Fo'
 Speakers: [Valerio Maggio]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/TE7xo1Xk9Fo/maxresdefault.jpg'
-Title: '"Python 3 for Data Science: what works, what doesn''t"'
+Title: 'Python 3 for Data Science: what works, what doesn''t'
 date: '2015-05-30'
 ---
 In the last years, the Python programming language has engaged a 

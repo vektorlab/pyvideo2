@@ -2,7 +2,7 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=yNuEPXvZWg0"'
+SourceUrl: 'https://www.youtube.com/watch?v=yNuEPXvZWg0'
 Speakers: [Romain Guillebert]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/yNuEPXvZWg0/maxresdefault.jpg'

@@ -2,11 +2,11 @@
 Category: 'PyCon US 2013'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=Ft6-r_vksDI"'
+SourceUrl: 'https://www.youtube.com/watch?v=Ft6-r_vksDI'
 Speakers: [Various]
 Tags: [lightningtalks]
 ThumbnailUrl: 'http://i.ytimg.com/vi/Ft6-r_vksDI/hqdefault.jpg'
-Title: '"Lightning Talks - Saturday evening"'
+Title: 'Lightning Talks - Saturday evening'
 date: '2013-03-16'
 ---
 * [00:00](#t=0m) - Young Coders at PyCon 2013 - Katie Cunningham and Barbara Shaurette 

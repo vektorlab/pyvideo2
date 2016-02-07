@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=tbk0Mpj3SO8"'
+SourceUrl: 'http://www.youtube.com/watch?v=tbk0Mpj3SO8'
 Speakers: [A Bessas]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/tbk0Mpj3SO8/hqdefault.jpg'
-Title: '"Going International"'
+Title: 'Going International'
 date: '2012-07-04'
 ---
 The talk targets developers who wish to publish applications to an

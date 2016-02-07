@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Larry Hastings]
 Tags: [cpython, optimization, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010OptimizationsAndMicroOptimizationsInCPython38668.png'
-Title: '"Optimizations And Micro-Optimizations In CPython (#38)"'
+Title: 'Optimizations And Micro-Optimizations In CPython (#38)'
 date: '2010-02-19'
 ---
 Optimizations and Micro-Optimizations in CPython

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=83YIQwtXKzk"'
+SourceUrl: 'http://www.youtube.com/watch?v=83YIQwtXKzk'
 Speakers: [S Trygubenko]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/83YIQwtXKzk/hqdefault.jpg'
-Title: '"Functional functional programming in Python and even Haskell part 1"'
+Title: 'Functional functional programming in Python and even Haskell part 1'
 date: '2012-07-06'
 ---
 Reaping the benefits of functional programming can be a real challenge,

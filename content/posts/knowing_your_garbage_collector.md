@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=MaeS8VI_nvk"'
+SourceUrl: 'https://www.youtube.com/watch?v=MaeS8VI_nvk'
 Speakers: ["Francisco Fern\xE1ndez Casta\xF1o"]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/MaeS8VI_nvk/maxresdefault.jpg'
-Title: '"Knowing your Garbage collector"'
+Title: 'Knowing your Garbage collector'
 date: '2015-05-29'
 ---
 As Python programmers we’re used to program without taking care about allocating memory for our objects and later on freeing them, Python garbage collector takes care of this task automatically for us.

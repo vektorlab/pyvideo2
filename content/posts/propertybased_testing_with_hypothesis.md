@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://youtu.be/mg5BeeYGjY0"'
+SourceUrl: 'http://youtu.be/mg5BeeYGjY0'
 Speakers: [Jeremy Thurgood]
 Tags: [Room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/mg5BeeYGjY0/hqdefault.jpg'
-Title: '"Property-based testing with Hypothesis"'
+Title: 'Property-based testing with Hypothesis'
 date: '2015-10-02'
 ---
 Unit testing can be more effective and less tedious when you have an army of robot monkeys at your disposal. Why should humans have to worry about finding the particular combination of Turkish and Tengwar that crashes the serialiser, or the convoluted sequence of operations that corrupts the database?

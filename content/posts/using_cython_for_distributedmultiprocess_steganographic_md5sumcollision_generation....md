@@ -2,12 +2,12 @@
 Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=Dj9_EIlc_NU"'
+SourceUrl: 'http://www.youtube.com/watch?v=Dj9_EIlc_NU'
 Speakers: [Tom Eastman]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/Dj9_EIlc_NU/hqdefault.jpg'
-Title: '"Using Cython for distributed-multiprocess steganographic md5sum-collision
-  generation..."'
+Title: 'Using Cython for distributed-multiprocess steganographic md5sum-collision
+  generation...'
 date: '2013-09-13'
 ---
 @ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 2

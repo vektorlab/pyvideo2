@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=399c-ycBvo4"'
+SourceUrl: 'https://www.youtube.com/watch?v=399c-ycBvo4'
 Speakers: [Brandon Rhodes]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/399c-ycBvo4/hqdefault.jpg'
-Title: '"Flexing SQLAlchemy''s Relational Power"'
+Title: 'Flexing SQLAlchemy''s Relational Power'
 date: '2012-03-10'
 ---
 How do you take the big step from casual SQLAlchemy user, who treats your

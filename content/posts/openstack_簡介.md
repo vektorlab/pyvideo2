@@ -2,7 +2,7 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'Chinese'
-SourceUrl: '"https://www.youtube.com/watch?v=Fh2K7kkF7NM"'
+SourceUrl: 'https://www.youtube.com/watch?v=Fh2K7kkF7NM'
 Speakers: [Kao Kuo-Tung]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Fh2K7kkF7NM/hqdefault.jpg'

@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=PKAdehPHOMo"'
+SourceUrl: 'https://www.youtube.com/watch?v=PKAdehPHOMo'
 Speakers: [Mike Bayer]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/PKAdehPHOMo/hqdefault.jpg'
-Title: '"The SQLAlchemy Session - In Depth "'
+Title: 'The SQLAlchemy Session - In Depth '
 date: '2012-11-10'
 ---
 A detailed walkthrough of SQLAlchemy's Session, describing the rationale for

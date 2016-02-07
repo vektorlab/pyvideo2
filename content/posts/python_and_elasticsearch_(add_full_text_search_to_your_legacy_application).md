@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"http://youtu.be/FM2e2J7OJpM"'
+SourceUrl: 'http://youtu.be/FM2e2J7OJpM'
 Speakers: [Benoit Chabord]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/FM2e2J7OJpM/hqdefault.jpg'
-Title: '"Python and Elasticsearch (Add Full Text Search to your legacy application)"'
+Title: 'Python and Elasticsearch (Add Full Text Search to your legacy application)'
 date: '2015-09-05'
 ---
 At GrabOne we started to use Elasticsearch a year ago and integrate it with Django. The transition was pretty smooth.

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
-SourceUrl: '"http://www.youtube.com/watch?v=l7e6NmyWclM"'
+SourceUrl: 'http://www.youtube.com/watch?v=l7e6NmyWclM'
 Speakers: [Federico Caboni]
 Tags: [ci, framework, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/l7e6NmyWclM/hqdefault.jpg'
-Title: '"Gestione di processi clinici in Python: un caso d''uso"'
+Title: 'Gestione di processi clinici in Python: un caso d''uso'
 date: '2011-07-18'
 ---
 In questo seminario descriverò la nostra esperienza positiva d'uso di Python

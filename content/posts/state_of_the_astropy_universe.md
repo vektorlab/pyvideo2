@@ -2,11 +2,11 @@
 Category: 'EuroScipy 2014'
 Copyright: 'youtube'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=LwwVTfyL7_o"'
+SourceUrl: 'https://www.youtube.com/watch?v=LwwVTfyL7_o'
 Speakers: [Christoph Deil]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/LwwVTfyL7_o/hqdefault.jpg'
-Title: '"State of the Astropy universe"'
+Title: 'State of the Astropy universe'
 date: '2014-10-22'
 ---
 The [Astropy Project](http://www.astropy.org/) is a community effort to develop a single core package

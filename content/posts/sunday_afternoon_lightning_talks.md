@@ -7,7 +7,7 @@ Speakers: []
 Tags: [adventure, askbot, flufl.enum, foss@rit, fudge, minuteman, moe, pmc, protobuf,
   pycon, pycon2011, python2to3, pyweek, twiggy, universalsubtitles]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011SundayAfternoonLightningTalks799-486.jpg'
-Title: '"Sunday Afternoon Lightning Talks"'
+Title: 'Sunday Afternoon Lightning Talks'
 date: '2011-03-11'
 ---
 Sunday Afternoon Lightning Talks

@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/g0bZA9K2A84"'
+SourceUrl: 'http://youtu.be/g0bZA9K2A84'
 Speakers: [Beau Butler]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/g0bZA9K2A84/hqdefault.jpg'
-Title: '"Intro to flask-security"'
+Title: 'Intro to flask-security'
 date: '2014-09-13'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

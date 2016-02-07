@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=HSJVNFr0GzY"'
+SourceUrl: 'https://www.youtube.com/watch?v=HSJVNFr0GzY'
 Speakers: [Davide Setti]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/HSJVNFr0GzY/maxresdefault.jpg'
-Title: '"Un programmatore python tra gli elefanti (di Hadoop)"'
+Title: 'Un programmatore python tra gli elefanti (di Hadoop)'
 date: '2015-05-29'
 ---
 Una vita idilliaca tra list comprehension e generator, senza preoccuparti troppo dei tipi. Sei felice. E poi arriva lui. Hadoop. Ma tu non devi abbatterti. C’è speranza. Come sopravvivere in un ecosistema Java?

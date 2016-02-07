@@ -7,7 +7,7 @@ Speakers: []
 Tags: [argparse, blist, cluemapper, ctypes, launchpad, moments, plone, pycon, pycon2009,
   pyjamas, python31, sitechecker, testing, twill, zope]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PlenaryAfternoonLightningTalks527-348.jpg'
-Title: '"PyCon 2009: Plenary: Afternoon Lightning Talks"'
+Title: 'PyCon 2009: Plenary: Afternoon Lightning Talks'
 ---
 Plenary: Afternoon Lightning Talks
 

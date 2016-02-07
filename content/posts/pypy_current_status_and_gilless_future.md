@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=x6OL88pzjHQ"'
+SourceUrl: 'http://www.youtube.com/watch?v=x6OL88pzjHQ'
 Speakers: [A Cuni, Armin Rigo, M Fijalkowski]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/x6OL88pzjHQ/hqdefault.jpg'
-Title: '"Pypy: current status and gil-less future"'
+Title: 'Pypy: current status and gil-less future'
 date: '2012-07-04'
 ---
 In the first part of the keynote we will present the current status of PyPy,

@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=ifF1gzAHX44"'
+SourceUrl: 'http://www.youtube.com/watch?v=ifF1gzAHX44'
 Speakers: [Duncan Macneil]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/ifF1gzAHX44/hqdefault.jpg'
-Title: '"Python Lifesavers"'
+Title: 'Python Lifesavers'
 date: '2012-08-22'
 ---
 Every now and then you'll find yourself with one of life's tricky situations.

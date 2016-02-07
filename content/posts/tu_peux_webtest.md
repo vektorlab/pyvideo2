@@ -2,11 +2,11 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=prFLLfKQ9Do"'
+SourceUrl: 'https://www.youtube.com/watch?v=prFLLfKQ9Do'
 Speakers: [Gael Pasgrimaud]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/prFLLfKQ9Do/maxresdefault.jpg'
-Title: '"Tu peux webtest"'
+Title: 'Tu peux webtest'
 date: '2013-11-30'
 ---
 WebTest est une librairie framework agnostique permettant de tester n'importe quelle application WSGI et plus encore.

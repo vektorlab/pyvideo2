@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=6NUBO1DDQAY"'
+SourceUrl: 'https://www.youtube.com/watch?v=6NUBO1DDQAY'
 Speakers: [Tennessee Leeuwenburg]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/6NUBO1DDQAY/hqdefault.jpg'
-Title: '"Sprinting For Beginners"'
+Title: 'Sprinting For Beginners'
 date: '2015-08-04'
 ---
 What do sprinters eat before a race?

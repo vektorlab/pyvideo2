@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=PSeSWINJ5YM"'
+SourceUrl: 'http://www.youtube.com/watch?v=PSeSWINJ5YM'
 Speakers: [Alan Franzoni]
 Tags: [design, maintenance, xml]
 ThumbnailUrl: 'http://i.ytimg.com/vi/PSeSWINJ5YM/hqdefault.jpg'
-Title: '"Dependency injection is your friend"'
+Title: 'Dependency injection is your friend'
 date: '2011-07-07'
 ---
 Dependency injection is a technique that has been around since long, and it's

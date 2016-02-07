@@ -7,7 +7,7 @@ Speakers: []
 Tags: [deployment, loadbalancing, pycon, pycon2010, replication, scaling, turbogears,
   wsgi]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010DesigningToScaleTheStoryOfShootQ5229.png'
-Title: '"Designing to Scale: The Story of ShootQ (#5)"'
+Title: 'Designing to Scale: The Story of ShootQ (#5)'
 date: '2010-02-19'
 ---
 Designing to Scale: The story of ShootQ

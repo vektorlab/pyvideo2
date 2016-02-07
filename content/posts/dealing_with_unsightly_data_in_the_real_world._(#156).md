@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Alexander Dutton]
 Tags: [pycon, pycon2010, scraping, web]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010DealingWithUnsightlyDataInTheRealWorld156210-8.jpg'
-Title: '"Dealing with unsightly data in the real world. (#156)"'
+Title: 'Dealing with unsightly data in the real world. (#156)'
 date: '2010-02-19'
 ---
 Dealing with unsightly data in the real world

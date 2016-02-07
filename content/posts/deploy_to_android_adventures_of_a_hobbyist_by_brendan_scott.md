@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=4KPcBOpC-rw"'
+SourceUrl: 'http://www.youtube.com/watch?v=4KPcBOpC-rw'
 Speakers: [Brendan Scott]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/4KPcBOpC-rw/hqdefault.jpg'
-Title: '"Deploy to Android: Adventures of a Hobbyist by Brendan Scott"'
+Title: 'Deploy to Android: Adventures of a Hobbyist by Brendan Scott'
 date: '2014-08-09'
 ---
 Writing a program in Python targeting the Android environment is well within your reach with the use of third party kits such as Kivy and the Pygame Subset for Android.  

@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=HMG_rUtwbkk"'
+SourceUrl: 'https://www.youtube.com/watch?v=HMG_rUtwbkk'
 Speakers: [Christian Heimes]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/HMG_rUtwbkk/hqdefault.jpg'

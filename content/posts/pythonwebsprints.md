@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=sX5zuqomc14"'
+SourceUrl: 'https://www.youtube.com/watch?v=sX5zuqomc14'
 Speakers: [Christian Theune, Veit Schiele]
 Tags: [sprint, ' web-anwendungen']
 ThumbnailUrl: 'http://i4.ytimg.com/vi/sX5zuqomc14/hqdefault.jpg'
-Title: '"Python-Web-Sprints"'
+Title: 'Python-Web-Sprints'
 date: '2012-11-01'
 ---
 Seit April 2011 finden regelmäßig dreitägige Sprints zu verschiedenen Themen

@@ -7,7 +7,7 @@ Speakers: []
 Tags: [bsddb, databases, excel, flatfile, hdf5, netcdf, pickle, pycon, pycon2009,
   serialization, zodb]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-DataStorageInPythonAnOverviewOfOptionsPart003803-876.jpg'
-Title: '"PyCon 2009: Data Storage in Python - An Overview of Options (Part 3 of 3)"'
+Title: 'PyCon 2009: Data Storage in Python - An Overview of Options (Part 3 of 3)'
 ---
   
 There are many possibilities in Python to store data. This tutorials explores

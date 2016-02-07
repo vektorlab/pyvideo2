@@ -7,7 +7,7 @@ Speakers: ["Tarek Ziad\xE9"]
 Tags: [distribute, distutils, easy_install, packaging, pip, pycon, pycon2010, pypi,
   setuptools]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010TheStateOfPackaging63241-136.jpg'
-Title: '"The state of Packaging (#63)"'
+Title: 'The state of Packaging (#63)'
 date: '2010-02-19'
 ---
 The state of Packaging

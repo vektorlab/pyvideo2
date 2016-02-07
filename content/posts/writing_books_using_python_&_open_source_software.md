@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=1QTMeb9m_lE"'
+SourceUrl: 'http://www.youtube.com/watch?v=1QTMeb9m_lE'
 Speakers: [wesley chun]
 Tags: [cd, html, testing, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/1QTMeb9m_lE/hqdefault.jpg'
-Title: '"Writing Books using Python & Open Source Software"'
+Title: 'Writing Books using Python & Open Source Software'
 date: '2011-07-13'
 ---
 All of us are familiar with using open source tools to develop software

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=GyC7ilNTNiY"'
+SourceUrl: 'http://www.youtube.com/watch?v=GyC7ilNTNiY'
 Speakers: [Simon Willison]
 Tags: [django, monitoring, performance, redis, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/GyC7ilNTNiY/hqdefault.jpg'
-Title: '"Challenges in developing a large Django site"'
+Title: 'Challenges in developing a large Django site'
 date: '2011-07-18'
 ---
 Django makes it easy to build web sites and applications on tight deadlines -

@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://archive.org/details/pyconza2014-raspberry-pi-internet-of-things"'
+SourceUrl: 'http://archive.org/details/pyconza2014-raspberry-pi-internet-of-things'
 Speakers: [Neil Broers]
 Tags: [pyconza, pyconza2014]
 ThumbnailUrl: 'http://archive.org/download/pyconza2014-raspberry-pi-internet-of-things/pyconza2014-raspberry-pi-internet-of-things.thumbs/4%20A%20Building%20the%20Internet%20of%20Things%20with%20Raspberry%20Pi-_001350.jpg'
-Title: '"Building the Internet of Things with Raspberry Pi"'
+Title: 'Building the Internet of Things with Raspberry Pi'
 date: '2014-10-02'
 ---
 With the advent of the low cost Raspberry Pi computer, anyone with a soldering iron and some basic Python skills can take everyday objects and transform them into fully networked, smart devices.

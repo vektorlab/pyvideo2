@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/hUP27HAtSOc"'
+SourceUrl: 'http://youtu.be/hUP27HAtSOc'
 Speakers: [Xuanyi Chew]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/hUP27HAtSOc/hqdefault.jpg'
-Title: '"Exploring The Philosophy of Programming"'
+Title: 'Exploring The Philosophy of Programming'
 date: '2014-09-13'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

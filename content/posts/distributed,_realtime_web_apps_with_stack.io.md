@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=VWe5dosKL6g"'
+SourceUrl: 'https://www.youtube.com/watch?v=VWe5dosKL6g'
 Speakers: [Gabriel Grant]
 Tags: []
 ThumbnailUrl: 'http://i3.ytimg.com/vi/VWe5dosKL6g/hqdefault.jpg'
-Title: '"Distributed, Real-time Web Apps with Stack.io"'
+Title: 'Distributed, Real-time Web Apps with Stack.io'
 date: '2012-11-11'
 ---
 Stack.io[1] is an open-source tool to quickly build real-time web apps. By

@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=_BSipQpaoRg"'
+SourceUrl: 'https://www.youtube.com/watch?v=_BSipQpaoRg'
 Speakers: [Ivan Rossi]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/_BSipQpaoRg/maxresdefault.jpg'
-Title: '"Genome annotation@BioDec: python all over the place."'
+Title: 'Genome annotation@BioDec: python all over the place.'
 date: '2015-05-29'
 ---
 The talk will briefly describe BioDec’s genome annotation pipeline, which has

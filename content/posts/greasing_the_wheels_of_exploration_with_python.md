@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Michael Sims]
 Tags: [casestudy, mer, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011GreasingTheWheelsOfExplorationWithPython860-969.jpg'
-Title: '"Greasing the Wheels of Exploration with Python"'
+Title: 'Greasing the Wheels of Exploration with Python'
 date: '2011-03-11'
 ---
 The Mars Exploration Rovers (MER), Spirit and Opportunity, have been roaming

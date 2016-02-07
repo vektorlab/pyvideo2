@@ -2,7 +2,7 @@
 Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"http://youtu.be/7b4z7y6Lohw"'
+SourceUrl: 'http://youtu.be/7b4z7y6Lohw'
 Speakers: [Cory Benfield]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/7b4z7y6Lohw/hqdefault.jpg'

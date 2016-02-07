@@ -6,8 +6,8 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Nick Hodge]
 Tags: [keynote, pyconau, pyconau2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pyconau-KeynoteNickHodgeIronPythonTheQuestForTheHolyGrail836.png'
-Title: '"PyConAU 2010: Keynote: Nick Hodge; &quot;IronPython &amp; The Quest for the
-  Holy Grail&quot;"'
+Title: 'PyConAU 2010: Keynote: Nick Hodge; &quot;IronPython &amp; The Quest for the
+  Holy Grail&quot;'
 ---
 Keynote: Nick Hodge, "IronPython & The Quest for the Holy Grail"
 

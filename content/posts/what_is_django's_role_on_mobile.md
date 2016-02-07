@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=3_R3DYwBWyY"'
+SourceUrl: 'http://www.youtube.com/watch?v=3_R3DYwBWyY'
 Speakers: [Eric Florenzano]
 Tags: [django, mobile]
 ThumbnailUrl: 'http://i.ytimg.com/vi/3_R3DYwBWyY/hqdefault.jpg'
-Title: '"What is Django''s Role on Mobile?"'
+Title: 'What is Django''s Role on Mobile?'
 date: '2012-09-05'
 ---
 # Intro

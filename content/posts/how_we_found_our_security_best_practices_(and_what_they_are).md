@@ -2,11 +2,11 @@
 Category: 'DjangoCon 2012'
 Copyright: 'Creative Commons Attribution license (reuse allowed'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=Wb83VL3k3zo"'
+SourceUrl: 'http://www.youtube.com/watch?v=Wb83VL3k3zo'
 Speakers: [James Socol]
 Tags: [django, security]
 ThumbnailUrl: 'http://i.ytimg.com/vi/Wb83VL3k3zo/hqdefault.jpg'
-Title: '"How we found our security best practices (and what they are)"'
+Title: 'How we found our security best practices (and what they are)'
 date: '2012-09-04'
 ---
 Privacy and security are key parts of Mozilla's mission, and we build some of

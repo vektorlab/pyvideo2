@@ -2,7 +2,7 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=xi2y-4Uxwek"'
+SourceUrl: 'https://www.youtube.com/watch?v=xi2y-4Uxwek'
 Speakers: [Alessandro Molina]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/xi2y-4Uxwek/maxresdefault.jpg'

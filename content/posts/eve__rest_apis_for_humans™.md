@@ -2,7 +2,7 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=9sUsLvG72_o"'
+SourceUrl: 'http://www.youtube.com/watch?v=9sUsLvG72_o'
 Speakers: [Nicola Iarocci]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/9sUsLvG72_o/hqdefault.jpg'

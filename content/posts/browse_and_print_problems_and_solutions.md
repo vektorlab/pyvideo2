@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=ilwSRRLlOnE"'
+SourceUrl: 'http://www.youtube.com/watch?v=ilwSRRLlOnE'
 Speakers: [Jonathan Fine]
 Tags: [accessibility, sphinx, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/ilwSRRLlOnE/hqdefault.jpg'
-Title: '"Browse and print problems and solutions"'
+Title: 'Browse and print problems and solutions'
 date: '2012-02-27'
 ---
 With the growth of the web, how we publish is changing. Paper alone is not

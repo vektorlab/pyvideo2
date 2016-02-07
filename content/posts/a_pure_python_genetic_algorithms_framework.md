@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=YYDdBv430sU"'
+SourceUrl: 'https://www.youtube.com/watch?v=YYDdBv430sU'
 Speakers: [Ashwin Panchapakesan]
 Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/YYDdBv430sU/hqdefault.jpg'
-Title: '"A Pure Python Genetic Algorithms Framework"'
+Title: 'A Pure Python Genetic Algorithms Framework'
 date: '2012-11-11'
 ---
 Genetic algorithms are a class of evolutionary algorithms, which have been

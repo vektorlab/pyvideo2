@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2013'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=yiBCb6Z2jKo"'
+SourceUrl: 'https://www.youtube.com/watch?v=yiBCb6Z2jKo'
 Speakers: [Schlomo Schapiro]
 Tags: [geld, kultur, open-source, politik, wirtschaft]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/yiBCb6Z2jKo/hqdefault.jpg'

@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://archive.org/details/pyconza2014-practical-testing"'
+SourceUrl: 'http://archive.org/details/pyconza2014-practical-testing'
 Speakers: [Jeremy Thurgood]
 Tags: [pyconza, pyconza2014]
 ThumbnailUrl: 'http://archive.org/download/pyconza2014-practical-testing/pyconza2014-practical-testing.thumbs/13%20B%20Practical%20testing-_002130.jpg'
-Title: '"Practical testing"'
+Title: 'Practical testing'
 date: '2014-10-03'
 ---
 Automated tests are an important part of any software project, but they're often hard to work with. Good test code should be written with its own set of priorities and is sufficiently different from non-test code that many standard programming practices are unsuitable.

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=NXcWrxzq5KI"'
+SourceUrl: 'http://www.youtube.com/watch?v=NXcWrxzq5KI'
 Speakers: [Yves Hilpisch]
 Tags: [architecture, engineering, numpy, performance, simulation]
 ThumbnailUrl: 'http://i.ytimg.com/vi/NXcWrxzq5KI/hqdefault.jpg'
-Title: '"Derivatives Analytics with Python & Numpy"'
+Title: 'Derivatives Analytics with Python & Numpy'
 date: '2011-07-13'
 ---
 In financial engineering and derivatives analytics, C/C++/Java/VBA and other

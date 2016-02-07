@@ -2,7 +2,7 @@
 Category: 'PyCon APAC 2014'
 Copyright: 'creativeCommon'
 Language: 'Chinese'
-SourceUrl: '"https://www.youtube.com/watch?v=1eBOhyWkHgE"'
+SourceUrl: 'https://www.youtube.com/watch?v=1eBOhyWkHgE'
 Speakers: [Andy Dai]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/1eBOhyWkHgE/hqdefault.jpg'

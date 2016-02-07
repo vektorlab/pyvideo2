@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Kumar McMillan]
 Tags: [chipy, playdoh]
 ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-Playdoh611.png'
-Title: '"Playdoh"'
+Title: 'Playdoh'
 date: '2011-07-14'
 ---
 Playdoh is Mozilla's starter kit for new Django projects. It aims to be

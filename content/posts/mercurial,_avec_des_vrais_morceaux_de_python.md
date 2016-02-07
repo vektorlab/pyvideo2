@@ -2,11 +2,11 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=AWuomjXDsO0"'
+SourceUrl: 'https://www.youtube.com/watch?v=AWuomjXDsO0'
 Speakers: ["Alexis M\xE9taireau", Pierre-Yves David]
 Tags: []
 ThumbnailUrl: ''
-Title: '"Mercurial, avec des vrais morceaux de python"'
+Title: 'Mercurial, avec des vrais morceaux de python'
 date: '2013-11-30'
 ---
 Mercurial, avec des vrais morceaux de python dedans

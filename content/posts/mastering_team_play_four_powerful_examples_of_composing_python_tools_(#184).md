@@ -7,7 +7,7 @@ Speakers: [Raymond Hettinger]
 Tags: [bisect, dequeues, frozensets, heapq, lists, pycon, pycon2010, sets, sorts,
   weakreferences]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010MasteringTeamPlayFourPowerfulExamplesOfComposin150.png'
-Title: '"Mastering Team Play: Four powerful examples of composing Python tools (#184)"'
+Title: 'Mastering Team Play: Four powerful examples of composing Python tools (#184)'
 date: '2010-02-19'
 ---
 Mastering Team Play: Four powerful examples of composing Python tools

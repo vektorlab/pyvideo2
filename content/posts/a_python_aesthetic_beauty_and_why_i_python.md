@@ -2,7 +2,7 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=x-kB2o8sd5c"'
+SourceUrl: 'https://www.youtube.com/watch?v=x-kB2o8sd5c'
 Speakers: [Brandon Rhodes]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/x-kB2o8sd5c/hqdefault.jpg'

@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=FAYXjnwCYrU"'
+SourceUrl: 'https://www.youtube.com/watch?v=FAYXjnwCYrU'
 Speakers: []
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/FAYXjnwCYrU/maxresdefault.jpg'
-Title: '"The meta API by Daniel Pyrathon 1"'
+Title: 'The meta API by Daniel Pyrathon 1'
 date: '2015-05-29'
 ---
 The Meta API is the core part of Django that enables introspection of the ORM with the rest of the system. The API allows different parts of the framework such as lookups, queries, forms, admin to understand and use the capabilities of every model.

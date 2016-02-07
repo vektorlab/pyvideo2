@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/Dg5TSfLHW3Q"'
+SourceUrl: 'http://youtu.be/Dg5TSfLHW3Q'
 Speakers: [Juergen Brendel]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/Dg5TSfLHW3Q/hqdefault.jpg'
-Title: '"Deploying test and production systems with Ansible"'
+Title: 'Deploying test and production systems with Ansible'
 date: '2014-09-14'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

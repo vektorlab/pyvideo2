@@ -2,11 +2,11 @@
 Category: 'PyCon CA 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=MhsbivEDTds"'
+SourceUrl: 'https://www.youtube.com/watch?v=MhsbivEDTds'
 Speakers: [Karen Bennet]
 Tags: []
 ThumbnailUrl: 'http://i2.ytimg.com/vi/MhsbivEDTds/hqdefault.jpg'
-Title: '"Integrating Geocode Data  with Python"'
+Title: 'Integrating Geocode Data  with Python'
 date: '2012-11-11'
 ---
 This talk will showcase the integration of Google Map API, Maptronics and

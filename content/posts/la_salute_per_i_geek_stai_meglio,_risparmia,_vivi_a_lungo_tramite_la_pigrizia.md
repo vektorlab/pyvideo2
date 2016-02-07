@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=-tbmih_I040"'
+SourceUrl: 'http://www.youtube.com/watch?v=-tbmih_I040'
 Speakers: [Nicola Larosa]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/-tbmih_I040/hqdefault.jpg'
-Title: '"La salute per i geek: stai meglio, risparmia, vivi a lungo tramite la pigrizia"'
+Title: 'La salute per i geek: stai meglio, risparmia, vivi a lungo tramite la pigrizia'
 date: '2012-07-05'
 ---
 Prenditi cura della cosa piÃ¹ importante, il benessere psicofisico, e fallo in

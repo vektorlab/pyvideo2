@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=bTXert2uRco"'
+SourceUrl: 'https://www.youtube.com/watch?v=bTXert2uRco'
 Speakers: [Ricardo Kirkner]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/bTXert2uRco/hqdefault.jpg'
-Title: '"Using fabric to standardize the development process"'
+Title: 'Using fabric to standardize the development process'
 date: '2012-03-10'
 ---
 By ensuring consistency and repeatability in setting up the development

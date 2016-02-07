@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [distutils, distutils2, pycon, pycon2011, setup.py, setuptools, zc.buildout]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011PackagingFromDistutilsToDistutils2901.png'
-Title: '"Packaging, from Distutils to Distutils2"'
+Title: 'Packaging, from Distutils to Distutils2'
 date: '2011-03-11'
 ---
 Packaging, from Distutils to Distutils2

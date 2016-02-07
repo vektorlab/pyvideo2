@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=xlVCtmbIYNE"'
+SourceUrl: 'http://www.youtube.com/watch?v=xlVCtmbIYNE'
 Speakers: [Achiel van der Mandele]
 Tags: [architecture, cloud, hosting, real-time, scalable, technology]
 ThumbnailUrl: 'http://i.ytimg.com/vi/xlVCtmbIYNE/hqdefault.jpg'
-Title: '"Leveraging an instant messaging protocol to build a scalable cloud architecture"'
+Title: 'Leveraging an instant messaging protocol to build a scalable cloud architecture'
 date: '2011-07-13'
 ---
 XMPP is an open technology for real-time communication. Although primarily

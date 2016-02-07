@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Jorge L Vargas]
 Tags: [mongodb, pycon, pycon2010, sprox, sqlalchemy]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010SproxDataDrivenWebDevelopment137727.png'
-Title: '"Sprox: data driven web development (#137)"'
+Title: 'Sprox: data driven web development (#137)'
 date: '2010-02-19'
 ---
 Sprox: data driven web development

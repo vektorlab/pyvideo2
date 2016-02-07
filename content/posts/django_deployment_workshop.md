@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Jacob Kaplan-Moss]
 Tags: [pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-DjangoDeploymentWorkshop734-407.jpg'
-Title: '"Django Deployment Workshop"'
+Title: 'Django Deployment Workshop'
 date: '2010-02-19'
 ---
 Django Deployment Workshop

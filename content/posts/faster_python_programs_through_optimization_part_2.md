@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=vaA0ohGKARY"'
+SourceUrl: 'http://www.youtube.com/watch?v=vaA0ohGKARY'
 Speakers: [M Mollerv]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/vaA0ohGKARY/hqdefault.jpg'
-Title: '"Faster python programs through optimization part 2"'
+Title: 'Faster python programs through optimization part 2'
 date: '2012-07-05'
 ---
 Objective This tutorial provides an overview of techniques to improve the

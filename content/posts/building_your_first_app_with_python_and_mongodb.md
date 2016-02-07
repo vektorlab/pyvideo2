@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=FLIEJt6IymY"'
+SourceUrl: 'http://www.youtube.com/watch?v=FLIEJt6IymY'
 Speakers: [Ross Lawley]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/FLIEJt6IymY/hqdefault.jpg'
-Title: '"Building your first app with python and MongoDB"'
+Title: 'Building your first app with python and MongoDB'
 date: '2012-07-06'
 ---
 MongoDB - from “humongous” - is an open source, non-relational, document-

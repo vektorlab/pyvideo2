@@ -2,12 +2,12 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=PcopX_ney0g"'
+SourceUrl: 'http://www.youtube.com/watch?v=PcopX_ney0g'
 Speakers: [A Molina]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/PcopX_ney0g/hqdefault.jpg'
-Title: '"Building a full featured Python Web Application in 10 minutes with turbogears2
-  pluggable extensions part 2"'
+Title: 'Building a full featured Python Web Application in 10 minutes with turbogears2
+  pluggable extensions part 2'
 date: '2012-07-06'
 ---
 The TurboGears 2.1 release series has deeply focused on speeding up the

@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=Eis-WqHda20"'
+SourceUrl: 'http://www.youtube.com/watch?v=Eis-WqHda20'
 Speakers: ["Domen Ko\u017Ear"]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/Eis-WqHda20/hqdefault.jpg'
-Title: '"Rethinking packaging, development and deployment"'
+Title: 'Rethinking packaging, development and deployment'
 date: '2014-07-22'
 ---
 Python is often mixed with other languages in development stack, nowadays it's hard to escape any JavaScript dependencies. If you add some C dependencies such as GStreamer to the stack, packaging becomes a burden.

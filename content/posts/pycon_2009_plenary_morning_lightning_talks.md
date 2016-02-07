@@ -9,7 +9,7 @@ Speakers: [Adam Fast, Charles Severance, Christopher Allan Webber, JIm Fulton, J
 Tags: [appengine, chriswebber, geodjango, informatics, jsqt, launchpad, miro, pickling,
   plone, plyne, pycon, pycon2009, pylons, stackoverflow, zc.buildout, zope]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PlenaryMorningLightningTalks730-226.jpg'
-Title: '"PyCon 2009: Plenary: Morning Lightning Talks"'
+Title: 'PyCon 2009: Plenary: Morning Lightning Talks'
 ---
   * (00:20) GeoDjango - Justin Bronn 
   * (05:50) What's up with Zope - Martijn Faassen 

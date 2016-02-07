@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=jUrgMpBkynI"'
+SourceUrl: 'http://www.youtube.com/watch?v=jUrgMpBkynI'
 Speakers: [Todd Trichler]
 Tags: [database, performance, virtualbox]
 ThumbnailUrl: 'http://i.ytimg.com/vi/jUrgMpBkynI/hqdefault.jpg'
-Title: '"Python + Oracle = Prosperity & Performance"'
+Title: 'Python + Oracle = Prosperity & Performance'
 date: '2011-07-18'
 ---
 Have you ever wanted or perhaps needed to access data stored in a corporate

@@ -2,7 +2,7 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=fdM2PQSXlTc"'
+SourceUrl: 'https://www.youtube.com/watch?v=fdM2PQSXlTc'
 Speakers: [Daniel Havlik]
 Tags: [' css', fanstatic, ' javascript']
 ThumbnailUrl: 'http://i3.ytimg.com/vi/fdM2PQSXlTc/hqdefault.jpg'

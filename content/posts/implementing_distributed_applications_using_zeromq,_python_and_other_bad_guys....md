@@ -2,12 +2,12 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=pYlKLaqlFj8"'
+SourceUrl: 'http://www.youtube.com/watch?v=pYlKLaqlFj8'
 Speakers: [Francesco Crippa]
 Tags: [design, distributed, zeromq]
 ThumbnailUrl: 'http://i.ytimg.com/vi/pYlKLaqlFj8/hqdefault.jpg'
-Title: '"Implementing distributed applications using ZeroMQ, Python and other bad
-  guys..."'
+Title: 'Implementing distributed applications using ZeroMQ, Python and other bad
+  guys...'
 date: '2011-07-13'
 ---
 Cloud Computing and Large Scale environments require sometime applications

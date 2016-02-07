@@ -2,7 +2,7 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=gk9H_nEPRo8"'
+SourceUrl: 'https://www.youtube.com/watch?v=gk9H_nEPRo8'
 Speakers: [Michael Scherer]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/gk9H_nEPRo8/maxresdefault.jpg'

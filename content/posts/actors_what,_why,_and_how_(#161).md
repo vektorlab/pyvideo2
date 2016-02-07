@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Donovan Preston]
 Tags: [concurrency, eventlet, infrastructure, pycon, pycon2010, rest, scaling, wsgi]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010ActorsWhatWhyAndHow161560.png'
-Title: '"Actors: What, Why, and How (#161)"'
+Title: 'Actors: What, Why, and How (#161)'
 date: '2010-02-19'
 ---
 Actors: What, Why and How

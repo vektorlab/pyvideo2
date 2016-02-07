@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=FITsetDUKJ0"'
+SourceUrl: 'http://www.youtube.com/watch?v=FITsetDUKJ0'
 Speakers: [Denis Bilenko]
 Tags: [gevent, network, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/FITsetDUKJ0/hqdefault.jpg'
-Title: '"Introduction to Gevent"'
+Title: 'Introduction to Gevent'
 date: '2011-07-21'
 ---
 [Gevent](http://gevent.org) is a coroutine-based library that enables you to

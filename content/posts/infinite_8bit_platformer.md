@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=qv-BGCFRP4Q"'
+SourceUrl: 'http://www.youtube.com/watch?v=qv-BGCFRP4Q'
 Speakers: [Chris McCormick]
 Tags: [pygame]
 ThumbnailUrl: 'http://i.ytimg.com/vi/qv-BGCFRP4Q/hqdefault.jpg'
-Title: '"Infinite 8-bit Platformer"'
+Title: 'Infinite 8-bit Platformer'
 date: '2011-08-22'
 ---
 Infinite 8-bit Platformer is a Free Software multiplayer user-created-content

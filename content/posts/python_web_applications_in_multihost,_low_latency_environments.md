@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=I_HqPjl6quo"'
+SourceUrl: 'http://www.youtube.com/watch?v=I_HqPjl6quo'
 Speakers: [P Schon]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/I_HqPjl6quo/hqdefault.jpg'
-Title: '"Python web applications in multihost, low latency environments"'
+Title: 'Python web applications in multihost, low latency environments'
 date: '2012-07-06'
 ---
 Creating low-level truncated WSGI frameworks to have lightweight skeleton

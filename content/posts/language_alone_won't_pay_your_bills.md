@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=JlNYO4zUDAQ"'
+SourceUrl: 'http://www.youtube.com/watch?v=JlNYO4zUDAQ'
 Speakers: [Alan Franzoni]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/JlNYO4zUDAQ/hqdefault.jpg'
-Title: '"Language alone won''t pay your bills"'
+Title: 'Language alone won''t pay your bills'
 date: '2012-07-06'
 ---
 What’s Python like? Is it ready for the “enterprise”? Does it scale well in

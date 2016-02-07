@@ -2,11 +2,11 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=Wv2U38kGI4A"'
+SourceUrl: 'https://www.youtube.com/watch?v=Wv2U38kGI4A'
 Speakers: [Marco Buttu]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/Wv2U38kGI4A/maxresdefault.jpg'
-Title: '"Il modello ad oggetti di Python"'
+Title: 'Il modello ad oggetti di Python'
 date: '2015-05-29'
 ---
 Come sappiamo in Python ogni nome è legato ad un oggetto, e questo è il motivo per cui si dice: everything in Python is an object. Ma in realtà cosa sia un oggetto, non sempre ci è ben chiaro, e anche nella documentazione ufficiale difatti si trovano imprecisioni in proposito.

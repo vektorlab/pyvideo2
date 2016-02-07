@@ -2,7 +2,7 @@
 Category: 'Kiwi PyCon 2015'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"http://youtu.be/L2JDiduangk"'
+SourceUrl: 'http://youtu.be/L2JDiduangk'
 Speakers: [Lee Symes]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/L2JDiduangk/hqdefault.jpg'

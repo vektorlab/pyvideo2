@@ -2,11 +2,11 @@
 Category: 'PyCon US 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=hLm3garVQFo"'
+SourceUrl: 'https://www.youtube.com/watch?v=hLm3garVQFo'
 Speakers: [Jim Baker]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/hLm3garVQFo/hqdefault.jpg'
-Title: '"Getting to Jython 2.7 and beyond"'
+Title: 'Getting to Jython 2.7 and beyond'
 date: '2015-04-12'
 ---
 So how did we get to Jython 2.7 anyway? And what are our future plans?

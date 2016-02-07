@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=euh9ZQi339o"'
+SourceUrl: 'https://www.youtube.com/watch?v=euh9ZQi339o'
 Speakers: [Karen Rustad]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/euh9ZQi339o/hqdefault.jpg'
-Title: '"Improving Documentation with "Beginner''s Mind" (or: Fixing the Django Tutorial)"'
+Title: 'Improving Documentation with "Beginner''s Mind" (or: Fixing the Django Tutorial)'
 date: '2012-03-11'
 ---
 This talk evaluates a well-known free software tutorial (the official Django

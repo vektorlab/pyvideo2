@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=YkVscKsV_qk"'
+SourceUrl: 'https://www.youtube.com/watch?v=YkVscKsV_qk'
 Speakers: [Gregory Saunders]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/YkVscKsV_qk/hqdefault.jpg'
-Title: '"Adventures in scikit-learn''s Random Forest"'
+Title: 'Adventures in scikit-learn''s Random Forest'
 date: '2015-08-04'
 ---
 Scikit-learn's Random Forests are a great first choice for tackling a machine-learning problem. They are easy to use with only a handful of tuning parameters but nevertheless produce good results. Additionally, a separate cross-validation step can be avoided using the out-of-bag sample predictions generated during the construction of the forest, and finally they make it relatively easy to identify and extract the most important features of the sample data.

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Max Ischenko]
 Tags: [nginx, pycon, pycon2010, pylons, wsgi]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010SimpleWSGICompositionStoryOfOneRefactoring51585.png'
-Title: '"Simple WSGI composition: story of one refactoring (#51)"'
+Title: 'Simple WSGI composition: story of one refactoring (#51)'
 date: '2010-02-19'
 ---
 Simple WSGI composition: story of one refactoring

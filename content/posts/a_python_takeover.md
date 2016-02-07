@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=7c1R78iAWJk"'
+SourceUrl: 'http://www.youtube.com/watch?v=7c1R78iAWJk'
 Speakers: [Mark Ramm-Christensen]
 Tags: [community, performance, 'python,', sourceforge, web]
 ThumbnailUrl: 'http://i.ytimg.com/vi/7c1R78iAWJk/hqdefault.jpg'
-Title: '"A Python Takeover"'
+Title: 'A Python Takeover'
 date: '2011-07-07'
 ---
 Two years ago I started working on SourceForge with a couple of python

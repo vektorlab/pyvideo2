@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Alex Gaynor, Maciej Fijalkowski]
 Tags: [jit, pycon, pycon2011, pypy, vm]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011WhyIsPythonSlowAndHowPyPyCanHelp525.png'
-Title: '"Why is Python slow and how PyPy can help?"'
+Title: 'Why is Python slow and how PyPy can help?'
 date: '2011-03-11'
 ---
 Why is Python slow and how PyPy can help?

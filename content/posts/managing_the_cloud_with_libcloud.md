@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=R8fC4efkj2s"'
+SourceUrl: 'http://www.youtube.com/watch?v=R8fC4efkj2s'
 Speakers: ["Toma\u017E Muraus"]
 Tags: [api, cloud]
 ThumbnailUrl: 'http://i.ytimg.com/vi/R8fC4efkj2s/hqdefault.jpg'
-Title: '"Managing the cloud with libcloud"'
+Title: 'Managing the cloud with libcloud'
 date: '2011-07-21'
 ---
 libcloud is an open-source client library for interacting with different cloud

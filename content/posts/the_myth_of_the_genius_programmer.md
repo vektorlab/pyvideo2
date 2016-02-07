@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'Italian'
-SourceUrl: '"http://www.youtube.com/watch?v=IY96mgfZ_TM"'
+SourceUrl: 'http://www.youtube.com/watch?v=IY96mgfZ_TM'
 Speakers: [Brian Fitzpatrick]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/IY96mgfZ_TM/hqdefault.jpg'
-Title: '"The Myth of the Genius Programmer"'
+Title: 'The Myth of the Genius Programmer'
 date: '2011-07-13'
 ---
 A pervasive elitism hovers in the background of collaborative software

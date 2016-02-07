@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=9LVqBQcFmyw"'
+SourceUrl: 'https://www.youtube.com/watch?v=9LVqBQcFmyw'
 Speakers: [Holger Krekel]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/9LVqBQcFmyw/hqdefault.jpg'
-Title: '"pytest - rapid and simple testing with Python"'
+Title: 'pytest - rapid and simple testing with Python'
 date: '2012-03-09'
 ---
 The py.test tool presents a rapid and simple way to write tests. This talks

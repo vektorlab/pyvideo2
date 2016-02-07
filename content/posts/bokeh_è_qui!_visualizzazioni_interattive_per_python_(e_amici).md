@@ -2,7 +2,7 @@
 Category: 'PyCon Italia 2015'
 Copyright: ''
 Language: 'Italian'
-SourceUrl: '"https://www.youtube.com/watch?v=z1DWou61a-M"'
+SourceUrl: 'https://www.youtube.com/watch?v=z1DWou61a-M'
 Speakers: [Fabio Pliger]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/z1DWou61a-M/maxresdefault.jpg'

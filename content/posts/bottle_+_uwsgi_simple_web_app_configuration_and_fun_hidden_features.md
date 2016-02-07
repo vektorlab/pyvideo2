@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/wGPGRW1wXdk"'
+SourceUrl: 'http://youtu.be/wGPGRW1wXdk'
 Speakers: [Reed Wade]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/wGPGRW1wXdk/hqdefault.jpg'
-Title: '"Bottle + uWSGI: simple web app configuration and fun hidden features"'
+Title: 'Bottle + uWSGI: simple web app configuration and fun hidden features'
 date: '2014-09-14'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

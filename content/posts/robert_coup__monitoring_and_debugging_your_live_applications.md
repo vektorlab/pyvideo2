@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Robert Coup]
 Tags: [debugging, im, irc, kiwipycon, kiwipycon2009, logging]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-RobertCoupMonitoringAndDebuggingYourLiveApplications239-190.jpg'
-Title: '"Robert Coup - Monitoring and debugging your live applications"'
+Title: 'Robert Coup - Monitoring and debugging your live applications'
 ---
 Monitoring and debugging your live application
 

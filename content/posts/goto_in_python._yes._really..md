@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2014'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"http://youtu.be/DdU8I09BGsU"'
+SourceUrl: 'http://youtu.be/DdU8I09BGsU'
 Speakers: [Carl Cerecke]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/DdU8I09BGsU/hqdefault.jpg'
-Title: '"goto in python. Yes. Really."'
+Title: 'goto in python. Yes. Really.'
 date: '2014-09-14'
 ---
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 

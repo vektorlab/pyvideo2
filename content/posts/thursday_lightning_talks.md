@@ -2,12 +2,12 @@
 Category: 'PyCon ZA 2015'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://youtu.be/DiaE9GCJ0nM"'
+SourceUrl: 'http://youtu.be/DiaE9GCJ0nM'
 Speakers: [Bruce Merry, Bryn Divey, Carl Dawson, James Saunders, Laura Richter, Nicholas
     Spagnoletti, Philip Sterne, Stefano Rivera]
 Tags: [Room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/DiaE9GCJ0nM/hqdefault.jpg'
-Title: '"Thursday Lightning Talks"'
+Title: 'Thursday Lightning Talks'
 date: '2015-10-01'
 ---
 * [(0:00:00)](http://youtu.be/DiaE9GCJ0nM?t=0h0m0s) **Racy interrupt handling** by Bruce Merry

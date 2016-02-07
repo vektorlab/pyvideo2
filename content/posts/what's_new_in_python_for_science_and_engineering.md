@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=jCpLiT0QRRA"'
+SourceUrl: 'http://www.youtube.com/watch?v=jCpLiT0QRRA'
 Speakers: [Edward Schofield]
 Tags: [science]
 ThumbnailUrl: 'http://i.ytimg.com/vi/jCpLiT0QRRA/hqdefault.jpg'
-Title: '"What''s New in Python for Science and Engineering"'
+Title: 'What''s New in Python for Science and Engineering'
 date: '2012-08-21'
 ---
 This is a presentation about the latest and most exciting tools in Python for

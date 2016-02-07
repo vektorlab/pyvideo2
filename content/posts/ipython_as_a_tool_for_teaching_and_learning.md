@@ -2,11 +2,11 @@
 Category: 'PyCon ZA 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://archive.org/details/pyconza2014-ipython-for-teaching-and-learning"'
+SourceUrl: 'http://archive.org/details/pyconza2014-ipython-for-teaching-and-learning'
 Speakers: [Laura Richter]
 Tags: [pyconza, pyconza2014]
 ThumbnailUrl: 'http://archive.org/download/pyconza2014-ipython-for-teaching-and-learning/pyconza2014-ipython-for-teaching-and-learning.thumbs/3%20B%20Ipython%20as%20a%20tool%20for%20teaching%20and%20learning-_000090.jpg'
-Title: '"IPython as a tool for teaching and learning"'
+Title: 'IPython as a tool for teaching and learning'
 date: '2014-10-02'
 ---
 The ipython environment lends itself to teaching and learning: immediate feedback, flexible visualisation, easy access to docstrings and ability to explore modules.

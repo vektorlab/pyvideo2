@@ -8,7 +8,7 @@ Tags: [activitystreams, backbone.js, banana-py, cloud, contribute, djangocon, dj
   djangoexplorer, django-model-blocks, eamcs, fabulaws, multidb, multiforms, pep8,
   pipetter, psychology, pyflakes, pylint, pystar, stackato, tastypie, views, wtfawd]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-LightningTalksThursAM543-952.jpg'
-Title: '"Lightning Talks - Thursday morning"'
+Title: 'Lightning Talks - Thursday morning'
 ---
 Lightning Talks - Thursday morning
 

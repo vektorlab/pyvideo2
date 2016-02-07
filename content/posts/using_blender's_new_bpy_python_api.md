@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Christopher Allan Webber]
 Tags: [blender, bpy, chriswebber, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011UsingBlendersNewBPYPythonAPI450.png'
-Title: '"Using Blender''s new BPY Python API"'
+Title: 'Using Blender''s new BPY Python API'
 date: '2011-03-11'
 ---
 Since 2.5, the API has become more pythonic and self-descriptive. Blender's UI

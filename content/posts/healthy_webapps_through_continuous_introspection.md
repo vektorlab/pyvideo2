@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=yxALwwDyWoA"'
+SourceUrl: 'http://www.youtube.com/watch?v=yxALwwDyWoA'
 Speakers: [Nicolas Venegas]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/yxALwwDyWoA/hqdefault.jpg'
-Title: '"Healthy webapps through continuous introspection"'
+Title: 'Healthy webapps through continuous introspection'
 date: '2012-07-05'
 ---
 Every application has its hotspots – small portions of code that consume

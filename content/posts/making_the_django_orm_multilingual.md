@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Jonas Obrist]
 Tags: [djangocon, djangocon2011, localization, multilingual, orm, translations]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-MakingTheDjangoORMMultilingual519-34.jpg'
-Title: '"Making the Django ORM Multilingual"'
+Title: 'Making the Django ORM Multilingual'
 ---
 Making the Django ORM Multilingual
 

@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Eric Florenzano]
 Tags: [databases, pycon, pycon2010]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2010DudeWheresMyDatabase133159.png'
-Title: '"Dude, Where''s My Database? (#133)"'
+Title: 'Dude, Where''s My Database? (#133)'
 date: '2010-02-19'
 ---
 Dude, Where's My Database?

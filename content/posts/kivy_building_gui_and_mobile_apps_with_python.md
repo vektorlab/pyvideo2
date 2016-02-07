@@ -2,11 +2,11 @@
 Category: 'PyCon US 2013'
 Copyright: 'CC'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=yPWj6k5MRak"'
+SourceUrl: 'https://www.youtube.com/watch?v=yPWj6k5MRak'
 Speakers: [Mathieu Virbel, Thomas Hansen]
 Tags: [talk]
 ThumbnailUrl: 'http://i.ytimg.com/vi/yPWj6k5MRak/hqdefault.jpg'
-Title: '"Kivy: Building GUI and Mobile apps with Python"'
+Title: 'Kivy: Building GUI and Mobile apps with Python'
 date: '2013-03-15'
 ---
 This talk will introduce the Kivy project (http://kivy.org).  Kivy’s mission is to make building graphical user interfaces on any device fun, efficient, and pythonic. 

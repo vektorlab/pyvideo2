@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: []
 Tags: [concurrency, coroutines, generator, pycon, pycon2009, python-advanced]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-ACuriousCourseOnCoroutinesAndConcurrencyPart003639-350.jpg'
-Title: '"PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 3 of 3)"'
+Title: 'PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 3 of 3)'
 ---
 A Curious Course on Coroutines and Concurrency (part 3 of 3)
 

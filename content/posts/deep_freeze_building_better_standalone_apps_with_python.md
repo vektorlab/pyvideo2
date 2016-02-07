@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=vP6j7VDpPrI"'
+SourceUrl: 'https://www.youtube.com/watch?v=vP6j7VDpPrI'
 Speakers: [Ryan Kelly]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/vP6j7VDpPrI/hqdefault.jpg'
-Title: '"Deep Freeze: building better stand-alone apps with Python"'
+Title: 'Deep Freeze: building better stand-alone apps with Python'
 date: '2012-03-11'
 ---
 There's more to shipping a stand-alone python app than just running py2exe

@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=zqRd941NXlI"'
+SourceUrl: 'https://www.youtube.com/watch?v=zqRd941NXlI'
 Speakers: [Nathan Craike]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/zqRd941NXlI/hqdefault.jpg'
-Title: '"Fang: Pythonic dependency injection"'
+Title: 'Fang: Pythonic dependency injection'
 date: '2015-08-04'
 ---
 Dependency injection (DI) is a technique most often used in "big OO" languages like Java and C#. It's usually dismissed by Python developers as only needed because of these other languages' deficiencies: static typing, restrictive object systems, lack of reflection, etc.

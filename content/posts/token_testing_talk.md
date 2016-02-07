@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Eric Holscher]
 Tags: [djangocon, djangocon2009, testing]
 ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-TokenTestingTalk148.png'
-Title: '"Token Testing Talk"'
+Title: 'Token Testing Talk'
 ---
 Token Testing Talk
 

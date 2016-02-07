@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=ptc9E24YAcc"'
+SourceUrl: 'http://www.youtube.com/watch?v=ptc9E24YAcc'
 Speakers: [Federico Marani]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/ptc9E24YAcc/hqdefault.jpg'
-Title: '"Scaling with Ansible"'
+Title: 'Scaling with Ansible'
 date: '2014-07-23'
 ---
 Infrastructure/Scaling is a topic really close to me, I'd like to have the chance to talk about how we set this up in the company I work for. Our infrastructure is around 10-15 servers,  provisioned on different cloud providers, so a good size infrastructure.

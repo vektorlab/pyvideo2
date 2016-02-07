@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2012'
 Copyright: 'http://www.youtube.com/t/terms'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=zWhMc3am7ao"'
+SourceUrl: 'http://www.youtube.com/watch?v=zWhMc3am7ao'
 Speakers: [Andrew Walker]
 Tags: [geometry]
 ThumbnailUrl: 'http://i.ytimg.com/vi/zWhMc3am7ao/hqdefault.jpg'
-Title: '"Python Powered Computational Geometry"'
+Title: 'Python Powered Computational Geometry'
 date: '2012-08-22'
 ---
 Computational Geometry is the study of geometry with the support of

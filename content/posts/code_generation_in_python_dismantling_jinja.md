@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=jXlR0Icvvh8"'
+SourceUrl: 'https://www.youtube.com/watch?v=jXlR0Icvvh8'
 Speakers: [Armin Ronacher]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/jXlR0Icvvh8/hqdefault.jpg'
-Title: '"Code Generation in Python: Dismantling Jinja"'
+Title: 'Code Generation in Python: Dismantling Jinja'
 date: '2012-03-09'
 ---
 For many DSLs such as templating languages it's important to use code

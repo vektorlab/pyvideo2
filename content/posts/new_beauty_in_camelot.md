@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=jwwEyEAR1YA"'
+SourceUrl: 'http://www.youtube.com/watch?v=jwwEyEAR1YA'
 Speakers: [Erik Janssens, Jeroen Dierckx]
 Tags: [deployment, django, framework, matplotlib, qt, sqlalchemy]
 ThumbnailUrl: 'http://i.ytimg.com/vi/jwwEyEAR1YA/hqdefault.jpg'
-Title: '"New beauty in Camelot"'
+Title: 'New beauty in Camelot'
 date: '2011-07-13'
 ---
 Camelot is a Python framework that leverages SQLAlchemy and QT to build rich

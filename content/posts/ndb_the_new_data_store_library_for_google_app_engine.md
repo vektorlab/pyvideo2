@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=HiOp8KQLcgM"'
+SourceUrl: 'http://www.youtube.com/watch?v=HiOp8KQLcgM'
 Speakers: [Guido van Rossum]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/HiOp8KQLcgM/hqdefault.jpg'
-Title: '"NDB: the new data store library for Google App Engine"'
+Title: 'NDB: the new data store library for Google App Engine'
 date: '2012-07-06'
 ---
 NDB is a new Python client library for the Google App Engine Datastore. NDB

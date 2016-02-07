@@ -2,12 +2,12 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=WX7aB0e4-Lk"'
+SourceUrl: 'http://www.youtube.com/watch?v=WX7aB0e4-Lk'
 Speakers: [P Szabo]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/WX7aB0e4-Lk/hqdefault.jpg'
-Title: '"Method restrictions (abstract, final, @override etc.) and implementing them
-  for Python"'
+Title: 'Method restrictions (abstract, final, @override etc.) and implementing them
+  for Python'
 date: '2012-07-04'
 ---
 The earlier a bug is discovered, the cheaper it is to fix it. Method

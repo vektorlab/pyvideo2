@@ -2,7 +2,7 @@
 Category: 'PyCon FR 2013'
 Copyright: ''
 Language: 'French'
-SourceUrl: '"https://www.youtube.com/watch?v=qjxihcTJZ34"'
+SourceUrl: 'https://www.youtube.com/watch?v=qjxihcTJZ34'
 Speakers: [Simon Sapin]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/qjxihcTJZ34/maxresdefault.jpg'

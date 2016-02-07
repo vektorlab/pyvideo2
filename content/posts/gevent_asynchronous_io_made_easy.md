@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=0wpYQr-_kqg"'
+SourceUrl: 'http://www.youtube.com/watch?v=0wpYQr-_kqg'
 Speakers: [Daniel Pope]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/0wpYQr-_kqg/hqdefault.jpg'
-Title: '"gevent: asynchronous I/O made easy"'
+Title: 'gevent: asynchronous I/O made easy'
 date: '2014-07-23'
 ---
 It has been claimed "Callbacks are the new GOTO". Most asynchronous IO libraries use callbacks extensively.

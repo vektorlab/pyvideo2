@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=R4AeB85gEeU"'
+SourceUrl: 'https://www.youtube.com/watch?v=R4AeB85gEeU'
 Speakers: [Peter Lovett]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/R4AeB85gEeU/hqdefault.jpg'
-Title: '"On Being Pythonic"'
+Title: 'On Being Pythonic'
 date: '2015-08-04'
 ---
 Design Patterns, standard designs and idioms in Python

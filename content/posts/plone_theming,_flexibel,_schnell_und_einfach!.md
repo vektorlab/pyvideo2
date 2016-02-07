@@ -2,11 +2,11 @@
 Category: 'PyCon DE 2012'
 Copyright: ''
 Language: 'German'
-SourceUrl: '"https://www.youtube.com/watch?v=e1KKo11AB8c"'
+SourceUrl: 'https://www.youtube.com/watch?v=e1KKo11AB8c'
 Speakers: [Maik Derstappen]
 Tags: [' cms', ' diazo', plone]
 ThumbnailUrl: 'http://i2.ytimg.com/vi/e1KKo11AB8c/hqdefault.jpg'
-Title: '"Plone Theming, flexibel, schnell und einfach!"'
+Title: 'Plone Theming, flexibel, schnell und einfach!'
 date: '2012-10-31'
 ---
 Das Theming von komplexen Content Management Systemen ist häufige eine sehr

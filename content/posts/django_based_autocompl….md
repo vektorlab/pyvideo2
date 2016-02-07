@@ -2,7 +2,7 @@
 Category: 'Chicago Djangonauts'
 Copyright: 'CC BY-SA'
 Language: 'English'
-SourceUrl: '"http://youtu.be/XMp-wzzMsls"'
+SourceUrl: 'http://youtu.be/XMp-wzzMsls'
 Speakers: [Jonathan Bisson]
 Tags: [autocomplete, Django]
 ThumbnailUrl: 'https://i.ytimg.com/vi/XMp-wzzMsls/hqdefault.jpg'

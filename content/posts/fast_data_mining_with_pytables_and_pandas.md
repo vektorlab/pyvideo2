@@ -2,11 +2,11 @@
 Category: 'EuroPython 2012'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=_JrZUm9ZHIw"'
+SourceUrl: 'http://www.youtube.com/watch?v=_JrZUm9ZHIw'
 Speakers: [Y Hipisch]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/_JrZUm9ZHIw/hqdefault.jpg'
-Title: '"Fast Data Mining with Pytables and pandas"'
+Title: 'Fast Data Mining with Pytables and pandas'
 date: '2012-07-06'
 ---
 In a number of industries, like financial services or utilities, it is

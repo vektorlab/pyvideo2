@@ -2,11 +2,11 @@
 Category: 'PyCon US 2012'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=BoMQqW0lxVE"'
+SourceUrl: 'https://www.youtube.com/watch?v=BoMQqW0lxVE'
 Speakers: [Dino Viehland]
 Tags: []
 ThumbnailUrl: 'http://img.youtube.com/vi/BoMQqW0lxVE/hqdefault.jpg'
-Title: '"Building a Kinect game with Python"'
+Title: 'Building a Kinect game with Python'
 date: '2012-03-10'
 ---
 This talk will show you how to develop a game using Kinect from Python. I'll

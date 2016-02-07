@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Douglas Bagnall]
 Tags: [c, gpl, kiwipycon, kiwipycon2009, pil, pygame]
 ThumbnailUrl: 'http://a.images.blip.tv/Kiwipycon-DouglasBagnallTeTuhiVideoGameSystem481-359.jpg'
-Title: '"Douglas Bagnall - Te Tuhi Video Game System"'
+Title: 'Douglas Bagnall - Te Tuhi Video Game System'
 ---
 Te Tuhi Video Game System
 

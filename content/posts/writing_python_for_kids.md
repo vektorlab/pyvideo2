@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=lWyJ_HXGsm0"'
+SourceUrl: 'https://www.youtube.com/watch?v=lWyJ_HXGsm0'
 Speakers: [Brendan Scott]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/lWyJ_HXGsm0/hqdefault.jpg'
-Title: '"Writing Python For Kids"'
+Title: 'Writing Python For Kids'
 date: '2015-08-04'
 ---
 Thinking of writing a book? We are in the midst of a boom in interest in amateur programming, particularly among children. Brendan spent the most recent summer past using his blog python4kids.brendanscott.com as inspiration for a new project based instructional book, Python for Kids for Dummies (US release by Wiley this northern summer). This talk will provide an overview of the development cycle for the book both in respect of the book's content and the process involved in creating that content and shepherding it through the publisher's internal processes. 

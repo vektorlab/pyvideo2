@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2013'
 Copyright: 'CC-BY-SA'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=EGK5jjyUBCQ"'
+SourceUrl: 'https://www.youtube.com/watch?v=EGK5jjyUBCQ'
 Speakers: [Simon Knight]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/EGK5jjyUBCQ/hqdefault.jpg'
-Title: '"Using Python to design, configure, and measure large-scale networks"'
+Title: 'Using Python to design, configure, and measure large-scale networks'
 date: '2013-07-06'
 ---
 AutoNetkit is an open-source project to automatically build network configuration files for routers including Quagga, Cisco and Juniper, with complicated protocol configurations, all from a simple input graph --- which could even be drawn in a program such as yEd. 

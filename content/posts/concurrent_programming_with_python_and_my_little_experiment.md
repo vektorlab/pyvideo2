@@ -2,11 +2,11 @@
 Category: 'EuroPython 2014'
 Copyright: 'http://creativecommons.org/licenses/by/3.0/'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=snIHnStehIo"'
+SourceUrl: 'http://www.youtube.com/watch?v=snIHnStehIo'
 Speakers: [Benoit Chesneau]
 Tags: []
 ThumbnailUrl: 'http://i.ytimg.com/vi/snIHnStehIo/hqdefault.jpg'
-Title: '"Concurrent programming with Python and my little experiment"'
+Title: 'Concurrent programming with Python and my little experiment'
 date: '2014-07-25'
 ---
 Concurrent programming in Python may be hard. A lot of solutions exists

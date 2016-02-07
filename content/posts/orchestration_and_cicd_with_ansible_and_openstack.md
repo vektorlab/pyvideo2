@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2015'
 Copyright: 'creativeCommon'
 Language: 'English'
-SourceUrl: '"https://www.youtube.com/watch?v=QFPtArm4Wc0"'
+SourceUrl: 'https://www.youtube.com/watch?v=QFPtArm4Wc0'
 Speakers: [Simone Soldateschi]
 Tags: []
 ThumbnailUrl: 'https://i.ytimg.com/vi/QFPtArm4Wc0/hqdefault.jpg'
-Title: '"Orchestration and CI/CD with Ansible and OpenStack"'
+Title: 'Orchestration and CI/CD with Ansible and OpenStack'
 date: '2015-08-03'
 ---
 This project will demonstrate how to leverage CI/CD pipelines, to deploy and rollback applications in the Openstack Cloud. Best-practices allow to automate tasks and achieve high-degree of repeatability and robustness.

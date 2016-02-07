@@ -2,11 +2,11 @@
 Category: 'PyCon AU 2011'
 Copyright: 'Creative Commons Attribution license'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=XXHknWKuG2U"'
+SourceUrl: 'http://www.youtube.com/watch?v=XXHknWKuG2U'
 Speakers: [Malcolm Tredinnick]
 Tags: [tdd, testing]
 ThumbnailUrl: 'http://i.ytimg.com/vi/XXHknWKuG2U/hqdefault.jpg'
-Title: '"Behaviour Driven Development"'
+Title: 'Behaviour Driven Development'
 date: '2011-08-22'
 ---
 Writing software in an organisation or for ourselves, many people feel that

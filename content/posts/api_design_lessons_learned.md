@@ -2,11 +2,11 @@
 Category: 'EuroPython 2011'
 Copyright: 'Standard YouTube License'
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=heJuQWNdwJI"'
+SourceUrl: 'http://www.youtube.com/watch?v=heJuQWNdwJI'
 Speakers: [Raymond Hettinger]
 Tags: [api]
 ThumbnailUrl: 'http://i.ytimg.com/vi/heJuQWNdwJI/hqdefault.jpg'
-Title: '"API design: Lessons Learned"'
+Title: 'API design: Lessons Learned'
 date: '2011-07-07'
 ---
 Share the lessons learned from a decade of core Python development, what

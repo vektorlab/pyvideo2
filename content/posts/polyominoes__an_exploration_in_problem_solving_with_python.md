@@ -2,11 +2,11 @@
 Category: 'Kiwi PyCon 2013'
 Copyright: ''
 Language: 'English'
-SourceUrl: '"http://www.youtube.com/watch?v=HXQW3MCOECU"'
+SourceUrl: 'http://www.youtube.com/watch?v=HXQW3MCOECU'
 Speakers: [Hamish Campbell]
 Tags: []
 ThumbnailUrl: 'http://i1.ytimg.com/vi/HXQW3MCOECU/hqdefault.jpg'
-Title: '"Polyominoes - An Exploration in Problem Solving with Python"'
+Title: 'Polyominoes - An Exploration in Problem Solving with Python'
 date: '2013-09-12'
 ---
 @ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 2

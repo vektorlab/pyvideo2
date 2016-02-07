@@ -6,7 +6,7 @@ SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.
 Speakers: [Jack Diederich]
 Tags: [contextmanagers, decorators, namespaces, pycon, pycon2011]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011UsefulNamespacesContextManagersAndDecorators353.png'
-Title: '"Useful Namespaces: Context Managers and Decorators"'
+Title: 'Useful Namespaces: Context Managers and Decorators'
 date: '2011-03-11'
 ---
 Useful Namespaces: Context Managers and Decorators
