@@ -6,7 +6,7 @@ SourceUrl: 'http://vimeo.com/11963043'
 Speakers: [Marshall Weir]
 Tags: [bostonpy, session, testing, unittest]
 ThumbnailUrl: ''
-Title: 'Boston Python Meetup: Testing: Where do I start?'
+Title: 'Testing: Where do I start?'
 ---
 Testing, Where Do I Start?
 
