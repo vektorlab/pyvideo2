@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'German'
 SourceUrl: 'https://www.youtube.com/watch?v=6Tb8TdovzGM'
 Speakers: [Stefan Schwarzer]
-Tags: [' deadlock', gil, ' multiprocessing', " nebenl\xE4ufigkeit", ' queue', ' threading']
+Tags: [' deadlock', gil, ' multiprocessing', " nebenl\xe4ufigkeit", ' queue', ' threading']
 ThumbnailUrl: 'http://i3.ytimg.com/vi/6Tb8TdovzGM/hqdefault.jpg'
 Title: Nebenl\xE4ufige Programme mit Python\
 date: '2012-10-30'

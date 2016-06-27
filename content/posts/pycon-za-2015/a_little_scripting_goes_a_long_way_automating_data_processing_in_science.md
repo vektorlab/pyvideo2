@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/6MlZOIryiwY'
 Speakers: ["Adrianna Pi\u0144ska"]
-Tags: [Room 211]
+Tags: [room 211]
 ThumbnailUrl: 'https://i.ytimg.com/vi/6MlZOIryiwY/hqdefault.jpg'
 Title: 'A little scripting goes a long way: automating data processing in science'
 date: '2015-10-01'

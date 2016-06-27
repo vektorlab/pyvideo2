@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'https://www.youtube.com/watch?v=dFyD8--zs84'
 Speakers: [Tal Liron]
-Tags: [Genie, vala]
+Tags: [genie, vala]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/dFyD8--zs84/hqdefault.jpg'
 Title: 'Genie'
 date: '2013-01-10'

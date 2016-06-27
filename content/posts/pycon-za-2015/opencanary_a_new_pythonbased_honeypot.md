@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/lXhypJUbxVM'
 Speakers: [Azhar Desai]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/lXhypJUbxVM/hqdefault.jpg'
 Title: 'OpenCanary: a new Python-based honeypot'
 date: '2015-10-01'

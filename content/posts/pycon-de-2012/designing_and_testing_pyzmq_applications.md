@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'German'
 SourceUrl: 'https://www.youtube.com/watch?v=TG6wY76hICg'
 Speakers: [Stefan Scherfke]
-Tags: [' application design', " \xF8mq", ' process tests', ' pyzmq', ' system tests',
+Tags: [' application design', " \xf8mq", ' process tests', ' pyzmq', ' system tests',
   ' testing', ' unit tests', zeromq]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/TG6wY76hICg/hqdefault.jpg'
 Title: 'Designing and Testing PyZMQ Applications'

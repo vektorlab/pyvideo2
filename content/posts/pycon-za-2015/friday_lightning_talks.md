@@ -5,7 +5,7 @@ Language: 'English'
 SourceUrl: 'http://youtu.be/MNyOPWT8ncw'
 Speakers: [Adam Jorgensen, "Adrianna Pi\u0144ska", Jeremy Thurgood, Neil Muller, Tobias
     Brandt]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/MNyOPWT8ncw/hqdefault.jpg'
 Title: 'Friday Lightning Talks'
 date: '2015-10-02'

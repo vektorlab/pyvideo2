@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/b8Cj5-LieH0'
 Speakers: [Carl Scheffler]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/b8Cj5-LieH0/hqdefault.jpg'
 Title: 'Distributed pub-sub infrastructure with Apache Kafka'
 date: '2015-10-01'

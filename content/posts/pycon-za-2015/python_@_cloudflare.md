@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/lrLV93EFO0g'
 Speakers: [Gideon Redelinghuys]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/lrLV93EFO0g/hqdefault.jpg'
 Title: 'Python @ CloudFlare'
 date: '2015-10-01'

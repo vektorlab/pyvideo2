@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'German'
 SourceUrl: 'https://www.youtube.com/watch?v=Qi8bXJ6b4vo'
 Speakers: [Christian Kauhaus]
-Tags: [acid, "plattformunabh\xE4ngigkeit", systemprogrammierung, "zuverl\xE4ssigkeit"]
+Tags: [acid, "plattformunabh\xe4ngigkeit", systemprogrammierung, "zuverl\xe4ssigkeit"]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/Qi8bXJ6b4vo/hqdefault.jpg'
 Title: 'File-I/O ist doch ganz einfach, oder?'
 date: '2013-10-16'

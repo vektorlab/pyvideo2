@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/2urUj9NRqFc'
 Speakers: [Bruce Merry]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/2urUj9NRqFc/hqdefault.jpg'
 Title: 'How I learnt to stop worrying and love Boost.Python'
 date: '2015-10-02'

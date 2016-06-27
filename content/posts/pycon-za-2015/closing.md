@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/WVBrra9pnQ4'
 Speakers: [Simon Cross]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/WVBrra9pnQ4/hqdefault.jpg'
 Title: 'Closing'
 date: '2015-10-02'

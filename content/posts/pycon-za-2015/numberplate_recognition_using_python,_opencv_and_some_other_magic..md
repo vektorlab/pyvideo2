@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/nE6ftvPWw7Q'
 Speakers: [Kobus Wolvaardt]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/nE6ftvPWw7Q/hqdefault.jpg'
 Title: 'Numberplate recognition using python, opencv and some other magic.'
 date: '2015-10-01'

@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/3u6ZH4ntp-0'
 Speakers: [Stefano Rivera]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/3u6ZH4ntp-0/hqdefault.jpg'
 Title: 'The Road to Continuous Deployment'
 date: '2015-10-02'

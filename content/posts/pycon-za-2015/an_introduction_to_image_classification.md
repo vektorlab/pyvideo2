@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/s041lMgOlgs'
 Speakers: [Abuobayda Shabat]
-Tags: [Room 211]
+Tags: [room 211]
 ThumbnailUrl: 'https://i.ytimg.com/vi/s041lMgOlgs/hqdefault.jpg'
 Title: 'An Introduction to Image Classification'
 date: '2015-10-01'

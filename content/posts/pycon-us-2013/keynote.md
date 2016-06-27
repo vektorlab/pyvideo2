@@ -4,7 +4,7 @@ Copyright: 'CC'
 Language: 'English'
 SourceUrl: 'https://www.youtube.com/watch?v=2wr8veJzZiU'
 Speakers: [Van Lindberg]
-Tags: [Plenary]
+Tags: [plenary]
 ThumbnailUrl: 'http://i.ytimg.com/vi/2wr8veJzZiU/hqdefault.jpg'
 Title: 'Keynote'
 date: '2013-03-17'

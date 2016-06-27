@@ -4,7 +4,7 @@ Copyright: 'CC BY-SA 2.5 CA'
 Language: 'English'
 SourceUrl: 'http://www.youtube.com/watch?v=tteE_Vtmrv4'
 Speakers: [James Bergstra]
-Tags: [Lightning talk]
+Tags: [lightning talk]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/tteE_Vtmrv4/hqdefault.jpg'
 Title: 'Hyperopt: A Python library for optimizing the hyperparameters of machine
   learning algorithms'

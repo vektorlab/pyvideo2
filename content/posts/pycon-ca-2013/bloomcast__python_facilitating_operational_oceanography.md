@@ -4,7 +4,7 @@ Copyright: 'CC BY-SA 2.5 CA'
 Language: 'English'
 SourceUrl: 'http://www.youtube.com/watch?v=Ieshkd7RmrM'
 Speakers: [Doug Latornell]
-Tags: [Lightning talk]
+Tags: [lightning talk]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/Ieshkd7RmrM/hqdefault.jpg'
 Title: 'Bloomcast - Python Facilitating Operational Oceanography'
 date: '2013-08-10'

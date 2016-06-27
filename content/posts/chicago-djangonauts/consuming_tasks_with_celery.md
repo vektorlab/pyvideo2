@@ -4,7 +4,7 @@ Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: 'http://youtu.be/MCmNGmFh6wE'
 Speakers: [Joe Jasinski]
-Tags: [RabbitMQ Celery]
+Tags: [rabbitmq celery]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/MCmNGmFh6wE/hqdefault.jpg'
 Title: 'Consuming Tasks with Celery'
 date: '2012-02-02'

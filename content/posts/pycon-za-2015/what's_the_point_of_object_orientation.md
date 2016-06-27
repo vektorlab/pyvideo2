@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/M1XL65qj2dU'
 Speakers: [Iwan Vosloo]
-Tags: [Room 211]
+Tags: [room 211]
 ThumbnailUrl: 'https://i.ytimg.com/vi/M1XL65qj2dU/hqdefault.jpg'
 Title: 'What''s the point of Object Orientation?'
 date: '2015-10-02'

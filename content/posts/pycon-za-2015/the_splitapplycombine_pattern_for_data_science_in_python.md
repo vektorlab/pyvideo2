@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/TjuRnguO62E'
 Speakers: [Tobias Brandt]
-Tags: [Room 211]
+Tags: [room 211]
 ThumbnailUrl: 'https://i.ytimg.com/vi/TjuRnguO62E/hqdefault.jpg'
 Title: 'The Split-Apply-Combine Pattern for Data Science in Python'
 date: '2015-10-01'

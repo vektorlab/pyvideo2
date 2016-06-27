@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/mg5BeeYGjY0'
 Speakers: [Jeremy Thurgood]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/mg5BeeYGjY0/hqdefault.jpg'
 Title: 'Property-based testing with Hypothesis'
 date: '2015-10-02'

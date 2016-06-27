@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/bJPRkTbK8Kk'
 Speakers: [Petrus Janse van Rensburg]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/bJPRkTbK8Kk/hqdefault.jpg'
 Title: PyCon Montr\xE9al in 30 min\
 date: '2015-10-01'

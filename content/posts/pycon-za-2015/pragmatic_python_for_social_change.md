@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/9V1OZEe_MjA'
 Speakers: [Greg Kempe]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/9V1OZEe_MjA/hqdefault.jpg'
 Title: 'Pragmatic Python for Social Change'
 date: '2015-10-01'

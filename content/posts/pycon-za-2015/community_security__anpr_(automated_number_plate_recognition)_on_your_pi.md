@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/CTbMUrJ9ztQ'
 Speakers: [Bernhardt Garlipp]
-Tags: [Room 211]
+Tags: [room 211]
 ThumbnailUrl: 'https://i.ytimg.com/vi/CTbMUrJ9ztQ/hqdefault.jpg'
 Title: 'Community Security - ANPR (Automated Number Plate Recognition) on your Pi'
 date: '2015-10-02'

@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/kXLQ_7GGMnM'
 Speakers: [Richard Larkin]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/kXLQ_7GGMnM/hqdefault.jpg'
 Title: 'Kivy Showcase: a short exploration of how Kivy is changing the world'
 date: '2015-10-02'

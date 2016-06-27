@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/B0P3iU3Pz00'
 Speakers: [Neil Muller]
-Tags: [Room 211]
+Tags: [room 211]
 ThumbnailUrl: 'https://i.ytimg.com/vi/B0P3iU3Pz00/hqdefault.jpg'
 Title: 'Supporting Python 3'
 date: '2015-10-02'

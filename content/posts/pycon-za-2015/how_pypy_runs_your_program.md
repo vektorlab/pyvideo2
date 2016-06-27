@@ -4,7 +4,7 @@ Copyright: ''
 Language: 'English'
 SourceUrl: 'http://youtu.be/mHTu723RDNI'
 Speakers: [Maciej Fijalkowski]
-Tags: [Room 215]
+Tags: [room 215]
 ThumbnailUrl: 'https://i.ytimg.com/vi/mHTu723RDNI/hqdefault.jpg'
 Title: 'How PyPy runs your program'
 date: '2015-10-02'

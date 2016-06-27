@@ -4,7 +4,7 @@ Copyright: 'CC BY-SA'
 Language: 'English'
 SourceUrl: 'http://youtu.be/XMp-wzzMsls'
 Speakers: [Jonathan Bisson]
-Tags: [autocomplete, Django]
+Tags: [autocomplete, django]
 ThumbnailUrl: 'https://i.ytimg.com/vi/XMp-wzzMsls/hqdefault.jpg'
 Title: Django Based Autocompl\u2026\
 date: '2015-09-03'

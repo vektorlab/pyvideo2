@@ -4,7 +4,7 @@ Copyright: 'CC'
 Language: 'English'
 SourceUrl: 'https://www.youtube.com/watch?v=PAHBZImmXsI'
 Speakers: [Eben Upton]
-Tags: [Plenary]
+Tags: [plenary]
 ThumbnailUrl: 'http://i1.ytimg.com/vi/PAHBZImmXsI/hqdefault.jpg'
 Title: 'Keynote - Eben Upton'
 date: '2013-03-15'
