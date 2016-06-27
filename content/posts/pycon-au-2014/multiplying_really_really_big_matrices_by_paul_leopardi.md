@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/DxWHXQ-G7cc/hqdefault.jpg'
 Title: 'Multiplying really really big matrices by Paul Leopardi'
 date: '2014-08-11'
 ---
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/s9cx7QoYbRE/hqdefault.jpg'
 Title: 'Built-in Enum support in Python 3.4'
 date: '2013-08-11'
 ---
-

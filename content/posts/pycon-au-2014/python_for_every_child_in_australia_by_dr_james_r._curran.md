@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/iVv7fCwVbp4/hqdefault.jpg'
 Title: 'Python For Every Child In Australia by Dr James R. Curran'
 date: '2014-08-05'
 ---
-

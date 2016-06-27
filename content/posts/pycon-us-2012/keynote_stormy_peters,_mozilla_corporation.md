@@ -9,5 +9,3 @@ ThumbnailUrl: 'http://img.youtube.com/vi/KUpIFhNW89A/hqdefault.jpg'
 Title: 'Keynote: Stormy Peters, Mozilla Corporation'
 date: '2012-03-09'
 ---
-
-

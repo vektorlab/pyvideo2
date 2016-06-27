@@ -20,4 +20,3 @@ attention is the process of deploying, supporting and maintaining your code in
 production. This demonstration will give an overview of using tools such as
 Hudson, nose, stdeb and freshen to automate the testing, packaging, deployment
 and verification of production software.
-

@@ -25,4 +25,3 @@ an interactive lecture with plenty of time for questions.
 
   
 [VIDEO HAS ISSUES: ]
-

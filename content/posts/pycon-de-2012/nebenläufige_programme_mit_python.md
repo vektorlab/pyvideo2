@@ -18,4 +18,3 @@ insbesondere Änderungen an gemeinsam genutzten Ressourcen (zum Beispiel
 Dateien oder auch "nur" Objekte im Speicher) durch mehrere Threads oder
 Prozesse. Schließlich wird gezeigt, wie man solche Ressourcen-Zugriffe durch
 Locks oder Queues entschärfen kann.
-

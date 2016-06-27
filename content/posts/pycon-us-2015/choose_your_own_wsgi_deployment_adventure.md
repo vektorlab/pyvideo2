@@ -10,4 +10,3 @@ Title: 'Choose Your Own WSGI Deployment Adventure'
 date: '2015-04-12'
 ---
 From servers and proxies to configuration management, the Web Server Gateway Interface (WSGI) deployment ecosystem is complicated for new developers. This choose your own adventure talk contains decision points for the audience to choose topics via text and email votes. Each choice leads down a separate path to explain different confusing WSGI subjects. Bring your phone or laptop to participate!
-

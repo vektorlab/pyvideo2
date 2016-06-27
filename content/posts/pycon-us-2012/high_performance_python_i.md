@@ -14,4 +14,3 @@ techniques. This updated tutorial will cover profiling, PyPy, Cython, numpy,
 NumExpr, ShedSkin, multiprocessing, ParallelPython and pyCUDA. Here's a 55
 page PDF write-up of the EuroPython material: http://ianozsvald.com/2011/07/25
 /high-performance-python-tutorial-v0-2-from-europython-2011/
-

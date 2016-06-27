@@ -10,4 +10,3 @@ Title: 'EuroPython 2012: Join us in Florence on July!'
 date: '2011-08-11'
 ---
 Looking forward to EuroPython 2012.
-

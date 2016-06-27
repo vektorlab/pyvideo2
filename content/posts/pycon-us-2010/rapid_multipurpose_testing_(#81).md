@@ -30,4 +30,3 @@ I'll conclude with upcoming features regarding testing-in-the-cloud and plans
 on more test tool convergence. (URL: [http://pytest.org](http://pytest.org/))
 
 [VIDEO HAS ISSUES: first 47 seconds or so are really quiet]
-

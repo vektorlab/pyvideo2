@@ -22,4 +22,3 @@ Patterns as a crude metric of gaps in a programming language.
 
   
 [VIDEO HAS ISSUES: ]
-

@@ -14,4 +14,3 @@ Presented by Glyph Lefkowitz
 
 Talks about using Python for everything in a project and the difficulties of
 using different non-Python-based things in your deployment.
-

@@ -43,4 +43,3 @@ and the greenlet package (no need to install another Python). The audience
 will also get an in depth look at how channels are implemented. Channels are
 at the heart of Stackless Python's message based concurrency model. Finally
 the audience will gain insights into future directions of Stackless Python.
-

@@ -21,4 +21,3 @@ etc. But none of them are a model for multiprocessing, they are only tools on
 which you would build an implementation of such a model. So what are the
 models we can choose from? How would they be implemented in Python? And why
 may the GIL actually be a good thing?
-

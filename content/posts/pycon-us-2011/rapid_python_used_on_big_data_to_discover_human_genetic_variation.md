@@ -43,4 +43,3 @@ roughly half of the genome, whereas protein-coding genes account for roughly
 
 I will discuss distributed computing, genomics, and big data within the
 context of Python.
-

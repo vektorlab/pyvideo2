@@ -61,4 +61,3 @@ Class Outline
     * Automating Firefox with Selenium RC to navigate a pure-JavaScript service. 
   * Q&A; and workshopping 
   * Use your power for good, not evil. 
-

@@ -38,4 +38,3 @@ At the end of this talk the audience will be able to:
     * Migrate large dataset to populate the django models that are still under development. 
     * Have a rational and objective approach to select django reusable component and understand how to refine them during the different stages of the project lifecycle. 
     * Find and evaluate quality information about the tradeoffs Django presents in these types of projects 
-

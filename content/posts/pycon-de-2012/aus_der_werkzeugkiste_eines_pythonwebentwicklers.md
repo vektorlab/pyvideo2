@@ -20,4 +20,3 @@ Inspiration sowie als Anstoß zum Gedankenaustausch miteinander dienen: Was für
 Werkzeuge benutze ich andauernd? Welche davon möchte ich nie mehr missen? Über
 welche ärgere ich mich, welche könnten deutlich besser sein? Wie lösen andere
 die üblichen Probleme?
-

@@ -33,4 +33,3 @@ The talk will cover next topics:
   * Security concerns using Viri
 
 Check [Viri project page](http://www.viriproject.com)
-

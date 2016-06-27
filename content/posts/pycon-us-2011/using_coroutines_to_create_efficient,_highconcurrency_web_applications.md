@@ -37,4 +37,3 @@ concurrent requests.
 I'll discuss our iteration process through these approaches to building web
 applications, why we ended up choosing gunicorn+gevent, the challenges this
 new framework presents, and how we've dealt with them.
-

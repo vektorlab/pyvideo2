@@ -44,4 +44,3 @@ of creating such designs and guiding the decisions by what might work best in
 the final Django code. Hopefully, by listening to one person's approach
 (mine!), people faced with similar challenges will have another possible
 attack method in their toolbox.
-

@@ -32,4 +32,3 @@ However, if you’re interest in tools - I will also mention the following on a
 varying level of detail: puppet,
 
     haproxy, nginx, apache, varnish, supervisor, cron, Linux, DELL, ProCurve, KVM, Nagios, RT, fabric, zc.buildout, batou
-

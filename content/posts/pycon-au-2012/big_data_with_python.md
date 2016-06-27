@@ -16,4 +16,3 @@ such as scipy, numpy, cython and rpy, python is becoming a better tool then
 ever for data processing. In this talk we'll be explaining some of the theory
 behind big data problems, where python fits in and some of the more
 interesting things you can do.
-

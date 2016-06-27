@@ -27,4 +27,3 @@ architecture, internals of RestFS and comparison among different free software
 solutions. The session will discuss our experience in this development and
 detailed information on performance and scalability RestFS Introduction RestFS
 Website
-

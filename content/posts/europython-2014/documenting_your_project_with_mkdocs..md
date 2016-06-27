@@ -15,4 +15,3 @@ This talk will be a practical introduction to MkDocs, a new tool for creating do
 * Comparing against Sphinx - what benefits each tool provides.
 * Getting starting with MkDocs - how to write, theme and publish your documentation.
 * Under the covers - how MkDocs works, and some asides on a couple of the neat Python libraries that it uses.
-

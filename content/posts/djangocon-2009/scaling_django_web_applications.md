@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-ScalingDjangoWebApplicati
 Title: 'Scaling Django Web Applications'
 ---
   
-

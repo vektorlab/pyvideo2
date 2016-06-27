@@ -29,4 +29,3 @@ isn't all that weird. This is not a typical how-to session on how to use a
 particular feature, either of Python or of Twisted, but will rather draw
 examples from Python, Twisted, and Zope to illustrate techniques you can use
 to read and understand "magical" Python code.
-

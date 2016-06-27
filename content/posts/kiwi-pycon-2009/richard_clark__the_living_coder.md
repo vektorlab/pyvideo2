@@ -27,4 +27,3 @@ have nobody to replace you..". This is the story of the life that exists
 around the code we write.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

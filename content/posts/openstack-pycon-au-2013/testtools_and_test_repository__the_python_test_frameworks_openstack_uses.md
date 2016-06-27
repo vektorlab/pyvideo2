@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/Oe_HhBBbqbw/hqdefault.jpg'
 Title: 'Testtools and Test Repository - the Python test frameworks OpenStack uses'
 date: '2013-07-05'
 ---
-

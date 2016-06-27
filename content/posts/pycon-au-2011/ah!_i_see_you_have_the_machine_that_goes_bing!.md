@@ -14,4 +14,3 @@ language for Web 2.0 and system administration: Python can also be used for
 interfacing into the real world. Learn how to connect Python up to stepper
 motors, micro-fluidic pumps, A/D sensors, switches, solenoids, vacuum/pressure
 valves and XYZ robots, with simple off-the-shelf control hardware.
-

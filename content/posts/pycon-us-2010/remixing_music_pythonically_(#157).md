@@ -21,4 +21,3 @@ offered when editing multimedia driven by content-based features, and some
 insights on what Pythonic magic did and didn't work in the development of the
 modules. Audio and video examples of the fun-yet-odd outputs that are possible
 will be shown.
-

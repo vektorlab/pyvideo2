@@ -15,4 +15,3 @@ understandable. We needed a way to tame the power of Disco and that's when we
 came up with the Inferno project which takes even more complexity out of
 Map/Reduce. With Inferno you concentrate about what you want from your data
 and not the underlying complexity.
-

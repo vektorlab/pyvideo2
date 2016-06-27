@@ -19,4 +19,3 @@ Presented by Antonio Rodriguez
   
 Talks about how in every startup, success is defined by how many people you
 can get to hack.
-

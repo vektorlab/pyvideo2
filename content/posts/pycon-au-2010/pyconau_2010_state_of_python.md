@@ -16,4 +16,3 @@ This talk will present a whirlwind update of the state of Python as of June
 2010. It will cover the evolution of the language itself, its variants,
 versions and veracity. It will cover the state of packaging, distributing and
 pypi.
-

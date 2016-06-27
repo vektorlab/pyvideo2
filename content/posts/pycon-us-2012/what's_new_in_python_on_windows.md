@@ -14,4 +14,3 @@ Windows account for a huge amount of the traffic through python.org, and
 they're the most common way for Windows users to obtain Python. Take a look at
 what's going on with Python on Windows and see what the road ahead looks like
 for Python 3.3.
-

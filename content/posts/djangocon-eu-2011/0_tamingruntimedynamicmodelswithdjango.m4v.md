@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: '0_taming-runtime-dynamic-models-with-django.m4v'
 ---
-

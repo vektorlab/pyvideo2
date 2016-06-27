@@ -91,4 +91,3 @@ following topics:
   6. Conclusion.
 
 The talk will take 30 minutes.
-

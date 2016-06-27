@@ -22,4 +22,3 @@ Windows or Mac OS X - and ready to code!
 
   
 [VIDEO HAS ISSUES: first 5 min muted ]
-

@@ -32,4 +32,3 @@ ein Überblick zu folgenden Themen:
 * Entwicklung. Alles rund um die Entwicklung: Wie geht diese vor sich? Wie kann ich teilnehmen? Wie können Erweiterungen entwickelt werden?
 
 * Ausblick. Die Zukunft von LFS: Releases, neue Features, etc.
-

@@ -17,4 +17,3 @@ infrastructure.
 
 This tutorial will provide an overview on how to create, configure and deploy
 applications on App Engine using a simple (but useful!) example application.
-

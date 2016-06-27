@@ -16,4 +16,3 @@ Presented by Chris Moffitt
   
 Talks about django development with satchmo. Satchmo is an open source
 framework for creating online stores.
-

@@ -36,4 +36,3 @@ This talk will come in, roughly, four parts:
     * Python 3: when will we get there, and what will it mean for us? 
     * The world is changing; how can we change with it? 
   * General Q&A;
-

@@ -24,4 +24,3 @@ gpl.googlecode.com/svn/trunk/pobjects/ptsmethodrestrictions_2012-07-03.html)
 Source code download: [http://code.google.com/p/pts-mini-
 gpl/source/browse/#svn/trunk/pobjects](http://code.google.com/p/pts-mini-
 gpl/source/browse/#svn/trunk/pobjects)
-

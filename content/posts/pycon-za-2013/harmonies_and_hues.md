@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-harmonies-and-hues/pyconz
 Title: 'Harmonies and Hues'
 date: '2013-10-03'
 ---
-

@@ -27,4 +27,3 @@ Topics:
   * Tools to ease the interface between Django and Backbone
   * Templating strategies
   * Shortcomings and implications on accessibility
-

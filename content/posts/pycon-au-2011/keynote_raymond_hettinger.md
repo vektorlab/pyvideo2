@@ -10,4 +10,3 @@ Title: 'Keynote: Raymond Hettinger'
 date: '2011-08-23'
 ---
 Keynote by Raymond Hettinger.
-

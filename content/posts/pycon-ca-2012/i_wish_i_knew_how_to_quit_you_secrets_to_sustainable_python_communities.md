@@ -13,4 +13,3 @@ Plone is one of the oldest open source python communities still working today.
 Despite a decade of trials and tribulations, the community is stronger than
 ever thanks to a unique and persisted python subculture. 10 lessons over 10
 years on building a great community.
-

@@ -87,4 +87,3 @@ outline
   * a simple default option: verbose 
   * quick discussion of advanced usages 
   * Summary / questions and answers 
-

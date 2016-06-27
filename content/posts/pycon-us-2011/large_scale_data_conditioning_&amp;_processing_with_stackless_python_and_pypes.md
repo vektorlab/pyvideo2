@@ -96,4 +96,3 @@ Outline:
   * Scale up - multiprocessing support 
   * Scale out - cloud friendly 
   * Questions 
-

@@ -21,4 +21,3 @@ with Django.
 
   
 [VIDEO HAS ISSUES: audio is soft at the beginning]
-

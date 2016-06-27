@@ -14,4 +14,3 @@ point in Django's development; a real maturation of the project. Join the lead
 developers of Django as they discuss what's new in Django 1.0, cover the
 Django 1.1 release (currently scheduled for a few weeks before PyCon), and
 discuss the project's future.
-

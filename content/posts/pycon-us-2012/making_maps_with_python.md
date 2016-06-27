@@ -13,4 +13,3 @@ Python makes it easy to store, query, and transform geodata. We will run
 through a handful of useful GIS libraries and patterns that let you do magical
 things with your maps. If you want to make maps that are more interactive and
 more interesting, this talk is for you.
-

@@ -23,4 +23,3 @@ developed non-trivial Python applications but have never "jumped through" the
 interpreter abstraction layer. If you feel a little lost when you see a
 segfault from a Python program or you don't have a clear idea how memory is
 collected in Python, this talk is perfect for you.
-

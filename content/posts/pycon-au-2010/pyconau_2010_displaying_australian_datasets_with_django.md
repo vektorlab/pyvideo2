@@ -25,4 +25,3 @@ or simply fun, requires a certain attention to detail.
 
 Basic knowledge of Django is assumed, although the GIS components will be
 introduced carefully as they are less familiar to many developers.
-

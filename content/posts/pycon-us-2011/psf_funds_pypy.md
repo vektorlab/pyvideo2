@@ -10,4 +10,3 @@ Title: 'PSF funds PyPy'
 date: '2011-03-11'
 ---
 Maciej Fija?kowski, Armin Rigo, Alex Gaynor, Laura Creighton and Jacob Hall
-

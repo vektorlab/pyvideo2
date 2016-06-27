@@ -37,4 +37,3 @@ Topics covered here include:
   * How much 'Zope stuff' is there in Pyramid and can we take it away? 
   * Examples of how Pyramid enables the Pylons philosophy of integrating best of breed or preferred components. 
   * The future of Pyramid and Pylons. 
-

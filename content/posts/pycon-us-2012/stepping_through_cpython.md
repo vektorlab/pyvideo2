@@ -15,4 +15,3 @@ showing in exhaustive detail what happens when it runs that program. Along the
 way we'll examine the design and implementation of various major CPython
 subsystems and see how they fit together. The audience should be conversant in
 C and Python.
-

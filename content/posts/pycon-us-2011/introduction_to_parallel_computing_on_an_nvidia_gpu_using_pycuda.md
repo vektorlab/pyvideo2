@@ -34,4 +34,3 @@ However, the NVIDIA CUDA's unique design requires knowledge of its hardware to
 adapt algorithms effectively. This talk covers basic CUDA architecture, API
 functions and several examples to illustrate the different kinds of problems
 that will benefit from parallelization.
-

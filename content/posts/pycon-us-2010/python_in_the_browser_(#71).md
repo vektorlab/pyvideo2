@@ -22,4 +22,3 @@ behind. This talk provides an overview of Silverlight for Python developers,
 including out of browser applications as well as the new â€œjust textâ€ model
 where Python code is embedded directly in HTML pages. Even if you develop on
 Linux or Mac, you can still take advantage of Silverlight in the browser
-

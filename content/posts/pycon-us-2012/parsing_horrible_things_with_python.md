@@ -14,4 +14,3 @@ ground-floor introduction. A harebrained spare-time project gives birth to a
 whirlwind journey from basic algorithms to Python libraries and, at last, to a
 parser for one of the craziest syntaxes out there: the MediaWiki grammar that
 drives Wikipedia.
-

@@ -18,4 +18,3 @@ It's meant for beginners who have also never worked with realtime graphics and
 the only prerequisite is a bit of python knoweledge including how to write a
 simple program and how to run it. The goal is to create a simple realtime
 application that take care of user input and reacts depending on it.
-

@@ -25,4 +25,3 @@ and worked a little on improving the materials during the sprints. I intend to
 improve the materials further and bring them up to date with recent
 developments in the JavaScript world, and then deliver the tutorial, because
 Jonathan will not be attending the conference this year.
-

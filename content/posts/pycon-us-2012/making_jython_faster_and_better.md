@@ -15,4 +15,3 @@ However, Java 7 adds the invokedynamic bytecode and corresponding library
 support, making it possible to finally address these problems in Jython. This
 talk will describe work in progress to make Jython faster and better
 (improving Java integration).
-

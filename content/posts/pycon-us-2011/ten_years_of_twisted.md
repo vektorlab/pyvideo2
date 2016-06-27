@@ -32,4 +32,3 @@ special emphasis on what level of expertise a developer should have before
 attempting to use them. Finally, I will describe some of the features that
 have been added to Twisted along the way, including some new and exciting
 developments that have been happening recently.
-

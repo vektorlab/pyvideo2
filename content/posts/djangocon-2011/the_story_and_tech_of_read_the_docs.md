@@ -16,4 +16,3 @@ Hosting open source documentation was a mess. The best-of-class solution for
 the Python world as uploading a tarball of html to packages.python.org or
 doing similar to upload to github pages. We set out to solve this problem
 using the current best of class tools that Django has to offer.
-

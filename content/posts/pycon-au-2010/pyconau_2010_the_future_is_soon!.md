@@ -15,4 +15,3 @@ Presented by Brian K Quinlan (Google)
 This talk introduces PEP 3148, a proposed library that makes it easier to
 build concurrent applications or modify existing application to exploit
 opportunities for parallelism.
-

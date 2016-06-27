@@ -21,4 +21,3 @@ PostgreSQL and Python; how PostgreSQL streaming replication works and what it
 can do for you, how PL/Python helps to have Web 2.5 JSON storage and handling
 right inside PostgreSQL. We will show that YESQL is also a valid answer to
 many data storage qeuestions.
-

@@ -20,4 +20,3 @@ divided into short sections, each with presentation and exercises, to quickly
 cover lots of ground. Advanced topics are introduced throughout and covered in
 "extra credit" exercises such that more advanced participants can learn at
 their own pace.
-

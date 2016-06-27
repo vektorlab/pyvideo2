@@ -18,4 +18,3 @@ Django is a high-level web development framework designed for rapid
 development of database-backed web sites. Since its release three years ago
 Django's grown by leaps and bounds; it's now part of a highly successful new
 generation of web development tools.
-

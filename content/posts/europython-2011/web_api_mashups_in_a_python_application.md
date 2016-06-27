@@ -18,4 +18,3 @@ framework.
 
 This talk will be illustrated with code samples using Google App Engine and
 Google APIs client library.
-

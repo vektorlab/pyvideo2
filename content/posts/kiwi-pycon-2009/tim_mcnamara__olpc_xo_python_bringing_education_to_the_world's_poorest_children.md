@@ -28,4 +28,3 @@ Outline
   5. How to get involved There are small pockets of XOs around the country. Learn where they are and how to start improving them! 
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

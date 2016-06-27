@@ -17,4 +17,3 @@ contenuti,&nbsp_place_holder;non troverete stoffa pythonica migliore di Plone!
 Come costruire un servizio di Content e Document Management potente e
 professionale nel 2012? Facciamo il punto su cosa offre il mondo Python di
 oggi.
-

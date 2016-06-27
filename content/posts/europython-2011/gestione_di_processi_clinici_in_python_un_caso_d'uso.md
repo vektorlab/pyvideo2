@@ -32,4 +32,3 @@ per l'hardware che per il software. Durante il seminario parlerò anche di ciò
 che, secondo noi, ancora manca perché Python possa guadagnarsi il posto che
 gli spetta come piattaforma credibile per l'implementazione di processi
 clinici basati sui più diffusi standard internazionali.
-

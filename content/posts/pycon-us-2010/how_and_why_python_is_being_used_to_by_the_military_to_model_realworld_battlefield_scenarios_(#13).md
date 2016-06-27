@@ -26,4 +26,3 @@ currently in theater, in large part because of Python.
 
   
 [VIDEO HAS ISSUES: High pitched noise on audio]
-

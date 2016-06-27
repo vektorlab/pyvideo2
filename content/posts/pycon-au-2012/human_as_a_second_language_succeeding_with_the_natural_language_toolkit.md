@@ -26,4 +26,3 @@ This presentation will demonstrate some of the NLTK's powerful and impressive
 features, while covering the concepts that will enable any programmer to work
 cool tricks on natural language. The application of the NLTK to a very basic
 artificial intelligence will be shown.
-

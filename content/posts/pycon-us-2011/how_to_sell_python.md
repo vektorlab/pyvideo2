@@ -47,4 +47,3 @@ Speakers:
   * Large Commercial Organization: Dan Mesh of Evite 
   * Small Commercial Organization: Frank Wiles of RevSys 
   * Non-Profit Organization: Rich Leland of National Geographic 
-

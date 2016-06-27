@@ -17,4 +17,3 @@ Presented by Wesley J. Chun
 This tutorial introduces current Python programmers to 3-4 distinct areas of
 Internet programming, each in self-contained (approximately) 1-hour lectures
 (unless otherwise noted) with a demonstration of code on each lecture topic.
-

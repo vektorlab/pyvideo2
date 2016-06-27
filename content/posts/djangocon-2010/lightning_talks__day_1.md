@@ -26,4 +26,3 @@ Lightning Talks
 
 [NOTE: If you know the people whose names have a ?, please add a comment so we
 can fix it in the description. Thanks!]
-

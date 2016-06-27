@@ -31,4 +31,3 @@ to get around it was always a major topic in this project, which is going to
 augment what Stackless on PyPy already can do. Christian Tismer, creator of
 Stackless Python Perhaps with Armin Rigo as a guest, talking about Stackless
 status in PyPy. Otherwise, I will insert this myself. cheers – Chris
-

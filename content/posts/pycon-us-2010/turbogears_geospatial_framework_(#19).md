@@ -18,4 +18,3 @@ Presented by Sanjiv Singh
 It is now possible to develop feature rich GIS web applications using
 TurboGears by harnessing the power of spatial databases using GeoAlchemy and
 integrating python GIS frameworks & utilities with TurboGears using tgext.geo
-

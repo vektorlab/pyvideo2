@@ -17,4 +17,3 @@ it effectively can take some practice. In this demo-driven talk we'll walk
 through some common workflow examples, dissect a couple pitfalls, and call out
 the relative strengths and weaknesses of South as a tool at each step. Finding
 South's sweet spot for your environment will give you the best results.
-

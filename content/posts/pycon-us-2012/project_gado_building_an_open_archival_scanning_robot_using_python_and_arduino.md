@@ -15,4 +15,3 @@ autonomously scan their photographic collections. This talk presents the Gado
 2, a prototype scanning robot built around Python and Arduino, and shares
 lessons learned from using Python as the primary language in a large-scale
 archival scanning project.
-

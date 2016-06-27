@@ -19,4 +19,3 @@ Unladen Swallow is a Google-sponsored optimization branch of CPython. This
 talk will cover Google's motivation for Unladen Swallow, the approach being
 taken, results so far, challenges faced, cancers cured and plans for merger
 with CPython.
-

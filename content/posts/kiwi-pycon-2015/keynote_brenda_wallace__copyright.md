@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/crWXUgWKMrI/hqdefault.jpg'
 Title: 'Keynote: Brenda Wallace - Copyright'
 date: '2015-09-04'
 ---
-

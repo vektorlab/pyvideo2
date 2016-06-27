@@ -12,4 +12,3 @@ date: '2012-12-13'
 The talk will be about using the SQL Alchemy query expression language
 
 and how it can be combined with the ORM for noble ends.
-

@@ -25,4 +25,3 @@ games. I have previously created a (much simpler) tutorial for creating a
 turn-based tile-based PyGame game and a couple of games, such as Z-Day and
 Jelly . I will be using the materials and experiences from those projects in
 the tutorial. Please bring your laptop with Python 2.7 and PyGame installed.
-

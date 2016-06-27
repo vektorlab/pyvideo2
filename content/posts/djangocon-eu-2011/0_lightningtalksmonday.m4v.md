@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: '0_lightning-talks-monday.m4v'
 ---
-

@@ -15,4 +15,3 @@ FLOSS remains in the not-for-profit space. Kuhn will discuss advantages of
 non-profit structure and how non-profits facilitate neutral territory. Kuhn
 will also present options for projects that seek to operate officially as a
 non-profit org.
-

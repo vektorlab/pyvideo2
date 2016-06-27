@@ -15,4 +15,3 @@ development environment or deploy applications to many hosts. This tutorial
 will cover basic concepts, similarity to other tools such as virtual-env,
 puppet etc as well as practical examples. zc.buildout has successful been used
 with web applications such as Plone, django and pyramid.
-

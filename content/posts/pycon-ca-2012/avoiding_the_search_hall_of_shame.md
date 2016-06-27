@@ -15,4 +15,3 @@ lies a torrid world of bad ideas, worse ideas & ideas no computer should be
 made to suffer. If you want to keep your good name & stay out of the hall of
 shame, this talk will give you a grounding on how to make the search in your
 software better.
-

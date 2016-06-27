@@ -24,4 +24,3 @@ their new friends in practice.
 The talk will contain quite a few stories from the trenches with CouchDB,
 MongoDB, MySQL, Postgres, Tokyo Cabinet, ZODB, and other databases, and will
 help you think about the data storage needs of your applications in new ways.
-

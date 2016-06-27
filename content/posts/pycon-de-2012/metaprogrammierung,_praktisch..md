@@ -54,4 +54,3 @@ Metaprogrammierung in Python erfahren wollen. Die Beispiele sind so
 gewählt, dass sie auch für weniger erfahrene Entwickler
 
 nachvollziehbar bleiben.
-

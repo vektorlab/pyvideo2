@@ -14,4 +14,3 @@ Python? Si? Quindi, diamo un'occhiata ad un nuovissimo, complicato ed
 entusiasmante modo di tenere la nostra rubrica e il nostro dispositivo mobile
 sincronizzati. Mischieremo differenti tecnologie come Zope, OpenERP, Funambol,
 XML-RPC e Json. Tutto per rendere la vostra vita più elettrizzante!
-

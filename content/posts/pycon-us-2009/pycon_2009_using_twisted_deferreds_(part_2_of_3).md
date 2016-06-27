@@ -20,4 +20,3 @@ event-based programming. They are an idea taken from many other programming
 languages, and made into a Pythonic solution If you are using Twisted, or
 would like to use Twisted, this tutorial can help you with one of the most
 subtle issues inherent in its APIs - Deferreds.
-

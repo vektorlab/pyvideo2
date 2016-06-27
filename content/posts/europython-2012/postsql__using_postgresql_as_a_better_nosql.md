@@ -17,4 +17,3 @@ maintainability And from SQL part partial ACID (Atomicity, Consistency,
 Isolation, Durability) , general BASE (basically available, soft state,
 eventually consistent) business rule checking in database, hard to overlook
 even in case of multiple applications using the same data
-

@@ -15,4 +15,3 @@ algorithms, using them to solve various different types of problems. While
 many frameworks exist to help develop and run evolutionary algorithms, mine is
 aimed at simplicity for the user to create a program to execute an
 evolutionary algorithm
-

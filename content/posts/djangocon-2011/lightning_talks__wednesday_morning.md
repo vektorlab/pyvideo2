@@ -14,4 +14,3 @@ Lightning Talks - Wednesday morning
   * 05:00 - Jacob Kaplan-Moss: Brief history of Django model syntax 
   * 14:20 - Gabriel Grant: Why the big backpack? Well, I have t-shirts.... [DotCloud](http://dotcloud.com/)
   * 16:20 - ?: Prezi [Prezi](http://prezi.com/)
-

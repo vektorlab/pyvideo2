@@ -19,4 +19,3 @@ will dig further down by looking at some of the code we developed. Some of the
 technologies/stacks I’ll cover are (in no particular order): Flask, PyMongo,
 MongoDB, REST, JSON, XML, Heroku. Did you know? Like it or not, there is going
 to be a REST API in your future.
-

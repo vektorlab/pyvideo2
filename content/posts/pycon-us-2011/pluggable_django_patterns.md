@@ -28,4 +28,3 @@ cover:
   * The four qualities of a pluggable application 
   * The three types of Django applications 
   * Ten common situations in implementing reusable code and coding patterns to handle them 
-

@@ -32,4 +32,3 @@ Dieser Vortrag von einem der Cython Core-Entwickler erklärt, welche
 Fallstricke dabei noch auf Benutzerseite zu erwarten sind und gibt
 Hilfestellungen beim Schreiben von Cython-Code, der sowohl in CPython als auch
 in PyPy funktioniert.
-

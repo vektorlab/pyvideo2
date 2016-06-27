@@ -41,4 +41,3 @@ built and what technologies it uses.
     2. Funkload
   7. Run your own server !
   8. What's Next
-

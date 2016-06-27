@@ -17,4 +17,3 @@ including cloud inferstructure such as Amazon Ec2.
 
 The talk will cover Ian Bicking's Silver Lining, zc.buildout, Fabric and
 hostout. This talk will focus on how to get your first web app hosted easily.
-

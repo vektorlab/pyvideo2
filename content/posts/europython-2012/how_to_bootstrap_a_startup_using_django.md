@@ -26,4 +26,3 @@ infrastructure (5+ servers) - Once the infrastructure becomes larger the
 deployments become more tedious. There are a few automation tools for these
 scenarios like the Etsy Deployinator. Tips on performance - How to find and
 remove performance bottlenecks.
-

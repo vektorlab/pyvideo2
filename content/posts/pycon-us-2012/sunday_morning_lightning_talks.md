@@ -9,5 +9,3 @@ ThumbnailUrl: 'http://img.youtube.com/vi/VMIj6eB9baY/hqdefault.jpg'
 Title: 'Sunday Morning Lightning talks'
 date: '2012-03-11'
 ---
-
-

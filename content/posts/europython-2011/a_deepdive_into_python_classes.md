@@ -25,4 +25,3 @@ The talk answers questions such as:
 Attendees should understand at least the basics of object oriented programming
 in Python. This talk doesn't aim to explain object-orientation, o-o design, or
 how Python represents objects in C.
-

@@ -12,4 +12,3 @@ Now What
 
   
 Presented by Ted Leung
-

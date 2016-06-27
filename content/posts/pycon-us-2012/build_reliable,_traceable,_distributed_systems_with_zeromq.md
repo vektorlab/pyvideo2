@@ -15,4 +15,3 @@ topologies with ZeroMQ special socket types to implement PUB/SUB patterns and
 scale up job-processing tasks. Thanks to introspection, the resulting services
 will be self-documented. Finally, we will show how to implement distributed
 tracing.
-

@@ -20,4 +20,3 @@ using Urwid:
 * hachoir-urwid  
 * speedometer  
 * pudb
-

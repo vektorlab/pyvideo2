@@ -18,4 +18,3 @@ Presented on May 15th, 2009 at ChiPy
 Talks about go_pylons and snakefight and other things that allow you to build
 and run Python applications with Jython. WSGI to servlet adapter in Jython
 2.5.
-

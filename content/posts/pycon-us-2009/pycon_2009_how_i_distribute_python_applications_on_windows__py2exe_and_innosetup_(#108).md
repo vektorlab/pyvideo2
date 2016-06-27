@@ -17,4 +17,3 @@ binaries and an InnoSetup installer in one step. In addition, I'll go over
 common errors which come up when using py2exe and hints on troubleshooting
 them. This is a short talk, so there will be a follow-up Open Space session to
 share experience and help each other solve distribution problems.
-

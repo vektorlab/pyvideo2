@@ -16,4 +16,3 @@ Justin Bronn
   
 Talks about data loading strategies for very large datasets and why not to use
 an ORM when doing it.
-

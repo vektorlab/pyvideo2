@@ -20,4 +20,3 @@ context when it comes to current developments - as well as exploring some of
 the common problems a migration system (and its users) encounter, and how
 those lessons and ideas are being used to help improve Django itself to better
 support schema migrations.
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/L_LLYTm-QnM/hqdefault.jpg'
 Title: 'Opening Statements - PyCon 2014 (2014/04/11)'
 date: '2014-04-11'
 ---
-

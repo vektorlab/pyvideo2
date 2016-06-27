@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/SB9TWabor1k/hqdefault.jpg'
 Title: 'Hy: A Lisp that transforms itself into the Python AST. '
 date: '2013-05-09'
 ---
-

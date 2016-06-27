@@ -14,4 +14,3 @@ In 2.6, Python introduced the Abstract Base Classes. Before that we had
 concept of interfaces fits into today's Python. We'll also look at some of the
 alternate proposals of the past, some of the controversies around ABCs, and
 the direction interfaces might go in the future.
-

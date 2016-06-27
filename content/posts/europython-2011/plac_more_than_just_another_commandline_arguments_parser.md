@@ -21,4 +21,3 @@ takes advantage of function annotations to define the parser in a declarative
 way, instead of the imperative way of argparse. In Python 2.X it uses
 decorators instead, to reach the same goal. The talk is a hands-on interactive
 demonstration of plac capabilities.
-

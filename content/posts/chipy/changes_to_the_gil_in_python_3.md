@@ -11,4 +11,3 @@ date: '2010-01-14'
 ---
 Follow-up to David's last GIL talk in June 2009. This presentation walks
 through changes to the GIL that are being made.
-

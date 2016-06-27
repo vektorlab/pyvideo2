@@ -23,4 +23,3 @@ doctor/physician before changing your diet and/or your physical regimen.
 Neither this speaker nor the conference organization will be liable for any
 injuries or illnesses you may incur by however applying the concepts discussed
 in this talk.
-

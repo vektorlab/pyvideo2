@@ -15,4 +15,3 @@ that connects this framework with a REST API. Unfortunately, the conventions
 followed by its community are not compatible with Tastypie, one of the most
 widely used Django libraries. This adapter makes all these technologies work
 together.
-

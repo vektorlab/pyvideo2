@@ -10,4 +10,3 @@ Title: 'BDFL Keynote - Adrian Holovaty'
 date: '2012-10-06'
 ---
 DjangoCon 2012 - BDFL Keynote - Adrian Holovaty
-

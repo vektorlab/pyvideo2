@@ -14,4 +14,3 @@ solutions, however advocating and communicating in the wider business context
 is often challenging. This talk uses a visual approach to describe how
 business managers think, with the goal of increasing your personal
 communication effectiveness.
-

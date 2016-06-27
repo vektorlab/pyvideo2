@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: 'Djangoconeu-DjangoTechnicalDesignPanel420.flv'
 ---
-

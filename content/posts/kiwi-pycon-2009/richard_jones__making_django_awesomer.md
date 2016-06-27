@@ -29,4 +29,3 @@ I will:
 Attendees should have some familiarity with Django.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

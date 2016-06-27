@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/srvbI86lOuQ/hqdefault.jpg'
 Title: 'Conference Opening & Housekeeping'
 date: '2013-07-06'
 ---
-

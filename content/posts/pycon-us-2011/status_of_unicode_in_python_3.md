@@ -20,4 +20,3 @@ The talk will focus on the recent issues fixed in Python 3.1 and 3.2:
   * etc. 
 
 The talk will present not only the changes in Python, but also in the C API.
-

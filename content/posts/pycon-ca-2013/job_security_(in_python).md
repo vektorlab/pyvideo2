@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/o5D8DwvkOc8/hqdefault.jpg'
 Title: 'Job Security (in Python)'
 date: '2013-08-11'
 ---
-

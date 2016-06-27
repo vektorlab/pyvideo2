@@ -20,4 +20,3 @@ Dettagli implementativi: come funziona WebDAV sotto il cofano, le estensioni che
 Django e WebDAV: la struttura nello specifico della nostra implementazione, il model, le view e l’implementazione di un’applicazione Django sui generis.
 Scelte di implementazione, difficoltà tecniche e soluzioni: dove abbiamo utilizzato il database e dove invece abbiamo ritenuto più opportuno sfruttare le periferiche di archiviazione, i problemi che abbiamo incontrato durante lo sviluppo, e come li abbiamo risolti.
 Il pessimo stato dell’arte: come ogni client implementi una propria versione “personalizzata” di WebDAV e come Davvy si adatta in mdo implicito ed automatico alle diverse richieste dei client. Esempi sui più noti client: Apple’s Calendar, Mozilla Thunderbird, e così via.
-

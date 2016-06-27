@@ -55,4 +55,3 @@ Reusable applications are my favorite feature of Django. It does take work to
 maintain an open source app but it can be quite rewarding. If you use these
 tools you can help provide your users with the best experience and empower
 them to help you with your application.
-

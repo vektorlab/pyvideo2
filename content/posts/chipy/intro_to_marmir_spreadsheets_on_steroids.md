@@ -18,4 +18,3 @@ internals do things like: measure fonts to fit columns, preserve data types
 Later down the road, I would like to have a separate talk on Marmir internals
 and how it may be customized to do things like, convert Django model data
 directly to spreadsheets, integrate with google spreadsheets.
-

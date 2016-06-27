@@ -15,4 +15,3 @@ engineering point of view. The talk will be divided into 3 parts. 1. The
 motivation behind writing a API. 2. Show design patterns that help design the
 foundations of an API 3. Show an example of building an API (e-commerce
 module)
-

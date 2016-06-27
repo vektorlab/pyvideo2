@@ -38,4 +38,3 @@ einer Open Source Lizenz verfügbar gemacht.
 
 Der Vortrag wird das Projekt vorstellen, eine Anwendungsdemo zeigen und je
 nach verfügbarer Zeit auch die Übersetzung demonstrieren.
-

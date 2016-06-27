@@ -21,4 +21,3 @@ I will demonstrate the basic workings of:
 
 The used code will allow those who have their laptop with them to try
 the code samples for themselves.
-

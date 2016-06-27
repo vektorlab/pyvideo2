@@ -13,4 +13,3 @@ This tutorial is an introduction to Bayesian statistics using Python. My goal
 is to help participants understand the concepts and solve real problems. We
 will use material from my book, Think Stats: Probability and Statistics for
 Programmers (O’Reilly Media).
-

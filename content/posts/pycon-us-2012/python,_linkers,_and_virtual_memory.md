@@ -15,4 +15,3 @@ interpreters, or to run one Python and have it fork() further workers? What is
 an “undefined symbol,” anyway? Learn about how an operating system manages
 memory, loads shared libraries, and what this means for Python servers and
 applications.
-

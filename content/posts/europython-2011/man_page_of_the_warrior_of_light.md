@@ -15,4 +15,3 @@ principles-based foundations for building good patterns and other technical
 and social aspects of being a good programmer.
 
 With examples in Python.
-

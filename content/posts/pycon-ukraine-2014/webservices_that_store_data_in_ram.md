@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/fhRe_TO0E0k/hqdefault.jpg'
 Title: 'Web-services that store data in RAM'
 date: '2014-11-02'
 ---
-

@@ -38,4 +38,3 @@ internal sales management tool using Python, Excel and SAP to counter-act the
 evilness of being a sales manager. Please do not ask about these dark times in
 polite conversations. More info about Nick may or may not be found at
 [http://www.nickhodge.com/](http://www.nickhodge.com/).
-

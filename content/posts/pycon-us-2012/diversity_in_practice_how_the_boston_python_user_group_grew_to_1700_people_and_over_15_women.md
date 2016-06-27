@@ -16,4 +16,3 @@ Boston Python Workshop, which brought over 200 women into Boston's Python
 community this year. We'll talk about lessons learned running the workshop,
 the dramatic effect it has had on the local user group, and how to run a
 workshop in your city.
-

@@ -23,4 +23,3 @@ Monitoring Celery logging: Oh, my! Scaling Celery Flask-SQLAlchemy Migrations
 Sharding and master/slave setup Celery and SQLAlchemy: unexpected issues
 Performance analysis Using werkzeug’s profiler Integrating with statsd
 Investigating cache usage patterns Summary
-

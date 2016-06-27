@@ -21,4 +21,3 @@ obtain solutions both in Python and Haskell, in order to be able to first hand
 compare and contrast readability, performance and development time. Bring a
 laptop and a couple of interpreters (ipython and ghci) and lets do some
 hacking!
-

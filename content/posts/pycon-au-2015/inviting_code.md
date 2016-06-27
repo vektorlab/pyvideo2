@@ -26,5 +26,3 @@ Areas covered in this talk include
 • Class method decorators
 • Code validation
 • Image manipulation
-
-

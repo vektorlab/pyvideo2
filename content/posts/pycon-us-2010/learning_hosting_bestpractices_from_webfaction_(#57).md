@@ -29,4 +29,3 @@ trade-offs, and learn how *not* to get yourself in trouble while running
 
   
 [VIDEO HAS ISSUES: Audio slightly clipping]
-

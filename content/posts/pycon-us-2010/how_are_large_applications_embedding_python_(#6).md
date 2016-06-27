@@ -20,4 +20,3 @@ Nuke.
 This session is for those interested in the popular techniques of embedding
 the Python interpreter. The survey will determine the best practices for
 embedding Python at the core of a large application.
-

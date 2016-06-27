@@ -20,4 +20,3 @@ relational databases, and at the same time there are decades of hard work
 that's gone into optimizing databases built around the relational model. This
 talk will focus on comparing relational DB's to their new friends in practice,
 and on providing practical tools for deciding what's right for your project.
-

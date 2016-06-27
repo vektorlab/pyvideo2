@@ -18,4 +18,3 @@ unexpected challenges raised by a highly dynamic social web application.
 Topics covered will include performance monitoring and optimisation, advanced
 caching tricks, denormalisation with Solr and Redis and finding the right
 balance between technical elegance and pragmatism.
-

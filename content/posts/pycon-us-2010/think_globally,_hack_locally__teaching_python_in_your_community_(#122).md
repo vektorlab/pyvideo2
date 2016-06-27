@@ -22,4 +22,3 @@ section of the lab's community, and include everyone from complete beginners
 who hadn't written code since BASIC in high school, to seasoned veterans. Come
 hear about our successes and failures, and learn how to start such an event in
 your local community.
-

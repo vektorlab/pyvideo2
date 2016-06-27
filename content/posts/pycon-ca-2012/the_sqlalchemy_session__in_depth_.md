@@ -15,4 +15,3 @@ lifecycle through the use of an animated diagram. We'll cover how the
 relational database refers to database rows within a transaction, and how the
 Session has over the years developed a tight, proxied integration with this
 lifecycle.
-

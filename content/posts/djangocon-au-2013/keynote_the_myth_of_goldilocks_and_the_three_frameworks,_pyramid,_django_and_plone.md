@@ -10,4 +10,3 @@ Title: 'Keynote: The myth of goldilocks and the three frameworks, Pyramid, Djang
   and Plone'
 date: '2013-07-05'
 ---
-

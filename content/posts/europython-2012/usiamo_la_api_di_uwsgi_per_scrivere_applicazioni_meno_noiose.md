@@ -16,4 +16,3 @@ task asincroni, il monitoraggio dei file e tante altre robe divertenti che vi
 eviteranno di istallare tonnellate di grassi demoni o dire di “no” al cliente.
 Il talk mostrera’ vari utilizzi della api (in ordine di complessita’) e
 qualcuna delle nuove features in sviluppo
-

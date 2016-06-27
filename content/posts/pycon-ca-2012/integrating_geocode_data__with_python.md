@@ -14,4 +14,3 @@ OpenStreetMap Data with Python in the context of a reuse store locator module.
 We will show you the basics of how to setup your project and what you need to
 know about rendering maps, parsing and importing the data, etc. in Python.
 Python is the best language for doing GIS.
-

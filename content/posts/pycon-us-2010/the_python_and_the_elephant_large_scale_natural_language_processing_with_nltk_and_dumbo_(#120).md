@@ -37,4 +37,3 @@ cloud-computing API (based on Hadoop) via the hands of Klaas Bosteels.
   
 In this talk, we show how the amalgamation of Python, NLTK and Dumbo can allow
 for very large-scale natural language processing efficiently and elegantly.
-

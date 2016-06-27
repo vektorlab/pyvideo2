@@ -16,4 +16,3 @@ I would like to show you how you can make sense of all that data, how to collect
 Once we have all the data in one place I will go over some examples of more advanced analysis (beyond simple, though very useful, counting of things) like finding patterns and trends in your data.
 
 We will use Elasticsearch, Logstash and Kibana (aka the ELK stack) to achieve that. All tools presented are open source and examples will be using real life use cases.
-

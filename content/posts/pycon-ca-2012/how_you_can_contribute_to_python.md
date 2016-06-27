@@ -16,4 +16,3 @@ work to patch reviews to new features to blogging, there are a number of
 ways you can give back to Python. This talk for beginners will walk you
 
 through these ways with concrete demonstrations.
-

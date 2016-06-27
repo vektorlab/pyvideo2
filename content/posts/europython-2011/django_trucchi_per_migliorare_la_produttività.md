@@ -18,4 +18,3 @@ veloci.
 
 Argomenti trattati: python, users, forms, jquery, virtualenv, distribute,
 buildbot, ecc…
-

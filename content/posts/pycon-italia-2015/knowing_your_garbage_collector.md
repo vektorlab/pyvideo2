@@ -16,4 +16,3 @@ So, this talk aims to be and introduction to the topic and a walkaround through 
 
 Generational Reference counting with cycles detector on CPython.
 Incremental version of the MiniMark GC on PyPy.
-

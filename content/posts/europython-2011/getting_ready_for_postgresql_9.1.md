@@ -31,4 +31,3 @@ users to control the replication strategy at transactional granularity. Come
 to the talk and discover all the major new features of PostgreSQL 9.1,
 including extensions management, writable common table expressions (WCTE),
 etc.
-

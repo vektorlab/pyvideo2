@@ -26,4 +26,3 @@ but many of the experiences which fuel this talk will be based on joining a
 new team. It will cover tracing execution paths, finding the more interesting
 portions of a codebase, as well as how to address any issues you may have
 found in it.
-

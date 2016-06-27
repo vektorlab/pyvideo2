@@ -13,4 +13,3 @@ GNU MediaGoblin is a free software media publishing system written in Python
 for images, video, and audio. This talk starts by tricking you into watching
 the mediagoblin_campaign_pitch video, and then Chris explains how he used
 Python to drive Blender to make the animated effects.
-

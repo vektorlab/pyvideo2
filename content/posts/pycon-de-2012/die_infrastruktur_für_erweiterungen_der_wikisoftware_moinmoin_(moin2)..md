@@ -31,4 +31,3 @@ zeigt den Stand der aktuellen Entwicklung.
 Für Eigenentwicklungen wird ein Einblick
 
 auf das neue Plugin Konzept gegeben.
-

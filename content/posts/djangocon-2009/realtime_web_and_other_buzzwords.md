@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-RealtimeWebAndOtherBuzzwo
 Title: 'Real-time Web and Other Buzzwords'
 ---
   
-

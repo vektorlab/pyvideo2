@@ -18,4 +18,3 @@ extensible so it may be used to install application parts with nearly
 arbitrary individual requirements. The talk introduces zc.buildout, gives an
 overview of its possibilities as well as the major third-party extensions and
 demonstrates the system by means of a case study.
-

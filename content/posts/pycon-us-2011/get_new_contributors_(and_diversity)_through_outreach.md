@@ -40,4 +40,3 @@ We will discuss three major forms of outreach:
 Each one has "do"s and "don't"s associated with it. This talk digests the
 experience of effective outreach into practical strategies that you can re-use
 within your project.
-

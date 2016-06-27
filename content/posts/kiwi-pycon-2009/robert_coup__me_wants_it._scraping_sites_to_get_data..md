@@ -38,4 +38,3 @@ Slides: [http://www.slideshare.net/rcoup/me-wants-it-scraping-sites-to-get-
 data](http://www.slideshare.net/rcoup/me-wants-it-scraping-sites-to-get-data)
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

@@ -28,4 +28,3 @@ preliminary outline, it's likely that it will change somewhat before the
 conference.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

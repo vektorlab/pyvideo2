@@ -56,4 +56,3 @@ django forms living at the API backend.
 In this talk we detail the architecture of our components, the mechanism of
 delivering django form metadata over API and a backbone.js/ handlebars
 implementation to consume the metadata and reproduce forms.
-

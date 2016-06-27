@@ -14,4 +14,3 @@ Presented by Graham Dumpleton
 
 An introduction to using Apache/mod_wsgi to host Python web applications
 supporting the Python Web Server Gateway Interface (WSGI).
-

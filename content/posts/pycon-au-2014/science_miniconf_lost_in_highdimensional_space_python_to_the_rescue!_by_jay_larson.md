@@ -10,4 +10,3 @@ Title: 'Science MiniConf: Lost in High-dimensional Space? Python to the Rescue! 
   Jay Larson'
 date: '2014-08-11'
 ---
-

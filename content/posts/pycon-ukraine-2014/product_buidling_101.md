@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/SNu11Vyy8Kk/hqdefault.jpg'
 Title: 'Product buidling 101'
 date: '2014-11-02'
 ---
-

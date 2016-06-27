@@ -34,4 +34,3 @@ namespace. The source code of PyPedia is available under the GPL v.3 license.
 Availability: [http://www.pypedia.com](http://www.pypedia.com) Video
 demonstration: [http://www.youtube.com/watch?v=25jMEivICD8](http://www.youtube
 .com/watch?v=25jMEivICD8)
-

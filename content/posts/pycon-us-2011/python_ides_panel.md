@@ -33,4 +33,3 @@ code control. The growth of Python in recent years has led to a number of
 projects and vendors developing Python-specific or Python-supporting IDEs.
 This panel will allow attendees to compare and contrast the different IDEs
 available.
-

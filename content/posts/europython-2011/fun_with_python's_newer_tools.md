@@ -13,4 +13,3 @@ Spend ten minutes each learning to work with Counters, named tuples, new
 string formatting, and the LRU cache. Learn the basic API, see how it works
 under the hood, enjoy a simple example, and then have fun pushing it to the
 limit in interesting ways.
-

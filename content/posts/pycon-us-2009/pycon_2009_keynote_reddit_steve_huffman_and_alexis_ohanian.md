@@ -13,4 +13,3 @@ Keynote: Reddit: Steve Huffman and Alexis Ohanian
   
 The co-founders of reddit.com spoke about Reddit's origin, the switch to
 Python, and took many questions.
-

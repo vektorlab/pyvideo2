@@ -24,4 +24,3 @@ way we solved scalability, internationalization, and performance issues
 issues. Ultimately we know that without python, we could not have built a
 flexible plugin based system, and gotten permission from management to open
 source it.
-

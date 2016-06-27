@@ -15,4 +15,3 @@ One version of this problem is storing data in a way that optimizes for
 reading data, while sacrificing performance from writing data. One piece of
 software that Chango uses to solve this problem is Kyotocabinet. This is a
 memory-mapped, key ...
-

@@ -18,4 +18,3 @@ stations across Australasia that track the sun, measuring the irradiance of
 the sun and sky. This talk will outline the work of the Network, the changes
 resulting from the introduction of Python in 2005, and advantages and some
 difficulties of using Python.
-

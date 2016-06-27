@@ -37,4 +37,3 @@ It's unusual for open source code and communities to bridge minor perceived
 differences in scope and style and to start sharing code and ideas openly. If
 you're a user of any of these frameworks, you'll want to be present for this
 talk.
-

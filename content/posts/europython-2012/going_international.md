@@ -16,4 +16,3 @@ time zones. First, the talk will address what Unicode is and how to write
 applications that deal with Unicode correctly. Then, the talk will discuss
 software localization using gettext and will conclude with a discussion of
 time zone handling in Python. No prerequisites are necessary.
-

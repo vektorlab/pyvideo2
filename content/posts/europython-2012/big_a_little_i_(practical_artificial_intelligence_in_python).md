@@ -24,4 +24,3 @@ building thinking machines, but rather about creating software that users
 won’t think is stupid. Basic AI techniques such as Constraint Propagation and
 Identification Trees, can really help developers along the road to smarter
 software.
-

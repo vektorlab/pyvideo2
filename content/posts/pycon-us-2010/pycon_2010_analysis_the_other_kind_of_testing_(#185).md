@@ -20,4 +20,3 @@ how to improve the specification. How can you stay competitive when most of
 the big names today are using analysis to guide product evolution? Level the
 playing field and make better products by learning how to design experiments,
 collect data, make measurements, and optimize your specifications.
-

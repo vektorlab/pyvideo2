@@ -50,4 +50,3 @@ Here's a rough outline of what I plan to cover:
   * an overview of existing tools and how they work together 
   * caveat emptors, known pitfalls (deployment and recovery strategies go here, since most implementations figure out they need them after stuff blows up) 
   * questions! (hopefully lots of people who've tried or are thinking about implementing something similar -- like I said, there are a lot of people implementing it but not too many ideas being bounced around) 
-

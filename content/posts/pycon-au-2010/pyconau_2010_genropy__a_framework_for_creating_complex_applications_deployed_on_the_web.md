@@ -35,4 +35,3 @@ use many different technologies and languages.
 
 Jeff Edwards from Goodsoftware is strategic partner of Sofwell who is the
 author of Genropy.
-

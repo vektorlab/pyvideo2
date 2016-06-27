@@ -20,4 +20,3 @@ What to do and most of all what not to do. This will help you if you want at
 some point in time to run program on for example Java platform or faster
 python interpreter, but also if you want to keep it running between CPython
 releases.
-

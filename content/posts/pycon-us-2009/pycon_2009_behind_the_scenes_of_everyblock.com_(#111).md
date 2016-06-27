@@ -16,4 +16,3 @@ EveryBlock.com, a Knight Foundation News Challenge startup which rounds up
 local news and information, and is powered 100% by Python and Django.
 
 [VIDEO HAS ISSUES: Audio humming]
-

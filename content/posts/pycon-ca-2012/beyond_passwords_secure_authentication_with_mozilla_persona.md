@@ -12,4 +12,3 @@ date: '2012-11-11'
 Persona is a decentralized, cross-browser login system that eliminates site
 passwords. Learn about its design with a focus on adding it to Python-based
 webapps, drawing from Mozilla's own experience.
-

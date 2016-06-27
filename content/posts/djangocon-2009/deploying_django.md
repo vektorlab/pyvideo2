@@ -18,4 +18,3 @@ Talks about deploying django sites.
 
   
 [VIDEO HAS ISSUES: mostly in left speaker]
-

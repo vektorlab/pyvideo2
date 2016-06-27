@@ -10,4 +10,3 @@ Title: 'Clustering of high-content screen images to discover off-target phenotyp
   by Juan Nunez-Iglesias'
 date: '2014-08-11'
 ---
-

@@ -10,4 +10,3 @@ Title: 'Transforming Code into Beautiful, Idiomatic Python'
 date: '2013-03-15'
 ---
 Learn to take better advantage of Python's best features and improve existing code through a series of code transformations, "When you see this, do that instead."
-

@@ -23,4 +23,3 @@ It will also include some tips for sprint leaders about how to make your project
 With any luck, this presentation can help both sprint leaders and attendees with a smoother experience which gets the difficulties out the way and leaves maximum opportunity for coding and enjoyment.
 
 Tennessee has gone through the meatgrinder of sprinting, from sitting down with a group of strangers trying to help them fix trivial bugs, to developing significant extensions, to leading sprints. With the scars to show and lessons learned, he is in a reasonable position to help suggest some simple things that can make sprinting easier and more enjoyable for the newcomer.
-

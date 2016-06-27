@@ -27,4 +27,3 @@ your fields.
 This talk will give an overview of Sprox, what it does and how to use it. Then
 we'll explore the available backends (SQLAlchemy, MongoDB) and dive into the
 tgext.admin package, which is the "Admin Tool" for the TurboGears2 framework.
-

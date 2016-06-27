@@ -31,4 +31,3 @@ no special intended audience, but a certain level of Python knowledge and
 experience may be an advantage. Please refer to
 [http://code.google.com/p/migrid/](http://code.google.com/p/migrid/) for
 further MiG information.
-

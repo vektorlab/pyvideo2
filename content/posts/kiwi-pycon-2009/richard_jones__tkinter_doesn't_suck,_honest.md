@@ -26,4 +26,3 @@ configuration dialog - basics of interface design / packing - a look at the
 widgets built in - a look at some of the extensions
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

@@ -28,4 +28,3 @@ metaclasses for most common dictionary modifications is covered.
   
 [VIDEO HAS ISSUES: Missing about 1 minute at start, because of technical
 problems.]
-

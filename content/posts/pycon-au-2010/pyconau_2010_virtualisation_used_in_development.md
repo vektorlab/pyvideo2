@@ -15,4 +15,3 @@ Presented by Andrew Boag (Catalyst IT)
 Some thoughts on why it makes sense to do your development inside some sort of
 virtual container. There are real pluses for the grass-level developement
 process, whether you have a large or small infrastructure.
-

@@ -19,4 +19,3 @@ and deep functionality). This talk will introduce the rich feature set of
 mongoDB and examine how easy it is to develop with using python. We’ll discuss
 the various ODM’s solutions that really let you develop quickly and how
 mongoDB can be used to easily scale.
-

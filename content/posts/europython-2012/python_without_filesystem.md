@@ -46,4 +46,3 @@ ERP typically provides, but it is also used for a wide range of other
 purposes. Therefore, this will give a more real-world example on how this
 migration has been performed on a complex web application where 90% of the
 code is going to be moved away from filesystem into the ZODB.
-

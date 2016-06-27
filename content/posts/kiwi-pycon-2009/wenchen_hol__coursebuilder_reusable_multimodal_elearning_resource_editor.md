@@ -24,4 +24,3 @@ Outline
 technology background demo what is the difference q&a;
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

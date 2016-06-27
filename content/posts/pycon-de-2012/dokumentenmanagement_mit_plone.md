@@ -21,4 +21,3 @@ Informationen einzusetzen. Es werden Themen wie Rechteverwaltung, globale und
 lokale Arbeitsabläufe, Regeln zur Ereignissteuerung, Möglichkeiten der
 eingebauten Suchfunktionen (Volltextsuche/Verschlagwortung), sowie der Einsatz
 von Kollektionen zur Aufbereitung von Inhalten behandelt.
-

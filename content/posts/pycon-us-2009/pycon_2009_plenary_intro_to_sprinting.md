@@ -12,4 +12,3 @@ Title: 'PyCon 2009: Plenary: Intro to Sprinting'
 by Brett Cannon What sprinting is: a group of people doing something together.
 Who goes: everyone! Why: fun, great learning, you can do it your way How: get
 a table, some chairs, some people...
-

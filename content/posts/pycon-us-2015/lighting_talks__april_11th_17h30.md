@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/JVVMMULwR4s/hqdefault.jpg'
 Title: 'Lighting Talks - April 11th 17h30'
 date: '2015-04-12'
 ---
-

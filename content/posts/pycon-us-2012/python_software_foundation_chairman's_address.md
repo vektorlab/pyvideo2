@@ -9,5 +9,3 @@ ThumbnailUrl: 'http://img.youtube.com/vi/X6807rcObkk/hqdefault.jpg'
 Title: 'Python Software Foundation Chairman''s Address'
 date: '2012-03-10'
 ---
-
-

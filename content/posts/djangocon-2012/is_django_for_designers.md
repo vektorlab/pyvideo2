@@ -29,4 +29,3 @@ will be covered:
 
     * How to contribute
     * Why designers are an important part of the community
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/yDUFGXUfUA8/hqdefault.jpg'
 Title: 'Machine Learning'
 date: '2014-11-28'
 ---
-

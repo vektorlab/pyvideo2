@@ -19,4 +19,3 @@ Give a brief overview of what the Meta API is, it’s features and what can be d
 Look at some of Django’s ORM code: from the model metaclass to the relation graph
 Describe my experience in creating a custom Meta that talks to GMail through Django’s Model API (demo)
 Define a small but concise guide on how to contribute to Django
-

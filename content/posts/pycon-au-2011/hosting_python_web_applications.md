@@ -16,4 +16,3 @@ manner of web applications. In order though for users to be able to access
 your web application you need to host it. The choices available are however
 many and varied with accurate information on which may be a good choice not
 always easy to find.
-

@@ -16,4 +16,3 @@ Presented by Dimitris Glezos
   
 Talks about Transifex, what it does, how it works, and how to use it to
 localize your application.
-

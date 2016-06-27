@@ -23,4 +23,3 @@ cross-platform UIs using QML.
 
 Materials available at:
 [http://thp.io/2011/europython/](http://thp.io/2011/europython/)
-

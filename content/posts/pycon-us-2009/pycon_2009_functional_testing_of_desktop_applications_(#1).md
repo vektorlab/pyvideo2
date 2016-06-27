@@ -13,4 +13,3 @@ Many advocates of unit testing believe that testing desktop (GUI) applications
 is so difficult as to not be worth it. Not only is it possible, but
 'functional testing' (testing an application from the point of view of the
 user) is an important part of an agile development process.
-

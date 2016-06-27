@@ -13,4 +13,3 @@ Learn how cool it is to write command-line tools using IronPython and Visual
 Studios. In this talk we cover why command-lines tools are important for .NET
 shops, how to write one, and finally, how to distribute it as a standalone
 .exe.
-

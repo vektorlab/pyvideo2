@@ -14,4 +14,3 @@ machine learning tools applied to practical software engineering tasks such as
 language detection of tweets, topic classification of web pages, sentiment
 analysis of customer products reviews and facial recognition in pictures from
 the web or from your own webcam.
-

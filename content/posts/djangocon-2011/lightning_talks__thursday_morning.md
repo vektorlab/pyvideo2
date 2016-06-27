@@ -30,4 +30,3 @@ Lightning Talks - Thursday morning
   * 1:00:46 - Brian Davis: Static analysis in Emacs ([emacs-psa](http://bit.ly/emacs-psa)) 
   * 1:03:55 - ?: Sitting on your butt and letting your ideas happen without you 
   * 1:06:35 - Mjumbe Poe: [django-model-blocks](https://github.com/mjumbewu/django-model-blocks)
-

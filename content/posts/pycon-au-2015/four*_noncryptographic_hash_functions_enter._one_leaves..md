@@ -18,4 +18,3 @@ I’ll run through the state of the art in the world of non-cryptographic hashin
 Let’s find out.
 
 * I’m saying “four”, but realistically I’m going to cover as many modern options as I can fit into the time available. Let’s say “four plus two or minus one” in reality.
-

@@ -20,4 +20,3 @@ This will be our Best Meeting Ever!
 [http://codespeak.net/tox/](http://codespeak.net/tox/)
 
 [http://chipy.org/](http://chipy.org/)
-

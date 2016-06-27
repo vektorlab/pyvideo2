@@ -21,4 +21,3 @@ Have you wanted to become test-infected but couldn't find the start of the
 thread to pull? Marshall will help.
 
 Boston Python Meetup, May 2010
-

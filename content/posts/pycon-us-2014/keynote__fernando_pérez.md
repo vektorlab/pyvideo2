@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/2NSbuKFYyvc/hqdefault.jpg'
 Title: Keynote - Fernando P\xE9rez\
 date: '2014-04-13'
 ---
-

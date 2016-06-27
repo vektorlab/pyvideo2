@@ -46,4 +46,3 @@ video of me giving a lightning talk at last year’s Pycon UK. It’s on a total
 different topic, but it gives a hit of my “dynamic” presentation “skills": - [
 https://www.youtube.com/watch?v=e6NLAbgmRZ4](https://www.youtube.com/watch?v=e
 6NLAbgmRZ4)
-

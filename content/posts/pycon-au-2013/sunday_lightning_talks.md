@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/daVHCUHtOZ4/hqdefault.jpg'
 Title: 'Sunday Lightning Talks'
 date: '2013-07-07'
 ---
-

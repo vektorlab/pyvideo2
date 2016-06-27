@@ -15,4 +15,3 @@ writing unit- or functional tests: assertions and dependency injection
 mechanisms. We also look at other features like distributing test load, new
 plugins and reasons why some Redhat and Mozilla people choose pytest over
 other approaches.
-

@@ -14,4 +14,3 @@ extension system. This talk will discuss the process of building python for
 your embedded platform, and the basics of getting C extensions compiled and
 running. It will focus on Linux so that the build host and the build target
 are the same.
-

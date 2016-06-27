@@ -22,4 +22,3 @@ lassen. Evtl. könnte dieser Vortrag / dieses Brainstorming auch als Start für
 eine Open Space Session innerhalb vom Barcamp zu diesem Thema sein. Die
 Zielgruppe für diesen Vortrag ist neben den Experten sicherlich auch für
 Neulinge geeignet.
-

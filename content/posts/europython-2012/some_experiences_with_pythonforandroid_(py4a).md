@@ -19,4 +19,3 @@ for beginners who have some experience with Python but none with Android and
 the Py4A library. It’s not going into details, but more on how easy it was,
 porting Python code on Android and using especially the Android GUI with the
 Scripting Layer for Android (SL4A).
-

@@ -27,4 +27,3 @@ uses for some of its more interesting functionality so that they can implement
 them in their own programs (even unrelated ones). It ends with a brief
 demonstration of sqlpython, a cmd2-based application that improves on existing
 ad-hoc SQL applications.
-

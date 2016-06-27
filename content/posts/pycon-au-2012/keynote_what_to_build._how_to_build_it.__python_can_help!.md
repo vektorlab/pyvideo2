@@ -31,4 +31,3 @@ development of viable products, to the creation of complex models that can be
 used to tweak the levers of growth, and it’s easy to combine these with off
 the shelf tools that help you analyze traffic patterns and figure out what
 product changes actually make a difference.
-

@@ -59,4 +59,3 @@ reusable app are necessarily different, and I think it will be interesting to
 look at what traits make reusable apps popular.
 
 [Large problems posts](http://ericholscher.com/tag/largeproblems/)
-

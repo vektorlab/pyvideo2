@@ -26,4 +26,3 @@ Nach einem einfachen Test-Beispiel, das die Grundprinzipen umfasst, folgen
 Beispiel zu "dependency injection". Die Nutzung von py.test im Mozilla Projekt
 webqa und die Möglichkeiten des "mocking" und "monkeypatching" schließen den
 Vortrag ab.
-

@@ -14,4 +14,3 @@ We will discuss how to profile Python code, how to interpret profiles, and how
 will look at both built-in and external tools (including RunSnakeRun and
 SnakeViz). We will also discuss the wider issues of how to approach
 optimization in your code base.
-

@@ -14,4 +14,3 @@ Python 401: Some Advanced Topics (Part 3 of 3)
 Steve Holden challenges you to find new and interesting applications for some
 of the less heavily utilized features of Python including generator
 expressions, string interpolation, iteration and metaclasses.
-

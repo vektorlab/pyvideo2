@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/h721CR8xYuQ/hqdefault.jpg'
 Title: 'Switching character sets with the engine running (on the web)'
 date: '2013-08-11'
 ---
-

@@ -18,4 +18,3 @@ used to prototype systems and create interactive data visualisations.
 
 [NOTES: Missing first 2 minutes of audio, then camera microphone for first
 section.]
-

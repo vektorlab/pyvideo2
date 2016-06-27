@@ -70,4 +70,3 @@ Extending the ORM
 
   * Using SessionExtension to populate denormalized views 
   * Subclassing Query to Suit Your Needs 
-

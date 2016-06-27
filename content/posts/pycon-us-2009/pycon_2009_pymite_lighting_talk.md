@@ -15,4 +15,3 @@ Presenter: Dean Hall
 
   
 Project Site: [http://www.pythononachip.org](http://www.pythononachip.org/)
-

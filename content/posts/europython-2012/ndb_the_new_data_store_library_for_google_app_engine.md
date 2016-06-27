@@ -20,4 +20,3 @@ new paradigm for asynchronous APIs, based on coroutines implemented using
 Python’s “yield” expression (and a simple event loop). It also supports a
 flexible way to create new Property classes by subclassing existing Property
 classes.
-

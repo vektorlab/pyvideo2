@@ -10,4 +10,3 @@ Title: 'Fun with App Engine 1.5.0'
 date: '2011-08-22'
 ---
 Using generators as coroutines in App Engine to get more done.
-

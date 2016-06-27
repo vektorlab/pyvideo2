@@ -15,4 +15,3 @@ During this presentation I'll show you how to use fuzzers, attack tools, and
 other simple techniques to help protect your users, improve the strength of
 your existing tests, and gain confidence in the security of your code. There
 will be demos!
-

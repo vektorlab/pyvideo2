@@ -14,4 +14,3 @@ We have many ways of reporting and recognising our code contributions in open so
 During this session, we will discuss what it means to contribute to open source projects, what constitutes a non-code contribution, steps we can take to recognise the work of our peers, and how projects can better encourage non-code participation through recognition and acknowledgement.
 
 #LABHR is an original concept by Leslie Hawthorn, http://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
-

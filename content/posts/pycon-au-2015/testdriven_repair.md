@@ -28,5 +28,3 @@ In particular, we’ll look at:
 We’ll see that testing old code is both achievable, and actually a worthwhile exercise. You’ll find bugs. You’ll increase quality. You’ll make your code more maintainable! Do try it!
 
 [1] https://twitter.com/tottinge/status/544632253205475329
-
-

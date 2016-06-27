@@ -20,4 +20,3 @@ can make your project more appealing to our “special breed” of personality. 
 this quick talk, we’ll jump into the mind of your typical designer, show you
 just how many similarities we share and then apply that knowledge to make your
 project easy and appealing for designers to jump into.
-

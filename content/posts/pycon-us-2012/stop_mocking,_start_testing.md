@@ -12,4 +12,3 @@ date: '2012-03-09'
 Project Hosting at Google Code is a large, well-established system written
 mostly in Python. We'll share our battle-born convictions about creating tests
 for test-unfriendly code and the larger topic of testing.
-

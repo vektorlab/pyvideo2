@@ -169,4 +169,3 @@ IV. Gotchas
     B. Celery soft timeout doesn't retry the task
     C. If result state is not known, Celery reports "PENDING"
     
-

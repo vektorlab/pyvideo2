@@ -25,4 +25,3 @@ finally, what the limitations of a green threading framework like this are and
 what needs to be done to cater for them.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

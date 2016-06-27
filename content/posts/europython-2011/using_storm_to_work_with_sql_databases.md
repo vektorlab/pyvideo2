@@ -22,4 +22,3 @@ practices will be shared, to help developers make the best use of Storm.
 The examples in this talk assume that participants have a good understanding
 of SQL, transactions, relationships between tables and other common database
 concepts.
-

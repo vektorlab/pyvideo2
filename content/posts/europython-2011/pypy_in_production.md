@@ -51,4 +51,3 @@ For more info:
 
 _Eurostars Eureka is our funding source since 2009. It is a cross-European
 funding collaboration that targets small firms which produce research._
-

@@ -12,4 +12,3 @@ date: '2012-11-10'
 Todd Whiteman, the lead developer of ActiveState's Komodo IDE, will show you
 the best practices for creating, writing, debugging and deploying Python
 applications when using Komodo IDE.
-

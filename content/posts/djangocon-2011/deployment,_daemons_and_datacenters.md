@@ -16,4 +16,3 @@ A tour through the systems that power [ep.io](http://ep.io/), the Python
 hosting platform, from the array of daemons powering the system, to how
 redundancy is set up, and also covering general best practices for hosting
 Django sites yourself.
-

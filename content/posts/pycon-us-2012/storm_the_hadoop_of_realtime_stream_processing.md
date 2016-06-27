@@ -11,4 +11,3 @@ date: '2012-03-10'
 ---
 Twitter's new scalable, fault-tolerant, and simple(ish) stream programming
 system... with Python!
-

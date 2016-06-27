@@ -25,4 +25,3 @@ I’m doing to use promises in a dependency graph, where certain computed
 properties are dependent on others. Even though concurrent.futures came in
 3.2, Python 2.x users can use the API through Alex Grönholm’s ‘futures’
 backport.
-

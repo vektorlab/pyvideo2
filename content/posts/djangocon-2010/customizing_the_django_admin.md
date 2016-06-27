@@ -24,4 +24,3 @@ the users of it.
 This talk is broken into two parts. First, we will discuss user experience and
 what users have come to expect from an admin tool. In the second half, we'll
 show you how to bend Django's admin to meet those expectations.
-

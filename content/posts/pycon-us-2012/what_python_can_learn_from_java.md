@@ -14,4 +14,3 @@ parents scare their children with, the Cobol of the 21st century. But if we
 look past the cesspool of JEE it turns out that Java has quietly become an
 excellent systems environment, one that is still in many ways ahead of its
 time.
-

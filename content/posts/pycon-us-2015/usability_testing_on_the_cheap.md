@@ -10,4 +10,3 @@ Title: 'Usability Testing on the Cheap'
 date: '2015-04-11'
 ---
 While everyone agrees that usability testing should be an important part of your development process, not everyone has enough money laying around to pay for a dedicated team or consultants. In this talk, Katie will review a number of inexpensive options that can help any team deliver a usable product.
-

@@ -17,4 +17,3 @@ clear picture of how the framework pieces are put together. I will also cover
 how to create REST+JSON based web services, we'll focus particularly on how
 all this works with rich javascript based user interfaces, but the techniques
 should easily apply to Flex, or other "Rich Internet Application" tools.
-

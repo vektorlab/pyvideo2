@@ -16,4 +16,3 @@ running specialised daemons with mod-wsgi Realtime data updates via SOAP, RPC,
 AJAX, REST Goal of the talk is to show ways, how to develop and run python web
 applications, that responds as fast as possible Audience should know basics of
 HTTP, WSGI, python web frameworks.
-

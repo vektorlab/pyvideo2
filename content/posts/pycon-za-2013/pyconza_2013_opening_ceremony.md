@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/conference-opening/conference-opening
 Title: 'PyConZA 2013: Opening Ceremony'
 date: '2013-10-03'
 ---
-

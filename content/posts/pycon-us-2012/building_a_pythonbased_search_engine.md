@@ -15,4 +15,3 @@ technology/architecture behind search engines is wildly different from what
 many developers expect. This talk will give a solid grounding in the
 fundamentals of providing search using Python to flesh out these concepts in a
 simple library.
-

@@ -22,4 +22,3 @@ platforms for Django applications. In this panel, we speak to a number of the
 people behind these new platforms to discuss what benefits they offer, what
 challenges they face, and what the Django project/community can do to
 encourage their growth.
-

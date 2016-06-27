@@ -50,4 +50,3 @@ durability).
 While much of this talk will be about using MongoDB with Python, we will also
 touch on issues surrounding production deployment of the Pylons Web framework,
 including how we work around the GIL to take advantage of multi-core machines.
-

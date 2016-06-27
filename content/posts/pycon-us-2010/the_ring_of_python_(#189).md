@@ -27,4 +27,3 @@ ahead and also briefly highlight 'execnet', one my own projects for bridging
 (Any) Python to (Any) Python. This is also the first time i am going to try
 out a new and funvisual presentation technique after several years of having
 done mostly text-based ones
-

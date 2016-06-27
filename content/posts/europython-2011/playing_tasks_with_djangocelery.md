@@ -31,4 +31,3 @@ The talk will cover the following topics:
   * Global task locks
 
   * Centralized logging: be able to read all the logs of all celery workers on different servers and filter them for real-time debugging
-

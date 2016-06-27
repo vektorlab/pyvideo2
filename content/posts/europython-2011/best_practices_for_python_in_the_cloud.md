@@ -28,4 +28,3 @@ You will learn about:
   * Which packages are critical for a secure, Python-centric LAMP stack (and what it takes to build them)! 
   * Tips for developing, deploying, and scaling Python applicaitons in the cloud 
   * How to use Python to connect and build infrastructure to support and manage your deployment
-

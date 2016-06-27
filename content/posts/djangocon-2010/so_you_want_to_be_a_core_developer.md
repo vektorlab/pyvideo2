@@ -22,4 +22,3 @@ The aim of this presentation is to explain how we do things in the core, and
 how to work with us to get the job done. It will cover dealing with Trac and
 the triage lifecycle, how to find tickets to triage, other non-obvious ways to
 contribute, and cover some basic design philosophies.
-

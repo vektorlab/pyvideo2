@@ -35,4 +35,3 @@ inhaltlichen Erschließung der Anwendungsdomäne werden von Energieexperten
 Texte in einem Wiki verfasst und bilden die Grundlage zum Aufbau der
 Energieforschungs-Ontologie. Dabei kommt u.a. die Wiki-Software MoinMoin zum
 Einsatz.
-

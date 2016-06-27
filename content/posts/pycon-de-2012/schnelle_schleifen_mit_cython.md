@@ -31,4 +31,3 @@ Datentypen zu optimieren.
 
 Eine ausführliche Version dieses Vortrags mit entsprechenden Übungen wird
 zusätzlich als Tutorial angeboten.
-

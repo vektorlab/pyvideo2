@@ -16,4 +16,3 @@ You may not be aware of the fantastic conda project.
 It is not limited only to installing python software, also handles installing python itself, and has environments that isolate your code similar to virtualenv.
 
 Come find out this project which has been gaining enthusiastic support in the Scientific Python community. 
-

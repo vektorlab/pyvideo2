@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-journey-to-kivy/pyconza20
 Title: 'Our journey to Kivy'
 date: '2013-10-03'
 ---
-

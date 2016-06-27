@@ -27,4 +27,3 @@ Possible questions will include:
   * What tools are available to help sell Django? 
 
 [shmpe](http://shmpe.com/)
-

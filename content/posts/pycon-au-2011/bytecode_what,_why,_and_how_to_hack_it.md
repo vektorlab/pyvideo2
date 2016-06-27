@@ -15,4 +15,3 @@ code, and then twist it to your own evil ends. This talk will discuss the
 basics of python's bytecode format, why and how it is used, and how you can
 dive into the bytecode of your running program - either to better understand
 its behaviour, or to make it do things to was never supposed to do....
-

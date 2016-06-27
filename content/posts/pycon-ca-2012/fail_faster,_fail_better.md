@@ -10,4 +10,3 @@ Title: 'Fail Faster, Fail Better'
 date: '2012-11-10'
 ---
 Fail Faster, Fail Better
-

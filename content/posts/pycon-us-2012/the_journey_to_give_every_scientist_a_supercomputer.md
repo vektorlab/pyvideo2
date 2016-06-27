@@ -15,4 +15,3 @@ PiCloud is a Python-based cloud platform that tackles a noble cause: giving
 every scientist in the world instant access to a supercomputer. The talk will
 cover how Python inspired the design of PiCloud, which has now processed over
 100M jobs.
-

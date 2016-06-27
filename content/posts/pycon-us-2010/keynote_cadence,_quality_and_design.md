@@ -18,4 +18,3 @@ Presented by Mark Shuttleworth
 Talks about things we can do as a community to accelerate the development of
 software, increase collaboration, and build better applications. Approaches
 this by talking about cadence, quality and design.
-

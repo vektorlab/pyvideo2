@@ -17,4 +17,3 @@ This talk will show:
 - Tools to make day-to-day Cython work easier
 - How to dramatically speed up a slow function
 - How to distribute work over multiple CPU cores
-

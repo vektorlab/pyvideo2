@@ -23,4 +23,3 @@ multiple identical server processes as well as load balancing with DNS, proxy
 servers, and using hashing to send repeated requests to the same process. I
 will also talk about the difficulties that arise when you really need to share
 data or state between processes, and how they can be dealt with.
-

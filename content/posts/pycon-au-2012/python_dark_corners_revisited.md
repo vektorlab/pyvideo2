@@ -24,4 +24,3 @@ including:
   * Accidental name creation - there's no easy solution
   * Argument passing, Mutable arguments, default arguments, Mutable default arguments
   * Questions
-

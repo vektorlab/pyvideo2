@@ -40,4 +40,3 @@ We will also demonstrate the results obtained for above tasks using the
 [scikit-learn](http://scikit-learn.sourceforge.net/) package and compare it to
 other implementations such as [nltk](http://nltk.org/) and the [Google
 Prediction API](http://code.google.com/apis/predict/).
-

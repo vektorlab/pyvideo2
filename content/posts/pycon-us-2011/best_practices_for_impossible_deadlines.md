@@ -70,4 +70,3 @@ Sites that will be used as examples:
   * Chicago Tribune Elections Center 
   * 2010 Illinois School Report Cards 
   * TribLocal 
-

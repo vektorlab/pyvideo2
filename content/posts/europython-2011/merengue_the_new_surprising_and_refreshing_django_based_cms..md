@@ -17,4 +17,3 @@ comparable solutions (Drupal, Plone, Alfresco, ModX, etc.).
 The Merengue project tries to fill this gap. It is financed by the University
 of Málaga (Spain) and takes advantage of existing code and knowledge from
 other projects (Plone, Drupal, Pinax, django-cms, feincms, LFC, etc.)
-

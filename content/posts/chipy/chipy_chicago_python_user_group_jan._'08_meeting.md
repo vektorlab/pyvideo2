@@ -12,4 +12,3 @@ date: '2008-01-01'
   * pickle module -- Atul Varma 
   * PyStage, an animation framework -- Christopher Allan Webber 
   * Python Scripting for OpenOffice -- Steve Githens 
-

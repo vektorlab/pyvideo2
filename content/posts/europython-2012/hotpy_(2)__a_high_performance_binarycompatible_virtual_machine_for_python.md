@@ -19,4 +19,3 @@ PyPy, but it might be possible to get close. During the talk I will explain
 how it works (with lots of pictures), and how it compares to CPython and PyPy.
 I will also discuss whether the techniques used in HotPy would be suitable for
 Jython and IronPython.
-

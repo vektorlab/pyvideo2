@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/MeeW_b2wxXk/hqdefault.jpg'
 Title: 'from present import future.curriculum'
 date: '2014-08-13'
 ---
-

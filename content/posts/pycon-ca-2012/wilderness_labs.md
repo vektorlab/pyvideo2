@@ -14,4 +14,3 @@ Lessons learned and inspiration from developing Django applications
 quickly in isolated locations via Wilderness Labs and other zero
 
 budget projects.
-

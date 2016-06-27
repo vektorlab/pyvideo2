@@ -22,4 +22,3 @@ course of one month the development manager said "we need to move to Django."
 
 This talk will focus on some of the challenges and successes experienced
 during this month.
-

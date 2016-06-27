@@ -15,4 +15,3 @@ concurrency features. Polyphonic C# sports an elegant solution using join
 patterns. I prototyped a version of join patterns for Stackless Python. Rather
 than hack Stackless Python's C code base, I use PyPy's stackless.py module and
 greenlets!
-

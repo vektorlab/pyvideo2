@@ -35,4 +35,3 @@ you can solve with ZeroMQ:
 
 This talk will assume you know ZeroMQ and Python, but if you don't know ZeroMQ
 you can probably still keep up.
-

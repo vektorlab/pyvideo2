@@ -14,4 +14,3 @@ by Willow Garage. ROS has a mature Python interface and is being used around
 the world by both amateur and professional roboticists. At the end of the
 presentation, if time allows and interest exists, some rudimentary ROS
 functionality will be demonstrated on a robot in progress.
-

@@ -15,4 +15,3 @@ python as a language is well-suited to solving these particular problems, the
 tradeoffs of different machine learning solutions for python applications, and
 some tricks you can use to get the most out of whatever package you decide to
 use.
-

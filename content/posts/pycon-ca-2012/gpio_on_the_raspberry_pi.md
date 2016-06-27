@@ -10,4 +10,3 @@ Title: 'GPIO on the Raspberry Pi'
 date: '2012-11-11'
 ---
 GPIO on the Raspberry Pi with Python.
-

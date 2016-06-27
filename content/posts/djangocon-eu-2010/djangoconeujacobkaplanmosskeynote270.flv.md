@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: 'Djangoconeu-JacobKaplanMossKeynote270.flv'
 ---
-

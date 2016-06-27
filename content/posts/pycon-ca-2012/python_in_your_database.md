@@ -11,4 +11,3 @@ date: '2012-11-11'
 ---
 Pl/Python is a stored function language for PostgreSQL that allows you to
 write database stored functions in python.
-

@@ -9,5 +9,3 @@ ThumbnailUrl: 'http://img.youtube.com/vi/R9ITLdmfdLI/hqdefault.jpg'
 Title: 'Keynote: Paul Graham, YCombinator'
 date: '2012-03-09'
 ---
-
-

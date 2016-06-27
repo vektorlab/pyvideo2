@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: '0_the-django-orm-and-multilingual-database-contents.m4v'
 ---
-

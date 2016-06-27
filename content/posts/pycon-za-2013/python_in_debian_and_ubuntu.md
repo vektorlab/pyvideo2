@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-python-in-debian/pyconza2
 Title: 'Python in Debian and Ubuntu'
 date: '2013-10-03'
 ---
-

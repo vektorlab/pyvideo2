@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/scgudhbfmjA/hqdefault.jpg'
 Title: 'Science MiniConf: Python, Pyramid, and Embedded Devices by Justin Clacherty'
 date: '2014-08-11'
 ---
-

@@ -16,4 +16,3 @@ Recently PretaWeb used tools to drastically simplify this process when
 converting genetics.edu.au to Plone 4.1. Diazo is a platform independent
 theming engine that leaves HTML untouched. Funnelweb is a static content
 migration tool for crawling and manipulating site content.
-

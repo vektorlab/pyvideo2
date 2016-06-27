@@ -13,4 +13,3 @@ WebDriver is actually not that complicated. No, really! If you know about Page
 Objects, synchronization and the JS Executor you can solve just about any
 problem. 20 minutes is not a lot of time, but we'll cover all three of those
 things. Honest!
-

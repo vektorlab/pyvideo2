@@ -10,4 +10,3 @@ Title: 'How to Write Reusable Code'
 date: '2015-04-11'
 ---
 Learning to write high-quality, reusable code takes years of dedicated work. Or you can take a shortcut: attend this talk and learn some of the tricks I've figured out over a couple of decades of programming.
-

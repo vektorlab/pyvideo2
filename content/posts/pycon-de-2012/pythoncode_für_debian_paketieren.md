@@ -20,4 +20,3 @@ anhand eines Beispielpakets auf folgende Punkte näher eingegangen:
 * Wie erleichtert man als Upstream die Paketierung seiner Python-Software?  
 * Was sind die aktuellen Tools für das Python-Packaging?  
 * Wie baue ich Python2-, Python3- und (sphinx-)Dokumentations-Pakete?  
-

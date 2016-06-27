@@ -59,4 +59,3 @@ The talk will cover:
     * Planned new features for Django Packages 
     * Forking Django Packages to save the world 
     * pypackages.com - a forthcoming place to review Python applications, frameworks, and packages 
-

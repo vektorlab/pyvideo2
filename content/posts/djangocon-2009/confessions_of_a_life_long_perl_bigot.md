@@ -18,4 +18,3 @@ Talks about Django from the perspective of the Perl world.
 
   
 [VIDEO HAS ISSUES: is quiet]
-

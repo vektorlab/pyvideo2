@@ -17,4 +17,3 @@ installation, integration, and usage of ToscaWidgets. After we have a handle
 on how to create validated forms with ToscaWidgets, we will spend the second
 half of this lesson creating a working ajax widget, which we will test the
 client side component using ToscaWidget javascript technology.
-

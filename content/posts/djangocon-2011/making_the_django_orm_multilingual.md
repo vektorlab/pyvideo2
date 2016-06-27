@@ -15,4 +15,3 @@ Presented by Jonas Obrist
 Why does Django make it that hard to have translated database contents? And
 what solutions are there to make it easier? And how can Django make
 multilingual database contents less of a pain?
-

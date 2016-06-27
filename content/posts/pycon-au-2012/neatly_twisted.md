@@ -19,4 +19,3 @@ such a popular framework. I’ll share my experiences debugging and maintaining
 mission-critical Twisted applications, discuss some of the pitfalls to avoid
 when coding with Twisted, and present tips and tricks for debugging Twisted
 code and writing Twisted code that’s a pleasure to read and maintain.
-

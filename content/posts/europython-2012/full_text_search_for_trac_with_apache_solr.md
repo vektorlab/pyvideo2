@@ -16,4 +16,3 @@ Trac that uses Apache Solr to make all parts of trac searchable - including
 the source code repository and all file attachments. The session will
 introduce Solr and show how it can be integrated into a Python project
 -including the pitfalls to avoid and the more useful features.
-

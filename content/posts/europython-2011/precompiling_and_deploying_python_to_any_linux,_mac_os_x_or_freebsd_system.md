@@ -21,4 +21,3 @@ modules and C extensions.
 
 Link to [slides](http://pts-mini-gpl.googlecode.com/svn/trunk/staticpython/doc
 /slides_2011-06-23/pts_staticpython_2011-06-23.html)
-

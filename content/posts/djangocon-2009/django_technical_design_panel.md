@@ -18,4 +18,3 @@ Moderated question and answer period covering a bunch of topics.
 
   
 [VIDEO HAS ISSUES: sound only from left speaker]
-

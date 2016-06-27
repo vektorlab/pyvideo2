@@ -56,4 +56,3 @@ may someday see.
 >     * Exercise your right to say no, it’s your reputation on the line
 
   * Q&A
-

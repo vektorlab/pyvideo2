@@ -18,4 +18,3 @@ idea grown that can help to improve the situation on common sceneries (using
 with the old PyIntObject and the current Python 3.2 PyLongObject, along with
 some optimizations, thoughts, and issues found on the road, which will show
 the effort required by such change on a Python core element.
-

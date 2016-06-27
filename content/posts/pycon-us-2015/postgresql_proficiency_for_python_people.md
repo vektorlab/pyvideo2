@@ -10,4 +10,3 @@ Title: 'PostgreSQL Proficiency for Python People'
 date: '2015-04-12'
 ---
 PostgreSQL has become the default database for most green-field development projects, and is the data storage architecture behind many major Python-based success stories, such as Instagram. Despite a reputation as being complex and fiddly, Postgres is easy to install, administer, maintain, and use... with just a little bit of orientation. This is that orientation.
-

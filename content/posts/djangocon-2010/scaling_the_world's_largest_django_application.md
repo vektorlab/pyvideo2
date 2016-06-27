@@ -11,4 +11,3 @@ Title: 'Scaling the World''s Largest Django Application'
   
 Disqus, one of the largest Django applications in the world, will explain how
 they deal with scaling complexities in a small startup.
-

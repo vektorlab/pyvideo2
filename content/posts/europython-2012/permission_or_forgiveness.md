@@ -30,4 +30,3 @@ general law describing what the right circumstances for its application are,
 comparing and contrasting with the similar issue of “do it right the first
 time” versus “launch and iterate” (and the latter’s cognate “fail, but fail
 fast” principle).
-

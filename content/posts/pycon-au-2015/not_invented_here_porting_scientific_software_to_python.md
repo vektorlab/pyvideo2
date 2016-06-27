@@ -16,5 +16,3 @@ These challenges occur because scientists face some of the most difficult challe
 Python has a reputation for being a language that excels at "glueing" different systems together in a style that is both easy to understand, test and maintain. More importantly using Python is one way to make sure that you spend your time working on research, rather than coding and debugging.
 
 This presentation will demonstrate some of the skills needed to integrate software from other languages into the Python Scientific computing ecosystem using subprocesses, ctypes, cython the Jupyter project - and what do do when none of these approaches are the right.
-
-

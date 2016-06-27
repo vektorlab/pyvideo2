@@ -22,4 +22,3 @@ examples/techniques and create an active discussion with the public. Main
 discussion topics: Testing ( modules and techniques ) Optimization and
 performance ( analysis of the problem, profiling and tuning techniques )
 Debugging Deployment and automation Python traps
-

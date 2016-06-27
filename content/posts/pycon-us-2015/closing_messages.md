@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/6_FOOvoBcZI/hqdefault.jpg'
 Title: 'Closing Messages'
 date: '2015-04-12'
 ---
-

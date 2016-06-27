@@ -13,4 +13,3 @@ This talk covers using Python to initiate change on the infrastructure side;
 we'll discuss on great tools like Django, libCloud, and Celery. We will focus
 on node creation and destruction within multiple clouds, as well as the
 frameworks used to achieve this.
-

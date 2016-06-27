@@ -15,4 +15,3 @@ most uses the simplicity of the straightforward class structures most
 developers learn when being introduced to object-oriented programming. This
 talk is an explanation of metaclasses: first, what they are, and second, how
 to use them.
-

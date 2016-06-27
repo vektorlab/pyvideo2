@@ -39,4 +39,3 @@ awareness about the issue and demonstrating common weaknesses to be avoided.
 The second demonstrates effective countermeasures and alternative
 constructions with the goal of improving defenders' odds of spotting and
 correcting these flaws in their own code.
-

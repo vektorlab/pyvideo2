@@ -27,4 +27,3 @@ Abstract
   * Informal definition: both have the opportunity to do and then undo. - very similar to C++ RIIA "Resource Acquisition Is Initialization." - Context Managers were designed to do that but decorators are frequently just as good. 
   * Which one to use use when is all about namespaces. - Context Managers manipulate at the block level. - Function Decorators manipulate the function level. - Class Decorators manipulate at the class level. 
   * Recipes on writing decorators and context managers - Familiar examples from Django and Mock. 
-

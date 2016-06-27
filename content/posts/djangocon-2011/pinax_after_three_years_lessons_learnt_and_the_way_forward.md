@@ -17,4 +17,3 @@ People either love it or just don't get it. About the only thing everyone
 agrees on is that it doesn't seem to be progressing as fast as it once did.
 This talk will take a fresh look at the goals of Pinax, what we did well, what
 we didn't do so well and what we're (slowly) doing to fix it.
-

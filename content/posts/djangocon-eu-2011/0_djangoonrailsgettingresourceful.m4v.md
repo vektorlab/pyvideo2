@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: '0_django-on-rails-getting-resourceful.m4v'
 ---
-

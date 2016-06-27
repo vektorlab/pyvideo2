@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/2wDvzy6Hgxg/hqdefault.jpg'
 Title: 'Gradual Typing for Python 3'
 date: '2015-04-12'
 ---
-

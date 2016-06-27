@@ -15,4 +15,3 @@ Introducing SCOOP, a new distributed task package allowing easy concurrent
 parallel programming on various environments. We propose a new way of handling
 distributed computing based on simplicity, beauty and the Future (see
 PEP-3148).
-

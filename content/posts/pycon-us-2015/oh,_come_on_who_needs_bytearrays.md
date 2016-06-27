@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/z9Hmys8ojno/hqdefault.jpg'
 Title: 'Oh, Come On Who Needs Bytearrays'
 date: '2015-04-12'
 ---
-

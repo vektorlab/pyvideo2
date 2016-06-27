@@ -17,4 +17,3 @@ of anguish. This talk will go over how to handle many common solutions not
 currently described in the core documentation. It will also cover some useful
 third-party libraries and will end with clarifications about what the state of
 form features will be in Django 1.4.
-

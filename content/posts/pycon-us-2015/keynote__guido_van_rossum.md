@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/G-uKNd5TSBw/hqdefault.jpg'
 Title: 'Keynote - Guido van Rossum'
 date: '2015-04-16'
 ---
-

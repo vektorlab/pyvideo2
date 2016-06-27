@@ -39,4 +39,3 @@ working collectively can maximize the coverage of routes through the code. â?¢
 BDD usage in continuous integration â?? the movement of code through a
 continuous build process, catching defects early and how BDD tests ensure
 confidence in your application as it moves into production.
-

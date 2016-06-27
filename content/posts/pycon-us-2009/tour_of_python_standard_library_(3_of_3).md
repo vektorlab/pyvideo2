@@ -18,4 +18,3 @@ galaxy, the Python Standard Library is vast and when hitch-hiking I will take
 you through some important ones that happen to be used most often. You can
 explore, ask questions, experiment through out the ride. Welcome! And let the
 journey begin.
-

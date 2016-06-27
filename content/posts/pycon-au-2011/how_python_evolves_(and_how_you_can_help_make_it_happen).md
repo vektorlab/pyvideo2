@@ -15,4 +15,3 @@ out and have a broad impact on the entire Python community. This talk covers
 the special place CPython occupies in the broader Python community, how the
 decisions that affect CPython's development are made, and how new developers
 can become involved in that process..
-

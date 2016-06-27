@@ -24,4 +24,3 @@ objects without subclassing via use of default/curried arguments and closures.
   
 [VIDEO HAS ISSUES: Audio buzzing, missing beginning, talk is only 15 mins (may
 be cut)]
-

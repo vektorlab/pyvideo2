@@ -19,4 +19,3 @@ Google APIs inherit.
 We will focus on how the Python libraries for this API platform are generated
 and can be used as a single library that doesn't require updating with API
 updates, as Python lends itself perfectly to the nature of this platform.
-

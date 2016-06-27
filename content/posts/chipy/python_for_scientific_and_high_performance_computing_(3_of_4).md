@@ -32,4 +32,3 @@ Python.
 ChiPy is a group of Chicago Python Programmers, l33t, and n00bs. Meetings are
 held monthly at various locations around Chicago. Also, ChiPy is a proud
 sponsor of many Open Source and Educational efforts in Chicago.
-

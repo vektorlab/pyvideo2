@@ -29,4 +29,3 @@ be supplied with Django to standardise the API.
 I will present some of the advantages and disadvantages of using class-based
 views, and how they can help you develop more flexible applications in less
 time.
-

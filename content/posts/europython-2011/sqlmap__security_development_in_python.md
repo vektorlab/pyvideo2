@@ -24,4 +24,3 @@ usage of mathematical models, optimizations, project's future goals.
 The significant part of this talk would be the immediate insight into the
 developing process of probably the world's most advanced open-source Python IT
 security project today.
-

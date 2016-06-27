@@ -25,4 +25,3 @@ for millions of users. Here are the 6 topics we will cover:
   * How we traced database connection leaks 
   * Our caching strategies and the changes we made to speed up the memcache client 
   * Results of our experiment using Paster and Tornado as our web servers. 
-

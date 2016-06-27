@@ -77,4 +77,3 @@ thinking through for next time? Yes.
         * This looks complicated, but it's not. Walk through how to do it. 
         * It's quite maintainable, and you get all the other bells and whistles. 
   5. Questions? (5m)
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/AXl0PFd7FJU/hqdefault.jpg'
 Title: 'Scriptability in scientific applictions'
 date: '2014-10-22'
 ---
-

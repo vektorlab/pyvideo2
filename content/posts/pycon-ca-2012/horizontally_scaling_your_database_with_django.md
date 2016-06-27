@@ -14,4 +14,3 @@ what can reasonably be stored on a single database. Scaling your database
 horizontally by adding more servers is the dream but it can be a daunting
 task. This talk outlines the process I used to add horizontal scaling to Wave
 Accounting's infrastructure.
-

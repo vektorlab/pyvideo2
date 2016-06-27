@@ -15,4 +15,3 @@ out omissions and common sticking points and suggest improvements. More
 generally, this talk is useful to anyone looking to improve their project's
 tutorials and other newcomer-targeted documentation by approaching them with
 "beginner's mind".
-

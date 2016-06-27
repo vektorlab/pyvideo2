@@ -15,4 +15,3 @@ Presented by Frank Wiles
 PostgreSQL is effectively the default RDBMS for Django. Learn the dark arts of
 optimizing this powerful database to be blazingly fast on your own hardware or
 in the cloud.
-

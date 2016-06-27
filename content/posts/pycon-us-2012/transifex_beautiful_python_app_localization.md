@@ -14,4 +14,3 @@ offer a short intro on software localization in Python and discuss today's
 best practices. It will present Transifex, a modern, Django-based SaaS, also
 referred to as 'The Github of translations', used by 2.000 open-source
 projects including Django, Mercurial, Fedora and Firefox.
-

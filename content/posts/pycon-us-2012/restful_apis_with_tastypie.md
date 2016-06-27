@@ -12,4 +12,3 @@ date: '2012-03-10'
 Providing full-featured REST APIs is an increasingly popular request. Tastypie
 allows you to easily implement a customizable REST API for your Python or
 Django applications.
-

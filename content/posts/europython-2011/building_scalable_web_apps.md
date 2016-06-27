@@ -15,4 +15,3 @@ designing a scalable web application before it needs to be (and avoiding the
 premature optimization dilemma). It will cover topics such as efficient usage
 of your database, appropriate caching (and invalidation!), and what the
 speaker considers as best practices.
-

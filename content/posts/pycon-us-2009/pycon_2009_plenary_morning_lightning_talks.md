@@ -24,4 +24,3 @@ Title: 'PyCon 2009: Plenary: Morning Lightning Talks'
   * (41:35) GozerBot - John Hampton 
   * (44:25) Software Engineering and the Pickling Tools - Rich Saunders 
   * (48:45) Talks about the stop watch 
-

@@ -13,4 +13,3 @@ HTML5 WebSockets power the real-time web. Come take a deep dive into how they
 work, from the big picture down to what goes over the wire, including insight
 into the performance benefits of the protocol, via a real-world example of how
 WebSockets are implemented client- and server-side in Python.
-

@@ -32,4 +32,3 @@ computing space. Specific topics include:
   * issues when scaling on very large systems 
   * an overview of successful science codes 
   * a live demonstration of Python running on 163,840 cores 
-

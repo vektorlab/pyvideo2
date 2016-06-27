@@ -15,4 +15,3 @@ lists around the world. This talk describes how the code has been modernized
 and how the architectural deficiencies of Mailman 2 have been addressed using
 REST and other technologies. This is a spinoff from the AOSA chapter on
 Mailman 3.
-

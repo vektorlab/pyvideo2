@@ -35,4 +35,3 @@ gilt.
 Über all dem steht mein Kredo, daß jedefrau und jedermann wenigstens ein wenig
 programmieren können sollte, weil sie sonst programmiert werden. Und ich
 glaube, daß Python immer noch die beste Einstiegssprache dafür ist.
-

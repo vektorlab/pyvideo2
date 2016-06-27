@@ -15,4 +15,3 @@ the Girls' Programming Network (http://sydney.edu.au/it/gpn). For the past
 four years we have been teaching Python to students in grades 9-12, and based
 on this experience we will discuss why Python is a good first language and the
 parts of it which are still difficult for students to grasp.
-

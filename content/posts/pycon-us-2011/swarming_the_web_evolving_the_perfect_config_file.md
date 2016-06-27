@@ -32,4 +32,3 @@ This session presents a new method of automatically tuning a common LAMP stack
 for optimal performance. We explore a solution using some common Python-based
 automated deployment and load testing tools and dive into scientific computing
 with SciPy.
-

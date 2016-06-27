@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/4QOoAw6Su7M/hqdefault.jpg'
 Title: 'Keynote: Python, the next generation - Jessica McKellar'
 date: '2014-04-13'
 ---
-

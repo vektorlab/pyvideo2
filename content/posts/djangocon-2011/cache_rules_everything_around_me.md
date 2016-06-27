@@ -14,4 +14,3 @@ Presented by Jacob Burch, Noah Silas
 
 This talk aims to briefly introduce the core concepts of caching and covers
 the best practices of using Django’s cache backend.
-

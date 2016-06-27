@@ -21,4 +21,3 @@ takes to use Django's internationalization tools, including how to mark
 models, views, and templates for translation and how to enable
 internationalization in your application. We will also step through localizing
 your application in a new language.
-

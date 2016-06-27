@@ -14,4 +14,3 @@ Presented by Steve Holden
 
 Documentation is normally held to be one of Django's strong points. Steve
 attempts to point out that even the best can stand improvement.
-

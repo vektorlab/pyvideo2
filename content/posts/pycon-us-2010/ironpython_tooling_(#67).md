@@ -21,4 +21,3 @@ create IronPython applications. Iâ€™ll also look at the latest IronPython
 features which can help you debug, profile and improve your applications.
 Iâ€™ll also compare and contrast these with the solutions available for
 CPython that you may already be familiar with.
-

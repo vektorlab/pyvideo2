@@ -10,4 +10,3 @@ Title: 'OpenStack MiniConf: Large Scale Identification of Race Conditions  by Jo
   Gordon (HP)'
 date: '2014-08-11'
 ---
-

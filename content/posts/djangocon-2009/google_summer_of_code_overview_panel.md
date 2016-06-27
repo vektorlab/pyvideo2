@@ -15,4 +15,3 @@ Featuring Zain Memon, Alex Gaynor, Honza Kral, Marc Garcia
 
   
 Moderated question and answer about GSOC and Django.
-

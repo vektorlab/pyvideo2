@@ -25,4 +25,3 @@ different libraries that are poorly documented. I've gone wading through every
 HTTP library I can find for Python while trying to fix an obscure bug in
 Mercurial and decided to write my own. I'll cover what's available today and
 why I'm starting from scratch with a completely new implementation.
-

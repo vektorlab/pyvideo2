@@ -17,4 +17,3 @@ Components easily connect and pass data from and to each other. We are going
 to explore Kamaelia's strengths and possibilities, by running simple examples,
 then trying nested protocol support, and maybe some other fun examples if time
 permits.
-

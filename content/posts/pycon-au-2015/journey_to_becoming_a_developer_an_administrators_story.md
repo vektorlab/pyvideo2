@@ -14,5 +14,3 @@ As a system operator we sometimes have to create scripts to maintain our infrast
 • Idiomatic python
 • Zen of Python by example
 • Testing
-
-

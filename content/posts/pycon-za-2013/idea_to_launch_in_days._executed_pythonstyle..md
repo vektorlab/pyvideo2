@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-idea-to-launch/pyconza201
 Title: 'Idea to launch in days. Executed Python-style.'
 date: '2013-10-03'
 ---
-

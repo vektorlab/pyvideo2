@@ -20,4 +20,3 @@ of when to apply different tools, and learn about a "heavy hammer" for screen
 scraping that I picked up at a project for the Electronic Frontier Foundation.
 Atendees should bring a laptop, if possible, to try the examples we discuss
 and optionally take notes.
-

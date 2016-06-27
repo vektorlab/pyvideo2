@@ -39,4 +39,3 @@ Talk outline:
     * Concurrence 
     * Gevent 
     * Eventlets 
-

@@ -20,4 +20,3 @@ compatible with py2exe, py2app, cx-freeze and bbfreeze.
 
 This talk will give an overview of esky's features, and show how to extend an
 existing frozen application with auto-update support.
-

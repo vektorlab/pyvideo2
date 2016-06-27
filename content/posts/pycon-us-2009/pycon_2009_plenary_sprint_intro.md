@@ -13,4 +13,3 @@ Plenary: Sprint Prep
   
 Talks about what sprints were happening, what was getting worked on, and who
 to talk to.
-

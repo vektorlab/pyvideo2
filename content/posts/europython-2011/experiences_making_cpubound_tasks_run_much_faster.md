@@ -66,4 +66,3 @@ Some background reading:
 
   * [http://ianozsvald.com/2010/07/14/22937-faster-python-math-using-pycuda/](http://ianozsvald.com/2010/07/14/22937-faster-python-math-using-pycuda/)
   * [http://ianozsvald.com/2008/11/17/making-python-math-196-faster-with-shedskin/](http://ianozsvald.com/2008/11/17/making-python-math-196-faster-with-shedskin/)
-

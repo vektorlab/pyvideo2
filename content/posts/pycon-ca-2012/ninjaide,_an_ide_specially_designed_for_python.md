@@ -14,4 +14,3 @@ is: "What is a good IDE for Python?" As answer to that question NINJA-IDE born
 from a group of members of the Argentinian Python Community (PyAr). NINJA-IDE
 is an Open Source distributed under GPLv3 license, cross-platform,
 lightweight, powerful and full of features IDE.
-

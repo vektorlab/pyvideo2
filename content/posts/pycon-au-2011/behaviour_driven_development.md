@@ -15,4 +15,3 @@ they "should" somehow be doing Test Driven Development (TDD) because
 they heard testing was good. When informed that must of TDD isn't about
 testing (despite the name!), confusion reigns. Behaviour Driven Development is
 a different way of approaching the "how to validate your code" problem.
-

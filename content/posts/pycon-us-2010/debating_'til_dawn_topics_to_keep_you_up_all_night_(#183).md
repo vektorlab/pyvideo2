@@ -26,4 +26,3 @@ there art in programming and should there be? Are you a cowboy coder or an
 straight-laced engineer? Is PyCon really about staying up all night discussing
 ideas? We'll have a feedback channel to share your thoughts, we'll keep it
 moving, and we'll see if we can't make this the most sleepless PyCon yet.
-

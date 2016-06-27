@@ -36,4 +36,3 @@ Abrechnungssysteme, zu übergeben.
 Ein konkretes Anwendungsbeispiel von Pydica, welches am Ende des Vortrags
 vorgestellt wird, ist die Verarbeitung von Rezepten im Rechenzentrum für
 Berliner Apotheken Stein & Reichwald GmbH.
-

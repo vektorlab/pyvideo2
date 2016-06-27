@@ -24,4 +24,3 @@ different components of OpenStack: Nova (compute) and Swift (storage),
 including the Python libraries that are used (libvirt, SQLAlchemy, eventlet…).
 A Q&A session at the end of the talk will give the audience a chance to clear
 any remaining dark area.
-

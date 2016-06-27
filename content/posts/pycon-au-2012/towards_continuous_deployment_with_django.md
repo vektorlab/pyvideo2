@@ -17,4 +17,3 @@ daunting.
 This talk will address the advantages of continuous deployment, the success
 factors involved and the tools available, mainly focusing on experiences with
 Django web development.
-

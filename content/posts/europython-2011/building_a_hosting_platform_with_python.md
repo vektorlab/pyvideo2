@@ -20,4 +20,3 @@ of building a cooperatively-multitasking PTY module; how Redis isn't the
 answer to everything, but is still very useful; how to persuade third-party
 software to work securely in a shared environment; and how important it is to
 have good logging, especially when you have more than five servers.
-

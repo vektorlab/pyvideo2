@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-nothing-hurt/pyconza2013-
 Title: 'Everything was Python and nothing hurt'
 date: '2013-10-03'
 ---
-

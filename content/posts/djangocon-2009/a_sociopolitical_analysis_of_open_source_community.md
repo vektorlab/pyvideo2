@@ -15,4 +15,3 @@ Presented by Ian Bicking
 Covers why are we doing what we're doing and why it matters in terms of Open
 Source and the movement. Focuses on the Django community, what's being
 produced and finding meaning in that.
-

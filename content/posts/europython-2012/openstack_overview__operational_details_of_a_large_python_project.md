@@ -14,4 +14,3 @@ private clouds, which has attracted widespread backing from many companies.
 Covered in the talk is: A summary of what OpenStack is trying to achieve An
 overview of the structure of OpenStack services Details of the multitude of
 python components used Deployment and Packaging information
-

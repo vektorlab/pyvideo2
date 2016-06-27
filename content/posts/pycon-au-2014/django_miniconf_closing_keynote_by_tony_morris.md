@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/uqsZa36Io2M/hqdefault.jpg'
 Title: 'Django Miniconf: Closing Keynote by Tony Morris'
 date: '2014-08-09'
 ---
-

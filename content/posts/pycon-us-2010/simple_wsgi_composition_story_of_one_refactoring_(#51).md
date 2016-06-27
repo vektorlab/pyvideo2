@@ -26,4 +26,3 @@ WSGI-centered framework like Pylons, Werkzeug, Paste or other.
 
   
 The application this talk describes powers developers.org.ua.
-

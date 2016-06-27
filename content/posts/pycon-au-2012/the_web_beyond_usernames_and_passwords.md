@@ -22,4 +22,3 @@ simple it is to add support for it in a Python webapp. If you want to make it
 easy for users to log into your site but don't want the risks and hassle of
 storing passwords, or if you cannot quite get your head around complicated
 authentication systems, then this talk is for you!
-

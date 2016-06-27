@@ -13,4 +13,3 @@ To really take advantage of Python you must understand how imports work and
 how to use them effectively. In this talk we'll discuss both of these. After a
 short introduction to imports, we'll dive right in and look at how customizing
 import behavior can make all your wildest dreams come true.
-

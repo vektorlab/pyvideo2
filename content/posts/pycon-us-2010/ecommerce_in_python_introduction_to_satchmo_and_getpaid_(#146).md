@@ -24,4 +24,3 @@ share a similar philosophy and approach but can be used in very different
 ways. This discussion will increase awareness of these applications, feature
 successful projects, explain how they can be used in your projects, and help
 you connect with the open source community.
-

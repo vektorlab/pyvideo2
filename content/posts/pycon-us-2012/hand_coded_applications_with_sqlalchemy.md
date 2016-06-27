@@ -14,4 +14,3 @@ first introduced in 2005. In this talk I'll describe why SQLAlchemy has always
 been called a "toolkit", detailing the software construction mindset for which
 SQLAlchemy was designed to be used with - what I am currently referring to as
 the "Hand Coded" approach.
-

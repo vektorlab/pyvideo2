@@ -13,4 +13,3 @@ The relation between Python and scientific work is a long one, and in the last
 10+ years it has turned into a major success story. I will review this process
 from the vantage point of IPython’s role, and will look into the challenges
 ahead for Python to remain a leader in this space.
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/yrESaiPP3Zw/maxresdefault.jpg'
 Title: 'Keynote: The IoT (r)evolution, present and future.'
 date: '2015-05-29'
 ---
-

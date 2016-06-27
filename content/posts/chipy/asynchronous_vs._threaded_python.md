@@ -17,4 +17,3 @@ Presented at ChiPy by David Beazley on June 12th, 2009
   
 This is the opening act to Mindblowing GIL. Covers threading vs. asynchronous
 programming in Python.
-

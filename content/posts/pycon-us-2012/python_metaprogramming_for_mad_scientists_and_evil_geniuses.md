@@ -15,4 +15,3 @@ who just want to use of Python in a more power (hungry) way. The core concept
 is that you can synthesize functions, classes and modules without a direct
 correspondence to source code. You can also mutate third-party objects and
 apps.
-

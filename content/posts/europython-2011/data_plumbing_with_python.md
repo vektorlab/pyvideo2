@@ -22,4 +22,3 @@ The goal of this talk is to introduce the audience to the (vast) field of
 financial data processing which we believe presents a tremendous opportunity
 for python and it's community and provide a brief overview of Point Nine's
 deployment of Python as the main framework for all data plumbing activities.
-

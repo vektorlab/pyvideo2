@@ -20,4 +20,3 @@ series and other data sets. It is also illustrated how you can implement fast
 calculations on data sets which do not fit into the memory of your computer.
 In addition, the talk provides a number of examples for the visualization of
 your data mining efforts.
-

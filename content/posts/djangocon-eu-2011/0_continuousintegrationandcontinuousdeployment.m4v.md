@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: '0_continuous-integration-and-continuous-deployment.m4v'
 ---
-

@@ -39,4 +39,3 @@ This talk will include a brief introduction to Chef and Puppet. It will also
 include multiple practical tricks like accessing the VM's database server from
 the host's machine, setting up useful shell aliases or automatically
 activating the virtualenv when launching the VM.
-

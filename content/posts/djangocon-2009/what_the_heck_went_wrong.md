@@ -18,4 +18,3 @@ Talks about how to debug Django.
 
   
 [VIDEO HAS ISSUES: audio in left speaker]
-

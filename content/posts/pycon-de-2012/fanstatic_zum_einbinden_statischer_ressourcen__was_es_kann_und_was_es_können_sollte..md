@@ -19,4 +19,3 @@ stolpern wir über Probleme wie das Einbinden von Stylesheets für spezielle IE-
 Versionen (Conditional Stylesheets) oder die fehlenden Möglichkeit,
 Stylesheets für den Druck zu spezifizieren. Auch wäre eine Integration mit
 z.B. CoffeeScript wünschenswert.
-

@@ -18,9 +18,3 @@ Switching between many languages quickly clarifies each language's strengths and
  - Cool stuff with Magic(al) methods and Duck Typing that languages like Java would not have a hope of implementing. 
 
 This talk will highlight some of the delight I get when coming back to Python; and some of the aspects of other languages that I think would be really cool to add. 
-
-
-
-
-
-

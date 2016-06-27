@@ -13,4 +13,3 @@ Pythons Datenmodell ist sehr einfach: alles ist ein Objekt (wirklich *alles*).
 Darüberhinaus verfügt die Sprache über eine Reihe von Konventionen und Protokollen, die es sehr einfach machen, die eigenen Klassen dazu zu überreden, sich wie native Datentypen zu verhalten.
 
 In diesem Vortrag werden die dafür nötigen zentralen Konzepte eingeführt und mittels einfacher Beispiele demonstriert.
-

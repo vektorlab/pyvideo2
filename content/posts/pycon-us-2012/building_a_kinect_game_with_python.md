@@ -15,4 +15,3 @@ video, depth video, and audio APIs including speech recognition. I’ll then
 show how the Kinect APIs can be incorporated into a game using PyGame. After
 the talk you’ll be able to start developing your own Python based Kinect
 games!
-

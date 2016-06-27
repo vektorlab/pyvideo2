@@ -16,4 +16,3 @@ environment, that builds on the idea of the standard visual console, allows a
 programmer to experiment with ideas, and develop programs at the same time.
 Additionally, a way of embellishing source code with visual content is
 presented.
-

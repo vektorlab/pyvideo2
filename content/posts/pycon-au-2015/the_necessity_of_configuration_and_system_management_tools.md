@@ -14,4 +14,3 @@ In practically every moment of our life we rely on the possibly largest communic
 To do that IT administrators use configuration and system management tools to deploy changes to thousands of servers and keep them in sync. But how can one roll back a change done in the past that turned out to introduce a bug?
                                                                               
 This talk I will introduce you to configuration management and explain the problems that arise over time and make changing something back complicated or even impossible.
-

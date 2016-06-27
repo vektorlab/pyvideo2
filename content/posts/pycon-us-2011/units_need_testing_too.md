@@ -37,4 +37,3 @@ Writing true unit tests removes that particular trade-off. When your tests
 execute in a millisecond each, you can afford to run a thousand of them every
 time you save a source file. This talk will discuss what unit tests really
 are, why they matter, and how to write them in Python.
-

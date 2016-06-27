@@ -14,4 +14,3 @@ to volunteer to give a talk about using Python to do some retro-computing
 hacking involving my vintage 1978 Superboard II. It's not exactly robotics,
 but it involves hardware and a lot of low-level hacking (along with some
 Python3 and ZeroMQ thrown in for good measure ;-).
-

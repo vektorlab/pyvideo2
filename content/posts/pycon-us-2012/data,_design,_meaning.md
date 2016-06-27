@@ -14,4 +14,3 @@ There are tools and science that can inform your choice of data to present and
 how best to present it. We reflexively evaluate data and fit it into a
 narrative which aids decisionmaking; learn how to take advantage of this
 tendency in order to deliver meaning, not just numbers and charts.
-

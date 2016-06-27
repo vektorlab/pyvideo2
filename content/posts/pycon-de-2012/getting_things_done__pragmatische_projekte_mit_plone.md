@@ -28,4 +28,3 @@ Strategien bei der Behebung von Fehlern in Plone oder Drittprodukten, die
 Verwendung von Site-Fixtures, um Kunden und Designer frühzeitig eine Site mit
 Fake-Inhalten (Text + Bilder) zu versorgen sowie Ansätze zum pragmatischen
 Testen in großen Web-Projekten.
-

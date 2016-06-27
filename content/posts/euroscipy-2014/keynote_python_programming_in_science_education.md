@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/c8Qor1WD2kE/hqdefault.jpg'
 Title: 'Keynote: Python Programming in Science Education'
 date: '2014-10-22'
 ---
-

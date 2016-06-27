@@ -29,4 +29,3 @@ insieme alla teoria su cui è basato.
 Gli unici prerequisiti consigliati per seguire questo talk sono delle abilità
 matematiche di base e la conoscenza a livello introduttivo del linguaggio di
 programmazione Python.
-

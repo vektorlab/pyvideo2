@@ -15,4 +15,3 @@ often hear about. Arduino is the most important electronic prototyping
 platform, but few know we can use Python to interact with it. So, let’s
 discover how we can use Python to develop applications and interact with this
 awesome prototyping board.
-

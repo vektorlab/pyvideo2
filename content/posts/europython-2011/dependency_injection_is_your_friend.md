@@ -29,4 +29,3 @@ dependency injection toolkit, and what it can do for your application.
 
 A basic knowledge of object oriented design and SOLID principles is required
 in order to fully appreciate the content of this talk.
-

@@ -24,4 +24,3 @@ little, and have the database help solve this problem.
 This talk will use a small application written in Python using Django to
 illustrate the examples, but the method is language independent.
 Unsurprisingly, the database used is PostgreSQL.
-

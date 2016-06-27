@@ -15,4 +15,3 @@ with your project as well. Reach beyond the test facilities that came with
 your project, harnessing pluggable test frameworks, dynamically reordering
 tests for speed, exploring various mocking libraries, and profiling your way
 to testing nirvana.
-

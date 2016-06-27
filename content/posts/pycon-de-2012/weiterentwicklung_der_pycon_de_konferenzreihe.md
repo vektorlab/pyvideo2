@@ -19,4 +19,3 @@ Der Vortrag wird interaktiv gestaltet werden. Nach der kurzen Einführung steht
 die Diskussion mit der Community und ggf. auch Abstimmung über Vorschläge im
 Vordergrund. Die Resultate der Diskussionen sollen dann in die Konzeption für
 die PyCon DE 2013 und 2014 einfließen.
-

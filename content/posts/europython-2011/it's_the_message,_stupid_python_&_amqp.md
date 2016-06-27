@@ -54,4 +54,3 @@ References:
   * [https://launchpad.net/txamqp](https://launchpad.net/txamqp)
   * [http://ask.github.com/kombu/](http://ask.github.com/kombu/)
   * [http://www.amazon.com/dp/0321200683/](http://www.amazon.com/dp/0321200683/)
-

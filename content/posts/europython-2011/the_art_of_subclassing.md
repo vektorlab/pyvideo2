@@ -30,4 +30,3 @@ everything you need to know about how subclass in Python.
   * A example of perfect and simple python diamond
 
   * Beware the Concrete C API
-

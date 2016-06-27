@@ -14,4 +14,3 @@ key areas. A handful of crucial APIs are an absolute pain to work with. We’ll
 go over where these APIs went wrong and learn about strong and elegant API
 design. The high barriers to entry in Python will be discussed. Potential
 solutions will be proposed.
-

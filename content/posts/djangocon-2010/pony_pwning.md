@@ -25,4 +25,3 @@ security vulnerabilities can be introduced and Django's powerful flexibility
 allows for plenty of rope for developers to hang themselves. Understanding the
 vulnerabilities that can be created by common mistakes or misconceptions and
 overlooked details in development will be useful for any Django user.
-

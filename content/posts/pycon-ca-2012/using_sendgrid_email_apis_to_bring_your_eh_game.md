@@ -14,4 +14,3 @@ show several examples of sending simple transactional messages using our APIs.
 It will also introduce you to other available APIs we have available for
 retrieving/parsing stats, managing your profile, retrieving lists of delivery
 failures, and more.
-

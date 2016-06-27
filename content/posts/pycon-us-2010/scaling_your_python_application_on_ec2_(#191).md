@@ -22,4 +22,3 @@ about scaling as well cloud specific issues.
 
   
 [VIDEO HAS ISSUES: Missing audio first few seconds]
-

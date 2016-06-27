@@ -35,4 +35,3 @@ over the common paths and show how the other pieces hang off that backbone.
 Along the way, we'll put some of the details into historical perspective.
 Getting inside the mind of previous adventurers might help understand why
 things are the way they are.
-

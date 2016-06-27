@@ -26,4 +26,3 @@ The talk will include:
 
 Sign up for the [sprint](http://ep2011.europython.eu/p3/sprints/) More
 [info](http://django-rest-framework.org)
-

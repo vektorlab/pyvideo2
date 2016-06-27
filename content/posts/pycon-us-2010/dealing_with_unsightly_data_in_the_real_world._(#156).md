@@ -18,4 +18,3 @@ explore the art of getting data out of unhelpful systems. We'll start with
 working out how to interact with a system, move on to techniques for parsing
 the data it gives you, and round off by implementing a shinier interface over
 the top.
-

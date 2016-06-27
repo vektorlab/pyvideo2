@@ -20,4 +20,3 @@ Standardbibliothek, Paketierung, interne Strukturen). In dem Vortrag
 werden die wesentlichen Änderungen umrissen, sowohl aus Anwendersicht
 
 wie auch aus Sicht eines core committers.
-

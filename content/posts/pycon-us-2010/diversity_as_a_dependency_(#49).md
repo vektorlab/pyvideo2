@@ -23,4 +23,3 @@ pragmatic ones. Studies on creativity and productivity demonstrate the
 potential benefits of diversity for the Python community. Making Python the
 best language it can be is not merely helped by increasing diversity, but may
 be dependent on diversity.
-

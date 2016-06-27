@@ -79,4 +79,3 @@ space](http://en.wikipedia.org/wiki/State-space)
 6. Simon, D. L., Armstrong, J. B., "Application of an Optimal Tuner Selection
 Approach for On-Board Self-Tuning Engine Models," Proceedings of the ASME
 Turbo Expo 2011, GT2011-46408, 2011 (To Be Published).
-

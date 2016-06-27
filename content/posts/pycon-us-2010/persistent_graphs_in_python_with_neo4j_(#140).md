@@ -22,4 +22,3 @@ between nodes. A lot of the data we model in applications every day is
 actually graph oriented, having a database that persists such data natively is
 a huge benefit. In this presentation we will see how to use Neo4j in Python,
 and demonstrate this with a web application in Django.
-

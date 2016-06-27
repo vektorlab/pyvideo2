@@ -20,4 +20,3 @@ Themen sind:
 - WinRT und COM  
 - Python als App  
 - Python-WinRT-API
-

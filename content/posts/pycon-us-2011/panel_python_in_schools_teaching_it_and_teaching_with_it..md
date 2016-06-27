@@ -78,4 +78,3 @@ College and a faculty member at the Da Vinci Academy at South Hall Middle
 School in Gainesville, Georgia. Zac is currently teaching Python programming
 and Python programming for Geographic Information Systems to K12 and college-
 level students.
-

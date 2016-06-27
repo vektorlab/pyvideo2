@@ -28,4 +28,3 @@ hardware.
 In particular, I'll be demonstrating a new tool I've written that can track
 CPython's memory usage down to the level of individual bytes, and offer hints
 and tips on how you can reduce the memory footprint of your Python programs.
-

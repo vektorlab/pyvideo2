@@ -56,4 +56,3 @@ Infrastruktur um Continuous Inspection in der Praxis für Python
 Projekte umzusetzen. Das Ziel dieses Vortrags ist es, die Python
 
 Community für diese Technologie zu begeistern.
-

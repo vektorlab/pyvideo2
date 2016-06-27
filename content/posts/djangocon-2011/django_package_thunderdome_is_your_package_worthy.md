@@ -18,4 +18,3 @@ docs, tests, availability on PyPI and Github/Bitbucket, activity, and more. I
 will visit some of the most useful grids on djangopackages.com and highlight
 my top package picks, showing examples of what makes these top packages so
 great.
-

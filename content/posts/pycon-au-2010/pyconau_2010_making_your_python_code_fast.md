@@ -15,4 +15,3 @@ Presented by Andrew Bennetts (Canonical)
 Before you can make your program faster you need to understand why it slow.
 Andrew will show you some tools and techniques for investigating and analysing
 your program's performance.
-

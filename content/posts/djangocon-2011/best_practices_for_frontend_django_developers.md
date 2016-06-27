@@ -14,4 +14,3 @@ Christine Cheung
 
 Considerations, best practices, tools, and more for front-end development in
 Django.
-

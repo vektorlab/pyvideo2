@@ -13,4 +13,3 @@ Pyramid is a very flexible framework, but when dealing with large projects and
 multiple developers it pays to establish a few ground rules and follow some
 conventions. In this talk we'll discuss some patterns for organizing and
 developing a large Pyramid application.
-

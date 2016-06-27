@@ -35,4 +35,3 @@ Topics
   * Things you probably shouldn't do with decorators 
   * Fun with lambdas 
   * Bytecode manipulation 
-

@@ -15,4 +15,3 @@ fattori poco rilevanti o facendosi indirizzare da analisi completamente
 errate. Il talk descrivera’ cosa e’ un WSGI server, quali sono le scelte
 disponibili nel mondo opensource e come scegliere il prodotto piu’ adatto alle
 proprie esigenze
-

@@ -31,4 +31,3 @@ gibt.
 Diskutiert werden sollen dabei auch die Pros und Kontras der verschiedenen
 Datenmodelle hinsichtlich ihrer Query-Möglichkeiten, der Query-Performance,
 Anforderungen an Plattenplatz und Auswirkungen auf die Client/Anwendungsseite.
-

@@ -18,4 +18,3 @@ performance monitoring system for Python. It includes an overview of the
 architecture of the system, as well as how it hooks into Django and captures
 details about web transactions, database transactions, memcache requests,
 exceptions and much more.
-

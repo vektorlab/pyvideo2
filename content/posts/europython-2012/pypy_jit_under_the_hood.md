@@ -16,4 +16,3 @@ the compilation of the Python source into fast machine code, and how to use
 the right tools to inspect the output of the JIT compiler. By examining the
 internals of the JIT, you will also learn why some code is more “JIT friendly”
 than other, and how to write programs which exploits its full potential.
-

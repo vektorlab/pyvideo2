@@ -10,4 +10,3 @@ Title: 'Introduction to HTTPS: A Comedy of Errors'
 date: '2015-04-11'
 ---
 Given recent increases in hostile attacks on internet services and large scale surveillance operations by certain unnamed government organizations, security in our software is becoming ever more important. We'll give you an idea of how modern crypto works in web services and clients, look at some of the common flaws in these crypto implementations, and discuss recent developments in TLS.
-

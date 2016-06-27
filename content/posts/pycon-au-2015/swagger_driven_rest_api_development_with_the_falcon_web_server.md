@@ -12,6 +12,3 @@ date: '2015-08-04'
 Swagger is a JSON format for defining and documenting REST API's. Falcon is a lightweight Python web server designed specifically for building REST web services.
 
 This presentation shows you how to combine Swagger API specifications with the Falcon web server to make REST API development incredibly fast and easy.
-
-
-

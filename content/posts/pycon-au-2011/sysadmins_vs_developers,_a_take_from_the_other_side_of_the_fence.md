@@ -15,4 +15,3 @@ perspective, motivations and problems. The primary goal here is to provide
 some light hearted anecdotes, examples and situations, that developers will
 relate to from their&nbsp_place_holder;experiences&nbsp_place_holder;and
 garner a new appreciation for the role of the sysadmin.
-

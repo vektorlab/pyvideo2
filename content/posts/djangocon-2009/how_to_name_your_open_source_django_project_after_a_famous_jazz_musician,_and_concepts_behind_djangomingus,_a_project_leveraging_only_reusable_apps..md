@@ -14,4 +14,3 @@ concepts behind Django-Minus, a project
 
   
 Presented by Kevin Fricovsky
-

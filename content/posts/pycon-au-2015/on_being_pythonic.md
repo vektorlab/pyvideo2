@@ -18,4 +18,3 @@ Even though you’re using Python syntax and keywords, your code still smells li
 Even though you know the syntax to make a class and inherit, you don't know when you should. Composition? IsA, HasA, IsLikeA? What about factories, singletons, iterators and adapters?
 
 Mashing together a long and painful background of C, C++, Perl and Java coding, a mind-expanding trip down the Elements of Reusable Object-Oriented Software rabbit hole, and over 30 years programming experience, Peter brings some clarity, reason and ideas on Pythonic idioms and OO design as implemented in Python.
-

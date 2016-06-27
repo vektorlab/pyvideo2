@@ -20,4 +20,3 @@ universities have been building a Django-based replacement for Trac called
 Basie. This talk will present what they've accomplished and discuss what we've
 learned about getting junior developers who are juggling half a dozen projects
 at once to build production-quality code.
-

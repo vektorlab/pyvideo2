@@ -32,4 +32,3 @@ Der geneigte Zuhörer soll angeregt werden ähnliche Django-Packages in seinen
 eigenen Projekten zu verwenden. Der Benefit für den Einzelnen ist, schnell
 meist gut getestete Funktionalität für das eigene Projekt einzubauen. Die
 Gemeinschaft profitiert von gemeinschaftlich entwickelter Freier Software.
-

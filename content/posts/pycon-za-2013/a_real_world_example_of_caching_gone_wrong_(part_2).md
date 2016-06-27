@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-caching-gone-wrong-pt2/py
 Title: 'A Real World Example of Caching Gone Wrong (part 2)'
 date: '2013-10-03'
 ---
-

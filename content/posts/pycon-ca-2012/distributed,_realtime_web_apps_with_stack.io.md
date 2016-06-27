@@ -17,4 +17,3 @@ of auth and service discovery on top.
 
 [1]:
 [https://github.com/dotcloud/stack.io](https://github.com/dotcloud/stack.io)
-

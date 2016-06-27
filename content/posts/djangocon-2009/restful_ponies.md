@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-RESTfulPonies488.png'
 Title: 'RESTful Ponies'
 ---
   
-

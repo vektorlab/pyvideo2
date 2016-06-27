@@ -15,4 +15,3 @@ Presented by James Bennett
 An introduction to writing great documentation. Not just in the "here's some
 tools and how to use them" sense, but in the "here's why you should care about
 documentation" sense and the "how to write things people will read" sense.
-

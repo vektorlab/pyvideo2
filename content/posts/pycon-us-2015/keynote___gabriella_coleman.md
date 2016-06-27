@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/lNqtyi3sM-k/hqdefault.jpg'
 Title: 'Keynote  - Gabriella Coleman'
 date: '2015-04-16'
 ---
-

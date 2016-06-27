@@ -13,4 +13,3 @@ This talk will describe how zc.buildout is used in our company every day to
 develop, package and distribute Pylons, Django or Plone applications. It will
 focus on the best practices we have built around the tool and the tools we
 have built on the top of it to speed up our work.
-

@@ -27,4 +27,3 @@ functions by reusing existing code objects, instantiating multiple copies of
 the same module, playing with metaclasses in various ways, changing the
 __class__ of an object on the fly to get specialized behavior, automatically
 entering the debugger when a certain event occur, etc.
-

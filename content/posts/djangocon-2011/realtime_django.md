@@ -15,4 +15,3 @@ Presented by Ben Slavin, Adam Miskiewicz
 The web is live. APIs give us access to continuously changing data. We discuss
 ways to get real-time data into your app, how to handle data processing and
 what to do when you get thousands of updates per second.
-

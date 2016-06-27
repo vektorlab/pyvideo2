@@ -10,4 +10,3 @@ Title: 'Further neck and amd shoulder massage training'
 date: '2012-07-04'
 ---
 [EuroPython 2012] Rob Collins - 3 JULY 2012 in "Track Spaghetti"
-

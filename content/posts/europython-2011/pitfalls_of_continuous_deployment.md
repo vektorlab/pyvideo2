@@ -18,4 +18,3 @@ teams, but also creates some of its own. This talk will focus on the pros and
 cons of continuous deployment, how DISQUS switched from the recurring release
 cycle to continuous releases, as well as providing tips and arguments for
 adopting it in your workplace.
-

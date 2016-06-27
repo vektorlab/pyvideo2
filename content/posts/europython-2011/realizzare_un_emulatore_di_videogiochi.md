@@ -19,4 +19,3 @@ pygame come libreria grafica.
 Al termine del talk avrete imparato quali sono i concetti base necessari per
 scrivere un emulatore, e non vedrete l'ora di realizzarne uno per il vostro
 sistema preferito.
-

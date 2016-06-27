@@ -10,4 +10,3 @@ Title: 'OpenStack MiniConf: Python Build Reasonableness and Semantic Versioning 
   Robert Collins (HP)'
 date: '2014-08-11'
 ---
-

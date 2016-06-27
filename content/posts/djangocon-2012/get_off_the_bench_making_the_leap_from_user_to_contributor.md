@@ -24,4 +24,3 @@ Getting involved doesn't just mean contributing code, either. There are lots
 of other ways that you can be a valuable member of the community, and this
 talk will give you several suggestions for how your talents could be used to
 improve the entire Django ecosystem.
-

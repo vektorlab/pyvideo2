@@ -60,4 +60,3 @@ Class Outline
 The handouts at [http://swilliams.ca/python-tutorials](http://swilliams.ca
 /python-tutorials). If you're interested in the software I wrote to deliver
 the talk drop me a line. My address is in the handouts.
-

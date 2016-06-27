@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/jKcRcdu9X3Y/hqdefault.jpg'
 Title: 'Science MiniConf: Python for Bioinformatics by Clare Sloggett'
 date: '2014-08-11'
 ---
-

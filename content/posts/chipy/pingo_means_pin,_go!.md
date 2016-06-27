@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/PNkml72Wuck/hqdefault.jpg'
 Title: 'Pingo means "pin, go!'
 date: '2014-07-09'
 ---
-

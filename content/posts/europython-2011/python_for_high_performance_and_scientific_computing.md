@@ -27,4 +27,3 @@ performance issues. The talk will include examples for scientific codes and
 applications from many domains.
 
 [Slides](http://bit.ly/k94rC4)
-

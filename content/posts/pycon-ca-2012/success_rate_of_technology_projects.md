@@ -15,4 +15,3 @@ of developers?
 I will be advocating that the success or failure of a given technology project
 will be dependent on factors frequently outside of control of development
 team.
-

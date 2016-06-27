@@ -13,4 +13,3 @@ A highly visual (racing videos) presentation showing the TORCS racing
 simulator, a Python implementation of a virtual robot car, and a covering of
 the basic AI algorithms required to make the wheels go round. AI, math, Python
 and eye candy. What could possibly go wrong... what indeed.
-

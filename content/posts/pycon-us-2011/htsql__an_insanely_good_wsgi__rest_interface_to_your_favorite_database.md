@@ -30,4 +30,3 @@ Simonov. The main HTSQL site is [http://htsql.org](http://htsql.org) and the
 code is at [http://bitbucket.org/prometheus/htsql](http://bitbucket.org/promet
 heus/htsql). It'll be similar to previous talks, such as
 [http://htsql.org/talks/20101103.html](http://htsql.org/talks/20101103.html).
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/DUCMjsrYSrQ/hqdefault.jpg'
 Title: 'Advanced Python Profiling'
 date: '2014-10-22'
 ---
-

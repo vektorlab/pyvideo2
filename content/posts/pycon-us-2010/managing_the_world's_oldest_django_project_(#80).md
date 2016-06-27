@@ -24,4 +24,3 @@ involved in developing and maintaining a codebase of this age and size.
 Highlights include branch management, the advantages of open-sourcing non-
 critical functionality, the pain of porting and the joy that can only be found
 in a passing test suite.
-

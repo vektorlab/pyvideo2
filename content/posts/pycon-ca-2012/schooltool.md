@@ -14,4 +14,3 @@ Zope 3 framework. It has several basic components a teacher could use:
 gradebook, attendance, calendars, etc and some "advanced" ones like
 interventions and skill tracking. It's easily available in the Ubuntu Linux
 distribution.
-

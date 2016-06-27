@@ -16,4 +16,3 @@ I've spent this past summer away from Django, working for Quora, venturing
 into the depths of a foreign codebase, and making it faster by running on
 PyPy. This talk will feature the lessons I've learned about Django, PyPy, and
 web development in general.
-

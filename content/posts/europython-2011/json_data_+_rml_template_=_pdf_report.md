@@ -25,4 +25,3 @@ detach the stylesheet from the template structure.
 
 And at the end you can also have the internationalization service in the PDF
 report generation!
-

@@ -15,4 +15,3 @@ Presented by Andy Mckay
 
   
 Case study about using sms and django on a project called rapidsms.
-

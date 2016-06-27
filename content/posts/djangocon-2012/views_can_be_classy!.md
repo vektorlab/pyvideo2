@@ -25,4 +25,3 @@ a solid introduction to the technology.
   * Example CBVs for common use cases
   *     * handling form input for more than one form
   *     * serving different content based on users
-

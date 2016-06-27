@@ -25,4 +25,3 @@ other people's code and the stdlib do use them. As Alex Martelli pointed out
 in his wonderful talk "Abstractions as Leverage" you can't successfully
 function at one level of abstraction if you don't know what is going on at the
 next level down. This talk is a whirlwind tour of the next level down.
-

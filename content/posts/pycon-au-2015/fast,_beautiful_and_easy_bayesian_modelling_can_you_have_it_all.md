@@ -18,5 +18,3 @@ But beauty is also crucial. We need the package to be easy to code and describe,
 Finally, we need it to be easy. Easy to fit into our systems; technology-agnostic so we can change systems; and automatable so that the regular work of updating models with new data can happen ‘hands off’.  
 
 There are a number of Bayesian modelling packages available, but how do you know which one to use? This talk will take you through the positives and negatives of the major packages, focusing on the specifics of my work in health statistics, as well as providing a general overview of what these packages can do. 
-
-

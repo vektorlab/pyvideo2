@@ -32,4 +32,3 @@ A few highlights include:
   * How a major mistake made us look good 
   * How the python community worked for us 
   * How we couldn't have done it without Django AND TurboGears 
-

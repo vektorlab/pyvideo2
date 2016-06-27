@@ -15,4 +15,3 @@ the standard library can be combined to solve difficult problems clearly and
 Pythonically. We will also discuss when and how to reach beyond the standard
 library when needed to address difficult algorithmic and optimization
 problems.
-

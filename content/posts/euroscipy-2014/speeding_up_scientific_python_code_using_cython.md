@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/zdXLSEdtyaY/hqdefault.jpg'
 Title: 'Speeding up Scientific Python code using Cython'
 date: '2014-10-22'
 ---
-

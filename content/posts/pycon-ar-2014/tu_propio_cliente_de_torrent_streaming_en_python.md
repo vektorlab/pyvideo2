@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/oMl1UiF_2Ss/hqdefault.jpg'
 Title: 'Tu propio cliente de Torrent streaming en Python'
 date: '2014-11-28'
 ---
-

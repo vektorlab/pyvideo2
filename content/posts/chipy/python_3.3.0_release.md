@@ -13,4 +13,3 @@ Brian will cover the September 29th release of Python 3 (3.3.0) including some
 highly technical details and importing information for the casual users. He
 will go over some of the particular Window's stuff while leaving the talk's
 focus on an assortment of cool stuff.
-

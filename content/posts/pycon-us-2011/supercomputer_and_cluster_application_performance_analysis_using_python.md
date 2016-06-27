@@ -92,4 +92,3 @@ An outline of this presentation follows:
   4. Future Extensions of Pylot (5 mins) 
     * Capturing compile-time and execution info 
     * Efforts to move parts of Pylot to the web 
-

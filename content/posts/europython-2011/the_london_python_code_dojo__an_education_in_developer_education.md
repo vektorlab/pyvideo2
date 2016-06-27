@@ -21,4 +21,3 @@ Reference will also be made to influences from music education and philosophy
 of education.
 
 Hopefully, by the end of the talk you'll all want to go organise a dojo!
-

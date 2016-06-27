@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/uaTNyOBPcPs/hqdefault.jpg'
 Title: 'Closing address - PyCon 2014 (2014/04/13)'
 date: '2014-04-13'
 ---
-

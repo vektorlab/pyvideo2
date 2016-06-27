@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/prYI3OVJpCk/hqdefault.jpg'
 Title: 'pyFRET: A Python library for Analysis of Single Molecule Fluorescence Data'
 date: '2014-10-22'
 ---
-

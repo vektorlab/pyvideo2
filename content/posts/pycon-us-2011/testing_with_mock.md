@@ -43,4 +43,3 @@ testing libraries like nose and py.test.
 
 There will be some emphasis on how *not* to use mocking in testing, and why
 'over mocking' is bad (and makes for brittle tests).
-

@@ -29,4 +29,3 @@ be distributed for download.
 
 Walk away with a sound understanding of why you should choose PyQt for your
 next desktop project.
-

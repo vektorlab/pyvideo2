@@ -42,4 +42,3 @@ The tools that will probably appear in the demos and discussions:
   * Visual Python 
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

@@ -73,4 +73,3 @@ deploy OpenRural in North Carolina.
 
   * State of the OpenBlock community
   * Our plans in North Carolina
-

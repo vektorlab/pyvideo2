@@ -52,4 +52,3 @@ using setup_project.
 
 Finally, the talk will cover some relevant stats over the past year, and a
 roadmap for the future.
-

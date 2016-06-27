@@ -34,4 +34,3 @@ In detail, the following points will be discussed:
   * Flexibility with PyInstaller: what goes in and what stays out
   * Linux: static binaries for a single distribution or cross-distributions
   * Mac: creation of bundles for graphic applications
-

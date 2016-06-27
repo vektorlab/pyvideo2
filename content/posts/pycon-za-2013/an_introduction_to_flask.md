@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-intro-to-flask/pyconza201
 Title: 'An Introduction to Flask'
 date: '2013-10-03'
 ---
-

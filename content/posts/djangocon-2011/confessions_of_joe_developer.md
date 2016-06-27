@@ -17,4 +17,3 @@ Eldarion; Daniel Greenfeld has picked up a lot of easy tricks stolen from the
 best and brightest in the Python community that make him look good in front of
 his peers and clients. And now, at great risk to his career and reputation, he
 is going to show you how he does it.
-

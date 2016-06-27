@@ -15,4 +15,3 @@ Presented by Yann Malet and Brandon Konkle
 Learn the questions to ask and the tools to use to spot performance problems
 in your application. We won't tell you how to scale your site, but we will
 show you how to locate the bottlenecks as they pop up.
-

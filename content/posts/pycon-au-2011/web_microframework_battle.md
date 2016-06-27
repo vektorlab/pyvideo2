@@ -11,4 +11,3 @@ date: '2011-08-22'
 ---
 In this talk I'll be running through the current choices of web micro
 frameworks and comparing them by implementing a simple application.
-

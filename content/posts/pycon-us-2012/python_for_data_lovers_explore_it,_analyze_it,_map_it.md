@@ -15,4 +15,3 @@ techniques of data analysis, along with python tools that help you explore and
 map data. Our talk includes examples that show how python libraries such as
 csvkit, matplotlib, scipy, networkx and pysal can help you dig into and make
 sense of your data.
-

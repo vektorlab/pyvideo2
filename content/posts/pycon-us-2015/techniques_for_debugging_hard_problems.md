@@ -10,4 +10,3 @@ Title: 'Techniques for Debugging Hard Problems'
 date: '2015-04-12'
 ---
 Sometimes your programs have bugs. Often they're shallow things, simple AttributeErrors or TypeErrors. Sometimes they're large, complex, and nearly impossible to debug. This talk explores techniques for figuring these out.
-

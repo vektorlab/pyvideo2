@@ -10,4 +10,3 @@ Title: 'Describing Descriptors'
 date: '2015-04-12'
 ---
 The Python library uses descriptors frequently, but most developers overlook this feature. This talk will cover what a descriptor is, the current uses in the standard library, and how custom descriptors can be used in a developer’s toolset to eliminate repeated code.
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/NSLvERZQSok/hqdefault.jpg'
 Title: 'Lightning talks - Sunday afternoon'
 date: '2014-04-13'
 ---
-

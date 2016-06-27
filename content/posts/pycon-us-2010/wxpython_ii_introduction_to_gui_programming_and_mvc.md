@@ -28,4 +28,3 @@ Requirements
 
 Attendees are welcome to bring a laptop loaded with Python 2.4+ and wxPython
 2.6+ to follow along, but this is not required.
-

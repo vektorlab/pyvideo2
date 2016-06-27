@@ -25,4 +25,3 @@ Il talk consiste in un tutorial su MapReduce/Hadoop e in una presentazione
 dell'API Pydoop, con l'obiettivo principale di avvicinare le community di
 Hadoop e Python. Può essere utile, anche se non strettamente necessaria, una
 conoscenza di base della programmazione distribuita.
-

@@ -24,4 +24,3 @@ layout of our revision database shown, the Python layer which handles it
 transparently for the programmer detailed, and how the Python layer is used in
 practice. All of this is focused on discussing what worked well and what
 pitfalls we ran into during development.
-

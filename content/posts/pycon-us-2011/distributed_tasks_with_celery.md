@@ -29,4 +29,3 @@ will focus on the following topics:
   * An overview of Celery and the variety of tools it provides for task distribution, scheduling, and execution. This portion of the talk will also review production-oriented components of Celery, such as monitoring, error detection/reporting, and error recovery. 
   * Real world discussion of several problems we solved at ShootQ using Celery including before-and-after looks at our implementations. 
   * Common pitfalls and gotchas we encountered while working with Celery. 
-

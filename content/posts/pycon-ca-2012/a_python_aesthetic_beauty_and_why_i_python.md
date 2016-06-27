@@ -14,4 +14,3 @@ that I remain a fan today? In this talk we will explore how Python, even while
 training us to avoid and become blind to its rough edges, works to teach us
 new ways of making programs beautiful. Even novices should learn new things to
 love about Python by listening to this talk!
-

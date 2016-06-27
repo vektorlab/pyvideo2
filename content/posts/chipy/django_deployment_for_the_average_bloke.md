@@ -15,4 +15,3 @@ don't even need to read the docs if you don't want to. And as an added bonus,
 I show how to wget a vm image to deploy into with network ports exposed. It is
 very much like working with a hosting provider like Slice Host, and it makes a
 great framework for testing server installs.
-

@@ -26,4 +26,3 @@ global settings file, backwards incompatible changes, contrib, educating users
 on finding tools and libraries, what's coming in django 1.3, memory usage in
 django, required resources for django core development, best part of django
 today, and problems with external dependencies not shipped with django.
-

@@ -80,4 +80,3 @@ References
    archived talk at <https://ep2013.europython.eu/conference/talks/advanced-pickling-with-stackless-python-and-spickle>
 8. Fabio Zadrozny, 2013-12-12: *PyDev 3.1.0 released*, 
    blog at <http://pydev.blogspot.de/2013/12/pydev-310-released.html>
-

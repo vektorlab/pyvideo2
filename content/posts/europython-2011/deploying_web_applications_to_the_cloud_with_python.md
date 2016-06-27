@@ -20,4 +20,3 @@ as needed with minimal effort.
 This talk will introduce Amazon Web Services and how to launch new machines
 using simple Boto scripts, and how to get started making your own repeatable
 deployments using Fabric scripts.
-

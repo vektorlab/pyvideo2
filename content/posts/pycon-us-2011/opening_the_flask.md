@@ -33,4 +33,3 @@ have a brief look in what is planned for the future, especially regarding
 Python 3.
 
 The talk assumes basic knowledge of web applications.
-

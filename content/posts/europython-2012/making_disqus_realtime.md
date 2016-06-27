@@ -20,4 +20,3 @@ realtime How we baked high availability into the application, not just the
 infrastructure Overview of the hardware involved Lessons learned (what broke
 hard, what worked awesome) Suggested audience experience: Medium/Advanced
 level experience Familiarity with Flask, Gevent/Eventlet would be really good.
-

@@ -38,4 +38,3 @@ right track.
 So if you're a Python hacker who would like to learn more about how to
 engineer a business, or if you're a business person who's just starting to
 learn Python, come learn how Python isn't just for engineering.
-

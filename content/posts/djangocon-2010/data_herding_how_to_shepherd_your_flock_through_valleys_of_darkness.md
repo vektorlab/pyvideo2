@@ -33,4 +33,3 @@ specific data management challenges. The unifying philosophy throughout is to
 break large, difficult problems into small, repeatable steps and audience
 members should also come away knowing how to select tools that help them work
 in this style.
-

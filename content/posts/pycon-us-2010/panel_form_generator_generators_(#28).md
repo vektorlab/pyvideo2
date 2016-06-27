@@ -27,4 +27,3 @@ development tools.
 
   
 [VIDEO HAS ISSUES: Feedback galore when moving between mics, cover your ears]
-

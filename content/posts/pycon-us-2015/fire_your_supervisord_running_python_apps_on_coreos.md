@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/jCor69OeR0g/hqdefault.jpg'
 Title: 'Fire your supervisord running Python apps on CoreOS'
 date: '2015-04-11'
 ---
-

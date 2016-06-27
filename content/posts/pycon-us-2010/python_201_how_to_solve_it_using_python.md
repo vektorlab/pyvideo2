@@ -62,4 +62,3 @@ Python Distribution.
 
 [VIDEO HAS ISSUES: Some missing sections of video due to technical issues
 (approx 3 mins in)]
-

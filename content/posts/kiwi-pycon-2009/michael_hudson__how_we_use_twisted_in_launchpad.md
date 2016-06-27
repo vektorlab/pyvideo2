@@ -25,4 +25,3 @@ talk will survey these areas and talk about issues we've found and design
 patterns we've found helpful.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

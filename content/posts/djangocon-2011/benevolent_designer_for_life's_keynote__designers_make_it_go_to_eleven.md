@@ -31,4 +31,3 @@ How can Django better engage designers, for core's benefit and for the benefit
 of _your projects_. How can we help these contributors get over the "suck"
 threshold? - What parts of core are ripe for love from designers? What 3rd
 party projects?
-

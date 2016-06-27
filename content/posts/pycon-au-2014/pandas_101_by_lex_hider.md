@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/1QOMk2k9aI8/hqdefault.jpg'
 Title: 'Pandas 101 by Lex Hider'
 date: '2014-08-11'
 ---
-

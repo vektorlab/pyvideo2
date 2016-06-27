@@ -17,4 +17,3 @@ Astrophysics)
 We describe how Python is used in a large astronomy project to automatically
 process data from several telescopes in both the hemispheres. We introduce the
 general problem and discuss challenges and lessons learned.
-

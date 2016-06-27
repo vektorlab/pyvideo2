@@ -23,4 +23,3 @@ vorgestellt. Der zweite Teil des Vortrags beschäftigt sich dann mit den
 Erweiterungs- und Anpassungsmöglichkeiten, die die Django-API bereit stellt.
 
 Die abschließende Diskussionszeit kann für Fragen verwendet werden.
-

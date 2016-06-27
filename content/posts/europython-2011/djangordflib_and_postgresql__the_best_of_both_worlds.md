@@ -25,4 +25,3 @@ Objective: show attendees an effective combination of RDF, PostgreSQL full-
 text search and Django ORM via django-rdflib.
 
 Requirements: Django familiarity.
-

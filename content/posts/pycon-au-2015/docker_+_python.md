@@ -14,4 +14,3 @@ Docker is an open platform for developers and sysadmins to build, ship, and run 
 As Docker is based on Linux containers, these are very lightweight and allow resource isolation. With added tools to provide workflow automation and image management, Docker can provide a complete toolset to manage your application environment.
 
 Aimed at newcomers to the technology, this talk will cover the basics of what Docker is, how it compares to other technologies and with why it's useful for Python applications. There will be practical demos and examples of real world Python deployments included.
-

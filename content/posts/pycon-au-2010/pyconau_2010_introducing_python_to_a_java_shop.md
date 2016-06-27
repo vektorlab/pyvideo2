@@ -21,4 +21,3 @@ by step from Python to Java. Going beyond the advocacy focus, the talk then
 shows the interfaces to call Java from Python and vice versa and illustrates
 those with examples. Furthermore, unit testing of Java classes via test cases
 written in Python is also touched upon.
-

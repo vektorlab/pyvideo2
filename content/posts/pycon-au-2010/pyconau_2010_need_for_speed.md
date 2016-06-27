@@ -25,4 +25,3 @@ Using some real-world examples, this talk covers tools and techniques that
 allow you to systematically understand where the bottlenecks are in your code
 and then how to effectively optimise your code, without having to resort to
 writing modules in C/C++.
-

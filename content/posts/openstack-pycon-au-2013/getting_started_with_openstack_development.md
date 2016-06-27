@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/dIEnypwfEcg/hqdefault.jpg'
 Title: 'Getting Started with OpenStack Development'
 date: '2013-07-05'
 ---
-

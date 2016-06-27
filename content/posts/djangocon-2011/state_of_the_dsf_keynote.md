@@ -17,4 +17,3 @@ what it has been up to recently, and what it plans to do over the next year.
 If you're interested in contributing to the Django community, this will be a
 great way to find out what opportunities are out there and to find out how the
 DSF can help.
-

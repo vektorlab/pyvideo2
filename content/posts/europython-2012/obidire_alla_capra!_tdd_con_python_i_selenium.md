@@ -35,4 +35,3 @@ possiamo andare direttamente al coding” etc etc - e posso dire che adesso son
 proprio convinto. Ho imparato degli migliori, e ho tutta la passione di un
 neofita. Questo training sarÃ&nbsp_place_holder; anche la prima volta che l’ho
 fatto in Italiano, allora sarÃ&nbsp_place_holder; sicuramente emozionante.
-

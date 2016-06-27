@@ -17,4 +17,3 @@ pluggable applications. Mastering those tools can make possible to build a
 complete application without much effort using the partials made available by
 the pluggable applications and exposing administrative interfaces in a bunch
 of lines of code using the CRUD extension both using SQLA and MongoDB.
-

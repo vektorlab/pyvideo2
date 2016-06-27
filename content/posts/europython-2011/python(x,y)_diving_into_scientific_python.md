@@ -31,4 +31,3 @@ distributions, e.g. EPD.
 The entire talk (PDF), code samples and data files can be downloaded from the
 following [archive](http://www.lmd.polytechnique.fr/~noel/EP2011/DivingIntoSci
 entificPython.zip)
-

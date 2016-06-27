@@ -24,4 +24,3 @@ development and its targets for the future.
 
   
 [VIDEO HAS ISSUES: Audio humming, other misc audio issues]
-

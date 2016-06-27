@@ -11,4 +11,3 @@ date: '2011-07-13'
 ---
 Dozens of little insights into the language. A whirlwind tour of nifty tricks,
 little known features, and common patterns.
-

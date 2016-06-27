@@ -17,4 +17,3 @@ where people _will_ use it in ways you've never dreamed about.
 This talk is a reflection on my experience building libraries for other
 people's consumption & thoughts on how to design/make (non-HTTP) APIs in a way
 that will make others love you (or at least not hunt you down & strangle you).
-

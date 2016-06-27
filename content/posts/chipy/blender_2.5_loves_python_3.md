@@ -24,4 +24,3 @@ ChiPy is a group of Chicago Python Programmers, l33t, and n00bs. Meetings are
 held monthly at various locations around Chicago. Also, ChiPy is a proud
 sponsor of many Open Source and Educational efforts in Chicago. Stay tuned to
 the mailing list for more info. [ChiPy website](http://chipy.org/)
-

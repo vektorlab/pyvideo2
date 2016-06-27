@@ -18,4 +18,3 @@ Può partecipare chiunque abbia una conoscenza di base di Python, anche se non
 ha mai lavorato con applicazioni realtime 3D. L'obiettivo è mostrare come
 creare un semplice videogioco che risponda agli input immessi dall'utente e
 come utilizzare al meglio questo potente engine.
-

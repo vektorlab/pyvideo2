@@ -14,4 +14,3 @@ to a VM. I'll cover server setup/config and best practices and cover software
 used like Fabric, nginx etc. Sample nginx, WSGI and Apache configs will be
 provided. People can follow along and I'll provide download links after so
 they can try it at home. This will be the best meeting ever.
-

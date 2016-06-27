@@ -28,4 +28,3 @@ Covered topics:
   * How to check out, build, and deploy OpenStack 
   * How to setup and maintain your own cloud 
   * Real world examples 
-

@@ -16,4 +16,3 @@ techniques that make scraping faster and more stable. We'll cover parallel
 downloading with Twisted, gevent, and others; analyzing sites behind SSL;
 driving JavaScript-y sites with Selenium; and evading common anti-scraping
 techniques.
-

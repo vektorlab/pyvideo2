@@ -18,4 +18,3 @@ Talks about Django usage in PBS maintained sites.
 
   
 [VIDEO HAS ISSUES: audio jumps around a bit]
-

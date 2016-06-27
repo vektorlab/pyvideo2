@@ -23,4 +23,3 @@ u_coro_2011-06-20.html)
 
 [Slides for the bonus sub-talk](http://syncless.googlecode.com/svn/trunk/doc/s
 lides_2010-11-29/pts_coro_2010-11-29.html)
-

@@ -14,4 +14,3 @@ Zookeeper. It will cover what ZooKeeper is, and how it works. I'll talk about
 the problems of configuration management and how it can be solved using the
 primitives available in ZooKeeper. If there's time I will go in to additional
 use cases of ZooKeeper.
-

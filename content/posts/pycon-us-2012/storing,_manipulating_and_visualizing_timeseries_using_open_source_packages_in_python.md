@@ -16,4 +16,3 @@ meteorological forecasting, financial modeling, ... In this talk we will
 explore the current Python ecosystem for doing this effectively, comparing
 options, using only open source packages that are mature yet still under
 active development.
-

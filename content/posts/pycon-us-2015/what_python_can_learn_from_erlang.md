@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/EmICpC_QmhI/hqdefault.jpg'
 Title: 'What Python can learn from Erlang'
 date: '2015-04-11'
 ---
-

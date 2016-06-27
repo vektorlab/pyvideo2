@@ -18,4 +18,3 @@ Presented by Jonathan Ellis
   
 Caching, replication, partitioning, and distributed databases: how these can
 (and can't!) help you scale your data.
-

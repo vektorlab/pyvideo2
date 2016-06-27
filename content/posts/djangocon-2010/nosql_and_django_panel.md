@@ -28,4 +28,3 @@ briefly cover the NoSQL movement in general and it's staying power. After that
 introduction to the debates at hand outside of Django, questions will shift to
 focus closely on the issues into integrating NoSQL and Django--both on current
 best practices and future plans for integrating it into the core.
-

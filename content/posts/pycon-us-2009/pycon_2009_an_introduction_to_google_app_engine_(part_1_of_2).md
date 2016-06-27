@@ -13,4 +13,3 @@ Title: 'PyCon 2009: An Introduction to Google App Engine (Part 1 of 2)'
 applications and host them on Google hardware. This hands on tutorial will
 walk you through the steps of building a basic web application, from setting
 up the SDK through to using the major APIs that App Engine provides.
-

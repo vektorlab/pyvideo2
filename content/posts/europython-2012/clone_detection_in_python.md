@@ -33,4 +33,3 @@ also presented, emphasizing the powerful Python built-in reflection
 capabilities, extremely useful in this specific code analysis task. Basic
 maths skill and basic knowledge of the Python language are the only suggested
 prerequisites for the talk.
-

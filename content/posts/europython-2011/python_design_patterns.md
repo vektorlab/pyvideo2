@@ -33,4 +33,3 @@ make cameo appearances.
 Goals: remove from your system any residue of the pernicious meme about Python
 not having or needing design patterns. Prereqs: experience designing and
 developing software; intermediate-level Python knowledge.
-

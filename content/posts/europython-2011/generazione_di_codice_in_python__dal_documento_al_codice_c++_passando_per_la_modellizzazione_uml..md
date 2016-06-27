@@ -24,4 +24,3 @@ usando le API specifiche del progetto. Il programma è stato scritto in Python
 2.x ed utilizza i seguenti moduli esterni: - pywin32: per interfacciare sia MS
 Word che il tool CASE usando lo standard COM. - ply : per analizzare il file
 in cui il tool CASE memorizza il modello,
-

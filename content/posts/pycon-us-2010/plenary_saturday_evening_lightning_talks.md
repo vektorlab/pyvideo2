@@ -34,4 +34,3 @@ beyond
 (33:50) Dirkjan Ochtman - PEP 385: hg conversion
 
 (37:30) Jesse Noller - Python: Hell Yeah.
-

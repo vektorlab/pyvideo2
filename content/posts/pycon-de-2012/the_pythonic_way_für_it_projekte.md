@@ -36,4 +36,3 @@ Die vorgestellten Vorgehensweisen wurden von den Autoren, mehrfach erfolgreich
 in großen Industrieprojekten als auch in kleinen internen Softwareprojekten
 
 angewendet.
-

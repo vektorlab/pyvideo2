@@ -14,4 +14,3 @@ enabled semi-coroutines as a mechanism for scheduling "weightless" threads; to
 PEP 342, which created true coroutines, and hence made event-driven
 programming easier; to 3rd party libraries built around coroutines, from older
 GTasklet and peak.events to the current Greenlet/gevent and Twisted Reactor.
-

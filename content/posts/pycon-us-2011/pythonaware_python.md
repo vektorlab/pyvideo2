@@ -32,4 +32,3 @@ tools we all know and love.
 
 The world of Python tools is ready for new exploration. This talk will give
 you the foundation you need to write the next great Python-aware application.
-

@@ -14,4 +14,3 @@ While we've made a great big hoopla over the last few years about deploying Open
 The OpenStack Infra team DO something with OpenStack clouds every day. It turns out it is related to both developing and deploying OpenStack, but let's forget about that for now. What we really are is a giant machine for manipulating OpenStacks, and we've gotten rather good at it. As a result of that ... we've been good little hackers and have produced a library, called shade, which is the embodiment of the knowledge we've gathered in trying to do useful things. shade is at the heart of our nodepool project, as well as the basis of the latest set of Ansible modules for OpenStack.
 
 So - Let's talk about shade. And let's talk about Ansible. And let's talk about using clouds to actually perform work.
-

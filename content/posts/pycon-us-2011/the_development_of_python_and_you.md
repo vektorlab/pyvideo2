@@ -34,4 +34,3 @@ whole process live.
 
 After the conference is over, stick around with the CPython crew and hack
 away!
-

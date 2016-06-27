@@ -91,4 +91,3 @@ If you intend to follow also the second part ("Write your own interpreter with
 PyPy"), you need to make sure you have a working [developing
 environment](http://doc.pypy.org/en/latest/getting-started-python.html
 #translating-the-pypy-python-interpreter)
-

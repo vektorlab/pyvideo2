@@ -9,5 +9,3 @@ ThumbnailUrl: 'http://img.youtube.com/vi/EBRMq2Ioxsc/hqdefault.jpg'
 Title: 'Keynote: Guido Van Rossum'
 date: '2012-03-11'
 ---
-
-

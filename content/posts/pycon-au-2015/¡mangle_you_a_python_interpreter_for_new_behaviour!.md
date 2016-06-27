@@ -28,4 +28,3 @@ Repos:
   - quiet_None: https://bitbucket.org/candeira/quiet_none/
 
   - question_dot: https://bitbucket.org/candeira/question_dot/
-

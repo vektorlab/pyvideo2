@@ -10,4 +10,3 @@ Title: 'Django MiniConf: Django Transactions: Past, Present, and Future by Chris
   Pettus'
 date: '2014-08-09'
 ---
-

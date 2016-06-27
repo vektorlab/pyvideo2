@@ -19,4 +19,3 @@ Python makes a great metaprogramming languages. Metaprogramming is great for
 solving problems faster, in a more generic way and providing rich APIs. This
 talk explores the different options provided in python to do metaprogramming
 and the right way to use them.
-

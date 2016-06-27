@@ -54,4 +54,3 @@ Outline:
   * Iterator pattern (5 min) 
   * Generators (15 min ) 
   * Hands-on application (50 min) 
-

@@ -23,4 +23,3 @@ We'll cover:
   * Helpful tools, tips and tricks.
 
 Django experience is helpful, but no PostgreSQL experience required.
-

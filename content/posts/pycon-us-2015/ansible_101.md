@@ -10,4 +10,3 @@ Title: 'Ansible 101'
 date: '2015-04-10'
 ---
 Interested in Ansible, or in server orchestration and configuration generally? This tutorial will teach the basics -- and a few of the not-so-basics -- of orchestrating machines with Ansible.
-

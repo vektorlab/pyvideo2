@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/VvvKP_GaPmw/hqdefault.jpg'
 Title: 'Django MiniConf: Writing Reusable Django Apps by Jacob Haslehurst'
 date: '2014-08-09'
 ---
-

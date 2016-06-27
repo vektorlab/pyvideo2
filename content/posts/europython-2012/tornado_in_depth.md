@@ -27,4 +27,3 @@ responses of our asynchronous calls, and how they work with the IOLoop.
 Websockets: how to use them and how they work. IOStream: how do Tornado’s non-
 blocking sockets work. Database: how to use non-blocking sockets to connect to
 a MySQL or MongoDB database.
-

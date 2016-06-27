@@ -10,5 +10,3 @@ ThumbnailUrl: 'http://a.images.blip.tv/CarlFK-GNUMediaGoblinForAFederatedMediaFu
 Title: 'GNU MediaGoblin for a federated media future'
 date: '2011-06-09'
 ---
-
-

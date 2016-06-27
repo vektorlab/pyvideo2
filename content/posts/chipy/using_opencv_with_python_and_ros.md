@@ -13,4 +13,3 @@ Bill Mania and Eric Kinzle A brief presentation of using the OpenCV computer
 vision toolset with Python and ROS. Included at the end will be a
 demonstration of tracking a colored object using a camera with servo-driven
 pan and tilt capability.
-

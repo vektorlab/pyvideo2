@@ -18,4 +18,3 @@ Talks about testing in Django.
 
   
 [VIDEO HAS ISSUES: audio in left channel only]
-

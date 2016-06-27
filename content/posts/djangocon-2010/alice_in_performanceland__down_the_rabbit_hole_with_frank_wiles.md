@@ -20,4 +20,3 @@ Abstract
 
 Code profiling and dealing with your database aren't the only places to find
 performance gains. Performance and scalability are holistic endeavors.
-

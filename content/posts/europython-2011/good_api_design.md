@@ -19,4 +19,3 @@ avoid them when you design your next API.
 Goals: to show you how to focus resources and attention to help avoid mistakes
 in API design. Prereqs: experience designing and developing software, esp.
 software which needs to interact w/other existing software.
-

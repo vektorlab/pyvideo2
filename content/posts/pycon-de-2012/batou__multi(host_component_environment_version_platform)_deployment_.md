@@ -41,4 +41,3 @@ Beispiel einer Deployment-Beschreibung:
 
 [https://bitbucket.org/ctheune/sprintsite](https://bitbucket.org/ctheune/sprin
 tsite)
-

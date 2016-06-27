@@ -15,4 +15,3 @@ In this tutorial we'll give you insights on how to push pypy to it's limites.
 We'll focus on understanding the performance characteristics of PyPy, and
 learning the analysis tools in order to maximize your applications
 performance.
-

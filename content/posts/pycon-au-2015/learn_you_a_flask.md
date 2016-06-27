@@ -14,5 +14,3 @@ Flask is a Python web framework that is both lightweight and powerful. With an a
 In this talk we will begin by setting up a simple Flask powered website and get it running on the Heroku PaaS. We will then demonstrate how to integrate Flask and SQLAlchemy (a powerful ORM) to allow database access and get this uploaded and working on Heroku as well.
 
 Finally we will discuss some more advanced concepts and review a number of the Flask plugins to get you started on the path to building great web-based projects.
-
-

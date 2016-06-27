@@ -22,4 +22,3 @@ The laboratory notebook assures that the complete history of all performed
 steps ("Provenance") is recorded, that results can be signed digitally, and
 that results can be archived in a secure archive to avoid and prevent legal
 issues.
-

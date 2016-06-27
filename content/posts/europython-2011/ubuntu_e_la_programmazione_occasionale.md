@@ -13,4 +13,3 @@ In questo talk, mosteremo i tool e l'infastruttura che rende molto semplice la
 creazione di progetti Python in Ubunut, e la loro distribuzione a milioni di
 utenti. Verranno mostrati vari tool: Launchpad, Quickly e i PPA (personal
 package archiving).
-

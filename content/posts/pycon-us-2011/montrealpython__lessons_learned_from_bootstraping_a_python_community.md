@@ -21,4 +21,3 @@ then go through an overview of our current activities, sharing in the process
 how effective they are in engaging the community. Our plans for the next few
 years will be presented then a summary will provide advice to anyone who would
 like to get started organizing a local Python user group.
-

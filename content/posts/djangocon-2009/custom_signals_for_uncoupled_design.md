@@ -12,4 +12,3 @@ Custom Signals for Uncoupled Design
 
   
 Presented by Bruce Kroeze
-

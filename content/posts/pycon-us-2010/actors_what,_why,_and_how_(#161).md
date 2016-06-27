@@ -32,4 +32,3 @@ for implementing an Actor system in Python.
   
 [http://bitbucket.org/fzzzy/python-actors/](http://bitbucket.org/fzzzy/python-
 actors/)
-

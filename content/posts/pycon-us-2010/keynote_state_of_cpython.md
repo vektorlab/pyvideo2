@@ -11,4 +11,3 @@ date: '2010-02-19'
 ---
 Uses the Twitter feed for PyCon and a floor mic for a Q&A; session covering
 the state of CPython and what's in the future.
-

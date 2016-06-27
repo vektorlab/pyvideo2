@@ -20,4 +20,3 @@ infine nel dettaglio, dando una occhiata al codice che abbiamo scritto. Alcune
 tecnologie/stack che tratteremo sono (in nessun ordine particolare): Flask,
 PyMongo, MongoDB, REST, JSON, XML, Heroku. Lo sapevi? Che ti piaccia o no,
 c’Ã¨ una REST API nel tuo futuro.
-

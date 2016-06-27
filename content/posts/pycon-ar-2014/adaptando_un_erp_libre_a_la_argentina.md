@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/x0bYhf2GogY/hqdefault.jpg'
 Title: 'Adaptando un ERP libre a la Argentina'
 date: '2014-12-03'
 ---
-

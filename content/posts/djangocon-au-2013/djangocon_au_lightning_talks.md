@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/FVENQOiILZo/hqdefault.jpg'
 Title: 'DjangoCon AU Lightning Talks'
 date: '2013-07-05'
 ---
-

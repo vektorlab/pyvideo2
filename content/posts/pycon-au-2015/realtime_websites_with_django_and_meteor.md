@@ -10,4 +10,3 @@ Title: 'Realtime websites with Django and Meteor'
 date: '2015-08-04'
 ---
 Create real-time websites and mobile apps that scale using Django and the Meteor JavaScript framework.  Push data changes in real-time from your servers to browsers and app users simultaneously without adding overly complex infrastructure to support the real-time updates.
-

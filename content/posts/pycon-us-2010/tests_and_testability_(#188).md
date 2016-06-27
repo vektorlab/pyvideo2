@@ -33,4 +33,3 @@ I'll discuss specific examples to demonstrate how code can be made more
 testable. Mocks, dependency injection, and crisp API design are just a few of
 the techniques that can improve your code's testability and make you a happier
 person.
-

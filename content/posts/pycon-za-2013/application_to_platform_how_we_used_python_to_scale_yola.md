@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-app-to-platform/pyconza20
 Title: 'Application To Platform: how we used Python to scale Yola'
 date: '2013-10-03'
 ---
-

@@ -27,4 +27,3 @@ bisher ein "über den Zaun werfen" gespielt wird und haben das primäre Ziel,
 alle Beteiligten gemeinsam an einem Strang ziehen zu lassen. Mit den Ideen und
 Erfahrungen aus dem Vortrag lassen sich sicher die ersten Schritte in die
 richtige Richtung einleiten.
-

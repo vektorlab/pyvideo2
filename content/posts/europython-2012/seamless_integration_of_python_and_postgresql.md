@@ -22,4 +22,3 @@ in more complex scenarios like django extra import hooks in server for loading
 python modules from caller (client) extra import hooks for importing modules
 from database loadatstartup modules for pl/python ways to scale this type of
 application by sharding (a.k.a. horisontally scaling) it using pl/proxy
-

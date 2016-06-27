@@ -21,4 +21,3 @@ Such tools have become so flexible, powerful, and universal, that it should
 also be possible for authors to write manuscripts using open source tools like
 Python in the same way that applications are developed. In this talk, we
 present some case studies of this phenomenon.
-

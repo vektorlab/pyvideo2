@@ -12,4 +12,3 @@ date: '2010-01-14'
 Chris covers how git works, the internals, and using the GitPython library.
 
 [GitPython](http://gitorious.org/git-python)
-

@@ -50,4 +50,3 @@ Alternativen,
 
 die Zukunft von PIL sowie auf weitere Tips und Kniffe in unserem Projekt
 eingehen.
-

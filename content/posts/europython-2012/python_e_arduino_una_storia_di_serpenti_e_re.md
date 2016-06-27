@@ -10,4 +10,3 @@ Title: 'Python e Arduino una storia di serpenti e re'
 date: '2012-07-06'
 ---
 None
-

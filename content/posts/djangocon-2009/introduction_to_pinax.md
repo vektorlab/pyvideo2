@@ -16,4 +16,3 @@ Presented by James Tauber and Daniel Greenfeld
   
 Walks through what Pinax is, how it's useful to you, how to install it, and
 walks through building a simple site using Pinax.
-

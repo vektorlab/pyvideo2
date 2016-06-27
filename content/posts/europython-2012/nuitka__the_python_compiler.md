@@ -39,4 +39,3 @@ contribute. As this will be the first time, Nuitka is introduced the PyCON EU
 (it was only shown on PyCON DE 2011 so far). And to celebrate that, the
 current GPLv3 license will be lifted, and replaced with Apache 2.0 license
 (ASF), which is entirely liberal.
-

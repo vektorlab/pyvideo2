@@ -14,4 +14,3 @@ Im Planungsprozess der diesjährigen PyCon DE ist ein Programmierwettbewerb für
 Die Techniken, die zur Vorbereitung eingesetzt wurden, sowie die Medien und die Python Software des Portals pymove3d.pysv.org werden dargestellt. 
 
 Das Ergebnis des Wettbewerbs und der Ausblick auf 2014 mit der Zielvorgabe diesen Wettbewerb zur Europython fortzusetzen bedarf großer Aufmerksamkeit. 
-

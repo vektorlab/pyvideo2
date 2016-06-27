@@ -10,4 +10,3 @@ Title: 'My Python''s a little Rust-y'
 date: '2015-04-11'
 ---
 Rust is a new systems programming language from Mozilla that combines strong compile-time correctness guarantees with fast performance... and it plays nice with ctypes! Come learn how you can call Rust functions from Python code and finally say goodbye to hacking C!
-

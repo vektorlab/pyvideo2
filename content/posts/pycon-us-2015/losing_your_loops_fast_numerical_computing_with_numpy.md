@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/EEUXKG97YRw/hqdefault.jpg'
 Title: 'Losing your Loops Fast Numerical Computing with NumPy'
 date: '2015-04-11'
 ---
-

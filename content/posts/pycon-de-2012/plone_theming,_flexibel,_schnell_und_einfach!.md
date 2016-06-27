@@ -23,4 +23,3 @@ müssen. Der Vortrag weist an Beispielen den Weg vom statischen Template zum
 dynamischem Plone-Theme. Schwerpunkt ist hierbei die Erzeugung der Regeln mit
 denen die Elemente des statischen Templates mit den Inhalten aus dem CMS
 verbunden werden.
-

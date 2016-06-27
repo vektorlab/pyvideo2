@@ -27,4 +27,3 @@ Threadless (and the founder of the Chicago Python Users Group), will share a
 bit about the companies history, the role of technology in supporting the
 community at the core of the business, and why Python and Threadless are going
 to be totally BFF's.
-

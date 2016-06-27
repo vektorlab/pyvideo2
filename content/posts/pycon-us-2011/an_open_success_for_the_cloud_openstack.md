@@ -23,4 +23,3 @@ commodity servers to store terabytes or even petabytes of data.
 
 This talk will go into details about the success of OpenStack with Python,
 limitations and how overall, Python was the right technology choice.
-

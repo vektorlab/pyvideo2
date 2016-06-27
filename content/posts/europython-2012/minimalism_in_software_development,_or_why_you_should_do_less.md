@@ -23,4 +23,3 @@ agile implementations with zero process overhead (yeah, right!), we still
 waste time in development, and its all our own fault. I will discuss what we
 spend our time on, why any framework should be approached with trepidation,
 and how we can do better than keep repeating the mistakes of yesteryear.
-

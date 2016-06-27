@@ -31,4 +31,3 @@ cover topics such as image analysis, machine learning, and interface design.
 There will be a demonstration.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

@@ -27,4 +27,3 @@ on code, which will be shown and discussed together with the formal theory.
 
 Basic maths skills and basic knowledge of the Python programming language are
 the only suggested prerequisites.
-

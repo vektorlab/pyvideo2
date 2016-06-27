@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/wk0b2PYJAXA/hqdefault.jpg'
 Title: 'Keynote: A divided web, a review of the role of frameworks'
 date: '2013-07-05'
 ---
-

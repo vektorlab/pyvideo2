@@ -23,4 +23,3 @@ remains difficult.
 Based on over 15 year’s experience in print and electronic publishing, this
 talk will survey problems and emerging solutions. Software and sites covered
 include LaTeX, PDF, SVG, MathJax, web-fonts, PediaPress, Sphinx and arXiv.
-

@@ -36,4 +36,3 @@ safely repeatable, even POSTs, and not a single hard-coded URL in the client.
 The encryption scheme that leaked nothing – not even modification times – but
 could quickly diff local file systems against the server. And, that one time
 that a client accidentally requested a 4.76 megabyte URL in production.
-

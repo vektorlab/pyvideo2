@@ -10,4 +10,3 @@ Title: 'Non solo Django MVC orientato ai contenuti con Plone e Zope Toolkit'
 date: '2012-07-06'
 ---
 None
-

@@ -29,4 +29,3 @@ Fundus an Bibliotheken. Das Spektrum geht dabei von einfachen Skripten über
 Test-Unterstützung und Web-Frontends bis hin zu Finanzanwendungen,
 Bildverarbeitung und zur performancekritischen Analyse gigantischer
 Datenmengen aus Tiefseesensoren und Radioteleskopen.
-

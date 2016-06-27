@@ -14,4 +14,3 @@ management system, written in Python and built on Pylons. It has an unusual
 development history: custom created for the annual Linux.conf.au conference,
 there are yearly spikes in event-focused feature development, but relatively
 little of the ongoing development typically seen in open source projects.
-

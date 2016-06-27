@@ -14,4 +14,3 @@ Presented by Russell Keith-Magee
 
 This is the sprints kickoff where Russell explains how sprints work and what
 to expect.
-

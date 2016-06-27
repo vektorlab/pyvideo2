@@ -10,4 +10,3 @@ Title: 'Talking to Browsers with CORS'
 date: '2015-08-04'
 ---
 This session will demonstrate how to break the browser's single origin policy, and permit true separability between a Python API and a browser-based client.
-

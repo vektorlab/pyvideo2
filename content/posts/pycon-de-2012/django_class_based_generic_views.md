@@ -20,4 +20,3 @@ und erlaubt nur einen groben Überblick, erst die Studie des Quellcodes
 offenbart ein tieferes Verständnis der Klassenhierarchie und Funktionsweise.
 Ziel dieses Talks ist es, durch Vermitteln der Funktionsweise eine
 Einarbeitung zu erleichtern.
-

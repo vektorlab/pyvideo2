@@ -11,4 +11,3 @@ Title: 'Keynote - David Eaves'
 Keynote - David Eaves
 
 David talks about community management in open source communities.
-

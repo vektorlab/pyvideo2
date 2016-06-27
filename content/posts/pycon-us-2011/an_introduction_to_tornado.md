@@ -40,4 +40,3 @@ Topics covered will include:
   * Websockets 
   * State of asynchronous drivers available to Tornado 
   * A light introduction to Tornado internals 
-

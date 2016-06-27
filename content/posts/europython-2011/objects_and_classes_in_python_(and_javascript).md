@@ -43,4 +43,3 @@ This tutorial is for Intermediate or Advanced Python programmers. (Beginners
 will find it very hard going.) The aim of the course is to explain exactly
 what happens when a class in constructed, and to learn ways of using this
 knowledge.
-

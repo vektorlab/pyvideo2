@@ -14,4 +14,3 @@ create a simple declarative API so that you can *say what you mean* - write
 code that focuses on the what and the why without being cluttered by the how.
 If you've ever wondered how the Django ORM or SQLObject work their magic, this
 is the talk for you.
-

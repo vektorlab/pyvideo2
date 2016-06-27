@@ -14,4 +14,3 @@ objects. Using personal machines that are controlled via software, a live
 demonstration of CNC milling and 3D printing will also be performed. This talk
 is a walkthrough from 3D models to machine motion, that shows how we can use
 Python to write GCODE generators that create endless form.
-

@@ -19,4 +19,3 @@ performante e leggero. Il task mostrera’ come usare entrambi per costruire una
 infrastruttura per il deployment di applicazioni WSGI per voi, i vostri
 collaboratori e i vostri clienti, tenendo i costi hardware (e umani) al minimo
 sindacale
-

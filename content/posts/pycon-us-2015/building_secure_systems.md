@@ -10,4 +10,3 @@ Title: 'Building secure systems'
 date: '2015-04-11'
 ---
 How do you build secure software? Why do we see bad security track records in projects that otherwise seem to tick all the right engineering boxes? Why is communicating about security issues so painful? More importantly: how can we do all of these things better?
-

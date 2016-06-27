@@ -48,4 +48,3 @@ another, but they must be proficient with at least one.
 
 Though this talk is aimed at a novice level, we'll also spend some time
 talking about the more advanced features that Hookbox provides.
-

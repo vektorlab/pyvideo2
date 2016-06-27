@@ -17,4 +17,3 @@ python. Plone is in demand for security, simple UI and extreme flexibility.
 This talk will concentrate on helping web programers with several common
 customisations of Plone, including content type creation, themeing and
 template customizations and how the re-architecture using ZTK makes this easy.
-

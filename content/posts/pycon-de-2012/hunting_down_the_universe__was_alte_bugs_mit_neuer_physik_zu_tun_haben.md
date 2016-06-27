@@ -17,4 +17,3 @@ einphysikalisches, sondern auch ein soziologisches Experiment? Und was hat
 schlussendlich die Suche nach neuen Teilchen mit Python und der Suche nach
 Bugs zu tun? Diese Keynote wird versuchen, diese und andere Fragen zu
 beleuchten.
-

@@ -10,4 +10,3 @@ Title: 'Recruiting session'
 date: '2012-07-04'
 ---
 [EuroPython 2012] - 2 JULY 2012 "Track Spaghetti"
-

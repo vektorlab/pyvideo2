@@ -16,4 +16,3 @@ MicroPython (http://www.micropython.org/) is a very active port of Python 3 to l
 Learn how to set up a very cheap microcontroller with wifi and a range of I/O and then program it with MicroPython.
 
 The live demos are guaranteed to fail in spectacular ways as all live demos do, but will hopefully show enough blinking lights to tempt you to leave your i7 hyperthreaded clusters and join the cute but very practical world of cheap, embedded Python.
-

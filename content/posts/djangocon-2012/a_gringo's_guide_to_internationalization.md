@@ -66,4 +66,3 @@ completely translated.
     1. In the vein of the "Django Sucks" Key note. It doesn't really, but it could use some changes--from minor to major.
     2. Why .po Files are archaic and limited.
     3. What we can do to improve for 1.5 and beyond.
-

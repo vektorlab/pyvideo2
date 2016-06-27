@@ -16,4 +16,3 @@ practical application: mobile web testing. To trust that your mobile app truly
 works, you need an end-to-end test on the actual device. BitbeamBot is an
 Arduino-powered open-source hardware CNC robot that can test any application
 on any mobile device.
-

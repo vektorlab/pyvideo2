@@ -17,4 +17,3 @@ twiggy.googlecode.com).
 
 See the notes for a quick overview [http://pythontwiggy.googlecode.com/hg/note
 s.html](http://pythontwiggy.googlecode.com/hg/notes.html).
-

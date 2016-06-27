@@ -24,4 +24,3 @@ the io module are covered, explaining when and how these can make life easier.
 Finally a quick look at how non-blocking sockets can be used and how libraries
 like asyncore/asynchat, twisted, eventlet and gevent all approach non-blocking
 I/O in their own way.
-

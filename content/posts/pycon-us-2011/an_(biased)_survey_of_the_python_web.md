@@ -40,4 +40,3 @@ up dynamic content to hundreds of millions of users.
 But it hasn't all been good either, there's more fragmentation than ever.
 We've also got more half finished libraries, and broken framework extensions,
 and abandoned projects littering up the landscape.
-

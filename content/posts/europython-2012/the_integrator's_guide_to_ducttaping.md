@@ -18,4 +18,3 @@ identify them and asses their complexity: those hiding the most dangerous
 pitfalls will be examined in detail, and methodologies and best practices to
 avoid them will be exposed, with a special care put into considerations about
 security and scalability.
-

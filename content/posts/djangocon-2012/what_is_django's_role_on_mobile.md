@@ -42,4 +42,3 @@ date: '2012-09-05'
   * Even today Django proves useful as an API layer
   * Django web apps in native wrapper can be a solution, albeit with its issues
   * As hardware gets better, we may see something like an embedded Django
-

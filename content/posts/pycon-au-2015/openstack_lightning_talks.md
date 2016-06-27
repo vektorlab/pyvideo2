@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/eox2gqRlqZU/hqdefault.jpg'
 Title: 'OpenStack Lightning Talks'
 date: '2015-08-04'
 ---
-

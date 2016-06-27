@@ -24,4 +24,3 @@ scalability.
   
 For details on PubSubHubbub and the Hub's source code, see [http://code.google
 .com/p/pubsubhubbub/](http://code.google.com/p/pubsubhubbub/).
-

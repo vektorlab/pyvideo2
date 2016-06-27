@@ -10,4 +10,3 @@ Title: 'What can programmers learn from pilots?'
 date: '2015-04-11'
 ---
 What can Python-based software teams learn from aviation? Why should software always fail hard? What's wrong with too many error logs? And why are ops people already like pilots? Learn all this, and about planes, too.
-

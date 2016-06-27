@@ -10,4 +10,3 @@ Title: 'Keynote: Audrey Roy'
 date: '2011-08-22'
 ---
 Keynote presentation
-

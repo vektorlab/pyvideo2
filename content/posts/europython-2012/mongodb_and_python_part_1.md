@@ -15,4 +15,3 @@ MongoEngine to write maintainable, high-performance, and scalable
 applications. We will cover everything you need to become an effective
 MongoEngine/MongoDB developer from basic PyMongo queries to high-level object-
 document mapping setups in MongoEngine.
-

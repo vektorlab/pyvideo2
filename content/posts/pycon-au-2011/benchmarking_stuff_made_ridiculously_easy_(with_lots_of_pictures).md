@@ -15,4 +15,3 @@ decorator. With all the options turned on, this will produce a a performance
 history, tracked by revision, integrated with the software used to produce the
 benchmarking graphs as used on&nbsp_place_holder;http://speed.pypy.org/. You
 too can have this kind of shinyness for (almost) free!.
-

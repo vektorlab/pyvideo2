@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/6aSKs4_WdkI/hqdefault.jpg'
 Title: 'OpenStack Miniconf Opening'
 date: '2015-08-04'
 ---
-

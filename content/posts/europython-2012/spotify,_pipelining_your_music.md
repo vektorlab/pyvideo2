@@ -17,4 +17,3 @@ all the way from the labels, who deliver music and metadata XML to our system,
 to the clients. Problems here are the concurrency, massive amount of data,
 enriching the metadata to provide better quality and to actually deliver 100
 gigabytes of indexes daily.
-

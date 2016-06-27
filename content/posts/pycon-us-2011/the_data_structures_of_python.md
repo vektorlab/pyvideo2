@@ -74,4 +74,3 @@ them.
       * Mutable 
       * Implemented as a set with a doubly-linked list running through it. 
   * Questions (5 minutes) 
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/VM0G-3jiBA0/hqdefault.jpg'
 Title: 'Django MiniConf: How to be helped; or, Why is FunkyBob angry with me?'
 date: '2014-08-07'
 ---
-

@@ -67,4 +67,3 @@ virtual machines before the class.
 
 [http://us.pycon.org/2010/tutorials/kaplanmoss_django/](http://us.pycon.org/20
 10/tutorials/kaplanmoss_django)
-

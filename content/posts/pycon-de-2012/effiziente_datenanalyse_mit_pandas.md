@@ -27,4 +27,3 @@ indem z.B. viele Eigenschaften und Features der statistischen Sprache R in die
 Python-Welt portiert werden. Es ist dabei kein Ersatz für Standard-
 Bibliotheken wie NumPy, sondern eine nützliche Erweiterung mit viel
 "eingebauter Intelligenz" für die Datenanalyse.
-

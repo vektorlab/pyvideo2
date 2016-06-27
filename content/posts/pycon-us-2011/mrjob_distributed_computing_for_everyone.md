@@ -52,4 +52,3 @@ Useful links:
   * Documentation: [http://packages.python.org/mrjob/](http://packages.python.org/mrjob/)
   * PyPI: [http://pypi.python.org/pypi/mrjob](http://pypi.python.org/pypi/mrjob)
   * Development is hosted at github: [http://github.com/Yelp/mrjob](http://github.com/Yelp/mrjob)
-

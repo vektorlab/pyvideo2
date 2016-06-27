@@ -18,5 +18,3 @@ This talk will review a couple of the most popular graph databases including Neo
 At the end of the talk, you will have an idea of what it takes to get started with Graph Databases in Python, and also an idea of which toolset you want to use. You’ll also have an idea of the sorts of problems which map well to graph databases, and which ones may be better suited to other storage and processing methods. 
 
 You won’t need to have a background in graphs or even a lot of Python experience to get through this talk. However, it’s always good to have a potential application in mind.
-
-

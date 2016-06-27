@@ -15,4 +15,3 @@ Presented by Tracy Osborn
 Django gives you the tools to start a successful web app even if you're new to
 development. Learn how to build and launch a web startup while avoiding common
 pitfalls and problems.
-

@@ -31,4 +31,3 @@ protocols, as well as developers with a general interest in code as
 specification. This is not a presentation of a framework for use in any
 application (although code is available), but an in-depth look at how far you
 can go with custom-built tools.
-

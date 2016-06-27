@@ -11,4 +11,3 @@ date: '2012-03-09'
 ---
 Practice iterative development like the pros. Release sooner, faster, and more
 often.
-

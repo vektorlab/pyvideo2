@@ -24,4 +24,3 @@ Slides:
 
   
 [VIDEO HAS PROBLEMS: audio is fuzzy]
-

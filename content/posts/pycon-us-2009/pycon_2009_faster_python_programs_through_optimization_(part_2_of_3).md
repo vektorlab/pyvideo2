@@ -16,4 +16,3 @@ techniques to implement them. Another of the objectives of this course is to
 give participants the ability to decide what might be the optimal solution for
 a certain performance problem. Participants are strongly recommended to bring
 laptops because all techniques are introduced with examples and exercises.
-

@@ -31,4 +31,3 @@ Class Outline
 Requirements
 
 Students should have their own computer with Python 2.6 installed
-

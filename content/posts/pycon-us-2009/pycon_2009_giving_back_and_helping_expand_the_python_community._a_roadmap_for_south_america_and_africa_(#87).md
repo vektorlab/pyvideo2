@@ -14,4 +14,3 @@ For many of us, Python has dramatically changed our professional life: Open
 Source, technologies that get the job done, and let you learn and improve
 every day, a friendly and mature community, etc. Python is important! For
 learning, for science, for business, and for progress in general.
-

@@ -27,4 +27,3 @@ erweitern.
 Viele bekannte Open Source Projekte und Firmen setzen Mercurial ein. So zum
 Beispiel Atlassian, Dovecot, Gajim, Google, Facebook, Mozilla, OpenOffice,
 OpenSolaris, Python, PyPy, RabbitMQ, Unity, Vim oder Xen.
-

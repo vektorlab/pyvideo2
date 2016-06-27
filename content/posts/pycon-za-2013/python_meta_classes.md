@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-meta-classes/pyconza2013-
 Title: 'Python meta classes'
 date: '2013-10-03'
 ---
-

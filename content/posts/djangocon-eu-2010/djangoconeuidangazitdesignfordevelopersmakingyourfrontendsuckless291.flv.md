@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: 'Djangoconeu-IdanGazitDesignForDevelopersMakingYourFrontendSuckLess291.flv'
 ---
-

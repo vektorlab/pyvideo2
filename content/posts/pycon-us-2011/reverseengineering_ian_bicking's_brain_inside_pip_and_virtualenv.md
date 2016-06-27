@@ -35,4 +35,3 @@ walk through the creation of a virtualenv step-by-step, and trace a typical
 they follow.
 
 I'll know the talk was a success when I see the pull requests!
-

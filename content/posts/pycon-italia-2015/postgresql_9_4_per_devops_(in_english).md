@@ -15,4 +15,3 @@ Discover the new features introduced in PostgreSQL 9.4, classified from a devops
 logical streaming replication, the foundation of bi-directional and multi-master replication
 JSONB data type support, dedicated to NoSQL lovers!
 concurrent refresh of materialised views, dedicated to data warehouse fans!
-

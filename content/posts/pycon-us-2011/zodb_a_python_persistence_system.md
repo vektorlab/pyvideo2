@@ -43,4 +43,3 @@ intermediate Python programmer. The talk will cover the following topics:
 
 At the end of the talk, an attendee should have a basic understanding of how
 to create an application which depends on ZODB persistence.
-

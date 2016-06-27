@@ -17,4 +17,3 @@ Airship. It will cover the process that allows us to automate our deployments,
 making it safe to deploy at any time. It's built on Fabric, Gunicorn,
 Virtualenv, Rsync, Supervisord, and Python. We end up with fully isolated
 environments for our services that are easy to manage.
-

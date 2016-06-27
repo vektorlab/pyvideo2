@@ -22,4 +22,3 @@ bytecode to do useful work.
 Having seen all these details you should have a good idea of the various
 innards of CPython and how to manipulate these to create weird, wonderful,
 dangerous and occasional useful hacks.
-

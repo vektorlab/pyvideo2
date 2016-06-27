@@ -11,4 +11,3 @@ date: '2010-01-14'
 ---
 It's a very educational presentation of Unicode, what it is, where it comes
 from, how it works, Unicode in Python, ....
-

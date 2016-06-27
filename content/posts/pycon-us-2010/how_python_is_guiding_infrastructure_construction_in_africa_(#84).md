@@ -24,4 +24,3 @@ connecting households in villages into a single, streamlined planning
 experience. I'll explain how Python's freely available libraries empowered a
 small team of developers under a minimal budget and timeframe. Now just
 imagine if we had to do the same thing with Java.
-

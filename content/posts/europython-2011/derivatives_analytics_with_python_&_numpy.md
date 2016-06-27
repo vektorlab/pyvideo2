@@ -26,4 +26,3 @@ The talk shows that the Python/Numpy combination reaches sufficient speed for
 productive financial applications - something still widely doubted.
 
 [No prerequisites.]
-

@@ -44,4 +44,3 @@ IronPython?, PyPy? Unladen Swallow?).
 
 We will end with some real-world advice and some gotchas to watch out for
 (32-bit vs. 64-bit, different versions of Python serialize differently, etc.).
-

@@ -19,4 +19,3 @@ learning and information management techniques; substances and exercises to
 tune your brains operating system. There will be expeditions into results from
 brain research. A critical judgement, pointing out snake oil and stuff that
 worked.
-

@@ -18,4 +18,3 @@ Presented by Wesley J. Chun
 This talk is about the evolution of Python. We will discuss Python 2 and
 Python 3: what the compatibility issues are, what the main differences are,
 and also talk about migration, Python 2.6, and other transition tools.
-

@@ -27,4 +27,3 @@ If an extreme talk, I will talk about interesting details/issues in:
   1. Python as the backbone for a non-SciPy scientific software package: using Python as a frontend to C++ code, esp for parallelization and testing purposes. 
   2. Implementing probabilistic data structures with one-sided error as pre-filters for data retrieval and analysis, in ways that are generally useful. 
   3. Efficiently breaking down certain types of sparse graph problems using these probabilistic data structures, so that large graphs can be analyzed straightforwardly. This will be applied to plagiarism detection and/or duplicate code detection. 
-

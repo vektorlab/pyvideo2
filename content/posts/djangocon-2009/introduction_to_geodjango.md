@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://a.images.blip.tv/Robertlofthouse-IntroductionToGeoDjango14
 Title: 'Introduction to GeoDjango'
 date: '2013-05-17'
 ---
-

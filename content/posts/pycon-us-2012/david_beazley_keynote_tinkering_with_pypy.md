@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://img.youtube.com/vi/l_HBRhcgeuQ/hqdefault.jpg'
 Title: 'David Beazley Keynote: Tinkering with PyPy'
 date: '2012-03-10'
 ---
-

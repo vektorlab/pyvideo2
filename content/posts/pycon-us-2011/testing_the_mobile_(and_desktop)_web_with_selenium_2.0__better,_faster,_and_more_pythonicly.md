@@ -92,4 +92,3 @@ Talk outline:
   * How to test Android apps 
   * How to test iPhone apps 
   * Selenium development roadmap 
-

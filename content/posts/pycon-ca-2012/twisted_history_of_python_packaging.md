@@ -11,4 +11,3 @@ date: '2012-11-10'
 ---
 Python Packaging has had a more than less than ideal evolution. This talk aims
 to clarify this evolution and where packaging is headed in the future.
-

@@ -19,4 +19,3 @@ oriented programming. We then focus on Python's treatment of object
 orientation. The tutorial will be organized as a mix of formal presentations
 together with hands-on demonstrations and exercises. Take your Python
 programming to the next level!
-

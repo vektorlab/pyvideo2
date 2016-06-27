@@ -14,4 +14,3 @@ date: '2012-03-10'
 similar to awk or sed, but which uses standard python string and list methods
 as well as custom functions evolved to generate fast results in an intense
 production environment.
-

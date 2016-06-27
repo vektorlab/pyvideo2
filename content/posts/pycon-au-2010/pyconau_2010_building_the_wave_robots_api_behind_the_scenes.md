@@ -19,4 +19,3 @@ service, allowing developers to interact with waves using event callbacks,
 python classes, and chained functions. In this talk, we'll explain the JSON-
 RPC protocol, talk about how we designed the API to sit on top of that
 protocol, and show how developers can use the API.
-

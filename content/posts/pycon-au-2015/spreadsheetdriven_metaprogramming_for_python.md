@@ -43,5 +43,3 @@ Requirements:
 
 - Attendees are expected to know basic Python (see above, under "Level").
 - A laptop and some knowledge of git will be useful for those wanting to follow along, but is not required. You can get a lot out of this tutorial just by watching and paying attention.
-
-

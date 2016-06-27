@@ -17,4 +17,3 @@ to speed up your Python, integrate with legacy code, contribute to Python's
 core, or just learn a little about how it all works under the covers, you will
 enjoy this trip through unfamiliar territory. I guarantee you will return
 safely.
-

@@ -23,4 +23,3 @@ experience designing a web application that can scale up to meet the demands
 of a rapidly growing customer base. The talk will cover a variety of topics
 including TurboGears 2.0, WSGI, horizontal and vertical scaling, database
 replication, load balancing, deployment, and more.
-

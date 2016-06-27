@@ -24,4 +24,3 @@ TBA hopefully to include a relevant example possibly a python implementation
 of graphviz.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

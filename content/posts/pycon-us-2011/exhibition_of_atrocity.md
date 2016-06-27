@@ -42,4 +42,3 @@ terrors as:
   * New and Creative Ways to Break the Build 
 
 ...as well as others as time permits.
-

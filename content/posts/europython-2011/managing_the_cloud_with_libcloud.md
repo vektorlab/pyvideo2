@@ -23,4 +23,3 @@ This talk will address the following topics:
   * How to use it to build something useful and fun
   * How to participate and contribute
   * Roadmap and plans for the future
-

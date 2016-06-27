@@ -20,4 +20,3 @@ I'll share those best practices and their motivations. We'll also go over a
 number of tools, settings, and even some fairly new web standard proposals
 (with tools, of course) to help you build the most secure Django applications
 you can, at whatever scale you're building.
-

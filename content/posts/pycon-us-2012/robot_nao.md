@@ -9,5 +9,3 @@ ThumbnailUrl: 'http://img.youtube.com/vi/dJJDndQrsSw/hqdefault.jpg'
 Title: 'Robot NAO'
 date: '2012-03-11'
 ---
-
-

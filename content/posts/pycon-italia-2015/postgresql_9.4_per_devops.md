@@ -15,4 +15,3 @@ Scopri le novità introdotte nella versione 9.4 di PostgreSQL, opportunamente cl
 replica logica in streaming, il primo passo per replica bidirezionale e multi-master
 supporto per il tipo di dato JSONB, per la felicità degli amanti dei database NoSQL
 refresh concorrente di viste materializzate, per gli amanti dei data warehouse
-

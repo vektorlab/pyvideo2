@@ -14,4 +14,3 @@ and how Python has always been a big part of our success. Where do we use it?
 Where do we not use it? Learn about the Unix way and the Debian way of
 maintaining a healthy love for Python, while two-timing with other languages
 such as Java and C++.
-

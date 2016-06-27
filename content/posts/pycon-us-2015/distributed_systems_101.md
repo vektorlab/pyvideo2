@@ -10,4 +10,3 @@ Title: 'Distributed Systems 101'
 date: '2015-04-11'
 ---
 A very brief introduction to the theory and practice of distributed systems.
-

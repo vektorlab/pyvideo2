@@ -17,4 +17,3 @@ talking about how I increased womenâ??s engagement in the Python community
 though demonstrating how versatile the language is with practical projects, by
 creating a safe space for women to learn and to fail, and by encouraging
 involvement beyond the classroom.
-

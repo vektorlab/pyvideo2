@@ -14,4 +14,3 @@ Topics to be covered include engaging and negotiating with the publisher, the di
 
 The book on Amazon:
 http://www.amazon.com/Python-For-Kids-Dummies/dp/1119093104
-

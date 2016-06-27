@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/UKY3scPIMd8/hqdefault.jpg'
 Title: 'Having Fun with Recommender Systems'
 date: '2015-05-29'
 ---
-

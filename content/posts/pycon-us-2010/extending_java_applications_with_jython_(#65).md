@@ -22,4 +22,3 @@ cover some Java specific deployment options, such as deploying your Jython
 application as a jar file. Jar files allow you to package Java/Jython
 applications into a single archive. In many environments a user can click on a
 jar file to launch the contained application.
-

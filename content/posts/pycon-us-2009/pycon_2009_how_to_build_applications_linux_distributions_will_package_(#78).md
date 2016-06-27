@@ -16,4 +16,3 @@ installing your software is to convince Linux distributions to package your
 software so that their end users can install by using the system tools they're
 used to. One way of convincing them is by making your application easy to
 package.
-

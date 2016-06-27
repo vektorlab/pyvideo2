@@ -20,4 +20,3 @@ In this talk I will present how and where we use Python (Django, Twisted,
 txamqp, Piston, …), different problems we have encountered while building our
 service and how we worked around them, good practices and real-world advices
 on building effective Twisted services and much more.
-

@@ -33,4 +33,3 @@ sviluppiamo altre applicazioni (es.: Django, OpenERP,… ).
 Per rendere la presentazione più graduale, sfrutteremo il sistema di
 configurazione di sqledit Partendo da una configurazione minima -un URL-
 aggiungeremo elementi fino ad ottenere una vera applicazione.
-

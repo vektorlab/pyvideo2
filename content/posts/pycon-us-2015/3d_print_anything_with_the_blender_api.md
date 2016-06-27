@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/ikcHP0Hd8Kc/hqdefault.jpg'
 Title: '3D Print Anything with the Blender API'
 date: '2015-04-11'
 ---
-

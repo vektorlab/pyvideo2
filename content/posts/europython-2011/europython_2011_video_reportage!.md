@@ -10,4 +10,3 @@ Title: 'EuroPython 2011: Video Reportage!'
 date: '2011-08-11'
 ---
 Montage of EuroPython 2011.
-

@@ -20,4 +20,3 @@ well. In this talk we will show just how similar Git and Mercurial are, look
 at some of their technical differences, and see how they can work together by
 looking at hg-git, the bidirectional Git/Mercurial bridge, implemented in
 Python.
-

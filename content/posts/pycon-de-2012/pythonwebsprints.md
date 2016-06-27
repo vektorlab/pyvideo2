@@ -22,4 +22,3 @@ Konzept der Sprint-Reihe vor und gehen auch die Ergebnisse der bisherigen
 Sprints ein. Die Themen der bisherigen Sprints waren: PyPI-Mirroring und
 Performance-Optimierungen, Sicherheit und Datenschutz bei Web-Anwendungen
 sowie Betrieb und Deployment von Python-Webanwendungen.
-

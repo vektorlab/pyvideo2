@@ -10,4 +10,3 @@ Title: 'Your Brain''s API: Giving and Getting Technical Help'
 date: '2015-04-12'
 ---
 Software engineers are never done learning since our field is always changing. We are always beginners at some things and experts at others. Along the way from beginner to expert we have to ask a lot of questions, but it can be hard to get help. This talk gives concrete tools to help you ask with confidence, and highlights common expert mistakes that inadvertently make people feel foolish. 
-

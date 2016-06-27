@@ -20,4 +20,3 @@ For example, wouldn't it be cool to have "virtualenv" implemented inside your pa
 We'll also show what benefits do we get by using the same tool for development and deployment and how little we have to do to deploy our application.
 
 To see how Haskell community is touching the same subject, see blog post http://ocharles.org.uk/blog/posts/2014-02-04-how-i-develop-with-nixos.html
-

@@ -15,4 +15,3 @@ Presented by Frank Wiles at DjangoCon 2009
 
   
 Talks about performance tuning with PostgresSQL.
-

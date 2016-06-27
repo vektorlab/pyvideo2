@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: '0_integrating-the-enterprise-using-django.m4v'
 ---
-

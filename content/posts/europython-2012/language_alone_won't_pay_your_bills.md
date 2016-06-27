@@ -24,4 +24,3 @@ does it still stand strong in some fields? We’ll explore where Python already
 works well and where it falls beyond others, not just in terms of language
 beauty, but in terms of tools and team productivity. We won’t be able to go
 really deep into each aspect since time is limited, but questions are welcome.
-

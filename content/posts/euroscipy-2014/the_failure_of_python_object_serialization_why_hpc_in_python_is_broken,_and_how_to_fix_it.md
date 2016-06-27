@@ -49,4 +49,3 @@ http://stackoverflow.com/questions/19984152/what-can-multiprocessing-and-dill-do
 https://groups.google.com/forum/#!topic/mpi4py/1fd4FwdgpWY
 
 http://nbviewer.ipython.org/gist/anonymous/5241793
-

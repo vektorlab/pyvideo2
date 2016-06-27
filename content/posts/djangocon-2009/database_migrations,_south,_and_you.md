@@ -18,4 +18,3 @@ Talks about south which makes it easier to do database migrations.
 
   
 [VIDEO HAS ISSUES: audio tends towards left speaker]
-

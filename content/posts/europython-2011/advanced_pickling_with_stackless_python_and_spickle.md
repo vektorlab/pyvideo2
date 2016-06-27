@@ -28,4 +28,3 @@ Extending the Pickler showed to be like opening a can of worms. You have take
 care of many odds and ends to get it right. I'll point out some weak points in
 the implementation of the conventional pickling code and I'll also show the
 limits of the current sPickle implementation.
-

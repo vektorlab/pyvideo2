@@ -21,4 +21,3 @@ Il talk si rivolge a tutti gli sviluppatori di applicazioni web che sono alla
 ricerca di un ambiente robusto e veloce per i propri lavori, o a chi gia'
 utilizza uWSGI e vuole conoscere qualcuna delle nuove funzionalita' introdotte
 nel ramo di sviluppo.
-

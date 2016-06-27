@@ -35,4 +35,3 @@ it through our peer review process, our automated test system takes over:
 I'll explain the various steps, showing how it works and attempt to
 demonstrate it (Murphy's law permitting), and then I'll speak about the
 benefits we've gotten from PPA's and working closely with Ubuntu.
-

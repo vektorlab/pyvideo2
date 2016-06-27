@@ -52,4 +52,3 @@ Finding the right data, decoding it, transforming it to be ready for use are
 necessary steps to initiate the pre-processing. All these actions are
 fundamentally the same between different prediction centres, but the data
 organisation and file formats can differ.
-

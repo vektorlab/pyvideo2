@@ -13,4 +13,3 @@ date: '2010-07-08'
   * Non-blocking network programming.
   * The confusing topic of deferreds and callbacks everywhere.
   * Methods for dealing with blocking APIs.
-

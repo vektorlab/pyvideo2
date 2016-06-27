@@ -12,4 +12,3 @@ date: '2012-03-10'
 `time`, `datetime`, and `calendar` from the standard library are a bit messy.
 Find out what to use where and how (particularly when you have users in many
 timezones), and what extra modules you might want to look into.
-

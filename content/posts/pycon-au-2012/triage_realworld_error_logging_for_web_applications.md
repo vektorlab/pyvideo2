@@ -15,4 +15,3 @@ Triage is designed to ingest errors in a language agnostic way. We describe
 our path from simpler logging techniques which we outgrew, the new workflows
 around error management which it allows, and some challenges we faced along
 the way.
-

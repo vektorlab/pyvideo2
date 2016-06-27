@@ -41,4 +41,3 @@ The primary implementation language for all of this work is Python 3.
 Throughout the talk, I will mention interesting Python 3 programming idioms
 along with pros and cons. I'll conclude by summarizing my experience trying to
 build a significant project entirely in Python 3.
-

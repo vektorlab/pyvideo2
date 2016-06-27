@@ -37,4 +37,3 @@ laptop, the inexpensive low-powered sub-notebook distributed as part of the
 One Laptop Per Child (OLPC) initiative.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

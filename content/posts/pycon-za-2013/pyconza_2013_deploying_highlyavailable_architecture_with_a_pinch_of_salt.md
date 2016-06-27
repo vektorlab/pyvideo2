@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-pinch-of-salt/pyconza2013
 Title: 'PyConZA 2013: Deploying Highly-Available Architecture with a Pinch of Salt'
 date: '2013-10-03'
 ---
-

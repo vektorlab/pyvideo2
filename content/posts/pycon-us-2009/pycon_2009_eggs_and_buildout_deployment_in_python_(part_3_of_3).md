@@ -19,4 +19,3 @@ rigorously control assembly specifications, with build recipes, versioning and
 dependency management. We'll close by showing how to create your own recipes.
 Attendees are strongly encouraged to bring a laptop or partner with someone
 who does.
-

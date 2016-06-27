@@ -13,4 +13,3 @@ Datums! Coordinate systems! Map projections! Topologies! Spatial applications
 are a nebulous, daunting concept to most Pythonistas. This talk is a gentle
 introduction into the concepts, terminology and tools to demystify the world
 of the world.
-

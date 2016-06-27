@@ -32,4 +32,3 @@ with potential Python candidates. Attendees will take away a specific set of
 guidelines for mastering the non-technical aspects of the recruiting process.
 
 [VIDEO HAS ISSUES: There are problems with the audio for the first 5 minutes.]
-

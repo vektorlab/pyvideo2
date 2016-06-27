@@ -13,4 +13,3 @@ We will show the tools and the infrastructure that makes easy creating own
 python project in Ubuntu and distributing it to millions of users. It will be
 shown several tools: Launchpad, Quickly and and the Ubuntu's PPA (personal
 package archiving).
-

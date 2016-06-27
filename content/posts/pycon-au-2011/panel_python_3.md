@@ -12,4 +12,3 @@ date: '2011-08-23'
 This is a panel discussion in which Nick Coghlan, Raymond Hettinger and
 Richard Jones discuss the state of Python 3, some of the new features, the 3rd
 party adoption, migration strategies and open to the floor for questions.
-

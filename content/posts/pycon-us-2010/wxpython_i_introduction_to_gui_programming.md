@@ -18,4 +18,3 @@ multiple platforms, including Linux, Windows, and Mac OS X. By the end of this
 tutorial, attendees will have built a simple form-based application from
 scratch using wxPython. We will build the application step by step, discussing
 the choices and rationale as we go.
-

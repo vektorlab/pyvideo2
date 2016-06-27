@@ -29,4 +29,3 @@ threads or message passing.
 
   
 [VIDEO HAS ISSUES: bit of clipping start to finish.]
-

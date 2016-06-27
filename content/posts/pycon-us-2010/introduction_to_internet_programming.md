@@ -57,4 +57,3 @@ teaching, and writing experience, including more than a decade of Python.
 While at Yahoo!, he helped create Yahoo! Mail and Yahoo! People Search using
 Python. He holds degrees in Computer Science, Mathematics, and Music from the
 University of California.
-

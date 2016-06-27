@@ -25,4 +25,3 @@ abgebildet werden können.
 
 Die Beispiele können auch für die Entwicklung eigener Plugins herangezogen
 werden.
-

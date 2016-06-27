@@ -29,4 +29,3 @@ Sunday Afternoon Lightning Talks
   * 1:04:50 Brandon Rhodes - Adventure in Python 
   * 1:10:20 Whit Morriss - Sharing is caring, FOSS and Python at SurveyMonkey 
   * 1:15:25 Kumar McMillan - Fudging it with Mock Objects ([farmdev.com/projects/fudge/](http://farmdev.com/projects/fudge/)) 
-

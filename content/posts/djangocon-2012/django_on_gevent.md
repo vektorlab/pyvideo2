@@ -24,4 +24,3 @@ simple realtime collaboration app that uses websockets for communication. I
 will show how to integrate ZeroMQ to allow the app to scale beyond a single
 server. I will also show how to attach to and monitor your web app using
 gevent.backdoor.
-

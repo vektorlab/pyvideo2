@@ -13,4 +13,3 @@ With 2.7 likely being the end of the 2.x line, come see what's in store for
 the upcoming release. Changes to unittest, introduction of the argparse
 module, and a whole host of 3.1 features are here to ease your eventual
 transition into the wonderful world of Python 3.
-

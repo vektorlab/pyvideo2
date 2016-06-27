@@ -14,4 +14,3 @@ Say you have this piece of software that many people use. One day, you wake up a
 In this talk, I’ll walk you through very good ways to do so by showing examples taken from experience - because experience is the only thing that matters (TM) - so that you’ll be able, by the time this talk ends, to do the same to your users.
 
 (P.S: If you’ve a kinder hearth, you can also do the exact opposite of what I’ll say and keep your users happy.)
-

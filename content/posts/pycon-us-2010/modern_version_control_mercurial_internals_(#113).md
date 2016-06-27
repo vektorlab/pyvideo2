@@ -18,4 +18,3 @@ beginner-level talk on DVCS or hg; it aims to be a higher-level discussion of
 the concepts employed in Mercurial. After having discussed these, I'd also
 like to compare Mercurial and git based on UI, performance and underlying
 concepts.
-

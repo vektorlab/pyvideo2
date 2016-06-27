@@ -30,4 +30,3 @@ threads with eventlet. This leads to much greater code reuse and programmer
 efficiency.
 
 [http://www.eventlet.net/](http://www.eventlet.net/)
-

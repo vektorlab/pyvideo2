@@ -10,4 +10,3 @@ Title: 'Keynote: Ways that we (as professional or hobby programmers) can be more
   effective learners'
 date: '2015-09-06'
 ---
-

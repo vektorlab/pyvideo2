@@ -36,4 +36,3 @@ application. We'll then move on to the second part of the talk, demonstrating
 TUF, its internals, and the mechanisms it uses to additionally defend against
 key compromise. Finally, we'll demonstrate how easy it is to integrate TUF
 into your application and its lifecycle.
-

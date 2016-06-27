@@ -24,4 +24,3 @@ No prior experience with Oracle is required, some basic understanding of
 databases would be helpful.
 
 Look forward to meeting you @ EuroPython 2011 - Todd
-

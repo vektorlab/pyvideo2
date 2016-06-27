@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/Bll3rjVpyCQ/hqdefault.jpg'
 Title: 'Lightning Talks Day 1'
 date: '2011-10-05'
 ---
-

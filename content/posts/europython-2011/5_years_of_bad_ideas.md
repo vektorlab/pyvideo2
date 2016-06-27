@@ -21,4 +21,3 @@ is about and that a lot of what I did was interesting but not necessarily a
 good idea. This talk is a 45 minute recompilation of things I really shouldn't
 have done in the first place. Expect a bunch of neat and interesting hacks
 that showcase the possibilities of the language.
-

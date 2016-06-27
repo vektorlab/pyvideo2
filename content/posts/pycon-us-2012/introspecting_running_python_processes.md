@@ -14,4 +14,3 @@ maintaining a high performance, stable system, but conventional approaches
 such as logging and error handling only expose so much. This talk will touch
 on how to instrument Python programs in order to observe the state of the
 system, measure performance, and identify ongoing problems.
-

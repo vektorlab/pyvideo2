@@ -40,4 +40,3 @@ include:
 Questions are very welcome as this is a very broad topic.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

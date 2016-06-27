@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: 'Djangoconeu-JoergKressRedSquareDrivingInnovationAtBMWWithDjango763.flv'
 ---
-

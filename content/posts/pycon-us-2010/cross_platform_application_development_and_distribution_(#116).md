@@ -29,4 +29,3 @@ start if you want to distribute your application to different platforms,
 briefly discussing tools like py2exe, py2app and Debian/Ubuntu packaging
 ecosystem. This talk is based on our experience from developing Phatch (Photo
 Batch Processor) and SPE (Python Editor).
-

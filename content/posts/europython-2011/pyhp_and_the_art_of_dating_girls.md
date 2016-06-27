@@ -23,4 +23,3 @@ Prerequisites:
   * Very basic knowledge of PHP
   * Basic Python
   * Basic / None JavaScript
-

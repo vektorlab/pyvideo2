@@ -26,4 +26,3 @@ than writing pure C++.) link - [https://docs.google.com/presentation/d
 /1hx_59DMQm6ZlI3Jz-LX-
 DZ4m5LVLpGcSlk1Dq1PiELI/edit](https://docs.google.com/presentation/d
 /1hx_59DMQm6ZlI3Jz-LX-DZ4m5LVLpGcSlk1Dq1PiELI/edit)
-

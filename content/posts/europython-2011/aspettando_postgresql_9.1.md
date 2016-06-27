@@ -32,4 +32,3 @@ sviluppatori e utenti di controllare la strategia di replica a livello di
 singola transazione. Partecipa al talk per scoprire tutte le altre
 funzionalità principali che saranno incluse in PostgreSQL 9.1, fra le quali:
 gestione delle estensioni, writable common table expression, ecc.
-

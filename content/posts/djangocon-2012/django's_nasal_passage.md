@@ -44,4 +44,3 @@ date: '2012-09-06'
     * Coverage
     * xunit, for your continual integration pleasure
     * Profiling
-

@@ -15,4 +15,3 @@ the scenes, Genie is a dialect of Vala, and a full participant in the GObject
 universe. I will cover the language basics, with an eye to comparing them with
 Python, and guide you around some potential pitfalls. This is the second in a
 series of talks I am giving on the topic of Python/GObject integration.
-

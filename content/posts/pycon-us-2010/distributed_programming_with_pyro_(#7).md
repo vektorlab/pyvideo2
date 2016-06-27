@@ -27,4 +27,3 @@ two Apache web servers and a MySQL database.
 Although Python allows you to perform simple network operations, Pyro creates
 a nice layer between core networking essentials and your code, allowing you to
 concentrate more in developing your application.
-

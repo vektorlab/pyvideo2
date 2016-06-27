@@ -28,4 +28,3 @@ Django.
   9. Key realization that knowing Django != knowing Python
   10. "When you bang your head enough against the wall, eventually the wall comes down" -- me. I built a pretty kick ass Django application and I'm quite proud of.
   11. Celebrate (with lessons learned)!
-

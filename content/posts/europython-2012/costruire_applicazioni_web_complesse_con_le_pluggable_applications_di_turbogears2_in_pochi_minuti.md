@@ -18,4 +18,3 @@ Padroneggiare questi strumenti può permetterci di creare applicazioni web
 complesse senza troppa fatica riutilizzando parti messe a disposizione da
 altre applicazioni pluggabili e creando sezioni amministrative con poche righe
 di codice tramite l’uso dell’estensione CRUD sia su SQLAlchemy che MongoDB.
-

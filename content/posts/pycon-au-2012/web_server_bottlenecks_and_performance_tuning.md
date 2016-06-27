@@ -40,4 +40,3 @@ The importance of continuous production monitoring will also be covered,
 ensuring that you know when the performance of your system is dropping off due
 to changing traffic patterns as well as code changes you have made in your
 actual web application.
-

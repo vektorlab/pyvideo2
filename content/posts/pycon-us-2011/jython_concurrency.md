@@ -43,4 +43,3 @@ seen in complex architectures, such as around the use of ClassLoaders.
 This talk will go into a detailed discussion of some of the interesting
 ramifications of these design points and how they can be effectively applied
 to write concurrent code, as illustrated through a variety of short examples.
-

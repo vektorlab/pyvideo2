@@ -15,4 +15,3 @@ server. A decentralized load balancing-based approach is presented in which
 each application server keeps track of what it's good at and presents its
 resume to load balancers, which use application server resumes to distribute
 load.
-

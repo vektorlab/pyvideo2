@@ -18,4 +18,3 @@ Hard to describe this talk--it's very entertaining.
 
   
 [VIDEO HAS ISSUES: Audio is mostly in left speaker; lost audio at 36:45]
-

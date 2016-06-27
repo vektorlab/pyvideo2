@@ -17,4 +17,3 @@ No problem! We can do that too! We're going to write a web application, first
 in straight html and then with AJAX, and show you how to try to break it. At
 the end of this hands-on session, you'll be able to write tests for almost any
 web site, using all open-source tools and our favorite language - Python.
-

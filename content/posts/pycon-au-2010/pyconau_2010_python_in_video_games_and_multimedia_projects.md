@@ -19,4 +19,3 @@ involved in cross platform desktop dev with wxPython, interfacing with
 multimedia programs using subprocess, spreading load with multiprocessing,
 developing for the web on small devices with Django, and when and how to write
 custom network servers using asyncore.
-

@@ -19,4 +19,3 @@ Thinking about scoring a government contract, but haven't heard of 508
 compliance yet? Interested in making your site accessible to people with
 disabilities? Never thought about compliance, but want to know why it's a good
 idea?
-

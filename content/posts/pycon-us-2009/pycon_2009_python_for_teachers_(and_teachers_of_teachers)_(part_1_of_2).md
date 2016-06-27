@@ -26,4 +26,3 @@ environment. From this latter point of view the pair teaching format can be
 considered experimental. Its success or otherwise will be determined largely
 by group dynamics, and our goal is to make the outcome in and of itself
 provide useful empirical data helpful to others planning workshops.
-

@@ -37,4 +37,3 @@ Abstract
     * Don't be surprised if you get a negative reaction 
     * Don't let your fear of a negative reaction stop you from trying, necessarily 
     * Do your homework, and be your own worst critic 
-

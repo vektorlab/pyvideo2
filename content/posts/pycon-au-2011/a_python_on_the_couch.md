@@ -16,4 +16,3 @@ CouchDB followed by how to access and manipulate using Python. There are a
 number of python libraries for accessing couchdb and these will be quickly
 discussed followed by &nbsp_place_holder;how to use one of these libs with a
 Python web framework.
-

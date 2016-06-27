@@ -22,4 +22,3 @@ Rob is joined by David Layton of Grey Squirrel Consulting, who is a fellow
 contractor working with Rob on the pricing project. He is an American
 expatriate and Python developer, currently living and working in London. His
 background is in scientific computing, CRMs and Business Intelligence.
-

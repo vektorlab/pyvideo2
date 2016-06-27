@@ -24,4 +24,3 @@ sowie natürlich die Untersuchung von Objekten).
 Ich kann den Vortrag wahlweise als 55- oder 25-Minuten-Version halten. Im
 ersten Fall würde ich auch noch auf andere Debugger wie pudb, pdb++ und WinPdb
 eingehen.
-

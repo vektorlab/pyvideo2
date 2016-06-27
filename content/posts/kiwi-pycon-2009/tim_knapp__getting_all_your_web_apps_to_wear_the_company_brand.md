@@ -23,4 +23,3 @@ The technology is called Deliverance and Tim Knapp will demonstrate how to use
 this powerful tool to theme your web applications.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

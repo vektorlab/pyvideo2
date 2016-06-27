@@ -14,4 +14,3 @@ Has your garden been ravaged by the marauding squirrel hordes? Has your bird
 feeder been pillaged? Tired of shaking your fist at the neighbor children?
 Learn how to use Python to tap into computer vision libraries and build an
 automated sentry water cannon capable of soaking intruders.
-

@@ -11,4 +11,3 @@ date: '2012-11-10'
 ---
 Starting with the theory behind eventual consistency we'll dive into a
 practical toolkit, knockblock, for programming these types of systems.
-

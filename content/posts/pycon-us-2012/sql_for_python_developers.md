@@ -15,4 +15,3 @@ Organizations even split programmers into SQL and front-end teams, each of
 which jealously guards its turf. These tutorials will take what you already
 know about Python programming, and advance into a new realm: SQL programming
 and database design.
-

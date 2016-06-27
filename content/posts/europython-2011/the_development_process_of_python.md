@@ -36,4 +36,3 @@ I will explain:
   * how to get in touch with the core developers;
 
   * what are the plans for the future.
-

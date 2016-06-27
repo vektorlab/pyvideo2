@@ -20,4 +20,3 @@ auf einfache Benutzung, Skalierbarkeit und hohe Code-Qualitaet legt. Ziel ist
 es eine leicht anzuwendende, flexible Bibliothek fuer Forschung wie auch
 kommerzielle Anwendungen zu schaffen. Der Vortrag bietet eine kurze Einleitung
 in Grundlagen des maschinellen Lernens und die Anwendung von Scikit-Learn.
-

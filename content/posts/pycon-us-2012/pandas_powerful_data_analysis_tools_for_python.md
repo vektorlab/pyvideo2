@@ -15,4 +15,3 @@ general purpose data manipulation and data analysis, it has also been designed
 to enable Python to become a competitive statistical computing platform. In
 this talk, I will discuss the library's features and show a variety of topical
 examples.
-

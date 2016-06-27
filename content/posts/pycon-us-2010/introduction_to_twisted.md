@@ -56,4 +56,3 @@ Requirements
   * Attendees wishing to try the examples should have Python 2.4 or newer and Twisted pre-downloaded (we'll go over installation) 
   * Twisted may be downloaded at [http://www.twistedmatrix.com/](http://www.twistedmatrix.com)
   * Windows users will require the Win32 extensions for Python as well [http://starship.python.net/crew/mhammond/win32/Downloads.html](http://starship.python.net/crew/mhammond/win32/Downloads.html)
-

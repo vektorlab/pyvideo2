@@ -17,4 +17,3 @@ projects he's started over the years and why it is often best to scratch your
 own itch.
 
 [VIDEO HAS ISSUES: Audio stutters periodically.]
-

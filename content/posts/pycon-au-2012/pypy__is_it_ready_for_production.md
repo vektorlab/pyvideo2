@@ -17,4 +17,3 @@ implement a more scientific method for comparing the runtime performance of
 CPython and PyPy running various Python production code sets that we use in
 the company I work for. This presentation will discuss the results of this
 comparison and the positives and negatives with utilising PyPy in production.
-

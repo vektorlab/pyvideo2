@@ -30,4 +30,3 @@ get from traditional databases.
 Then, after a short rant about the term "NoSQL", learn how to best integrate
 them into your Django projects, why being schemaless isn't as good as it looks
 at first, and how relational databases are keeping up with the times.
-

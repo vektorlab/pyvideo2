@@ -14,4 +14,3 @@ Understanding the control flows in programs can be simple but increasingly diffi
 Using slicing as a technique for debugging programs aids to understand control flow better. A slice is a subset of the program which affects the values of the point of interest, also known as a slicing criterion. Using program slicing, reasoning about your code will become much quicker and easier as you can safely ignore any not relevant parts of the program.
 
 This talk is about building a slicing tool for Python and the journey to this solution.
-

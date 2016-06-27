@@ -15,4 +15,3 @@ Presented by Dr. Russell Keith-Magee (Django Project)
 Django 1.2 added a number of major, long anticipated features to Django. This
 talk will give an overview of these new features (both large and small), as
 well as giving a look into what the future may hold for Django.
-

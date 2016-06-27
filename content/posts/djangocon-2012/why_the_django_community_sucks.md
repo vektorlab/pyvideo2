@@ -35,4 +35,3 @@ The presenter comes from a decade of experience in non-profit social justice
 activism. Having been a Django user for 3.5 years and involved in the
 community for 2, will be at only his second DjangoCon.. Freshly imported, he
 has the perspective of a passionate newcomer rather a seasoned veteran.
-

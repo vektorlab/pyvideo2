@@ -22,4 +22,3 @@ specializing on Matrix-calibrated and edge-corrected species-area models that
 allow users to evaluate the biodiversity consequence and trade-offs of land-
 use decisions. The development and description of these models were published
 in Conserv. Biol. 24, 994 and J. Appl. Ecol. 47, 1063.
-

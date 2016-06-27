@@ -20,4 +20,3 @@ web services, IPC, GUI applications etc. The audience should be competent in
 core Python constructs. No previous asynchronous or threading programming
 experience required. This is a repeat of the popular EuroPython 2011 Twisted
 Tutorial, improved after feedback.
-

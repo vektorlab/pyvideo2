@@ -17,4 +17,3 @@ based upon work I originally started at university. No prior musical knowledge
 will be required as I intend to explain just enough musical theory for the
 audience to understand the nature of the problem (although I’ll assume
 familiarity with Python).
-

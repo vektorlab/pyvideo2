@@ -23,4 +23,3 @@ zur horizontalen Skalierbarkeit, oder: Wie löst man das
 
 Während NodeJS oft als *die* Lösung für Echtzeitanwendungen angepriesen wird,
 kommt hier auf der Serverseite gezielt Python mit gevent zum Einsatz.
-

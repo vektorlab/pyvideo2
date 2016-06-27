@@ -22,4 +22,3 @@ words: mess-under-control)
 The talk is focused on describing how to design a distributed application in
 different scenarios, using ZeroMQ (a modern broker-less MQ system) as core
 framework, with examples and demos.
-

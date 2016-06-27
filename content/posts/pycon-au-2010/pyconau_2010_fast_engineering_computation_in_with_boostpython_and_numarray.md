@@ -19,4 +19,3 @@ links. Our simulations are CPU-bound, where efficient and fast interfacing
 between C++ and Python is one of the keys to the growing success of Python
 within NEC. In this short presentation, we describe our current framework
 which achieves the fast processing.
-

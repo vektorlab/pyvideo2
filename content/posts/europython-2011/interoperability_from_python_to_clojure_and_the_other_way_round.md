@@ -24,4 +24,3 @@ After a brief introduction of the main Clojure features, the presentation will
 show how Jython and Clojure can be used together.
 
 No previous knowledge of Clojure (or Lisp) is assumed nor required.
-

@@ -18,4 +18,3 @@ for 7 of the 9 cameras on each rover. The system, called AutoPUL, is written
 in Python and that has proven to be the excellent choice for the development
 and maintenance. In the talk I'll describe the Mars Rover mission and the
 operational activities and how AutoPUL and Python fullfilled those needs.
-

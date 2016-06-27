@@ -10,4 +10,3 @@ Title: 'PL/Python -- Python inside the PostgreSQL RDBMS'
 date: '2011-07-13'
 ---
 [EuroPython 2011] Peter Geoghegan - 20 June 2011 in "Track Ravioli"
-

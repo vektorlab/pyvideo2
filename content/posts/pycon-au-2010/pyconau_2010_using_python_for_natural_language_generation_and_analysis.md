@@ -21,4 +21,3 @@ be used for visualising language patterns. This presentation will talk about
 some of the techniques used for automatically describing datasets and also how
 NTLK can be used to discover information about language uses and requirements
 in an organisation.
-

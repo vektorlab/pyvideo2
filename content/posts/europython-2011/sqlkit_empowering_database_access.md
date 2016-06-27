@@ -31,4 +31,3 @@ Django, OpenERP,… ).
 To deliver a gradual presentation, we'll use the configuration system of
 sqledit, starting from a minimal configuration (a single URL) we'll add
 elements to that until we'll have a full application.
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/lciOImm7srw/hqdefault.jpg'
 Title: 'From code patching to law patching'
 date: '2014-11-02'
 ---
-

@@ -10,4 +10,3 @@ Title: 'Is Your REST API RESTful?'
 date: '2015-04-11'
 ---
 Writing a fully complaint REST API is hard, so hard it is too common for APIs to violate one or more of the REST architectural principles. In this talk I will describe the six REST principles, and I will tell you what happens if you don't follow them.
-

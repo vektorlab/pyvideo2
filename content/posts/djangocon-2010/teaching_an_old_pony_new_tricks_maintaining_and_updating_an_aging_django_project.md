@@ -46,4 +46,3 @@ eventually made obsolete by improvements in the Django framework, and the
 process of iteratively improving functionality and features. We will discuss
 successes and failures, including the pitfalls we avoided and (perhaps more
 interestingly) those we did not.
-

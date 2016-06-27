@@ -34,4 +34,3 @@ credible examples of the usage of each as well as when you might be over-
 engineering by going that way. All four access patterns are possible in Django
 1.2, with varying degrees of ease of use and I'll show the type of code
 required in each case.
-

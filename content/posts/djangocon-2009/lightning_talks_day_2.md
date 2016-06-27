@@ -21,4 +21,3 @@ Lightning Talks Day 2
 
   
 (12:13) Introduction to Surlex - Cody Soyland
-

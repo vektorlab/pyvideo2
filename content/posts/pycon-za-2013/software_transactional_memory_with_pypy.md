@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-pypy-stm/pyconza2013-pypy
 Title: 'Software Transactional Memory with PyPy'
 date: '2013-10-03'
 ---
-

@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: '0_unjoinify-a-module-to-tame-the-sql-beast.m4v'
 ---
-

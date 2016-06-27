@@ -18,4 +18,3 @@ for web development python has to offer. But more importantly it brings them
 together in a clean, well documented way that allows for developing reusable
 TurboGears 2 components. The result is a powerful, flexible, set of tools that
 helps make it easy to build dynamic web applications.
-

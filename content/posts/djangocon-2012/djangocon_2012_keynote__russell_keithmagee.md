@@ -10,4 +10,3 @@ Title: 'DjangoCon 2012 Keynote - Russell Keith-Magee'
 date: '2012-10-06'
 ---
 DjangoCon 2012 - Keynote - Russell Keith-Magee
-

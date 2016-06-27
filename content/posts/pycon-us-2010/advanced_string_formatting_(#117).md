@@ -23,4 +23,3 @@ the existing %-based string formatting.
 This talk will discuss how to use str.format, how your own types can benefit
 from it, its strengths and weaknesses, how to migrate to it, and advanced
 topics such as implementing your own templating language.
-

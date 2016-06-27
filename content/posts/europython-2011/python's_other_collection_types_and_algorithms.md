@@ -32,4 +32,3 @@ examples of how to use them and why they are useful. The target audience is
 intermediate programmers who are familiar with the Python's standard data
 types and with data types in general, but who don't know all of the
 functionality available in modern Python.
-

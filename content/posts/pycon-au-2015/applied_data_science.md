@@ -18,4 +18,3 @@ This tutorial will provide attendees with a walkthrough on getting set up for th
 This tutorial would be suitable for intermediate developers of any background, or experienced developers who would like an introduction to data science that gets to the point fast. Prerequisites: the ability to install Python modules on your laptop, the ability to set up a new virtual environment, and an interest in applying new techniques.
 
 The tutorial will include clear walkthroughs, as well as allowing adequate time for discussion and individual learning. Please contact Tennessee via email ahead of time if you would like to get a head start on setting up your environment -- this may help you get more out of the tutorial. 
-

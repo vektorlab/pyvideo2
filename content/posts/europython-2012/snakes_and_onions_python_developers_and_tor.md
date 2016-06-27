@@ -18,4 +18,3 @@ Sandvik will present the Tor Project, and talk about Tor and how it works. She
 will also introduce some of the Python projects currently under development,
 and explain how you can get involved and contribute with code, testing, and
 documentation.
-

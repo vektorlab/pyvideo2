@@ -25,4 +25,3 @@ wild.
 
 Finally, we'll connect the suite to FunkLoad and pummel the server with a
 distributed barrage of tests, to see how it copes under pressure.
-

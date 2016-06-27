@@ -14,4 +14,3 @@ Format) from Python. HDF5 is one of the fastest ways to store large amounts of
 numerical data. The talk is for scientist who would like to store their
 measured or calculated data as well as for programmers who are interested in
 non-relational data storage.
-

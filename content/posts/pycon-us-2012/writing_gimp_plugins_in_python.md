@@ -13,4 +13,3 @@ Learn how to write Python plug-ins for GIMP, the GNU Image Manipulation
 Program. With PyGIMP, you can automate simple image processing tasks in just a
 few lines of PyGIMP, develop elaborate plug-ins that do low-level pixel
 manipulation, or anything in between.
-

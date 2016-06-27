@@ -17,4 +17,3 @@ multiple, possibly diverse databases within a single Pylons app. This talk
 seeks to present a coherent guideline, derived from lessons learned, on how to
 use several different data stores (sqlite, postgresql, mysql, flat files)
 simultaneously within the same pylons project.
-

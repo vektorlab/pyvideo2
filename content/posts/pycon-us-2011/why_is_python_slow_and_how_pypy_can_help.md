@@ -43,4 +43,3 @@ In PyPy we use an approach similar to the one used by V8 with hidden classes
   * FFI calls - Calling C from Python is costly and hard to optimize. In PyPy we expose C APIs to Python code via ctypes. This part explains how we can optimize ctypes calls.
 
   * array module - Users of CPython's array module probably know it can save them quite a bit of memory, however it's also slower than using a list, due to the overhead of boxing and unboxing on every operations. Here we will tie everything together and describe how the array module is much faster with PyPy's JIT, combining our optimizations to: unbox values, remove the dynamicism within traces, and deliver great performance.
-

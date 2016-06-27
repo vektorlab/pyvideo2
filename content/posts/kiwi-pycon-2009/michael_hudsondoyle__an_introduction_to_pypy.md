@@ -25,4 +25,3 @@ and jit parts of the code and their relationships and the fundamental ways in
 which PyPy differs from other virtual machine implementations.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

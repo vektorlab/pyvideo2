@@ -49,4 +49,3 @@ installed:
 All required software can be obtained by installing the free trial version of
 the Enthought Python Distribution v5 or later
 (http://www.enthought.com/products/epd.php).
-

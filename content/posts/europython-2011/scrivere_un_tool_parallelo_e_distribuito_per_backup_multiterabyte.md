@@ -21,4 +21,3 @@ per lo sviluppo.
 Sebbene l'applicazione non sia disponibile come progetto open-source, questo
 intervento fornisce degli spunti di valore a proposito dello sviluppo di
 applicazioni distribuite e parallele usando Python.
-

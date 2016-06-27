@@ -42,4 +42,3 @@ Possible tips include, in no particular order:
   * contextlib.contextmanager 
   * The cmd module 
   * The fileinput module 
-

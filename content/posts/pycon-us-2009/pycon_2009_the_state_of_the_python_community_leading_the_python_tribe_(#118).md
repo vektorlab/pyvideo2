@@ -14,4 +14,3 @@ meaning of the phrase "the Python community" and the changes that have taken
 place in the PSF in the last year. He discusses further possible changes that
 could turn the PSF into a more "community-facing" organization, and solicits
 your input on what kind of projects and activities it should be supporting.
-

@@ -56,4 +56,3 @@ OpenGL library choices.
 
 This is a substantially improved version of the talk 'Flying High: Hobbyist
 OpenGL from Python', previously presented at EuroPython 2010.
-

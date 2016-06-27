@@ -20,4 +20,3 @@ the last year's work on the Just-In-Time Compiler. I'll present and discuss a
 number of benchmarks and compare against other Python-speed projects. I'll
 also cover the basics of how the JIT works and what sort of programs it can
 greatly speedup (and which ones it can't).
-

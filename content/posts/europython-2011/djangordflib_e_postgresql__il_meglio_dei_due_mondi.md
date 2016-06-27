@@ -25,4 +25,3 @@ Scopo: introdurre al pubblico una combinazione di RDF, la ricerca full-text di
 postgresql e l'ORM di Django tramite django-rdflib.
 
 Requisiti: familiarità con Django.
-

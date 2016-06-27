@@ -47,4 +47,3 @@ dictionary and must not be allowed to interfere with another session's state.
 In this talk I will discuss how we implemented many of these features in LLDB,
 pointing out some of the more interesting problems we encountered and how we
 overcame them, and demonstrate it all working in LLDB.
-

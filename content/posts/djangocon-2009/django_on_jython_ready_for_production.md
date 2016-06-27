@@ -17,4 +17,3 @@ Presented by Chris McAvoy
 Talks about runnin Django on Jython. Walks through technical issues with
 getting Django running on Jython, but also talks about why you might want to
 do this and what it enables.
-

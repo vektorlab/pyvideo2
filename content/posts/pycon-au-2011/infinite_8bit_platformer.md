@@ -16,4 +16,3 @@ talk we will look at the development of the game over the last three years,
 including what has changed since PyCon 2010. We'll examine the sound,
 graphics, and networking architecture which is built upon pygame and asyncore
 (PodSixNet).
-

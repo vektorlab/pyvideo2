@@ -16,4 +16,3 @@ fabric fabfiles and django admin commands all over the place.
 
 Written in the neat, friendly Python instead of some Anty XML jumbo, you are
 about to have a refreshing cleanup.
-

@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: 'Djangoconeu-RussellKeithMageeNoBadPonyOrExplainingDjangosDevelopment624.flv'
 ---
-

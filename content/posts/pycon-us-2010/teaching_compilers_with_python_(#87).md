@@ -27,4 +27,3 @@ better code separation).
 
 As a result, the students get a better understanding of the compiler concepts
 and produce more interesting and creative projects.
-

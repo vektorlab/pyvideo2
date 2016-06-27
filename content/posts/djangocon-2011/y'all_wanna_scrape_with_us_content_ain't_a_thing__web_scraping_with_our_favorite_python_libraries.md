@@ -18,4 +18,3 @@ Love or hate them, the top python scraping libraries have some hidden gems and
 tricks that you can use to enhance, update and diversify your Django models.
 This talk will teach you more advanced techniques to aggregate content from
 RSS feeds, Twitter, Tumblr and normal old web sites for your Django projects.
-

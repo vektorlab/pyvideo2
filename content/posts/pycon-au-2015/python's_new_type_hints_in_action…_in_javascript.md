@@ -18,4 +18,3 @@ But this is also undeniably a huge change of direction: will it mean you have to
 To show how PEP 484's Gradual Typing system works, we're going to look at TypeScript, a minimal implementation of Gradual Typing over JavaScript. We'll see how the type system works, and how it fits into the already thriving JavaScript developer community, where most people aren't using type hints at all.
 
 We'll draw some parallels with how Python's implementation will work, and see what Python can learn from a language that has successfully made the jump to a type-hinted world.
-

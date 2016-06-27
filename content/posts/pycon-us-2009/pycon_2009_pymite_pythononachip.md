@@ -19,4 +19,3 @@ OS. Lets Python run in a BILLION new places."
 
   
 [http://www.pythononachip.org/](http://www.pythononachip.org/)
-

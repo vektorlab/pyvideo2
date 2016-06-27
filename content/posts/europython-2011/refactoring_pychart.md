@@ -18,4 +18,3 @@ I will show how I went about refactoring the package in order to make a nice
 and clean API. This talk is focused on teaching refactoring methodology to
 beginner and intermediate level programmers. It will also give a brief
 introduction to how to make beautiful graphs with PyChart.
-

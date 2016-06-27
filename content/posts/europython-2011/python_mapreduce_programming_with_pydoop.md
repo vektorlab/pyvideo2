@@ -25,4 +25,3 @@ The talk consists of a MapReduce/Hadoop tutorial and a presentation of the
 Pydoop API, with the main goal of bridging the gap between the Hadoop and
 Python communities. A basic knowledge of distributed programming is helpful
 but not strictly required.
-

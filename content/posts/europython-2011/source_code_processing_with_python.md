@@ -34,4 +34,3 @@ compiler implementation or natural language processing. My talk covers:
 I'm touching this from the lightweight, "pythonic" angle and you might wonder
 why not everyone uses those techniques already for decades in their daily
 work. I can't answer this, I wonder about this too.
-

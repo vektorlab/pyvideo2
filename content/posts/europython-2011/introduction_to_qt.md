@@ -14,4 +14,3 @@ relationship to Python. After an overview of Qt and the Qt ecosystem, Qt's
 history and future roadmap are discussed. Different Python bindings, PyQt and
 PySide in particular, are introduced. Finally, hands-on examples of Qt Quick
 with Python are shown.
-

@@ -10,5 +10,3 @@ Title: 'Robots Robots Ra Ra Ra!!!'
 date: '2015-04-11'
 ---
 Lots of people want to learn more about robotics but are unsure where to start. Turns out there is a python robotics framework, and it runs some of the most sophisticated robots in the world! It is also open source, well-documented, and has a great community. In this talk we will look at Robot Operating System ROS.
-
-

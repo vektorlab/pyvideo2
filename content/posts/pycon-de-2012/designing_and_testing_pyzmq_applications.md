@@ -27,4 +27,3 @@ auch Prozess- und System-Tests.
 Der Vortrag basiert auf den Erfahrungen, die der Autor bei der Entwicklung
 
 eines verteilten Simulations-Frameworks gemacht hat.
-

@@ -10,4 +10,3 @@ Title: 'Beyond grep: Practical Logging and Metrics'
 date: '2015-04-12'
 ---
 Your Python server applications are running but you’re wondering what they are doing?  Your only clue about their current state is the server load?  Let’s have stroll through the landscape of logging and metrics so you’ll find the perfect fit for your use cases!
-

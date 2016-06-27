@@ -22,4 +22,3 @@ One unique and powerful feature in Zuul is its ability to run tests in a predict
 Zuul can manage thousands of jobs across hundreds of projects as evident by being the gate keeper for OpenStack.
 
 In this talk we will look at what Zuul is, how to configure it and the internals of how it works.
-

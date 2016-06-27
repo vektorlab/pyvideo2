@@ -19,4 +19,3 @@ Durch die Nutzung von (vorhandenen) Provisioning Tools wie Chef oder Puppet
 kann man vorhandene Konfigurationen von Produktiv-System zum Setup der
 Virtuellen Maschinen nutzen. Außerdem lassen sich mit Vagrant auch komplexe
 Cluster-Setups auf dem eigenen Rechner aufbauen.
-

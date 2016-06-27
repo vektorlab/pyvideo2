@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/KBvPj_QFnQY/hqdefault.jpg'
 Title: 'Tempest: OpenStack Integrated Testing by Matthew Treinish (HP)'
 date: '2014-08-11'
 ---
-

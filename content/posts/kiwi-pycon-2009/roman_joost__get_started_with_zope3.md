@@ -28,4 +28,3 @@ registered, how third party applications are used and how common pitfalls can
 be avoided.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

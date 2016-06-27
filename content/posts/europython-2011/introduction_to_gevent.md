@@ -17,4 +17,3 @@ I will introduce a coroutine-based approach to network programming, explain it
 benefits and pitfalls. We will walk through the Gevent API, including the most
 recent additions, and understand how it is implemented. I will make a quick
 overview of the most interesting 3rd party add-on and applications after that.
-

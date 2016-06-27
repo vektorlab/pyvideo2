@@ -16,4 +16,3 @@ This presentation will cover MidoNet's core concepts, what distinguishes it from
 You’ll be introduced to concepts like Topology Aware Switches and JIT Datapath flow computation as well as our distributed agent model. You’ll learn why we strongly believe in having intelligent switches and how this impacts the overlay topology definition as well as the Network Function Virtualization implementation.
 
 Most importantly, we hope you'll head over to midonet.org and take it for a spin.
-

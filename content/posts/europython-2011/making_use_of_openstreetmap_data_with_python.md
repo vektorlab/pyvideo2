@@ -26,4 +26,3 @@ speech) and thus anyone can make use of it. Mapnik - rendering framework,
 created specifically for OpenStreetMap, written in C++ and Python. PostGIS -
 an extension of PostgreSQL database, with support for many useful GIS
 features.
-

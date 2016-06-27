@@ -16,4 +16,3 @@ The Django software foundation is the entity which hold the IP for django and
 guides efforts to develop the community around Django. In this session several
 members of the DSF will be announcing some changes at the DSF and will be
 available for a general Q&A.;
-

@@ -17,4 +17,3 @@ Lightning Talks - Sunday
   * 20:05 - Peter Lovett: Python is Good 
   * 24:25 - Dylan Jay: [SyPy (Sydney Python)](http://sypy.org/), [repoze.BFG](http://bfg.repoze.org/)
   * 30:45 - Ryan Kelly: @inline (or: [promise](http://github.com/rfk/promise/) gets pushy) 
-

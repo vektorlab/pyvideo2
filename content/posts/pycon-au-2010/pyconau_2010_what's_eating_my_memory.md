@@ -15,4 +15,3 @@ Presented by Andrew Bennetts (Canonical)
 Ever wondered why your Python process has consumed 2 gigabytes of memory
 overnight? Ever torn out your hair trying to find out why? Andrew will show
 you some tools and techniques that can help you investigate.
-

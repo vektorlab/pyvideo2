@@ -35,4 +35,3 @@ give preliminary results on a modified version of the PyPy Python interpreter
 that show that it can actually work. I will also explain how the API is used,
 e.g. in a modified Twisted reactor that gives multi-core capability to any
 existing, non-thread-based Twisted program.
-

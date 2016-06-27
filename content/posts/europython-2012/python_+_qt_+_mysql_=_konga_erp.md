@@ -19,4 +19,3 @@ OS X, Windows e Linux) identica - o quasi - alle applicazioni scritte con i
 sistemi di sviluppo nativi. Particolare attenzione sarà dedicata
 all’integrazione di QT tramite l’uso della libreria “slewlib” e alla libreria
 utilizzata per la descrizione e la generazione dei report di stampa.
-

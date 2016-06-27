@@ -13,4 +13,3 @@ In this talk, aimed at novice Python and Django developers, we'll have a look
 at getting started with testing your Django applications, how to properly
 write your first test case and then moving to automated testing with Travis
 CI.
-

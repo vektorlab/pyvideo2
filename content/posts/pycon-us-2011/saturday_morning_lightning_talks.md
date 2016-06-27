@@ -20,4 +20,3 @@ Saturday Morning Lightning Talks
 
 [VIDEO HAS ISSUES: slides for Alfredo's and Ned's talks are impossible to
 read.]
-

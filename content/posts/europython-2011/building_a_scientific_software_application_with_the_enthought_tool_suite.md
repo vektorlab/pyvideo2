@@ -18,4 +18,3 @@ visualisation tools.
 
 Prerequisites: some previous experience of working with Python and NumPy /
 SciPy is recommended.
-

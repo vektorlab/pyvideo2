@@ -19,4 +19,3 @@ CherryPy will be 8 years old in June 2010! This presentation will look at the
 "Zen of CherryPy": a set of 10 design guidelines which CherryPy has developed
 over those years, explaining why they're useful, why some are uniquely Python,
 and how to apply them in your own projects.
-

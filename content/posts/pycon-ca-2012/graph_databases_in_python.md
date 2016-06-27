@@ -15,4 +15,3 @@ exceptions, there isn't an easy way to manage graph databases from Python. In
 this talk, I will introduce you some of the tools that you can use today in
 order to work with those new challenging databases, from our favorite languge,
 Python.
-

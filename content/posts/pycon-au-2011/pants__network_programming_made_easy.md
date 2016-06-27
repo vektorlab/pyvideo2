@@ -14,4 +14,3 @@ programming in Python a breeze. This talk will outline challenges in network
 programming and how Pants approaches them. The audience will be briefly
 introduced to Pants' API through example code, and to its capabilities through
 benchmarks and comparisons with alternate frameworks..
-

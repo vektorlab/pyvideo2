@@ -27,4 +27,3 @@ brainstorm of cool applications of analysis and visualization of large scale
 datasets.
 
 [http://www.paraview.org/](http://www.paraview.org/)
-

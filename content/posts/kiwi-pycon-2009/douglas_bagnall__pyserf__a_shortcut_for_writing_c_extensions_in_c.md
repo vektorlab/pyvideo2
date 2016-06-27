@@ -50,4 +50,3 @@ talk will demonstrate what is required to write an extension in C by hand, and
 show you some ways of using the standard libraries parsing modules.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

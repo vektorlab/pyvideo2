@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-increase-impact/pyconza20
 Title: 'How to increase the reach and impact of your application?'
 date: '2013-10-03'
 ---
-

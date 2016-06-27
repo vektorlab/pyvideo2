@@ -19,4 +19,3 @@ paid to the headline techniques such as motion capture and complex physics
 simulation, few realise that the majority of the work is underpinned by a
 foundation of Python. This talk introduces the application of Python in the
 visual effects industry.
-

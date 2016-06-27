@@ -12,4 +12,3 @@ date: '2012-07-04'
 An open session where the BDFL will answer questions from attendees. Questions
 must be submitted (and voted) through Google Moderator ; we will ask the most
 popular questions to Guido during this session. Submit your question now!
-

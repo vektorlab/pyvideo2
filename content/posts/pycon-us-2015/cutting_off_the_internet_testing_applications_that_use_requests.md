@@ -10,4 +10,3 @@ Title: 'Cutting Off the Internet: Testing Applications that Use Requests'
 date: '2015-04-12'
 ---
 A brief and opinionated view of testing applications and libraries that use requests by a core-developer of requests. You will receive an overview of testing with responses, vcr, httpretty, mock, and betamax.
-

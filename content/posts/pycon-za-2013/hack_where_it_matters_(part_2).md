@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-hack-matters-pt2/pyconza2
 Title: 'Hack where it matters (part 2)'
 date: '2013-10-03'
 ---
-

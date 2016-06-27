@@ -23,4 +23,3 @@ how it impacts applications. This talk will dive into the inner workings of
 the GIL like you've never seen before. Topics include details about the
 execution of the Python interpreter, thread implementation, the GILs
 surprising behavior on multicore CPUs, and more.
-

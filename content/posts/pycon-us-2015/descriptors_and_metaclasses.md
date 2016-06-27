@@ -15,4 +15,3 @@ knowing more about them facilitates a deeper understanding of
 the language. With examples, you will learn how they work and how to
 write your own descriptors and metaclasses. Furthermore, you will understand
 when to use and when better not to use them.
-

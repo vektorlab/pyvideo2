@@ -13,4 +13,3 @@ This will be a panel discussion wherein we wax philosophical about the state
 of web frameworks in Python - talking about invention, reinvention, multitudes
 of choice, how all of them suck, etc. Panelists will include Dylan Jay,
 Malcolm Tredinnick, Russell Keith-Magee and Richard Jones.
-

@@ -32,4 +32,3 @@ three-dimensional computational geometry algorithms:
   * Convex hulls
   * Constructive Solid Geometry
   * Minkowski Sums
-

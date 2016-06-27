@@ -16,4 +16,3 @@ Real World intrudes on your carefully designed website.
 
   
 [VIDEO HAS ISSUES: blurry vga]
-

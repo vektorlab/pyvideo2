@@ -32,4 +32,3 @@ In my talk I'll show the basics of how to use both systems for several
 different format parsing tasks, of different complexity. This will let you see
 how to use the parsers and understand more of the tradeoffs between
 complexity, readability, error handling, and performance.
-

@@ -15,4 +15,3 @@ language, with an array of tools for productive work: at the terminal, in
 GUIs, through a web browser, and in high-level parallel computing. This talk
 will explain the design of IPython and provide short, hands-on demos of its
 main features.
-

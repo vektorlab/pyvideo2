@@ -11,4 +11,3 @@ date: '2011-03-11'
 ---
 Will and Carl talk about Python Miro Community, where it's at now, the PSF
 grant, and what they're planning for it in the future.
-

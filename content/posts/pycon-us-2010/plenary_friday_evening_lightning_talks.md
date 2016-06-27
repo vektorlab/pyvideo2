@@ -52,4 +52,3 @@ docx/](http://github.com/mikemaccana/python-docx/))
 
   
 (48:00) Lucio Torre - Ubuntu One and Windows
-

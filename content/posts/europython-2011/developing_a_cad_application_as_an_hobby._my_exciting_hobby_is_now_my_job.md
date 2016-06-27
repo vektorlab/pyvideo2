@@ -27,4 +27,3 @@ I also explain my actual project OpenPLM an OpenERP module to manage PLM data
 into OpenERP
 
 see you soon Matteo
-

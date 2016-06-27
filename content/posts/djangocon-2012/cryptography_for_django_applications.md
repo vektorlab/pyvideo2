@@ -164,4 +164,3 @@ capabilities to a running Django environment via the Django admin.
 ### Use a unique Initialization Vector if possible
 
   * LoopBack Devices
-

@@ -25,4 +25,3 @@ some real-world use of the library.
 Audience members should have a passing familiarity with cryptography
 (e.g. know the differences between hashing and encryption, or public
 key and private key crypto) to get the most out of this talk.
-

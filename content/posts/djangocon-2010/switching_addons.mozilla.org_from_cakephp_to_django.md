@@ -44,4 +44,3 @@ that could be interesting to other Django users:
   * Sphinx (not the documentation tool) serves our search results 
   * Celery and RabbitMQ help us do offline processing 
   * Nose and Hudson help us get over 90% code coverage in tests 
-

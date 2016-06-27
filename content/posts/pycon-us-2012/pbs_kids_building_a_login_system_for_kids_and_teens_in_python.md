@@ -15,4 +15,3 @@ privacy laws - especially tough for minors. But these kids want to play games,
 write stories, and create online avatars to share and compete against their
 buddies. Listen to how we developed the PBS KIDS login and moderation system
 in Django.
-

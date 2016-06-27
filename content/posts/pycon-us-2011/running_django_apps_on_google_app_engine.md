@@ -44,4 +44,3 @@ that comes with its SDK. You can now leverage the power of a full web
 framework like Django and still enjoy the flexibility and scalability of App
 Engine. In this talk, we'll discuss Django-nonrel, and how to port App Engine
 apps from webapp to pure Django to run on App Engine using Django-nonrel.
-

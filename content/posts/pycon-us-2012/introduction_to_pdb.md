@@ -14,4 +14,3 @@ to pause your program, look at the values of variables, and watch program
 execution step-by-step, so you can understand what your program is actually
 doing, as opposed to what you think it's doing. This talk will show novice and
 intermediate Python users how to use PDB to troubleshoot existing code.
-

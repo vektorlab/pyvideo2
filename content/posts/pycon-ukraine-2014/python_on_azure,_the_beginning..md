@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/OHC9-C062v8/hqdefault.jpg'
 Title: 'Python on Azure, the beginning.'
 date: '2014-11-02'
 ---
-

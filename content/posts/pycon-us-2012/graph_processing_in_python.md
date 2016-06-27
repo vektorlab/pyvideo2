@@ -13,4 +13,3 @@ Graphs are everywhere - from your distributed source code control to Twitter
 analytics. This session presents a set of three problems and shows how they
 can be decomposed into operations on graphs, and then demonstrates solutions
 using the various graph libraries available for (or accessible to) Python.
-

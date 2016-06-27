@@ -42,4 +42,3 @@ Redis was developed by [Salvatore Sanfilippo](http://twitter.com/antirez) and
 [Pieter Noordhuis](http://twitter.com/pnoordhuis), who are both supported by
 VMWare to develop the database full-time. Redis has excellent [Python
 bindings](https://github.com/andymccurdy/redis-py/) developed by Andy McCurdy.
-

@@ -32,4 +32,3 @@ the tools and services that I used, and why I decided to use them.
 At the conclusion of the talk you should have a better understanding of PCI
 DSS, and what you need to do, in order for your Django application to be
 certified as compliant.
-

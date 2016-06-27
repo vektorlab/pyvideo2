@@ -25,4 +25,3 @@ If available, an additional training session will focus on working with the
 framework to create your own flow-based processes and plugins.
 
 For more information: [http://www.pyfproject.org/](http://www.pyfproject.org/)
-

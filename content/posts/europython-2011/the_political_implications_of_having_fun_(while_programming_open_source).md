@@ -30,4 +30,3 @@ generalizable? What happens with the values generated through the labor if the
 work as such is rewarding? The open source mode of production is part of our
 modern reality and in my presentation I would like to consider this big
 reality from the perspective of open source.
-

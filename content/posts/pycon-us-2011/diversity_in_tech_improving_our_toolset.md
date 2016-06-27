@@ -47,4 +47,3 @@ level of understanding and community discourse on this topic. It is odd that
 diversity can so dramatically affect our lives and communities and yet be
 unexamined, particularly in a community so highly intelligent and educated as
 that which populates the tech industry.
-

@@ -31,4 +31,3 @@ for new and casual users of Plone, and for people interested in understanding
 its niche in the CMS/application development world.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

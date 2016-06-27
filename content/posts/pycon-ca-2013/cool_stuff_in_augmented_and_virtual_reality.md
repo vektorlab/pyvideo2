@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/HVipJZ1gAi0/hqdefault.jpg'
 Title: 'Cool stuff in Augmented and Virtual Reality'
 date: '2013-08-11'
 ---
-

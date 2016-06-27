@@ -20,4 +20,3 @@ that one can support code stored in alternative formats, e.g. zipimport and
 its support of importing code from a zip file. The aim of this talk is to make
 sure you understand how the custom import mechanism works and how to write
 your own custom importers using importlib from Python 3.1.
-

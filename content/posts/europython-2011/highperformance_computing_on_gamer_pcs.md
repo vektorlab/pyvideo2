@@ -35,4 +35,3 @@ the way to programming the algorithms using the appropriate development tools
 and methodologies (notably Literate Programming). On the math side, the talk
 requires a basic understanding of matrix algebra and of the discretization
 process involved when computing integrals.
-

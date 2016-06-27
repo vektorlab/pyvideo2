@@ -15,4 +15,3 @@ Presented by Paul McMillan
 An in-depth look (with demonstrations) at the how and why of several advanced
 security topics. Discussion of ways to improve security of the framework
 moving forward.
-

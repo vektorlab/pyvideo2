@@ -29,4 +29,3 @@ with Grok. Additionally, the talk outlines pitfalls for newcomers and how to
 avoid them.
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

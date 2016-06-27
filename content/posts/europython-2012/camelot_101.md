@@ -36,4 +36,3 @@ getting the application to the users. We will discuss the deployment options
 and list the things to be aware of when submitting an application to its
 users. Q & A : Throw all Camelot questions you have in the group and try to
 resolve them together.
-

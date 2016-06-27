@@ -13,4 +13,3 @@ A walk through using Blender 2.5's new Python API to automate various
 animation tasks, using examples from the film Patent Absurdity:
 http://patentabsurdity.com/ http://patentabsurdity.com/fsf_patent_anims.tar.gz
 has the sources of the animations demonstrated.
-

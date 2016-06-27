@@ -25,4 +25,3 @@ PMC curator notes: Paul Dyson's demo at 18:28 is great.
 
 If anyone know's Philip's last name (and/or if we spelled his first name
 wrong, too), let us know in the comments.
-

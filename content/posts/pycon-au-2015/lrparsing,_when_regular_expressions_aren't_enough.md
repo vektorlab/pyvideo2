@@ -30,4 +30,3 @@ Lrparsing is very well suited to constructing Concrete Parse Trees but has littl
 IfExp(condition, 1, 2)
 
 This talk will give an overview of the major features of Lrparsing, then look at my work to add AST support. 
-

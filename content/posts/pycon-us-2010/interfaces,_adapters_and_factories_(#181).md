@@ -24,4 +24,3 @@ factories in Python and how one kind can be based on interfaces.
 
   
 [VIDEO HAS ISSUES: Beginning out of focus]
-

@@ -12,4 +12,3 @@ date: '2015-04-12'
 Our trusty friend, the hash function, is as crucial to programming as linked lists or recursion, but it doesn't always get the press that it deserves. 
 
 We're going to talk about hash functions, some data structures involving hash functions, the stately bloom filter, and the security implications of password hashing. 
-

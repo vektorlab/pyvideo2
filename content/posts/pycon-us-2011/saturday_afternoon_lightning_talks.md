@@ -21,4 +21,3 @@ Saturday Afternoon Lightning Talks
   * 31:20 Aron Griffis - Window Manglement with PyWO ([http://code.google.com/p/pywo/](http://code.google.com/p/pywo/)) 
   * 35:00 Josiah Carlson - Over-Engineering for Dummies 
   * 40:35 Grace Law - Get the job you want 
-

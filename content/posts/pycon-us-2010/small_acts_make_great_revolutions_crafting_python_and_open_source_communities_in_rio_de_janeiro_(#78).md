@@ -39,4 +39,3 @@ sum of the parts.
 In this talk, we would like to share not only our "methods" and "formulas",
 but the values and experiences that are leading us to build a strong and
 active community while having lots of fun.
-

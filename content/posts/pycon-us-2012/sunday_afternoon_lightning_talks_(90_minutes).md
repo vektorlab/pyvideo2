@@ -9,5 +9,3 @@ ThumbnailUrl: 'http://img.youtube.com/vi/5YQrFiWa50M/hqdefault.jpg'
 Title: 'Sunday Afternoon Lightning talks (90 minutes)'
 date: '2012-03-11'
 ---
-
-

@@ -26,4 +26,3 @@ Now don't get me wrong, teaching is great and we need teachers and to be taught 
 This talk will discuss mentoring.
 
 With examples drawn from learning acupuncture, yoga, astrology, pottery, working on film sets, heavy equipment operating as well as code, Anita will endeavour to share what she has learned about mentoring. She hopes you will take away the ability to recognize the difference between teaching and mentoring. She also hopes that should you decide to mentor you have some resources to help you strengthen your mentoring skills.
-

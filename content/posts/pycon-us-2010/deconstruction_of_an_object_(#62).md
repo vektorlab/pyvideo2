@@ -20,4 +20,3 @@ elements such as layered namespaces, common attributes, lifecycle and access
 controls. We'll also look at calling into, out of and through an object,
 making classes extensible and various object behaviors like containment,
 sequence, iteration and arithmetic.
-

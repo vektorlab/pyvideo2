@@ -26,4 +26,3 @@ In short: "If I’m going to get hacked, how do I make it hurt less?"
 This is a talk about defense in depth.
 
 Building a secure system isn’t about luck, it’s about planning.
-

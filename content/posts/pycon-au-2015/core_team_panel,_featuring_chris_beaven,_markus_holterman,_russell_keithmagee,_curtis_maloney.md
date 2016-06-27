@@ -10,4 +10,3 @@ Title: 'Core Team Panel, featuring: Chris Beaven, Markus Holterman, Russell Keit
   Curtis Maloney'
 date: '2015-08-04'
 ---
-

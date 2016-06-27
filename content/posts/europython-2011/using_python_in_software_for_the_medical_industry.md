@@ -28,4 +28,3 @@ primary development language was Python. We will also discuss the particular
 role of the my employer at the time in the clinical trials process and
 elaborate on the data flow that was necessary for all medical applications
 developed at the firm, not just the one in particular.
-

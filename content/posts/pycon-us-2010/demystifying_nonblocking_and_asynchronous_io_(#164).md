@@ -22,4 +22,3 @@ application. The notion of concurrency will be discussed by comparing a simple
 threaded blocking I/O application to a simple single threaded non-blocking I/O
 application by walking the attendees through the python code for those
 applications.
-

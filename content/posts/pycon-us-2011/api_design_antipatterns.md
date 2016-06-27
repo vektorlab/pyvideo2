@@ -46,4 +46,3 @@ more of my shares of API design fumbles (plus, of course, just like every
 other programmer, I've done my share of swearing at the design fumbles of
 other API designers). And, as novelist Richard Bach reminds us, "You teach
 best what you most need to learn"!-)
-

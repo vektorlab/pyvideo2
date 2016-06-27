@@ -20,4 +20,3 @@ month. Being powered by Python has allowed quick iteration of the application,
 without sacrificing code quality and performance. The talk will cover key
 parts of the architecture and development process at Disqus, including
 hardware, databases, and common bottlenecks.
-

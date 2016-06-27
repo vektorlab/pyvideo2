@@ -15,4 +15,3 @@ Presented by Noah Kantrowitz
 Chef, a popular configuration management tool, is gaining momentum in the
 Django community. Learn how to deploy Django sites using Chef, be they one
 server or a thousand.
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/byClBydNI1A/hqdefault.jpg'
 Title: 'Lightning Talks - April 11th 8h30'
 date: '2015-04-11'
 ---
-

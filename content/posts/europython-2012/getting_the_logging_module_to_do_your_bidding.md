@@ -24,4 +24,3 @@ different ways of doing this. Some of the code might be obvious in retrospect,
 and some might be surprising. Whatever the case, if you havn’t thought of
 doing this before you might be encouraged to give it a go. And if you have
 done it before you can always come and heckle.
-

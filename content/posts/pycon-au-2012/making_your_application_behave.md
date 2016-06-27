@@ -18,4 +18,3 @@ manner is appropriate.
 This presentation will provide an introduction to behaviour-driven
 development, behaviour testing in general and the behave tool along with its
 advantages over alternatives such as lettuce and freshen.
-

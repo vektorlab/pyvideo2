@@ -16,4 +16,3 @@ Advanced Python, and Embedded Systems (using the Arduino). In 2010 we had over
 1700 students participate in the Challenge. There are a number of interesting
 technical challenges which had to be overcome in order to facilitate such a
 system.
-

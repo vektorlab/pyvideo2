@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/HQxBKnrjl1w/hqdefault.jpg'
 Title: 'Accessibility: Myths and Delusions by Katie Cunningham'
 date: '2014-08-05'
 ---
-

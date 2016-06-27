@@ -30,4 +30,3 @@ Method and its variants, Dependency Injection and its ilk, Callback and
 friends -- in a highly Pythonic context. Non-pattern Idioms, and Patterns that
 aren't really Design Patterns but rather Architecture or Methodology ones,
 also make cameo appearances.
-

@@ -17,4 +17,3 @@ Presented by Steve Holden
   
 Steve addresses the Python community, thanks helpers for PyCon 2010, and talks
 about the PSF and where it's at.
-

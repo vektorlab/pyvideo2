@@ -23,4 +23,3 @@ Inhalt:
 - Ausgewählte Open-Source-Lizenzen: Apache License, GPL, AGPL, LGPL, BSD License, Eclipse Public License, ...
 
 - Praktische Nutzung von Open-Source-Software: Lizenzkompatibilität, Nutzung von Open-Source-Software in eigenen Programmen, Auswahl einer Open-Source-Lizenz für eigene Programme
-

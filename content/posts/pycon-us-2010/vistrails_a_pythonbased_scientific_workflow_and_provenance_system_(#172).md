@@ -24,4 +24,3 @@ processing pipelines that combine multiple tools and Iibraries such as VTK,
 pylab, and matplotlib. We will also show how VisTrails leverages provenance
 information not only to support result reproducibility, but also to simplify
 the creation and refinement of pipelines.
-

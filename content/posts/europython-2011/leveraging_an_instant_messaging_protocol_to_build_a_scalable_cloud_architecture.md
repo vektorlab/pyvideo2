@@ -24,4 +24,3 @@ sleekxmpp python library and how the core features of xmpp can help an
 architecture scale well horizontally.
 
 Required knowledge: basic understanding of hosting environments.
-

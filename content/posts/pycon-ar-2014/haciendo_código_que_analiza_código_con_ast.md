@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/gaNzBZa9Ah0/hqdefault.jpg'
 Title: Haciendo c\xF3digo que analiza c\xF3digo con AST\
 date: '2014-11-28'
 ---
-

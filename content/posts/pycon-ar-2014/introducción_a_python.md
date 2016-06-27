@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/VUti1RG6Jj8/hqdefault.jpg'
 Title: Introducci\xF3n A Python\
 date: '2014-11-28'
 ---
-

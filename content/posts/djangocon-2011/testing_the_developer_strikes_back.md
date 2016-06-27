@@ -19,4 +19,3 @@ understand what those needs are, or how to write tests that satisfy them. One
 of our goals as developers is to write tests that minimize failures in
 production that can cost our companies time, money, resources, and in many
 cases, hours of sleep!
-

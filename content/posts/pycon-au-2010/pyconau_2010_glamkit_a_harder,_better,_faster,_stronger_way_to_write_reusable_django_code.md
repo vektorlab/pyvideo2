@@ -31,4 +31,3 @@ already does brilliantly - to the application developers themselves.
 In this talk, we will present the history of GLAMkit's development, with
 particular focus on how our approach to reusability came about, and some
 examples of that approach.
-

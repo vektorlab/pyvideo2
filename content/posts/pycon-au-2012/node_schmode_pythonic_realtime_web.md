@@ -13,4 +13,3 @@ Using gevent, pyramid and socket-io for a micro framework approach to creating
 real-time web apps without the braces. Why is gevent so cool and how it can
 let you write fast scalable apps with asynchronous IO without twisting your
 mind.
-

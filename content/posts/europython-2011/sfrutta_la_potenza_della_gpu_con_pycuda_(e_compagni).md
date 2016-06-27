@@ -21,4 +21,3 @@ Il talk è rivolto a chiunque voglia conoscere come sfruttare questa tecnologia
 all'interno di Python, i casi in cui è conveniente utilizzarla, le pratiche da
 adottare e le pratiche da non adottare per trarre il massimo dalla propria
 GPU.
-

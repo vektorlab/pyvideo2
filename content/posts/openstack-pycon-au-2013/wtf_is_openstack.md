@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/r7wNfw-MvLA/hqdefault.jpg'
 Title: 'WTF is OpenStack'
 date: '2013-07-05'
 ---
-

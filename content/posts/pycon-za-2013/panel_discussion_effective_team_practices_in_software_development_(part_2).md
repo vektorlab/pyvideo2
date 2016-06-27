@@ -10,4 +10,3 @@ Title: 'Panel discussion: Effective Team Practices in Software Development (part
   2)'
 date: '2013-10-03'
 ---
-

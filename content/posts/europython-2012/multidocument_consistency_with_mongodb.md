@@ -20,4 +20,3 @@ some sort of transaction-like consistency. Understanding of parallellism
 issues, race conditions and deadlocks, may be helpful. MongoDB knowledge is
 not needed. Slides online at:
 [http://www2.openend.se/~iko/ep2012/](http://www2.openend.se/~iko/ep2012/)
-

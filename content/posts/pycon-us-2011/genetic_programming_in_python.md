@@ -38,4 +38,3 @@ GA/GP is fun to play with because often-times an unexpected solution will be
 created that will give new insight or knowledge. It might also present a novel
 solution to a problem, one that a human may never generate. Solutions may also
 be inscrutable, and determining why a solution works is interesting in itself.
-

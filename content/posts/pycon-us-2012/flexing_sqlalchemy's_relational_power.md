@@ -15,4 +15,3 @@ critical queries, plans indexing and migrations, and generates efficient
 reports? This talk will teach you how databases think; why humanity invented
 the Relational Algebra; and how SQLAlchemy grants you access to relational
 power.
-

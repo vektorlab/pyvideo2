@@ -30,4 +30,3 @@ your live applications. The key things to cover are:
   * how to incorporate IRC or IM bots so we can interact with our apps from the desktop, and how they can interact with us. 
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

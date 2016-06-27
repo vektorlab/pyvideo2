@@ -19,4 +19,3 @@ using Django in these ways.
 
   
 [VIDEO HAS ISSUES: video freezes at times, but audio continues]
-

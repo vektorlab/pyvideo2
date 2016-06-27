@@ -23,4 +23,3 @@ lightweight. Pynie allows Python 3 libraries to be shared between multiple
 languages. This talk is an overview of the features Pynie currently supports
 and the work left to be done, together with an introduction to the internals
 of Pynie.
-

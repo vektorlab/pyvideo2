@@ -14,4 +14,3 @@ Python code. But how does PyPy JIT actually work? This talk will discuss how
 the PyPy JIT is implemented. It will include descriptions of the tracing,
 optimization, and assembly generation phases. I will demonstrate each step
 with a example loop.
-

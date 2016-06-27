@@ -12,4 +12,3 @@ date: '2010-07-08'
 Python has a reputation for being a bit slow, but it doesn't have to be that
 way. This talk will cover why Python is slow, and what two of the most
 exciting virtual machines are doing about it.
-

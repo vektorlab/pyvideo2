@@ -15,4 +15,3 @@ Presented by Tim Penhey
 Keynote
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

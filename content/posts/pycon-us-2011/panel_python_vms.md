@@ -30,4 +30,3 @@ All four major Python VMs will be represented:
   * [IronPython](http://ironpython.net/): Dino Viehland 
   * [PyPy](http://pypy.org/): Maciej Fijalkowski 
 Moderation will be handled by Jacob Kaplan-Moss of Django.
-

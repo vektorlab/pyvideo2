@@ -22,4 +22,3 @@ Open Source-Komponenten zum Einsatz. Unseres Wissens nach ist DEXISION nach
 wie vor die einzige kommerzielle Finanzlösung dieser Art, die in allen
 Bereichn -- auch bei rechenintensiven Simulationsaufgaben -- voll auf Python
 setzt.
-

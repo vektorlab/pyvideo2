@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/dj9RR4BSqvM/hqdefault.jpg'
 Title: 'Keynote: How Python works as a teaching language'
 date: '2015-09-05'
 ---
-

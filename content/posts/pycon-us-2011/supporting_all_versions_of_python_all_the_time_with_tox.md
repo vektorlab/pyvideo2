@@ -36,4 +36,3 @@ all versions of Python and report detailed failures.
 
 Your app supports Python 3, right? No? Tox is the best way to develop in
 parallel with 2.x and 3.x. We'll go over how to set up tox for that.
-

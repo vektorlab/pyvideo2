@@ -24,4 +24,3 @@ apportare cambiamenti alla propria dieta o alla propria
 attivitÃ&nbsp_place_holder; fisica. NÃ¨ il relatore, nÃ¨ l’organizzazione
 della conferenza saranno responsabili di lesioni o malattie derivanti
 dall’applicazione di concetti discussi in questo talk.
-

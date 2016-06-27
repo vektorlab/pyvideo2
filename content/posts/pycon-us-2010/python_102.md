@@ -55,4 +55,3 @@ Bring a laptop computer with Python 2.6 or 3.1 installed. Try to get as much
 of an overview of Python before the tutorial as you have time to in order to
 get more out of the tutorial. Two angles on this are the Python Quick
 Reference and the Python website's tutorial.
-

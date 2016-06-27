@@ -16,4 +16,3 @@ Lightning talks - Tuesday morning
   * 16:35 - ?: Philo 
   * 20:10 - 21:10 (musical interlude) 
   * 21:40 - Steve Holden: Making a Small Positive Difference 
-

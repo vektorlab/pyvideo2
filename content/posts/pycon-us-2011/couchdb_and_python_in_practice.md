@@ -54,4 +54,3 @@ Scaling
   * Distributed map/reduce 
   * BigCouch 
   * Read/write quorum 
-

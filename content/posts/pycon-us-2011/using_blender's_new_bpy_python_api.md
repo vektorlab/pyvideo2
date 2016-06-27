@@ -22,4 +22,3 @@ shown as an example.
 
 If there is time, a brief demo of the Blender Game Engine will also be given,
 though that is a separate API.
-

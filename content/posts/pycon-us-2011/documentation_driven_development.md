@@ -33,4 +33,3 @@ away.
 A guide to what to write. Many developers leave documentation undone because
 they don't know how to approach it. Having some idea of what needs writing can
 make the task seem less daunting.
-

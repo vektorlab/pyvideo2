@@ -24,4 +24,3 @@ date: '2015-08-08'
 52:29 Brian Thron - Roll your own crypto
 57:18 Thuran Sunti - UQ Robotics Club
 1:02:35 Robert Collins - Data driven testing
-

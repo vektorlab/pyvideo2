@@ -14,4 +14,3 @@ ease of use; learn how to use this balance to create awesome looking websites.
 This talk will cover the basics and best practices of Django templating, from
 custom tag and filter creation, to the finer points of template rendering and
 loading, and even to replacing the default templating engine itself.
-

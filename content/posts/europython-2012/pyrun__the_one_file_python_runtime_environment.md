@@ -14,4 +14,3 @@ ship products based on Python, create custom private Python environments and
 have Python readily available without having to install it first. The talk
 will give a short introduction on what pyrun can deliver, how it can be used
 and how to build it.
-

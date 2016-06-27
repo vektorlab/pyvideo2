@@ -24,4 +24,3 @@ Twisted user get things done concurrently.
 
   
 [VIDEO HAS ISSUES: Picture out of focus at the beginning]
-

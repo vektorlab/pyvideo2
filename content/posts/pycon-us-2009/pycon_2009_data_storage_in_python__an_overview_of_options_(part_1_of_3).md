@@ -17,4 +17,3 @@ this course is to give the participants an overview over available options as
 well as there advantages and disadvantages for different purposes.
 Participants are strongly recommended to bring laptops because all topics are
 introduced with examples and exercises.
-

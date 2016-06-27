@@ -16,4 +16,3 @@ When tasked with displaying geo-data, most developers decide to put some big
 red markers on an embeddable Google Map and call it a day. If you're
 interested in creating maps that are more beautiful, more interactive, and
 more usable, this talk is for you.
-

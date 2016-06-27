@@ -27,4 +27,3 @@ ZIB Optimization Suite and its new Python interface.
 
   
 [VIDEO HAS ISSUES: Audio buzzing]
-

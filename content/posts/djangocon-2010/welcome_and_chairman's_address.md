@@ -13,4 +13,3 @@ Welcome and Chairman's Address
 Presented by Steve Holden
 
 [VIDEO HAS ISSUES: Looks like the presentation started before recording.]
-

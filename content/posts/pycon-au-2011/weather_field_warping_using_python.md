@@ -16,4 +16,3 @@ are solving the interesting problem of weather field warping. Warping (aka
 non-linear image registration) is used, for example, to determine what the
 predicted temperature will be hourly if we only have predictions every three
 hours
-

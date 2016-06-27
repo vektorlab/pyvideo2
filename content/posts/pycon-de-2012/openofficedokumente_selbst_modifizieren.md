@@ -32,4 +32,3 @@ deren Berechnung partout nicht ins Konzept der Calc-Formeln passen will.
 Dabei sind allerdings einige kleine Stolpersteine zu beachten, auf die der
 Vortrag hinweist. Die hier vorgestellte Klasse ist eine mögliche Methode, um
 sich auf die "wesentlichen Dinge" konzentrieren zu können.
-

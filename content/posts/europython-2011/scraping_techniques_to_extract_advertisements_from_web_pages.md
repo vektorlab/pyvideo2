@@ -31,4 +31,3 @@ finding the most relevant ads for a generic web page p. Starting from p, the
 system selects a set of its inlinks (i.e., the pages that link p) and extracts
 the ads contained into them. Selection is performed querying the Google search
 engine, whereas extraction is made by using suitable scraping techniques.
-

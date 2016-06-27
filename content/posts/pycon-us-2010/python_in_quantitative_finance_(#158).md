@@ -25,4 +25,3 @@ common financial and economic data sets.
 A variety of examples will be presented to explore Python's current status as
 a replacement for other statistical computing environments (as compared with
 R, MATLAB, or other commercial and open-source statistical products).
-

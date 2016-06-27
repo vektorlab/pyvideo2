@@ -22,4 +22,3 @@ Python. Using a customized TurboGears as a core component, the rewrite was
 completed and the new site deployed in under 2 months. This talk tells the
 story of that rewrite and explains our new technology stack, which includes
 TurboGears, MongoDB, and Jinja templates.
-

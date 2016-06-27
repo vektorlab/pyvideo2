@@ -10,4 +10,3 @@ Title: 'IPython & Jupyter in depth: high productivity interactive and parallel p
 date: '2015-04-09'
 ---
 IPython and Jupyter provide tools for interactive and parallel computing that are widely used in scientific computing, but can benefit any Python developer. We will show how to use IPython in different ways, as: an interactive shell, a graphical console, a network-aware VM in GUIs, a web-based notebook with code, graphics and rich HTML, and a high-level framework for parallel computing.
-

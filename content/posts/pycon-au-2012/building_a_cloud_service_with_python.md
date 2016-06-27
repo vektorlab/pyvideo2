@@ -21,4 +21,3 @@ built on Amazon Web Services (AWS) cloud infrastructure, including:
 From a business point of view I will also talk about the opportunities that
 modern cloud computing platforms present to developers and how to best exploit
 them.
-

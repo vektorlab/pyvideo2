@@ -13,4 +13,3 @@ Share the lessons learned from a decade of core Python development, what
 worked and what didn't. Look at the development process and thinking behind
 some of Python's successful APIs and ones that leave something to be desired.
 Learn general principles for designing a good API for public consumption.
-

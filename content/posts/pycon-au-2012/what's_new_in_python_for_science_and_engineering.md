@@ -16,4 +16,3 @@ for data analysis, and IPython integration with SymPy, R, and Cython. It will
 then give you an update on the status of Python 3 ports of major packages. It
 will show why Python is an outstanding tool for science and engineering work,
 and getting better.
-

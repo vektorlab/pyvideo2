@@ -32,4 +32,3 @@ salesforce.com. We will demonstrate how a Plone website can post forms,
 ecommerce transactions, and event RSVPs to salesforce. Additionally, we will
 show how developers can make Salesforce.com data interactive in a Plone
 website.
-

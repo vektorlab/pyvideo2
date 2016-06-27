@@ -16,4 +16,3 @@ not so short) bits of code allow you to customize almost every aspect of Trac
 to your liking. Come learn how to get 110% out of your Trac system, or just
 see what Trac can do for you. Attendees should bring a laptop for the hands-on
 portion or the tutorial.
-

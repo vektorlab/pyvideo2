@@ -46,4 +46,3 @@ Abstract
       4. Example 4: Developement process made simple with Distutils2 
     6. Conclusion 
       1. Roadmap 
-

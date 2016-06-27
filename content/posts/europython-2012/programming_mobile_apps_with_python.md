@@ -16,4 +16,3 @@ Python which is a bit of shame. This talk covers the various mobile platforms
 and explains current solutions for programming apps with Python. It shows
 todays problems as well as possibilities, so that every listener can decide
 whether Python is already ready for his mobile app project.
-

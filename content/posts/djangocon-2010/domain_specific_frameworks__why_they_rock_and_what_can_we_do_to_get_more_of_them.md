@@ -36,4 +36,3 @@ ImageKit. Some of the patterns to be reviewed include registration, backends,
 and framework integration/independence. Finally, the future facing discussion
 will explore possible tools to make DSF building easier and steps general
 purpose frameworks (Django) can take to ease integration.
-

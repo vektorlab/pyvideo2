@@ -10,4 +10,3 @@ Title: 'EuroPython 2012 - Track Big Mac'
 date: '2012-07-03'
 ---
 None
-

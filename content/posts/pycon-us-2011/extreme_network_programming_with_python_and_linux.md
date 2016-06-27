@@ -29,4 +29,3 @@ covered. Use of Python can enable building a custom protocols, debugging a
 network, fixing broken nets, custom logging and processing, and simulation of
 networks. The author will talk about his experiences using Python on Linux for
 extreme network programming and possibilities for future efforts.
-

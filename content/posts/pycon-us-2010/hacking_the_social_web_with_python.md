@@ -45,4 +45,3 @@ Class Outline
 Requirements
 
 Some experience doing web development or working with web service APIs
-

@@ -30,4 +30,3 @@ that people have about what's out there today.
   
 [VIDEO HAS ISSUES: Audio cuts out at about 20 seconds in, then gets out of
 sync until around 3:10.]
-

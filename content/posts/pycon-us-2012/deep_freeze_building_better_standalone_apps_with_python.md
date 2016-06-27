@@ -15,4 +15,3 @@ legacy platforms? Want to add professional touches like code signing? And want
 to do this all in a cross-platform manner? This talk will show you the tools
 you can use to make your frozen apps better in a variety of small yet
 important ways.
-

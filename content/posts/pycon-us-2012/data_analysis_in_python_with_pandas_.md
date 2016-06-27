@@ -14,4 +14,3 @@ large and small structured data sets in Python using the pandas library. While
 the focus will be on learning the nuts and bolts of the library's features, I
 also aim to demonstrate a different way of thinking regarding structuring data
 in memory for manipulation and analysis.
-

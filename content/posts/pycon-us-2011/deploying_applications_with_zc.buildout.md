@@ -60,4 +60,3 @@ Outline:
     * Implemented with ssh, system packaging tools (e.g. yum) and buildout-based tools. 
     * Four levels of abstraction 
     * Current status 
-

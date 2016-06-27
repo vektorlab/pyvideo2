@@ -13,4 +13,3 @@ date: '2012-11-10'
 In January 2012, Amazon introduced DynamoDB, a NoSQL database service with
 seamless, linear scalability. How can we neatly integrate it in Python
 applications and address its shortcomings?
-

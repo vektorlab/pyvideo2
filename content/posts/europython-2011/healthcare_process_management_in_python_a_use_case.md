@@ -29,4 +29,3 @@ prototyping cycles for both hardware and software, but during the talk I'll
 also point out what we found was missing, and what would be nice to have to
 ensure Python has its proper place as a viable platform for designing
 streamlined healthcare workflows based on established international standards.
-

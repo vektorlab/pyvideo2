@@ -15,4 +15,3 @@ Bibliotheken und Modulen, die in C++ geschrieben sind, wird die Brillianz und
 Einfachheit von Python als vollwertige Programmiersprache auch für
 Grafikanwendungen sehr deutlich. Hier wird exemplarisch das Zusammenspiel der
 mächtigen Grafikbibliothek OpenCV mit Python demonstriert.
-

@@ -22,4 +22,3 @@ types of actions to displaying custom SQLAlchemy queries in a table view.
 We will share our experiences with large scale deployment of Python and
 Camelot applications to the desktop of the user. In a number of case studies
 we will point out the mistakes we made and how they were corrected.
-

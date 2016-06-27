@@ -14,4 +14,3 @@ API and relational databases in general. Connection, cursors and transactions
 are discussed, and their use in a typical Python database application are
 demonstrated. The talk will also touch upon some advanced database programming
 techniques and discuss best practices.
-

@@ -25,4 +25,3 @@ buildbot, bitten, Hudson, continuum, CruiseControl, DART, and pony-build, and
 discuss the configuration and customization of several of these systems for
 Pythonic needs, as well as give short demos (for buildbot, bitten, Hudson, and
 pony-build).
-

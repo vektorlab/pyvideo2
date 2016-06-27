@@ -30,4 +30,3 @@ moderne objektorientierte Systeme, die auf GUI Toolkits aufbauen, vorgesehen.
 Darüber hinaus werden die Stärken des GR-Frameworks in Bezug auf die
 Interoperabilität mit aktuellen Web-Technologien und mobilen Geräten
 herausgestellt.
-

@@ -58,4 +58,3 @@ application with some of the newer APIs that come with App Engine. The codelab
 will cover the Users service, non-relational Datastore, and Memcache APIs.
 Time-permitting, we'll also discuss some of the newest features found in
 recent App Engine releases.
-

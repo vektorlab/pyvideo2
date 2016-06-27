@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: '0_sprint-introduction.m4v'
 ---
-

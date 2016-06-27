@@ -14,4 +14,3 @@ is widely used and provides a simple interface for creating a wide variety of
 plots from very simple diagrams to sophisticated animations. This tutorial is
 a hands-on introduction that teaches the basics of matplotlib. Students will
 learn how to create publication-ready plots with just a few lines of Python.
-

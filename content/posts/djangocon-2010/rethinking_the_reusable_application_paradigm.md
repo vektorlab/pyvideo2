@@ -50,4 +50,3 @@ By using these techniques you can develop reusable application that work
 beyond any single use case. Of course there are cases where you don't need any
 of these, and just need something that fits "traditional" reusable application
 paradigm, so this talk will cover when that works as well.
-

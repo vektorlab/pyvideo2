@@ -15,4 +15,3 @@ deduplicate tabular data, quickly, accurately, and at a large scale. The
 library facilitates the matching of related records in different data sets,
 using a machine learning approach. They expect to have a demo to show and will
 explain how they expect that the library will be used.
-

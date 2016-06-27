@@ -38,4 +38,3 @@ background.
 Some basic familiarity with Django's GIS features would be useful for this
 talk, although it might also serve as a motivating introduction to trying
 things out. The code shown will be available for download after the talk.
-

@@ -16,4 +16,3 @@ Behind the scenes, ManyToManyField uses an intermediary table to record its rela
 Enter Postgres, the hip, switched-on parent who works as a public defender and gets on uncomfortably well with your friends. Postgres builds on a wealth of relational history while embracing modern non-relational ideas in a thoughtful, sane way.
 
 In this talk, we'll press full-text search, one of Postgres' repertoire of many useful features, into a service it performs remarkably well despite being designed for quite a different purpose. Code and benchmarks provided!
-

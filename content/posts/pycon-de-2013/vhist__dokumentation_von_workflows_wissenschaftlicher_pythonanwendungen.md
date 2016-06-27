@@ -11,4 +11,3 @@ Title: 'VHIST - Dokumentation von Workflows wissenschaftlicher Python-Anwendunge
 date: '2013-10-17'
 ---
 Wir haben mit VHIST ein Dateiformat entwickelt, um Workflows im Bereich Scientific Computing  möglichst vollständig zu erfassen. VHIST ist PDF-kompatibel sowie PDF-unabhängig auswertbar. Wir bieten Werkzeuge, um halb- bzw. vollautomatisch VHIST-Dateien zu generieren und auszuwerten. Die Referenzimplementierung verwendet Python; Python-(scriptable)-Programme können besonders gut integriert werden.
-

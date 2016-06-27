@@ -33,4 +33,3 @@ It's split roughly into two parts:
 This talk is mostly targeted towards those documenting libraries or frameworks
 intended for use by other developers, but much of it probably applies to any
 sort of technical documentation.
-

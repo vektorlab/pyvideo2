@@ -12,4 +12,3 @@ date: '2011-02-10'
   * 1 [http://us.pycon.org/2011/schedule/sessions/198/](http://us.pycon.org/2011/schedule/sessions/198/)
   * 2 [http://pip.openplans.org/](http://pip.openplans.org/)
   * 3 [http://virtualenv.openplans.org/](http://virtualenv.openplans.org/)
-

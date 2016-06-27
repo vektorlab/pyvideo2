@@ -17,4 +17,3 @@ script? Yes, we can. Can we add, delete, modify users of our Goole Apps with
 Python script? Yes, we can. Can we integrate our Python, Django projects with
 Google Apps? Yes, we can. Go to show how Pyhton and Gdata library can afford
 to do and if Google Apps really loves Python…
-

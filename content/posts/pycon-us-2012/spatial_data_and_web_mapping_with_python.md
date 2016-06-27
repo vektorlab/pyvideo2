@@ -15,4 +15,3 @@ regularly handle, they needn’t be the domain of specialists. High-quality
 Python libraries and Python-based applications exist for operating on and
 transforming spatial data, and for creating visualizations, including maps for
 presentation on the web.
-

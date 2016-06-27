@@ -16,4 +16,3 @@ Presented by Maciej Fijalkowski
 
   
 Talks about the current state of PyPy.
-

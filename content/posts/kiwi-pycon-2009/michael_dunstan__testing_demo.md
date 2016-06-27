@@ -32,4 +32,3 @@ workshop-2455697](http://www.slideshare.net/michaeldunstan/testing-
 workshop-2455697)
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

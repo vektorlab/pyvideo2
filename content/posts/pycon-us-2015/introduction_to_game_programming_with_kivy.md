@@ -10,4 +10,3 @@ Title: 'Introduction to game programming with Kivy'
 date: '2015-04-12'
 ---
 This tutorial will walk the attendees through development of a simple game using Kivy with time left over for some experimentation and exploration of different types of games.
-

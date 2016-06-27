@@ -14,4 +14,3 @@ some of the basics as well as trying to compare it with other concurrency
 options. The focus will be on its application in a few recent projects as well
 as a comparison of Python's gevent and node.js. Some of the demos will also be
 using matplotlib in honor of John Hunter's passing.
-

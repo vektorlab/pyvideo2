@@ -31,4 +31,3 @@ web interfaces.
 This will be a very concentrated version (10%) of a course (CSC438) on web
 frameworks the author teaches at DePaul University. The course has been taught
 3 times and the last time counted more than 30 students.
-

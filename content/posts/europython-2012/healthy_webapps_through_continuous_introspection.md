@@ -35,4 +35,3 @@ and eliminate the hotspots, both passively through monitoring exclusively, as
 well as actively by selectively interrupting workers before they get killed
 and examine how to effectively interpret the automatically collected forensic
 evidence.
-

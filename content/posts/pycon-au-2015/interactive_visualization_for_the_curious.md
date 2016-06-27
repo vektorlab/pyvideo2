@@ -18,4 +18,3 @@ Thankfully, several recent Python projects are making progress toward this goal 
 This talk will give shiny demos and review these newer projects thoroughly vis-a-vis other libraries to help you decide whether, or when, to adopt one of them as your go-to visualization library. We will answer these questions: How does the performance compare? Would you need to rewrite all your plotting code? What would it take to integrate Bokeh or VisPy well with the current ecosystem of Python plotting libraries and data analysis tools? What is on the horizon for the different projects? Where do the Jupyter project's interactive widgets fit into this picture?
 
 Come to hear a critical review about the past, present, and future of interactive visualization in Python.
-

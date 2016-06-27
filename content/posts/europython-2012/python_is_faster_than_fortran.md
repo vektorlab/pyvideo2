@@ -21,4 +21,3 @@ for large data sizes. The comparison of program run times and lines of code,
 which can be roughly translated into development effort, shows that Python can
 actually be faster than FORTRAN under many circumstances typically found in
 real life.
-

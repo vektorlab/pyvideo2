@@ -14,4 +14,3 @@ Monads shouldn't be difficult to understand. This talk aims to show what monads 
 In this talk, I'll touch briefly on category theory (don't worry, it's not scary), and a couple of practical implementation of monads. You don't have to be a functional programmer or a Haskeller to use monads.
 
 Lastly I shall attempt to lay out a good rationale to use more monads when programming in Python
-

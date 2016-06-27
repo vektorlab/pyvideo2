@@ -18,4 +18,3 @@ Jython is back, and better than ever.
 
   
 [VIDEO HAS ISSUES: house audio]
-

@@ -20,4 +20,3 @@ tools to quickly and easily identify "broken" code.
 
 In this session we'll explore the unittest module and demonstrate how to
 leverage PyUnit for unit testing.
-

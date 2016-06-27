@@ -18,4 +18,3 @@ unanswered. How do you decouple resources from models, formatting from
 definitions, authorization from authentication? How should you define
 resources? How do you handle pagination? Deliver facets? Prevent abuse?
 Implement versioning? Let's have a look.
-

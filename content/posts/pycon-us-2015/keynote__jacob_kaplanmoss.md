@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/hIJdFxYlEKE/hqdefault.jpg'
 Title: 'Keynote - Jacob Kaplan-Moss'
 date: '2015-04-12'
 ---
-

@@ -31,4 +31,3 @@ Weitere Themen sind
 * Eigene Open-Source Projekte durch Externe weiterentwickeln lassen
 
 Als konkrete Beispiele dienen diverse in Python entwickelte Open-Source Projekte der ImmobilienScout24.
-

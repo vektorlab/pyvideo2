@@ -20,4 +20,3 @@ with the Python community!
 
   
 [VIDEO HAS ISSUES: ambient mic left on; results in echoing audio]
-

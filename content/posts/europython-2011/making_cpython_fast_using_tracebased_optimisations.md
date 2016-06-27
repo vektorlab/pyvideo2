@@ -24,4 +24,3 @@ etc.).
 
 For more information see
 [http://hotpy.blogspot.com/](http://hotpy.blogspot.com/)
-

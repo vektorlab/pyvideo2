@@ -18,4 +18,3 @@ Lightning Talks Day 3
 
   
 (09:50) PSF, Pony Magic - James Tauber
-

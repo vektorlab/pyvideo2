@@ -15,4 +15,3 @@ applicazione. Durante la presentazione exploreremo gli strumenti integrati a
 disposizione degli sviluppatori per la creazione di nuove funzionalità, la
 progettazione di stampe o per dialogare con dispositivi mobile e applicazioni
 di terze parti.
-

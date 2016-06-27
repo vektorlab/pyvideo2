@@ -24,4 +24,3 @@ and application domains, at the end participants should be able to write a
 simple application making use of parallel programming techniques, visualize
 the output, and know how to confidently proceed with future projects with
 Python.
-

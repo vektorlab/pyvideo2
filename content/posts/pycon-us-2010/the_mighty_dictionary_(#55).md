@@ -24,4 +24,3 @@ of its behavior, we will train the Python developer's mind to picture what the
 dictionary is doing in just enough detail to make good decisions, as your data
 sets get larger, about when to use dictionaries and when other data structures
 might be more appropriate.
-

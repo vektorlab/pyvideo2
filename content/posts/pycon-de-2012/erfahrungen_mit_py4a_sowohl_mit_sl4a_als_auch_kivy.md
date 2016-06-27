@@ -23,4 +23,3 @@ plattformübergreifend ausgelegt ist und für alle Platformen (Windows, Mac,
 Linux, iOS, Android) auf OpenGL ES 2.0 aufgebaut ist. Der Vortrag wird weniger
 in die Details eingehen, als eher die Möglichkeiten aufzeigen, Python auch auf
 Smartphones zu nutzen und einzusetzen.
-

@@ -30,4 +30,3 @@ Interesse hat, kann einfach so im Forum auf [python-forum.de](http://www
 Der Vortragende ist nun seit einigen Jahren Mitglied im Foren-Team und sowohl
 im Forum als auch auf der Newsgroup/Mailingliste und hat schon eine ganze
 Reihe Trends gesehen und Threads gelesen.
-

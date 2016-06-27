@@ -14,4 +14,3 @@ on top of a protocol-agnostic IOLoop, presenting an alternative to Twisted as
 a foundation for asynchronous application development in Python. This talk
 covers the Tornado IOLoop, its features and the process of writing drivers and
 applications using it.
-

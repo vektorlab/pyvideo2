@@ -22,4 +22,3 @@ that commands, simulates and controls Tortuga. Also learn about the trials,
 tribulations, and glory experienced developing, competing, losing, and winning
 with Tortuga in AUVSI AUV Competition ([http://www.auvsi.org/competitions/wate
 r.cfm](http://www.auvsi.org/competitions/water.cfm)).
-

@@ -14,4 +14,3 @@ deep look at three of the components I have found most useful in my own
 projects: Haystack for full-text search, Celery for offline processing and
 Fabric for automated eployments. I'll discuss how we use them for Lanyrd.com,
 and demonstrate why they deserve a permanent place in your toolbox.
-

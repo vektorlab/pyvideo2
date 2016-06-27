@@ -15,4 +15,3 @@ show how we do it. The talk will cover: architecture of bank transactional
 system tools used to create such solutions python frameworks used to build
 bank applications generating advanced forms and tables testing process build
 process logging what to focus on when you work with banks
-

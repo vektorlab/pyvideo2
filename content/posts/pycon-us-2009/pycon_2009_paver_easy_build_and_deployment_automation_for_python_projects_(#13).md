@@ -16,4 +16,3 @@ kind of scaffolding on which to automate building and packaging of your
 software. In this talk, you'll see how easy it is to get started with Paver,
 how you can use Paver without alienating other users of your code, and how you
 can use Paver to trivially extend Python's distutils commands.
-

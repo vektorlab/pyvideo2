@@ -17,4 +17,3 @@ rejected. This talk will attempt explain the reasoning behind a couple of
 specific decisions. More broadly, this talk will aims to provide general
 guidance on the decision making process of the Django core. It will also
 address how you can get started contributing to Django.
-

@@ -23,4 +23,3 @@ the way we program:
   * what is the role of the python community
   * why does the license matter
   * does python just have zen or is there a python attitude?
-

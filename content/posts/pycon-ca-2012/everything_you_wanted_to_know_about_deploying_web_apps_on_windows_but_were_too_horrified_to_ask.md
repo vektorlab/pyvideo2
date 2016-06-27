@@ -16,4 +16,3 @@ ship Python backed web sites on Windows that are cumulatively visited by 1 in
 Python based web applications on Windows, why you might want to do this and
 and the horrors in store for you if you choose to sacrifice your sanity and
 dive in.
-

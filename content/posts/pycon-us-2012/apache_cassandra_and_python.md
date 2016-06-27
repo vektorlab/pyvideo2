@@ -13,4 +13,3 @@ Using Apache Cassandra from Python is easy to do. This talk will cover setting
 up and using a local development instance of Cassandra from Python. It will
 cover using the low level thrift interface, as well as using the higher level
 pycassa library.
-

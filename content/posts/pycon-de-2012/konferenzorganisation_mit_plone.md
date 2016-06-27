@@ -24,4 +24,3 @@ zusammenzustellen. Es verwaltet dabei auch Speaker und Konferenzräume. In
 einer weiteren Ausbaustufe ist vorgesehen, Teilnehmer einer Konferenz zu
 verwalten, einschließlich der Abwicklung des Ticketentgelts bzw. von
 Teilnehmerentgelten.
-

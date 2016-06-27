@@ -17,4 +17,3 @@ web frameworks Pylons and Turbogears as well as many other web and non-web
 developers. This tutorial teaches SQLAlchemy's object-relational mapping to
 automate painlessly loading and persisting objects from and to your database,
 even when complex relationships exist.
-

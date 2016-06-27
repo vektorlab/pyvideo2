@@ -15,4 +15,3 @@ We'll also discover what makes some code more testable than others, and how
 mocks and fakes can help isolate the code to be tested (and why you want to do
 that). Finally, we'll touch on some tools to help make writing and running
 tests easier.
-

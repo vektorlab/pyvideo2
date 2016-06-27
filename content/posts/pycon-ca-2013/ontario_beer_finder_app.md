@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/oTlK8co9VFE/hqdefault.jpg'
 Title: 'Ontario Beer Finder App'
 date: '2013-08-11'
 ---
-

@@ -23,4 +23,3 @@ for distributed coordination and state management of the managed machines, and
 LXC for higher utilization of machines and minimal separation of deployed
 services. It can deploy to physical machines as well as cloud environments
 like AWS/EC2 and Openstack.
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/CNobTNnJeFE/hqdefault.jpg'
 Title: 'Lightning Talks Sunday and Conference Close'
 date: '2012-08-23'
 ---
-

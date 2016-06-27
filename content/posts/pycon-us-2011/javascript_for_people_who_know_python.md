@@ -21,4 +21,3 @@ You know Python. You should know Javascript. The two aren't so different, but
 this talk will explain exactly how they are different -- lists, dicts,
 objects, functions, loops and all the other details of Javascript described in
 terms of Python.
-

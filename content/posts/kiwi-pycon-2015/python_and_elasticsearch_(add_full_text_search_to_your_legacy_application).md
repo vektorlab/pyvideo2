@@ -26,6 +26,3 @@ At GrabOne we started to use Elasticsearch a year ago and integrate it with Djan
 ## GrabOne use case
 * Started by redoing the search page
 * Rebuilding the entire frontend using Elasticsearch as datasource for a Django website
-
-
-

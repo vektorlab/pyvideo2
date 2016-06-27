@@ -15,4 +15,3 @@ previous would needed to be written in C or other low-level language. This
 talk will show examples of this, and describe how they represent the
 tremendous progress PyPy has made, and what it means for people looking to use
 PyPy.
-

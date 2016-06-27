@@ -16,4 +16,3 @@ much everywhere, it really will feel like a lifesaver. A one-line web server?
 A super-simple GUI test automation suite? Come and hear about all those handy
 tips and tricks that will get you out of a bind. One day, somewhere you'll be
 glad you did!
-

@@ -21,4 +21,3 @@ Package Index modules comparing and contrasting configuration formats and the
 code that consumes them. Specifically, I would like to walk through the use of
 the csv module, the ConfigParser module, ConfigObj, lxml, PyYaml and
 SimpleJSON.
-

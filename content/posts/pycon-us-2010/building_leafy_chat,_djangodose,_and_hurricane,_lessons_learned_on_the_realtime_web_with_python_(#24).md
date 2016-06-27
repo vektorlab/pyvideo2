@@ -21,4 +21,3 @@ Websites are getting increasingly dynamic and realtime in order to compete
 with desktop applications. This talk is an examination of 3 websites/tools
 I've built, all using Python. I'm going to try to explain what we did to build
 these, and how you can do the same.
-

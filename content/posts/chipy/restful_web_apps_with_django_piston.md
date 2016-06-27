@@ -18,4 +18,3 @@ Fortunately a third-party Django application called Piston fills the gap.
 Django/Piston can be combined with the Ext JS JavaScript framework and widget
 set to create attractive, responsive Web applications, and this talk will show
 you how.
-

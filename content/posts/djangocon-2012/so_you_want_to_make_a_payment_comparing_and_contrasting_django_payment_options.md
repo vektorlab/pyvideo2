@@ -28,4 +28,3 @@ Topics will include:
   * Example Code snippets for payment processing
   * Useful Python/Django payment-related modules 
   * Q&A 
-

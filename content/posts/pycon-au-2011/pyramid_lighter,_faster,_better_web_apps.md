@@ -15,4 +15,3 @@ of the advanced features of pyramid that give it it's power such as traversal.
 Pyramid is part of the pylons project and is a successor to pylons and a
 continuation of the BFG framework. It's very simple to learn, runs fast yet
 has powerful concepts which help keep large web app creation a sane process..
-

@@ -18,4 +18,3 @@ communities in a variety of ways. In this talk Steve examines some of the
 models that are being used, and takes a look at the possibilities for new ways
 
 of working in the open source world.
-

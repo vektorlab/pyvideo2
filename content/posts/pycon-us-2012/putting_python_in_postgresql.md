@@ -13,4 +13,3 @@ PostgreSQL is pretty powerful all on it's own, but did you know you can use
 Python as a stored procedure language? Not only does using a familiar language
 make development easier, but you get the power of the standard library and
 PyPi to boot. Come learn the ins and outs of putting Python in your DB.
-

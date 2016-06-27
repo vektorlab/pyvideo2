@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/N_H6JpkgM8s/hqdefault.jpg'
 Title: 'Opening Statements - Julia Evans'
 date: '2015-04-10'
 ---
-

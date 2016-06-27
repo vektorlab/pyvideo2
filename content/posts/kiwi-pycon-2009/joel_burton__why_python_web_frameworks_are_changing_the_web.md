@@ -18,4 +18,3 @@ Slides from the keynote: http://www.slideshare.net/joelburton/why-python-web-
 frameworks-are-changing-the-web
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

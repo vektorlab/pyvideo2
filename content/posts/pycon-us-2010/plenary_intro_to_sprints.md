@@ -10,4 +10,3 @@ Title: 'Plenary: Intro to sprints'
 date: '2010-02-19'
 ---
 Plenary: Intro to Sprinting and Intro to Sprints
-

@@ -26,4 +26,3 @@ The following highlight the issues we'll discuss during the talk:
 
 As caching problems become more common, better layers and mini-frameworks will
 help simplify and elegantly solve some of these problems.
-

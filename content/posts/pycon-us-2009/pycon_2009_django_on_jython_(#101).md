@@ -17,4 +17,3 @@ will show examples of how to use this combination, engage a discussion about
 what can take the Python (and Django) community from the Java world,
 especially the necessary infrastructure bits, and how a Django/Jython stack
 compares with other JVM web stacks like JRuby on Rails.
-

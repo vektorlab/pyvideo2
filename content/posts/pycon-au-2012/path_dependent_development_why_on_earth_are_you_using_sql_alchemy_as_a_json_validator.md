@@ -30,4 +30,3 @@ Understanding some of these factors can help with understanding why:
   * "good enough" is usually a better target than "perfect"
   * "Not Invented Here" syndrome is not always the villain it is frequently made out to be
   * the need to extensively rewrite existing components is not always a sign of past failure
-

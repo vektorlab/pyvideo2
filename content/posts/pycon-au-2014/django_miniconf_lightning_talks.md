@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/MoQs_4DO-h4/hqdefault.jpg'
 Title: 'Django MiniConf: Lightning talks'
 date: '2014-08-07'
 ---
-

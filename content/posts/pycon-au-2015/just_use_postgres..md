@@ -37,4 +37,3 @@ This talk will explore the capabilities of Postgres 9.4, and various use-cases w
 - Partitioning and Sharding data.
 
 Each topic will include links to sample schemas and iPython notebooks so you can take these examples home with you.
-

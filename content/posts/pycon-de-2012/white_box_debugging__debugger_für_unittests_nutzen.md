@@ -30,4 +30,3 @@ Debugger und kann die Umgebung analysieren.
 
 Das funktioniert derzeit für Pythonskripte und C/C++-Programme und ist auch
 gut als Hilfsmittel beim Debuggen selbst einzusetzen.
-

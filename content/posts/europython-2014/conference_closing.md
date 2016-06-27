@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i.ytimg.com/vi/ui3dfkiwyXY/hqdefault.jpg'
 Title: 'Conference Closing'
 date: '2014-07-25'
 ---
-

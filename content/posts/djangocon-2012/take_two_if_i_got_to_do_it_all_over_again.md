@@ -15,4 +15,3 @@ First, identifying the principles we're trying to adhere to, and the problems
 we're trying to solve by re-imagining every single API.
 
 Second, looking at specific changes to individual APIs.
-

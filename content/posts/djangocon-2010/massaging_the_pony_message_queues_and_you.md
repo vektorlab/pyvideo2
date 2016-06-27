@@ -46,4 +46,3 @@ common use cases that warrant a message queue solution. We will also discuss
 some of the design patterns that made it easy to switch to message queue based
 processing for discreet tasks, as well as some of the things we learned that
 have made the solution even easier to implement for new tasks.
-

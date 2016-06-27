@@ -56,4 +56,3 @@ This is what Python 103 is for… to fill in all the missing gaps, to answer all
 the questions (including those above) that do not seem to have easy-to-find
 answers on Google, but only if you have the desire to learn more about the
 interpreter to take your Python skills to the next level.
-

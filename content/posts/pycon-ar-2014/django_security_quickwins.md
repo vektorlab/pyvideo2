@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/nCjnAf4X-LM/hqdefault.jpg'
 Title: 'Django Security Quick-Wins'
 date: '2014-12-02'
 ---
-

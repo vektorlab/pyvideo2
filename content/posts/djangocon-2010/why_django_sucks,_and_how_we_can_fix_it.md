@@ -31,4 +31,3 @@ them suck less.
 
 The goal here is to start a discussion, to bring to light the problems that
 tend to be ignored, and to have a little fun in the process.
-

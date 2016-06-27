@@ -14,4 +14,3 @@ website to be accessible? In this talk we'll show some of the most common
 problems disabled users have and demonstrate how to fix them. I'll also
 introduce you to some tools that are written in Python to help you determine
 how accessible your site is.
-

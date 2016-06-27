@@ -38,4 +38,3 @@ Abgleich relativ einfach möglich ist.
 
 Das simple System hat viele Vorteile, die ich in dem Vortrag vorstellen
 möchte.
-

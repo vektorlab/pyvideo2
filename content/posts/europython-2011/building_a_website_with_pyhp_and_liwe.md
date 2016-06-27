@@ -14,4 +14,3 @@ website.
 
 Then, we'll show you how to create new custom modules for your website and
 we'll show up some great features of the LiWE ecosystem.
-

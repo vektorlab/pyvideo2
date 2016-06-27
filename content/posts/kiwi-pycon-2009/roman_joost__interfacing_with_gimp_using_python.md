@@ -28,4 +28,3 @@ The presentation will cover:
   * based on an example how to interface with GEGL, the next image manipulation core for GIMP 
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

@@ -34,4 +34,3 @@ Der Vortrag verdeutlicht wie das Modul itertools die verzögerte Auswertung
 unterstützt. Mit den Funktionen dieses Moduls lassen sich Algorithmen oft
 kurz, gut lesbar und effizient umsetzen. Auch hier ist eine Integration in
 sonst nicht-funktional geschriebene Programme einfach möglich.
-

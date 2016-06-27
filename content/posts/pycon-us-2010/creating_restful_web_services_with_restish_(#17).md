@@ -27,4 +27,3 @@ implemented in the restish framework. My examples will include CRUD
 operations, as well as transactions. I will also show how to consume this Web
 service using both httplib2 and curl. I would be remiss if I didn't describe
 ways to test the Web service with WebTest and twill.
-

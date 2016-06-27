@@ -23,4 +23,3 @@ con licenza Open Source bgeo.catasto, una parte della propria libreria di
 parser e traduttori dai formati dell’Agenzia del Territorio. bgeo.catasto al
 momento supporta la lettura e traduzione dei dati catastali in formato CXF e
 dei dati censuari nei formati TER e FAB.
-

@@ -24,4 +24,3 @@ lavoro fluido ed efficace.
 Presenterò le nostre modalità operative, dimostrando che lavorare con un team
 composto da persone contemporaneamente a Milano, Napoli, Torino e Ancona è
 possibile. Non solo: è il futuro!
-

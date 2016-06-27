@@ -50,4 +50,3 @@ We will also discuss various open source Django apps that have been extracted
 from the project and used on subsequent sites by us and others.
 
 [http://typewar.com/](http://typewar.com/)
-

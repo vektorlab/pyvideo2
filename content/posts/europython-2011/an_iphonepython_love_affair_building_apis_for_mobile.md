@@ -21,4 +21,3 @@ device. We’ll talk about why we chose Django and the TastyPie API package, and
 discuss other Python-based frameworks that could be used to build the API such
 as Pyramid, Flask and Bottle. We’ll also compare REST and custom APIs to
 understand best practices for building APIs designed for mobile devices.
-

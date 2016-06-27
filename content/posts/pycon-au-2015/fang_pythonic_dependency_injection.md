@@ -18,4 +18,3 @@ Despite this, there aren't many dependency-injection systems for Python. The few
 Fang is a library which adds dependency injection to Python in a way which provides real benefits for code clarity, ease of testing, and maintainability, while still fitting naturally into Python's idioms. Fang describes dependencies concisely but explicitly, and doesn't restrict the developer to a particular paradigm on how dependencies are validated or met.
 
 This talk will give a brief overview of how DI is used across a few languages (both traditional OO and dynamic languages) and highlight what elements of DI can be beneficial in Python. The talk will then demo how Fang can be used to add DI to Python code, and show some of the benefits to code clarity, unit testing and code analysis.
-

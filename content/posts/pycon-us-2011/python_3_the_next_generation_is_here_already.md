@@ -46,4 +46,3 @@ OUTLINE/TOPICS
   * Role of Remaining Python 2.x releases 
   * Transition & Migration Plans & Tools 
   * Futures 
-

@@ -353,4 +353,3 @@ From Django tutorial, at module scope:
   * View predicates
 
   * Transaction management
-

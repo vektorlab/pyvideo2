@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/build-the-ska/build-the-ska.thumbs/bu
 Title: 'Building the SKA'
 date: '2013-10-03'
 ---
-

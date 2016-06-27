@@ -14,4 +14,3 @@ and standardized way of exchanging, sharing and publishing statistical data.
 This talk explores two such mechanisms - SDMX , a standard for exchange of
 statistical data for national statistical organizations and Google's DSPL that
 allows data to be published to Google Public Data Explorer.
-

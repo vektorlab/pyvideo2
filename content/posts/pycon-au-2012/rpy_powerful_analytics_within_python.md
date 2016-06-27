@@ -21,4 +21,3 @@ This talk will be targeted at python programmers who wish to integrate
 statistical and data analysis into their work, providing options for real time
 data monitoring and analysis. This talk is accessible for anyone with a basic
 understanding of python.
-

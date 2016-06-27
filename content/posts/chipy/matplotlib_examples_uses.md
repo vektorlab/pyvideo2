@@ -11,4 +11,3 @@ date: '2012-09-13'
 ---
 Two examples of using matplotlib: first, in Greg's PhD research in marine
 microbiology; second, in plotting baseball PITCHf/x data.
-

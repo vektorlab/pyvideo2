@@ -46,4 +46,3 @@ is also recommended. Class Outline
   * Network programming 
   * The revised buffer API and direct I/O 
   * Porting from Python 2 to 3. 
-

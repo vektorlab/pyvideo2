@@ -27,4 +27,3 @@ similarities and differences with other frameworks. I will then show some of
 the software available in its repository and discuss the inclusive, loose
 connection approach that the BFG community prefers for creating a flexible web
 development platform.
-

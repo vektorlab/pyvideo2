@@ -13,4 +13,3 @@ Worried about the future of Python 3? Wondering when lambda will be fixed?
 Angry about the GIL? Eager to get your package into the standard library? In
 this keynote, Python’s BDFL will address these issues and many others from his
 unique, personal perspective. Learn how not to be a troll!
-

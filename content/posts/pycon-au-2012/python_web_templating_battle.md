@@ -14,4 +14,3 @@ compared and contrasted. Increasingly, frameworks allow many different choices
 in templating engines. In this talk I’ll discuss the different approaches,
 demo and pros and cons to help you decide if there is a better templating
 engine for you.
-

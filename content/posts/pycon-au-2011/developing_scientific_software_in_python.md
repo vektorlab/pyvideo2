@@ -15,4 +15,3 @@ In particular:
   * visualising output data to discover defects; and 
   * designing characterisation tests to test the actual system behaviour and to 
   * identify unintended system changes 
-

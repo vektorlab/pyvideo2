@@ -24,4 +24,3 @@ particular the egg-based distribution format.
 
   
 [VIDEO HAS ISSUES: Frezz frame in the start of the video]
-

@@ -15,4 +15,3 @@ Issac Kelly
 Tastypie is one of a couple of frameworks for building APIs with Django. Issac
 will go over some of the reasons you might pick Tastypie, and how to implement
 a Tastypie on top of an existing Django project.
-

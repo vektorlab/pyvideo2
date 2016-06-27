@@ -14,4 +14,3 @@ Django is obsolete (but so is everything else)
 Presented by Avi Bryant
 
 ** Keynote for DjangoCon 2009.**
-

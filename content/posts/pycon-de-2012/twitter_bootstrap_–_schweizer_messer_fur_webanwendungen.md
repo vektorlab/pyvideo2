@@ -32,4 +32,3 @@ sich also Twitter Boostrap als „Schweizer Messer“ der Webentwickler erweisen
 kann, und in welcher Weise Designer und Entwickler vom Einsatz derartiger
 Toolkits profitieren können, zeigt dieser Vortrag vor dem Hintergrund der
 persönlichen Erfahrungen der Referentin mit Diazo und Plone.
-

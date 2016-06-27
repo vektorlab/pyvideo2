@@ -11,4 +11,3 @@ date: '2015-04-12'
 ---
 Have you ever wanted to add a status bar to your command line program?
 Or maybe color the output a bit? Or do you want to write a fullscreen terminal application like ls, top, vim, or emacs? Then you need to speak a bit of terminal! This talk describes how to talk to your terminal from scratch and goes on to show why Python libraries Blessings and Urwid are so awesome.
-

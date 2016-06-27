@@ -34,4 +34,3 @@ Requirements
 Laptop with Python 2.5 or 2.6 installed. Database system of your choice
 (Postgres, Sqlite, MySQL) Python drivers for your desired database system
 installed. (psychopg2, pg8000, pysqlite, mysql-python)
-

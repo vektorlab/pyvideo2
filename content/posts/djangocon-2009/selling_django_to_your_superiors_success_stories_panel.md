@@ -10,4 +10,3 @@ Title: 'Selling Django to Your Superiors: Success Stories Panel'
 ---
   
 Video freezes from 3:30-4:30, audio is fine.
-

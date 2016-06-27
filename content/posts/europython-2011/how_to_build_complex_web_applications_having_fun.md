@@ -22,4 +22,3 @@ during integration process and how to make farsighted architectural decisions
 in a right moment.
 
 Prerequisites: be familiarized with common python web framework concepts.
-

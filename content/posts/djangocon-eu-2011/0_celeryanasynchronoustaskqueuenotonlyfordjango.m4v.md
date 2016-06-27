@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: '0_celery-an-asynchronous-task-queue-not-only-for-django.m4v'
 ---
-

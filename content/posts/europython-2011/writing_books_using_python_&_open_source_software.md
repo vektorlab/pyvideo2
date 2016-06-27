@@ -54,4 +54,3 @@ well as provide some insight into other projects created using similar tools.
 Open source software has radically affected how applications are built today,
 and this phenomenon has the ability to affect the book publishing world in the
 same way.
-

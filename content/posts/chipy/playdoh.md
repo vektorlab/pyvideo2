@@ -13,4 +13,3 @@ Playdoh is Mozilla's starter kit for new Django projects. It aims to be
 secure-by-default and set up all the same goodies we use to scale for high
 traffic, perform background tasks, localize our sites in many languages, and
 other cool things.
-

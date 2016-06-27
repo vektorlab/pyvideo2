@@ -15,4 +15,3 @@ Presented by Issac Kelly
 Inevitably you're going to run into somebody who wants to learn Django, or
 maybe both Python and Django. This talk will help you make it less painful for
 them.
-

@@ -28,4 +28,3 @@ Dieses erlaubt das nachträgliche instrumentieren von Klassen-Methoden, um eine
 selektive Ablaufverfolgung von Methodenaufrufen auf Objekten ermöglicht. Dies
 wird erreicht, ohne das diese Debug Aufrufe im normalen Quellcode erscheinen
 oder bei nicht Benutzung Performance Auswirkungen haben.
-

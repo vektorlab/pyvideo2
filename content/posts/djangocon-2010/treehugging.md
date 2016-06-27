@@ -25,4 +25,3 @@ best practices for querying and rendering trees in your Django apps.
 This talk is not geared for the smart kids; they already know this stuff. It
 is intended to help less experienced developers take advantage of patterns
 without needing to worry about the deeper concepts.
-

@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-scikit-image/pyconza2013-
 Title: 'A random walk in image processing with scikit-image'
 date: '2013-10-03'
 ---
-

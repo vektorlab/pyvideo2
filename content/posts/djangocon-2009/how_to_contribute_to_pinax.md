@@ -18,4 +18,3 @@ Talks about what Pinax is and how to contribute to the Pinax project.
 
   
 [Pinax project](http://pinaxproject.com/)
-

@@ -43,4 +43,3 @@ Puppet's traditional client-server mode.
 
 Dependency hell doesn't have to be your reality. Consistent, reliable
 environments can be had with Puppet.
-

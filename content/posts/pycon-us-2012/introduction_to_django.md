@@ -14,4 +14,3 @@ framework for designing and deploying web sites and services using Python. In
 this session, we'll cover the fundamentals of development with Django,
 generate a Django data model, and put together a simple web site using the
 framework.
-

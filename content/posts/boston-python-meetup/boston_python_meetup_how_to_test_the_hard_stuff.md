@@ -21,4 +21,3 @@ Bring your testing challenges and the impossible to automate projects that
 haunt you at night, we'll see what Stephan can do with them.
 
 Boston Python Meetup: May 2010
-

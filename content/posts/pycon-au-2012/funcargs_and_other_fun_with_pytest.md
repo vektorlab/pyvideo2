@@ -17,4 +17,3 @@ and tearDown methods?
 Pytest lives by "convention over configuration" - which is great once you know
 what the conventions are. This talk will look at real examples of pytest in
 use, emphasising the features that differentiate it from nose.
-

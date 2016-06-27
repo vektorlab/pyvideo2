@@ -16,4 +16,3 @@ Presented by Justin Lilly
 This will be an overview of the sorts of things that editors can offer to make
 your programming life easier. It will also include specifics of how to get
 these features working in a basic editor. (Vim or Emacs, yet undecided)
-

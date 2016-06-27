@@ -10,4 +10,3 @@ Title: 'Advanced Flask Pattern Q&A session'
 date: '2012-07-06'
 ---
 None
-

@@ -18,4 +18,3 @@ with some explanation and limitations of machine learning algorithms.
 Basic knowledge of Python is sufficient. However some experience with Django,
 meshups, machine learning or data hunger is encouraged. All talk material and
 django apps will be available after talk under MIT license.
-

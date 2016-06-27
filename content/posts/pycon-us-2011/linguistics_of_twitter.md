@@ -40,4 +40,3 @@ While limited to American English, any participant who is studying natural
 language processing of any language is welcome and sure to learn. The
 techniques could be applied to languages around the world for which the
 motivated programmer is knowledgeable about.
-

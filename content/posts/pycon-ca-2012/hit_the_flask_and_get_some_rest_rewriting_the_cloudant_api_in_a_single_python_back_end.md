@@ -13,4 +13,3 @@ date: '2012-11-10'
 Cloudant Engineer Joan Touzet will explain the design decisions that led the
 company to rewrite the supporting API layer to all its back-end systems in
 Python using the Flask microframework to create a unified, RESTful API.
-

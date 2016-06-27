@@ -14,4 +14,3 @@ build a complete ERP infrastructure. From CRM to e-commerce, from accounting
 to document management…we'll see how Python is mature and able to do great
 things where Java and .NET are still considered as the only option. Case
 studies to be presented.
-

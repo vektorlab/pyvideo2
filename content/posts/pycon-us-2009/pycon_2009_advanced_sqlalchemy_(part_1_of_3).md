@@ -17,4 +17,3 @@ TurboGears as well as many other web and non-web developers. This tutorial
 discusses current data mapping techniques, advanced Query techniques,
 Session/transaction usage, and maximizing schema usage with SQLAlchemy's event
 model.
-

@@ -20,4 +20,3 @@ testing has been used to speed up the product lifecycle, improve stability
 through automation, and the culture shift required to get there. Most
 importantly, it will cover the practices that have been put in place that have
 helped ease the burden of writing tests.
-

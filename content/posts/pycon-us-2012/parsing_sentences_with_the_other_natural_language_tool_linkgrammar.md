@@ -14,4 +14,3 @@ Toolkit for Python. You may not be familiar with Linkgrammar, which is a
 sentence parsing system created at Carnegie Melon university. Linkgrammar is
 quite robust and works "out of the box" in a way that NLTK does not for
 sentence parsing.
-

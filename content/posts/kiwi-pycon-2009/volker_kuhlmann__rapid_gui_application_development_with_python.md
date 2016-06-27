@@ -25,4 +25,3 @@ the tool chain (IDE, editor, debugger, programming aids) and characterise
 their ease of use and level of sophistication, and compare with commonly used
 equivalents, both open source and not open source. Demonstrate a sample
 program.
-

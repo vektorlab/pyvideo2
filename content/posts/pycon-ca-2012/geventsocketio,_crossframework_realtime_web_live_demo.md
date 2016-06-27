@@ -18,4 +18,3 @@ Google Analytics in 45 minutes, with some AngularJS on the front-end, and
 other cool integrations.
 
 Black chocolate will await you.
-

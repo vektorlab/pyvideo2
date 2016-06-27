@@ -18,4 +18,3 @@ lets you communicate directly from a browser to any network server, with any
 protocol you want. By tutorial's end, every attendee will have built their own
 real-time data monitoring application, or multiplayer game, from scratch using
 Orbited, Twisted, and js.io.
-

@@ -13,4 +13,3 @@ date: '2011-08-22'
   2. Capabilities of other 3rd party networking libraries - pycurl and httplib2. When to use them and why they exist. 
   3. Asychronous Network IO using Twisted Matrix Framework. 
   4. Tornado framework capablities - Generic overview. 
-

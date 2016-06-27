@@ -15,4 +15,3 @@ complexity bite us in practise? What tools exist to simplify and explain
 architecture? Is anybody doing this right? This talk will cover some tools
 that exist for visualising Python codebases, examining architectures and how
 to deal with things in practise.
-

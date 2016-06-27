@@ -9,5 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/HppU0x5V1Dg/hqdefault.jpg'
 Title: 'Lightning Talks (Mittwoch)'
 date: '2012-10-31'
 ---
-
-

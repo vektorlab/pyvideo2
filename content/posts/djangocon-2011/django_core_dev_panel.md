@@ -13,4 +13,3 @@ Django Core Dev Panel
 Some getting-to-know-you questions and answers for the Django core devs.
 Additionally, covers how decisions are made, Python3 status, infrastructure
 status, so and so forth.
-

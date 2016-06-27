@@ -27,4 +27,3 @@ understand that formal maths. Since complex network datasets are typically
 huge, some high-level optimization techniques are also discussed. Although
 formulas are kept at the minimum, some maths skills are required along with
 basic knowledge of the Python programming language.
-

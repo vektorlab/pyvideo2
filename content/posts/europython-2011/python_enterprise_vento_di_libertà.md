@@ -19,4 +19,3 @@ sostanziale aumento di produttività e ritengono che il linguaggio incoraggi
 allo sviluppo di codice di qualità e manutenibilità superiori. In questo talk
 parlerò quindi di produttività e qualità. Il talk è un chiaro mezzo per
 diffondere python.
-

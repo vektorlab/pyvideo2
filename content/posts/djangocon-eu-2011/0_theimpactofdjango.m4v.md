@@ -8,4 +8,3 @@ Tags: []
 ThumbnailUrl: ''
 Title: '0_the-impact-of-django.m4v'
 ---
-

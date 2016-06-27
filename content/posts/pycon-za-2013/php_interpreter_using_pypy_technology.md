@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://archive.org/download/pyconza2013-pypy-php/pyconza2013-pypy
 Title: 'PHP interpreter using PyPy technology'
 date: '2013-10-03'
 ---
-

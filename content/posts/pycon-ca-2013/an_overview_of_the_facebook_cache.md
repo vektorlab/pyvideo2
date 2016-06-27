@@ -10,4 +10,3 @@ Title: 'An Overview of the Facebook cache'
 date: '2013-08-11'
 ---
 Facebook leverages in-memory data stores extensively.  Even though caching is a conceptually simple service, several problems inherent to our scales make the deployment of our in-memory data store particularly interesting and challenging.
-

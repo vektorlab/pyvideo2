@@ -13,4 +13,3 @@ This talk covers scalability at YouTube. It's given by one of the original
 engineers at YouTube, Mike Solomon. It's a rare glimpse into the heart of
 YouTube which is one of the largest websites in the world, and one of the few
 extremely large websites to be written in Python.
-

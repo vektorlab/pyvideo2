@@ -28,4 +28,3 @@ Outline
   * Interfacing with the web - celery; 
 
 [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
-

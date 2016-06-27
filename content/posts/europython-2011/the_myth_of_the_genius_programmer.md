@@ -14,4 +14,3 @@ development: everyone secretly wants to be seen as a genius. I'll cover how to
 avoid this trap and gracefully exchange personal ego for personal growth and
 super-charged collaboration. I'll also examine how software tools affect
 social behaviors, and how to successfully manage the growth of new ideas.
-

@@ -15,4 +15,3 @@ Presented by Steve Holden
 
 Steven Holden summarizes the last year for the Python Software Foundation and
 talks about future directions.
-

@@ -27,4 +27,3 @@ quite a renovation.
 This talk will go through the major changes, like the new assert methods, test
 discovery and the load_tests protocol, and also explain how they can be used
 with earlier versions of Python.
-

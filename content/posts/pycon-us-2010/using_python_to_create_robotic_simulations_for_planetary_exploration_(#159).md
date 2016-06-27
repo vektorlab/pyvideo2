@@ -22,4 +22,3 @@ outline how we use Python to set up a runtime environment for our simulations
 and to tie together computationally intense C++ code modules at runtime. We
 will also discuss how we have been using Python to help prototype and design
 C++ code.
-

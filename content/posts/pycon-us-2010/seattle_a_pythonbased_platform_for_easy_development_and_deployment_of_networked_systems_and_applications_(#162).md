@@ -32,4 +32,3 @@ distributed programming and creates new possibilities for developers.
 
   
 [VIDEO HAS ISSUES: Beginning of talk missing, due to technical problems.]
-

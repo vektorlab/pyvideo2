@@ -27,4 +27,3 @@ Understanding of Enhanced Generators is a prerequisite.
 
 Experience has shown that the topic is subtle enough to require quite some
 time for full understanding, hence the suggestion for a 90 min slot.
-

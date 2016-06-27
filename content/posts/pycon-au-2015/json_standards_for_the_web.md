@@ -21,4 +21,3 @@ ago.
 
 The talk will provide an overview of current attempts at standardizing JSON
 exchanges such as jsonapi, jsonhome and jsonschema.
-

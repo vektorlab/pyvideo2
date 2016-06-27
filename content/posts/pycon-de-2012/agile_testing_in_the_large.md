@@ -24,4 +24,3 @@ so:
 
 Themen exploratory Testing und Performance Testing bleiben absichtlich
 unbehandelt.
-

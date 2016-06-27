@@ -13,4 +13,3 @@ The goal of this talk is to showcase how App Engine makes it exciting to
 prototype back-end services for larger projects. Creating such prototypes
 helps shape project requirements, develop datastores and improve testing
 coverage.
-

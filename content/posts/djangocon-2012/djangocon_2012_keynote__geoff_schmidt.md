@@ -10,4 +10,3 @@ Title: 'DjangoCon 2012 Keynote - Geoff Schmidt'
 date: '2012-10-06'
 ---
 DjangoCon 2012 - Keynote - Geoff Schmidt
-

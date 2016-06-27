@@ -22,4 +22,3 @@ After learning the basics of Geographic Information Systems, we will see:
 
 During this talk we will be building a simple GeoDjango application to
 illustrate the different concepts introduced.
-

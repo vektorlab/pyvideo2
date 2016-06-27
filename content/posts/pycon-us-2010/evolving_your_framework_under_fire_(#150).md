@@ -19,4 +19,3 @@ Writing frameworks is fun, which is why we have so many of them in the Python
 web development world. Making your shiny new framework stand up under the load
 of a demanding application can be painful, but can lead to substantial
 improvements.
-

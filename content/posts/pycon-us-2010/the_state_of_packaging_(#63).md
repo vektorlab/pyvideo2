@@ -34,4 +34,3 @@ existing OS-specific packaging systems.
 This talk will detail the biggest issues that need to be solved, and the work
 that is being done. It will end up with a presentation of the Distutils
 roadmap, and an overview of the Distribute project, the Setuptools replacer.
-

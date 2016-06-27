@@ -29,4 +29,3 @@ will include:
   * Caching -- when, how, and problems that caching introduces 
   * Setting up a webserver to avoid deadlocks 
   * Likely causes (and solutions) of database bottlenecks 
-

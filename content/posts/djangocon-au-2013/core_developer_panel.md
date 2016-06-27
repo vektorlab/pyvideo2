@@ -9,4 +9,3 @@ ThumbnailUrl: 'http://i1.ytimg.com/vi/tV0E9JAjmGA/hqdefault.jpg'
 Title: 'Core Developer Panel'
 date: '2013-07-05'
 ---
-

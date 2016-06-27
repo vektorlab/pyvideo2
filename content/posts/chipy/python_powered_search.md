@@ -11,4 +11,3 @@ date: '2012-06-14'
 ---
 Explore the indexing / stemming / scoring libraries used to built a highly
 concise search engine along with redis and tornado.
-

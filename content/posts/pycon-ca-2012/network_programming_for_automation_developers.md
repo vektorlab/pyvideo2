@@ -12,4 +12,3 @@ date: '2012-11-10'
 Advice on how to design and implement networking code for use in automation:
 learn how sockets work, plan for and handle errors, and design effective
 protocols.
-

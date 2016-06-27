@@ -18,4 +18,3 @@ implemented in form of aspects and applied to different dictionary
 implementations. The goal of the talk is to get an understanding of how aspect
 oriented programming can look and why dictionary trees in combination with
 aspects are a cool way of designing applications.
-

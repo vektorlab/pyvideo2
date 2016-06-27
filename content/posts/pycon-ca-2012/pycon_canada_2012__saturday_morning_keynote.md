@@ -15,4 +15,3 @@ engine; she wrote a chapter on Twisted for The Architecture of Open Source
 Applications Volume II and is working with O'Reilly on a new edition of
 Twisted Networking Essentials. Jessica is a Python Software Foundation board
 member and an organizer for the largest Python user group in the world.
-

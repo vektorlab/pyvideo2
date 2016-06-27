@@ -35,4 +35,3 @@ und Checks mit "Gedächtnis" an und zeigt typischen Fehlerquellen auf.
 
 Den Abschluss bildet ein kurzer Ausblick auf die weitere Entwicklung der
 _nagiosplugin_-Bibliothek.
-

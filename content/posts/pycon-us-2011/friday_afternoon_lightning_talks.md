@@ -20,4 +20,3 @@ Friday afternoon lightning talks
   * 27:30 Nathan Nichols - Lessons Learned Writing DSLs for Automated Content Generation 
   * 33:15 Giles Thomas - Why Resolver switched from IronPython to CPython 
 japan, qtile, pyparsing, logging.statistics, resolver, cpython, ironpython
-

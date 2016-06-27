@@ -18,4 +18,3 @@ and go faster.
 
 Topics include: python, users, forms, jquery, virtualenv, distribute,
 buildbot, etc. …
-

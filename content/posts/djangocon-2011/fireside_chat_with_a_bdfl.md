@@ -14,4 +14,3 @@ Jacob Kaplan-Moss
 
 Question and answer format covering the history of django, why it's popular,
 their inspirations, ...
-

@@ -39,4 +39,3 @@ Topics to be touched on would include:
   * Interactive process introspection tools.
   * Error reporting and logging services.
   * Performance monitoring services.
-

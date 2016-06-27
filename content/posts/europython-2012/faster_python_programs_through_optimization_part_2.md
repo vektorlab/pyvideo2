@@ -38,4 +38,3 @@ Using PyPy NumPy for numeric arrays Using multiple CPUs with multiprocessing
 Combination of optimization strategies Results of different example
 implementations I taught this tutorial multiple times and will update the
 content as I regularly do.
-

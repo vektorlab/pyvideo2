@@ -9,4 +9,3 @@ ThumbnailUrl: 'https://i.ytimg.com/vi/5EpWCfT7f-c/hqdefault.jpg'
 Title: Introducci\xF3n a Pilas\
 date: '2014-11-28'
 ---
-

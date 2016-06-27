@@ -16,4 +16,3 @@ Dependency management sucks. Pip provides some options for making it suck a
 bit less, but not all of them are immediately obvious. This talk will cover a
 number of strategies for making your deployments faster and more reliable, and
 demonstrate how to implement them in practice.
-
