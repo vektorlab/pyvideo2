@@ -1,0 +1,19 @@
+title = "import py.video"
+baseurl = "http://importpy.video"
+MetaDataFormat = "yaml"
+pluralizeListTitles = false
+theme = "command"
+paginate = 100
+
+[params]
+  Description = "Curated collection of Python talks and videos"
+  Keywords = "python,talks,foss,conferences,meetups,github,community"
+	Author = "Bradley Cicenas"
+  Email  = "bradley@vektor.nyc"
+  GitHub = "https://github.com/vektorlab/pyvideo2.git"
+
+[taxonomies]
+  category = "category"
+  language = "language"
+  speakers = "speakers"
+  tag = "tags"
