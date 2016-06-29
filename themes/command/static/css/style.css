@@ -1,0 +1,287 @@
+html,body {
+  height: 100%;
+  font-size: 20px; 
+  font-family: 'Source Sans Pro', serif;
+}
+
+.navbar .nav {
+float: right; }
+
+.push, .footer {
+  height: 4em;
+}
+
+.footer { 
+  bottom: 0;
+  line-height: normal;
+  font-size: 1em;
+  text-transform: uppercase;
+  text-align: center;
+  width: 100%;
+}
+
+.footer p {
+  margin: 0px;
+}
+
+.command {
+  color: #3F3F3F;
+  font-size: 3.0em;
+  line-height: 0.8em;
+  text-align: center; 
+  padding-bottom: 100px;
+}
+
+.posts h1,h2 {
+  color: #3F3F3F;
+  text-align: center; 
+  margin-bottom: 20px;
+}
+
+.posts h1 {
+  font-size: 1.8em;
+}
+
+.posts h2 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+
+.logo {
+  width: 25em;
+  padding: 5px 0 5px 0;
+  margin-left: 68px;
+  display: inline-block;
+}
+
+#navbar-inner {
+  display: block;
+  text-align: center;
+  min-height: 40px;
+  background-color: white;
+  margin: auto;
+  max-width: 1600px;
+  padding-top: 10px;
+  border-bottom: 1px solid #989898;
+}
+
+.navlink {
+  width: 34px;
+/*  padding-right: 8px; */
+  color: #3F3F3F;
+  float: right;
+}
+
+.navlink i {
+  font-size: 1.65em;
+}
+
+.navlink i:hover {
+  color: #366c9a;
+}
+
+.page {
+  margin: 0 auto -4em;
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+}
+
+.row-fluid .span12 ul .posts {
+  margin: 0 0 10px 0;
+}
+
+.posts {
+  margin: auto;
+  text-align: center;
+  padding-top: 150px;
+  max-width: 90%;
+}
+
+.posts li {  
+  line-height: 90%;
+  list-style: none;
+}
+.posts li p {
+  margin-bottom: 25px;
+}
+
+.posts span {
+  float: right;
+  text-transform: uppercase;
+  font-size: 0.70em;
+  color: #777777;
+}
+
+.post-box {
+  margin: auto;
+  /*	max-width: 400px;
+  overflow: hidden;
+  text-overflow: ellipsis; */
+  display: inline-block;
+  background: #fff;
+  border: 1px solid #d5d5d5;
+  margin: 5px;
+	min-width: 300px;
+}
+
+p {
+  line-height: normal;
+  margin: 0 0 20px;
+}
+
+.post {
+  margin: auto;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  font-size: 1.5em;
+}
+
+.post hr {
+  margin: auto;
+  max-width: 400px;
+}
+
+.post-header {
+  padding: 20px 40px 20px 40px;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.post-header a {
+  color: #707070;
+}
+
+.post-header a:hover {
+  text-decoration: none;
+  color: #fff;
+  background-color: #ff9494;
+  transition: 300ms background ease;
+  border-radius: 5px;
+}
+
+.post-after {
+  margin-bottom: 12px;
+}
+
+.tags a {
+  color: #505050;
+  font-size: 0.7em;
+  padding: 5px 8px 2px 8px;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  border-bottom: 3px solid #fff;
+  font-family: 'Source Sans Pro', serif;
+}
+
+.tags a:hover {
+  text-decoration: none;
+  border-bottom: 3px solid #ffc5c5;
+}
+
+#pagination {
+  margin-top: 3em;
+  text-align: center;
+}
+
+#pagination a {
+  margin-top: 20px;
+  padding: 7px 5px 3px 5px;
+  width: 115px;
+  color: #646464;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: 'Source Sans', Helvetica, sans-serif;
+}
+
+#pagination a:hover {
+  color: #fff;
+  background-color: #646464;
+  border-bottom: 4px solid #646464;
+  text-decoration: none;
+}
+
+.pagenumber {
+  font-size: 3em;
+  padding-left,padding-right: 10px;
+}
+
+form {
+  line-height: normal;
+  margin: auto;
+}
+
+input[type=text] {
+  height: 1.7em;
+  width:  100%;
+  max-width: 15em;
+	margin-bottom: .5em;
+	color: #B7B7B7;
+  font-size: 1.5em;
+  text-align: center;
+  border: 1px solid #797979;
+}
+
+textarea {
+  resize: none;
+  outline: none;
+  width: 20em;
+	padding: 15px;
+	color: #B7B7B7;
+  font-size: 1em;
+  text-align: center;
+  line-height: normal;
+	vertical-align: middle;
+  border: 1px solid #797979;
+}
+
+.desc-input {
+	height: 100%;
+}
+
+.input-fail {
+  border: 2px solid #A30000 !important;
+  background-color: #FFE6E6 !important;
+}
+
+.select-btn {
+  background-color: #eee;
+  border-radius: 5px;
+}
+
+.select-btn:hover {
+  cursor: pointer;
+}
+
+.select-btn-focused {
+  background-color: #ff9494;
+}
+
+#mode-btn {
+  display: inline-block;
+  padding: 10px;
+  font-size: 0.8em;
+}
+
+#tag-btn {
+  display: inline-block;
+  padding: 10px;
+  font-size: 0.6em;
+}
+
+.tag-select {
+  margin: auto;
+  max-width: 25em;
+}
+
+.submit-btn {
+  width: 5em;
+  margin: auto;
+  margin-top: 50px;
+  border: 1px solid #9B9B9B;
+  font-size: 1em;
+  font-weight: 500;
+}

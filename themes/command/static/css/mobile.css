@@ -1,0 +1,81 @@
+.footer { 
+  height: 2em;
+  font-size: 0.5em;
+  padding-top: 40px;
+}
+
+.command {
+  font-size: 1.5em;
+  padding-bottom: 50px;
+}
+
+.posts {
+  max-width: 90%;
+}
+
+.posts h1 {
+  font-size: 1.8em;
+  margin-bottom: 5px;
+}
+
+.posts h2 {
+  font-size: 1em;
+  margin-bottom: 5px;
+}
+
+.post-box {
+  display: block;
+}
+
+.logo {
+  width: 227px;
+  height: 61px;
+  background-size: 227px 61px;
+  margin: auto;
+  margin-left: 40px;
+}
+
+.fa {
+  font-size: 1.2em;
+}
+
+.navlink {
+  width: 20px;
+  padding-right: 5px;
+}
+
+.posts {
+  padding-top: 20%;
+}
+
+.post {
+  font-size: 1em;
+}
+
+.post-header {
+  padding: 5px 20px 5px 20px;
+}
+
+.tags a {
+  font-size: 0.8em;
+}
+
+input[type=text] {
+  max-width: 90%;
+}
+
+textarea {
+  max-width: 90%;
+}
+
+.select-btn {
+	margin: 2px;
+}
+
+.submit-btn {
+	margin: auto;
+}
+
+#mode-btn, #tag-btn {
+  display: block;
+}

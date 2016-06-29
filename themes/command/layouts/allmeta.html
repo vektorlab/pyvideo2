@@ -1,0 +1,30 @@
+{{ $baseurl := .Site.BaseURL }}
+
+{{ partial "header.html" . }}  
+<div class="posts">
+  <section>
+    <ul>
+      {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+      <li><a href="/{{ $taxonomyname | urlize }}">{{ $taxonomyname }}</a>
+        <ul>
+          {{ range $key, $value := $taxonomy }}
+          <li> {{ $key }} </li>
+          <ul>
+            {{ range $value.Pages }}
+            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+            {{ end }}
+          </ul>
+          {{ end }}
+        </ul>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+</div>
+{{ partial "pagination.html" . }}
+<div class="push"></div>
+</div>
+</div>
+{{ partial "footer.html" }}
+</div>
+</div>
