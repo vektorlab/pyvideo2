@@ -1,5 +1,5 @@
 title = "import py.video"
-baseurl = "http://importpy.video"
+baseurl = "http://importpython.video"
 MetaDataFormat = "yaml"
 pluralizeListTitles = false
 theme = "command"

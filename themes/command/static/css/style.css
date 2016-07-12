@@ -24,12 +24,12 @@ float: right; }
   margin: 0px;
 }
 
-.command {
+.page-title {
   color: #3F3F3F;
-  font-size: 3.0em;
+  font-size: 1.5em;
   line-height: 0.8em;
   text-align: center; 
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 .posts h1,h2 {
@@ -94,7 +94,7 @@ float: right; }
 .posts {
   margin: auto;
   text-align: center;
-  padding-top: 150px;
+  padding-top: 90px;
   max-width: 90%;
 }
 
@@ -135,7 +135,7 @@ p {
   text-align: center;
   margin-top: 1em;
   margin-bottom: 2em;
-  font-size: 1.5em;
+  max-width: 80%;
 }
 
 .post hr {

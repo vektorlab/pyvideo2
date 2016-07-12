@@ -4,15 +4,24 @@
     <div class="posts">
       <!-- CONTENT -->
       <div class="post">
-        <div class="command">|</div>
+        <div class="page-title">{{ .Title }}</div>
+        {{ if in .Params.sourceurl "youtube.com" }}
+        {{ $urlParts := split .Params.sourceurl "=" }}
+        {{ $videoID := index $urlParts 1 }}
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" allowfullscreen></iframe>
+        {{ end }}
         <div class="post-after">
           <div class="tags">
             {{ range .Params.tags }}
-            <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a>
+            <a href="{{ $baseurl }}tags/{{ . | urlize }}">{{ . }}</a>
             {{ end }}
             <br>
-            {{ with .Params.mode }}
-            <a href="{{ $baseurl }}/mode/{{ . | urlize }}">{{ . }} mode</a>
+            {{ range .Params.speakers }}
+            <a href="{{ $baseurl }}speakers/{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+            <br>
+            {{ with .Params.category}}
+            <a href="{{ $baseurl }}category/{{ . | urlize }}">{{ . }}</a>
             {{ end }}
           </div>
         </div>
@@ -26,12 +35,6 @@
           {{if .Next}}<a class="next" href="{{.Next.Permalink}}">Next</a>{{end}}
         </nav>
       </div>
-      <script>
-        $(function () {
-          var data = "{{ .Title }}"
-         typeIt('.command', data, 60, 1)
-        });
-      </script>
     </div>
   <div class="push"></div>
 </div>

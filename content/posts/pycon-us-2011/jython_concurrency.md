@@ -11,8 +11,6 @@ date: '2011-03-11'
 ---
 Jython Concurrency
 
-Presented by Jim Baker
-
 Jython is arguably the best Python implementation to target concurrent code.
 Jython has no GIL, it leverages the Java platform to provide robust support
 for concurrency in its runtime, and it enables access to a set of high-level
