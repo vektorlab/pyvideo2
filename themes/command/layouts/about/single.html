@@ -4,7 +4,7 @@
     <div class="posts">
       <!-- CONTENT -->
       <div class="post">
-        <div class="command">|</div>
+        <div class="page-title">{{ .Title }}</div>
         <div class="post-after">
           <div class="tags">
             {{ range .Params.tags }}
@@ -18,12 +18,6 @@
         </div>
         <!-- END CONTENT -->
       </div>
-      <script>
-        $(function () {
-          var data = "{{ .Title }}"
-         typeIt('.command', data, 60, 1)
-        });
-      </script>
     </div>
   <div class="push"></div>
 </div>
