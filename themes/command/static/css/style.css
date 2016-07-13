@@ -20,6 +20,10 @@ float: right; }
   text-transform: uppercase;
 }
 
+.footer i {
+  color: #D5D5D5;
+}
+
 .footer p {
   margin: 0px;
   display: inline-block;
@@ -69,7 +73,7 @@ float: right; }
 .navlink {
   width: 34px;
 /*  padding-right: 8px; */
-  color: #3F3F3F;
+  color: #707070;
   float: right;
 }
 
@@ -78,7 +82,7 @@ float: right; }
 }
 
 .navlink i:hover {
-  color: #366c9a;
+  color: #6F98BA;
 }
 
 .page {
@@ -145,18 +149,19 @@ p {
 }
 
 .post-header {
-  padding: 10px 20px 10px 20px;
+  padding: 5px 10px 5px 10px;
   text-align: center;
 }
 
 .post-header a {
   color: #707070;
+  padding: 10px;
 }
 
 .post-header a:hover {
   text-decoration: none;
   color: #fff;
-  background-color: #ff9494;
+  background-color: #6F98BA;
   transition: 300ms background ease;
   border-radius: 5px;
 }
