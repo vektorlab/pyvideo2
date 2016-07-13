@@ -15,6 +15,9 @@
         {{ range .Params.tags }}
         <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a>
         {{ end }}
+        {{ with .Params.category}}
+        <a href="{{ $baseurl }}category/{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
       </div>
     </div>
   </article>

@@ -4,8 +4,7 @@ Copyright: 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0'
 Language: 'English'
 SourceUrl: http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/360_friday-afternoon-lightning-talks.mp4
 Speakers: []
-Tags: [cpython, ironpython, japan, logging.statistics, pycon, pycon2011, pyparsing,
-  qtile]
+Tags: [cpython, ironpython, japan, logging.statistics, pycon, pycon2011, pyparsing, qtile]
 ThumbnailUrl: 'http://a.images.blip.tv/Pycon-PyCon2011FridayAfternoonLightningTalks981.png'
 Title: 'Friday Afternoon Lightning Talks'
 date: '2011-03-11'

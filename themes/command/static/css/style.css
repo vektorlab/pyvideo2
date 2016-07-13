@@ -8,20 +8,21 @@ html,body {
 float: right; }
 
 .push, .footer {
-  height: 4em;
+  height: 2em;
 }
 
 .footer { 
-  bottom: 0;
-  line-height: normal;
-  font-size: 1em;
-  text-transform: uppercase;
-  text-align: center;
   width: 100%;
+  bottom: 0;
+  font-size: .8em;
+  line-height: normal;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 .footer p {
   margin: 0px;
+  display: inline-block;
 }
 
 .page-title {
@@ -39,7 +40,7 @@ float: right; }
 }
 
 .posts h1 {
-  font-size: 1.8em;
+  font-size: 1.5em;
 }
 
 .posts h2 {
@@ -81,7 +82,7 @@ float: right; }
 }
 
 .page {
-  margin: 0 auto -4em;
+  margin: 0 auto -1.5em;
   min-height: 100%;
   height: auto !important;
   height: 100%;
@@ -144,9 +145,8 @@ p {
 }
 
 .post-header {
-  padding: 20px 40px 20px 40px;
+  padding: 10px 20px 10px 20px;
   text-align: center;
-  margin-top: 8px;
 }
 
 .post-header a {
@@ -162,7 +162,7 @@ p {
 }
 
 .post-after {
-  margin-bottom: 12px;
+  margin-bottom: 5px;
 }
 
 .tags a {
