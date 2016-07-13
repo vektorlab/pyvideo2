@@ -17,6 +17,14 @@
           <iframe src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" allowfullscreen></iframe>
           {{ end }}
         </div>
+        <div class="v-controls dim-proof">
+          <a href="javascript:toggleDim()">
+          <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
+          </a>
+          <a href="#">
+          <i class="fa fa-share-alt" aria-hidden="true"></i>
+          </a>
+        </div>
         <div class="post-after">
           <div class="tags">
             {{ range .Params.tags }}
@@ -49,3 +57,17 @@
 {{ partial "footer.html" }}
 </div>
 </div>
+<script>
+var isDim = false;
+function toggleDim(){
+    $('.navbar').toggleClass('navbar-background');
+    if(isDim){
+      $('.dim-proof').undim();
+    }else{
+      $('.dim-proof').dimBackground({
+        darkness: 0.8
+      });
+    }
+    isDim = !isDim;
+}
+</script>
