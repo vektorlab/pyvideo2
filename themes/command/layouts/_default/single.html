@@ -5,11 +5,18 @@
       <!-- CONTENT -->
       <div class="post">
         <div class="page-title">{{ .Title }}</div>
-        {{ if in .Params.sourceurl "youtube.com" }}
-        {{ $urlParts := split .Params.sourceurl "=" }}
-        {{ $videoID := index $urlParts 1 }}
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" allowfullscreen></iframe>
-        {{ end }}
+        <div id="embed-video" class="embed-container dim-proof">
+          {{ if in .Params.sourceurl "youtube.com" }}
+          {{ $urlParts := split .Params.sourceurl "=" }}
+          {{ $videoID := index $urlParts 1 }}
+          <iframe src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" allowfullscreen></iframe>
+          {{ end }}
+          {{ if in .Params.sourceurl "youtu.be" }}
+          {{ $urlParts := split .Params.sourceurl "/" }}
+          {{ $videoID := index $urlParts 3 }}
+          <iframe src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" allowfullscreen></iframe>
+          {{ end }}
+        </div>
         <div class="post-after">
           <div class="tags">
             {{ range .Params.tags }}

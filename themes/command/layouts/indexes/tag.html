@@ -2,7 +2,7 @@
 
 {{ partial "header.html" . }}
 <div class="posts">
-  <h2>{{ .Title }}</h2>
+  <h2>Tag: {{ .Title }}</h2>
   {{ range .Paginator.Pages.ByPublishDate }}
   <article class="post-box">
 
