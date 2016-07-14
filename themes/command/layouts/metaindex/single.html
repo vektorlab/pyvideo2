@@ -1,0 +1,26 @@
+{{ $baseurl := .Site.BaseURL }}
+
+{{ partial "header.html" . }}  
+<div class="posts">
+  <div class="post">
+    <div class="page-title">{{ .Title }}</div>
+    <hr>
+    <div class="big-tags tags">
+    {{ $taxname := .Params.taxname }}
+    {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+    {{ if eq $taxname $taxonomyname }}
+      {{ range $key, $value := $taxonomy }}
+      <a href="{{ $baseurl }}/{{ $taxname }}/{{ $key }}">{{ $key }}</a>
+      {{ end }}
+    {{ end }}
+    {{ end }}
+    </div>
+  </div>
+</div>
+{{ partial "pagination.html" . }}
+<div class="push"></div>
+</div>
+</div>
+{{ partial "footer.html" }}
+</div>
+</div>

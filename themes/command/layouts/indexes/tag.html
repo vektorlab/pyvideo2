@@ -5,15 +5,16 @@
   <h2>Tag: {{ .Title }}</h2>
   {{ range .Paginator.Pages.ByPublishDate }}
   <article class="post-box">
-
-    <header class="post-header">
-      <h1><a href="{{.RelPermalink }}">{{ .Title }}</a></h1>
-    </header>
-
+    <div class="post-header">
+      <a href="{{.RelPermalink }}">{{ .Title }}</a>
+    </div>
     <div class="post-after">
       <div class="tags">
         {{ range .Params.tags }}
         <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+        {{ with .Params.category}}
+        <a href="{{ $baseurl }}category/{{ . | urlize }}">{{ . }}</a>
         {{ end }}
       </div>
     </div>

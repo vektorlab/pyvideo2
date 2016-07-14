@@ -168,6 +168,7 @@ p {
 .post-header a {
   color: #707070;
   text-decoration: none;
+  transition: 300ms background ease;
 }
 
 .post-header a:hover {
@@ -175,7 +176,6 @@ p {
   outline: none;
   border-radius: 5px;
   background-color: #6F98BA;
-  transition: 300ms background ease;
 }
 
 .post-after {
@@ -189,13 +189,20 @@ p {
   text-decoration: none;
   text-transform: uppercase;
   display: inline-block;
-  border-bottom: 3px solid #fff;
   font-family: 'Source Sans Pro', serif;
+  border-bottom: 3px solid #fff;
+  transition: 300ms border ease;
 }
 
 .tags a:hover {
   text-decoration: none;
-  border-bottom: 3px solid #ffc5c5;
+  border-bottom: 3px solid #6F98BA;
+}
+
+.big-tags a {
+  font-size: 1.5em;
+  padding: 10px;
+  margin-top: 20px;
 }
 
 #pagination {
