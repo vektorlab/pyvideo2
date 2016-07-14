@@ -325,9 +325,12 @@ textarea {
 .v-controls {
   color: #707070;
   padding: 5px;
-  border-radius: 10px;
   display: inline-block;
-  border: 1px solid;
+  border-left: 1px solid;
+  border-bottom: 1px solid;
+  border-right: 1px solid;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
   background-color: rgba(58, 58, 58, 0.05);
 }
 
