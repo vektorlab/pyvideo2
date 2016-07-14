@@ -9,12 +9,12 @@
           {{ if in .Params.sourceurl "youtube.com" }}
           {{ $urlParts := split .Params.sourceurl "=" }}
           {{ $videoID := index $urlParts 1 }}
-          <iframe src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           {{ end }}
           {{ if in .Params.sourceurl "youtu.be" }}
           {{ $urlParts := split .Params.sourceurl "/" }}
           {{ $videoID := index $urlParts 3 }}
-          <iframe src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           {{ end }}
           {{ if in .Params.sourceurl "vimeo.com" }}
           {{ $urlParts := split .Params.sourceurl "/" }}
