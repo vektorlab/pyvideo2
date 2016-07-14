@@ -132,7 +132,6 @@ html,body {
   overflow: hidden;
   text-overflow: ellipsis; */
   display: inline-block;
-  background: #fff;
   border: 1px solid #d5d5d5;
   margin: 5px;
 	min-width: 300px;
@@ -159,23 +158,24 @@ p {
 .post-header {
   overflow: hidden;
   text-align: center;
+  font-size: 1.8em;
+  margin-bottom: 5px;
+  line-height: 40px;
+  font-weight: 100;
   padding: 5px 10px 5px 10px;
 }
 
 .post-header a {
   color: #707070;
-  padding: 10px;
+  text-decoration: none;
 }
 
 .post-header a:hover {
   color: #fff;
-  text-decoration: none;
-}
-
-.post-header h1:hover {
+  outline: none;
+  border-radius: 5px;
   background-color: #6F98BA;
   transition: 300ms background ease;
-  border-radius: 5px;
 }
 
 .post-after {
@@ -313,6 +313,7 @@ textarea {
 
 .embed-container iframe,
 .embed-container object,
+.embed-container video,
 .embed-container embed {
   position: absolute;
   top: 0;

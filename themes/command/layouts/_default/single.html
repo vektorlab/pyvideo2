@@ -16,6 +16,16 @@
           {{ $videoID := index $urlParts 3 }}
           <iframe src="https://www.youtube.com/embed/{{ $videoID }}" frameborder="0" allowfullscreen></iframe>
           {{ end }}
+          {{ if in .Params.sourceurl "vimeo.com" }}
+          {{ $urlParts := split .Params.sourceurl "/" }}
+          {{ $videoID := index $urlParts 3 }}
+          <iframe src="https://player.vimeo.com/video/{{ $videoID }}?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          {{ end }}
+          {{ if in .Params.sourceurl ".mp4" }}
+          <video autoplay="true" loop="" poster="" id="stream-video" controls="controls">
+            <source src="{{ .Params.sourceurl }}" type="video/mp4">
+          </video>
+          {{ end }}
         </div>
         <div class="v-controls dim-proof">
           <a href="javascript:toggleDim()">
