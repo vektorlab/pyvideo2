@@ -1,9 +1,10 @@
 title = "import py.video"
 baseurl = "http://importpython.video"
+languageCode = "en-us"
 MetaDataFormat = "yaml"
 pluralizeListTitles = false
 theme = "command"
-paginate = 100
+paginate = 50
 
 [params]
   Description = "Curated collection of Python talks and videos"
