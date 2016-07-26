@@ -62,19 +62,58 @@ html,body {
 
 .logo {
   width: 25em;
-  padding: 5px 0 5px 0;
+  padding: 15px 0 5px 0;
+  padding-top: 10px;
   margin-left: 68px;
   display: inline-block;
 }
 
+#menu {
+  float: right;
+  list-style: none;
+  display: inline-block;
+}
+
+#menu li {
+  display: inline-block;
+}
+
+
+.slicknav_menu {
+  top: 0;
+  right: 0;
+  display: none;
+  position: absolute;
+  background-color: #fff;
+}
+
+.menu-button {
+  display: inline-block;
+}
+.slicknav_nav li, .slicknav_nav ul {
+
+}
+
+.slicknav_btn {
+  margin: 0;
+  text-decoration: none;
+  text-shadow: 0 1px 1px rgba(255,255,255,.75);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background: none;
+}
+
+.slicknav_menu .slicknav_icon-bar {
+  background-color: #707070;
+}
+
 #navbar-inner {
-  display: block;
   text-align: center;
   min-height: 40px;
   background-color: white;
   margin: auto;
   max-width: 1600px;
-  padding-top: 10px;
   border-bottom: 1px solid #989898;
 }
 

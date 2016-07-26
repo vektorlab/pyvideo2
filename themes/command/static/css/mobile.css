@@ -31,7 +31,14 @@
   width: 227px;
   background-size: 227px 61px;
   margin: auto;
-  margin-left: 40px;
+}
+
+#menu {
+  display: none;
+}
+
+.slicknav_menu {
+  display: inline-block;
 }
 
 .navlink {
