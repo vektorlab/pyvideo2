@@ -1,0 +1,19 @@
+{{ $baseurl := .Site.BaseURL }}
+
+{{ partial "header.html" . }}  
+<div class="posts">
+  <div class="page-title">{{ .Title }}</div>
+	{{ range $name, $taxonomy := .Site.Taxonomies.category }}
+	<article class="post-box">
+		<h1 class="post-header"><a href="{{ $baseurl }}/category/{{ $name | urlize }}">{{ $name }}</a></h1>
+	</article>
+
+	{{ end }}
+</div>
+{{ partial "pagination.html" . }}
+<div class="push"></div>
+</div>
+</div>
+{{ partial "footer.html" }}
+</div>
+</div>
